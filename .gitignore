@@ -1,0 +1,16 @@
+# Local-only material - do NOT push to GitHub
+# (copyrighted ICAEW / ICAB source PDFs, text extracted from them, and PDFs that contain their pages)
+sources/
+extracted/
+output/*FULL*
+output/*full*
+output/*private*
+build/ocr_tmp/
+build/ocr.log
+build/ocr_progress.json
+build/.venv-pdf/
+build/.venv-ocr/
+build/work/
+__pycache__/
+# reviewer notes quote the source books; keep them local
+build/verify/

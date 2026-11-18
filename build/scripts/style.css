@@ -1,0 +1,98 @@
+/* Print stylesheet for the Accounting Question Bank (WeasyPrint). A4, reserved top/bottom bands for the page stamps. */
+@page {
+  size: A4;
+  margin: 25mm 18mm 23mm 18mm;
+}
+@page cover { margin: 0; }
+
+:root {
+  --ink: #1c2530;
+  --muted: #5b6673;
+  --accent: #0f5f6b;
+  --accent-soft: #e6f1f3;
+  --line: #cfd6dd;
+}
+
+html { font-family: "Inter", "DejaVu Sans", sans-serif; font-size: 9.6pt; line-height: 1.5; color: var(--ink); }
+body { margin: 0; }
+
+h1, h2, h3, h4 { font-weight: 650; line-height: 1.25; break-after: avoid; color: var(--ink); }
+h1 { font-size: 22pt; margin: 0 0 6mm; padding-bottom: 3mm; border-bottom: 2.5pt solid var(--accent); color: var(--accent); }
+h2 { font-size: 14pt; margin: 8mm 0 3mm; color: var(--accent); }
+h3 { font-size: 11.2pt; margin: 6mm 0 2mm; }
+h4 { font-size: 10pt; margin: 4mm 0 1.5mm; }
+h2.new-page { break-before: page; margin-top: 0; }
+h2:first-child { margin-top: 0; }
+
+p { margin: 0 0 2.6mm; orphans: 3; widows: 3; }
+h2 + p, h3 + p, p.cap { break-after: avoid; }
+ul, ol { margin: 0 0 3mm; padding-left: 6mm; }
+li { margin-bottom: 1.2mm; orphans: 2; widows: 2; }
+strong { font-weight: 650; }
+em { font-style: italic; }
+hr { border: 0; border-top: 0.6pt solid var(--line); margin: 5mm 0; }
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 0.92em; background: #f1f3f5; padding: 0 1mm; border-radius: 1mm; }
+
+/* Tables (statements, T-accounts, answers) */
+table { border-collapse: collapse; width: 100%; margin: 2mm 0 4mm; font-size: 9pt; break-inside: avoid; }
+thead { display: table-header-group; }
+th { background: #e9eef2; text-align: left; font-weight: 650; border-bottom: 1pt solid #8b97a3; }
+th, td { padding: 1.4mm 2.2mm; border-bottom: 0.4pt solid var(--line); vertical-align: top; }
+tr { break-inside: avoid; }
+table.long { break-inside: auto; }
+
+/* Callout boxes: built from "> **LABEL** text" blockquotes */
+.callout { margin: 3mm 0 4mm; padding: 2.4mm 3.4mm; border-left: 3pt solid var(--accent); background: var(--accent-soft); break-inside: avoid; border-radius: 0 1.5mm 1.5mm 0; }
+.callout p { margin: 0 0 1.5mm; }
+.callout p:last-child { margin-bottom: 0; }
+.callout-label { display: inline-block; font-size: 7.4pt; letter-spacing: 0.06em; font-weight: 700; padding: 0.3mm 1.8mm; margin-right: 2mm; border-radius: 1mm; color: #fff; background: var(--accent); vertical-align: 0.5pt; }
+.callout.formula { background: #eaf1fb; border-color: #2f6fdb; }
+.callout.formula .callout-label { background: #2f6fdb; }
+.callout.formula { font-size: 10pt; }
+.callout.keyfact { background: #eaf6ec; border-color: #2e7d32; }
+.callout.keyfact .callout-label { background: #2e7d32; }
+.callout.remember { background: #fff6dd; border-color: #c98a00; }
+.callout.remember .callout-label { background: #c98a00; }
+.callout.trap { background: #fdeceb; border-color: #c0392b; }
+.callout.trap .callout-label { background: #c0392b; }
+.callout.example { background: #f1eefb; border-color: #6a4bb5; }
+.callout.example .callout-label { background: #6a4bb5; }
+
+/* Questions */
+.mcq { break-inside: avoid; margin-bottom: 3mm; }
+.mcq p { margin-bottom: 1.2mm; }
+ul.options { list-style: none; padding-left: 5mm; margin: 0 0 2mm; }
+ul.options li { margin-bottom: 0.8mm; }
+.tf { display: inline-block; white-space: nowrap; }
+.tf span { display: inline-block; border: 0.7pt solid #6b7785; border-radius: 3mm; padding: 0 3mm; margin-left: 1.5mm; font-size: 8.4pt; font-style: normal; }
+.answer-space {
+  border: 0.8pt solid #9aa6b2; border-radius: 1.5mm; margin: 3mm 0 5mm;
+  background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 7.2mm, #d3d9df 7.2mm, #d3d9df 7.45mm);
+}
+
+/* Cover */
+.cover { page: cover; height: 297mm; position: relative; background: #fff; }
+.cover .band { background: var(--accent); color: #fff; padding: 34mm 22mm 20mm; }
+.cover .band .kicker { font-size: 10pt; letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.85; margin-bottom: 7mm; }
+.cover .band h1 { color: #fff; border: 0; font-size: 38pt; line-height: 1.08; margin: 0 0 6mm; padding: 0; }
+.cover .band .sub { font-size: 13pt; opacity: 0.95; max-width: 150mm; }
+.cover .facts { padding: 14mm 22mm 0; }
+.cover .facts table { font-size: 10.5pt; }
+.cover .facts td { border-bottom: 0.4pt solid var(--line); padding: 2.4mm 0; }
+.cover .facts td:first-child { color: var(--muted); width: 48mm; }
+.cover .note { position: absolute; left: 22mm; right: 22mm; bottom: 16mm; font-size: 8.2pt; color: var(--muted); line-height: 1.45; }
+
+/* Contents page */
+.toc h1 { margin-bottom: 4mm; }
+.toc table { border-collapse: collapse; width: 100%; margin: 0; font-size: 9.2pt; break-inside: auto; }
+.toc td { border: 0; border-bottom: 0.5pt dotted #aab4be; padding: 0.7mm 0; vertical-align: baseline; }
+.toc td.p { text-align: right; width: 14mm; font-variant-numeric: tabular-nums; }
+.toc tr.group td { font-weight: 700; padding-top: 4mm; color: var(--ink); border-bottom-style: solid; }
+.toc tr.ch td { font-weight: 650; padding-top: 2.4mm; color: var(--accent); }
+.toc tr.sub td { font-size: 8.6pt; color: var(--muted); }
+.toc tr.sub td.t { padding-left: 6mm; }
+
+/* Formula sheet */
+.fsheet h3 { margin: 4mm 0 1.5mm; color: var(--accent); font-size: 10.2pt; }
+.fsheet ul { margin: 0 0 2mm; padding-left: 4.5mm; font-size: 9pt; }
+.fsheet li { margin-bottom: 1mm; }
