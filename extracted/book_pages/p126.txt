@@ -1,0 +1,31 @@
+34.1   Double entrywhen cash ispaidbycreditcustomersortocreditsuppliers
+What happens when a credit transaction is eventually settled in cash? Suppose that, in the
+example above, the business paid Cu100 to Baltimore Ltd one monthafter the goods were
+acquited.Thetwo sides of this new transaction are:
+cash is paid (creditentry in the cash atbank account)
+the amountowingtotradepayables is reduced (debit entry inthetradepayables account)
+CASHATBANKACCOUNT
+Tradepayablesalc   100
+TRADEPAYABLES
+Cashatbank a/c   100
+Ifwenowbringtogetherthetwopartsofthisexample,theoriginal purchase ofgoods on
+credit andtheeventual settlement in cash,wefindthat the accounts appearas follows:
+CASHATBANKACCOUNT
+Tradepayablesalc   100
+PURCHASESACCOUNT
+Trade payables   100
+TRADEPAYABLES
+CU   CU
+Cashatbanka/c   100   Purchasesalc   100
+Thetwoentries intradepayablescanceleachotherout,indicatingthatnomoney is owingto
+Baltimore Ltd.Acash account credit entryof CU1o0 and a purchases accountdebit entryof
+CU100 remain.These are the sameas the entries used to recorda cash purchase of CUi00.
+This is whatwewouldexpect:afterthebusiness haspaidoff itstradepayables,itis inexactly
+the same position as if it had made a cash purchase,and the accounting records reflect this.
+Similarreasoningapplies whena customersettlesadebtIntheexampleabove,when
+AlabamaLtdpaysitsdebtofC2000anditisrecorded inthecashatbankaccount,thetwo
+sidesofthetransactionare:
+(a)cash isreceived (debit entry inthe cashatbank account)
+(b)the amountowed bycredit customers isreduced (creditentry in the tradereceivables
+account)
+Accounting   ICAB2026

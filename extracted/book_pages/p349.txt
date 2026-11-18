@@ -1,0 +1,42 @@
+Interactive question 6:Non-current asset ledger accounts
+Abusiness purchased two machines-machineone andmachine two,on 1January20x5ata
+costofCU15,000 each.Eachhadan estimated lifeoffive years and a nil residual value.The
+straight line method ofdepreciation is used.
+Owingtoan unforeseen slump inmarketdemand for its end product thebusiness decidedto
+reduceitsoutput,and switchtomakingotherproducts instead.On31March20x7,machine
+onewassold (on credit)toabuyerforCU8,000.
+Laterinthereportingperiod,however,it wasdecidedtoabandonproductionaltogether,and
+machinetwowassoldon1December20X7forCU2,500cash.
+Requirement
+Preparethemachineryaccount,accumulateddepreciation ofmachineryaccountanddisposal
+account forthe12-monthreportingperiodto31December20x7todeterminetheprofitor
+loss on disposal ofeach machine.
+See Answeratthe end of this chapter.
+OHAPTER
+6.4   The initial trial balanceand non-currentassets
+Earlierwe sawhowthe initialtrialbalance is adjusted totakeaccountof depreciation.Wewill
+nowlook ata comprehensiveexampleofadjusting the initialtrial balancetotake accountof
+non-current assettransactions.
+Worked example:Non-currentassets and theinitialtrial balance   10
+Rodrigo's initialtrialbalanceasat31Decamber20x0isasfollows:
+Ledgerbalance   Initialtrialbalance
+Debit   Credit
+CU   CU
+Currentassets   87,420
+Capitalat1.1.X0   100.000
+Freehold land and buildings-costat1.1X0   100,000
+Freeholdlandandbuildings-accumulateddepreciationat1.1X0   15,000
+Plantandequipment-costat1.1.X0   45.000
+Plantand equipment-accumulateddepreciation at/1.1.X0   18.750
+Motorvehicles-costat1.1.X0   25,000
+Motor.vehicles-accumulateddepreciation at1.1.X0   14,650
+Currentliabilities   15.420
+Ledgerbalance   Initial trialbalance
+Debit   Credit
+Expenses   5,830
+Purchases   58.740
+Sales   205,640
+Drawings   47,670
+Suspense   200
+369,660   369.660
+ICAB2026   Non-currentassets,depreciationand impairment   339

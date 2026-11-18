@@ -1,0 +1,28 @@
+PURCHASES
+Trade   475
+TRADEPAYABLES
+CU   CU
+Purchase   475
+As Rabia doesnotpaywithintherequired 10days,theymustpaythefull amountoftheinvoice
+af CU500astheywillnotbe eligibleforthepromptpaymentdiscounitRabia mustmakean
+adjustmenttopurchasesofCU25whenthepaymentismade.
+PURCHASES
+Tradepayables   475
+Cashatbank   25
+TRADEPAYABLES
+CU   CU
+Cashatbankaccount   475   Purchases   475
+CASHATBANKACCOUNT
+CU
+Tradepayables   475
+Purchases   25
+623   Summaryofaccountingtreatmentforearlysettlementdiscounts
+Discountsofferedto customers   Discountsrecelvedfromsuppllers
+Earlysettlement   Deduct the amount ofthe   Deducttheamountofthediscount
+discount is   discountwhenrecordingthe   when recording the expense and
+expectedtobe   revenueand receivable.   payable.
+takeni   Ifpayment isnotreceivedwithin   If payment isnotmadewithinagreed   CHAPTER
+agreed termsand discount is   termsanddiscountisnotreceived,
+nottaken,increaserevenueby   increase the expense by the amount
+theamount of the discount.   ofthe discount.
+ICAB2026   Ledgeraccounting and double entry   127

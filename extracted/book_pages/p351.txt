@@ -1,0 +1,39 @@
+CU   CU
+DEBIT   Expenses (depreciation)   17,190
+CREDIT   Freehold land and buildings-accumulated   5,000
+depreciation
+Plantandequipment-accumulateddepreciatian   5,290
+Motorvehicles-accumulateddepreciation   6,900
+Being the depreciation charge forthe reporting period
+(b)
+Ledgeraccount   Initialtrial balance   Adjustments   Final trial balance
+Debit   Credit   Debit   Credit   Debit   Credit
+CU   CU   CU   CU
+Current assets   87,420   87,420
+Capitalat 1.1.X0   100,000   100,000
+Freeholdland and   OIARHER
+buildings-cost   100,000   100,000
+Freehold land and
+buildings-accumulated
+depreciation   15,000   5.000   20,000
+Plantand   10
+equipment-cost   45.000   10,000   35,000
+Plantandequipment-
+accumulated
+depreciation   18750   1,250   5,290   22,790
+Motorvehicles-cost   25,000   13.300   8,000   30,300
+Motorvehicles-
+accumulated
+depreciation
+14.650   4.500   6,900   17,050
+Current
+Liabilities   15,420   15,420
+Expenses   5,830   17,190   23.020
+Purchases   58.740   58,740
+Sales   205.640   205,640
+Drawings   47.670   47.670
+Suspense   200   7.950   7.750
+Disposal-plant   8,750   7.950   800
+Disposal-car   3,500   5.550   2,050
+369.660   369.660   56,440   56.440   382.950   382,950
+NCAB2026   Non-currentassets,depreciationand impairment   341

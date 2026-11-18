@@ -1,0 +1,21 @@
+Ledgerbalance   Initialtrialbalance   Adjustments   Final trial balance
+CR   DR   CR   DR   CR
+DR   CU   CU   CU   CU   CU
+CU
+Cost of sales   42.875   42,875
+Sales   96.475   96.475
+Tradereceivables   8,622   695   7.927
+Allowancefor
+receivables   350   100   250
+Drawings   38.833   38,833
+Suspense   200   200
+128667   128.667   995   995   128367   128,367
+The profit forthe year can be calculated as:
+CU
+Revenue   96.475
+Less:Costofsales   (42,875)
+Gross profit   53,600
+Irrecoverabledebtsexpense   (445)
+Expenses   (3,896)
+Netprofit   49,259
+262   Accounting   ICAB2026

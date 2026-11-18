@@ -1,0 +1,42 @@
+Workedexample:Deferredandaccrued income
+SunriseCarpetssellsfloorcoveringstothepublic.Attheendofits12-monthreporting
+records aCU500refund fromoneofitsmainsuppliers asaresultofexceedingthe.agreed
+levelofcustomduring20X4.
+Requirement
+Preparejournals:
+(1)Recordingthesetransactionsintheledgeraccountsforthereportingperiodended31
+December20x4.
+(2)Recording thesetransactions intheledger.accounts forthe.reporting periodended31
+Decermber20x5.
+Solution
+Thereversal ofdeferred income in 20x5 isnotto the statementof profit or loss butto
+tradereceivables.This is because we are dealing with credit transactions:the full amount
+ofthesalewillbeinvoiced inFebruary20x5(DebitReceivables,CreditSales),sothe
+deposit should be credited totradereceivables in the new reporting period in
+anticipation,
+Thefull amountofpurchaseswasoriginallyinvoicedbythesupplierin20x4,sothe
+refund istreated as a deduction from what is owedto the supplier by being debited to
+tradepayablesin20X5.
+CU   CU
+31DecX4   DEBIT   Sales   1,200
+CREDIT   Deferred income (liabitity)   1,200
+Deposits from customers
+31DecX4   DEBIT   Accrued income (asset)   500
+CREDIT   Purchases   500
+Refundfrom supplier
+(2)   CU
+1JanX5   DEBIT   Deferred income (liability)   1,200
+CREDIT   Tradereceivables   1,200
+Reversalofdeferred income
+CU
+1 Jan X5   DEBIT   Trade payables   500
+CREDIT   Accrued income (asset)   500
+Reversalofaccruedincome
+Most frequently this situation is seen in relationto subscriptionsto clubs or associations,
+whichdonotgenerallymaintaina receivables ledgerand so just use cashaccounting.Clubs
+andassociationsare likelyto usea manualsystemofaccounting.Some members payan
+annual subscriptionearlierthan theyneedto (in advance),andothers paylate (in arrears),At
+the end af the year there areboundto be amounts in arrears andamounts paid in advance,
+but the club willnevertheless need to make sure that the income figure it shows relates only
+to the actual reporting period.The treatment isasfollows:
+Accounting   ICAB2026

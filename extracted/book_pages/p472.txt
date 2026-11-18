@@ -1,0 +1,21 @@
+WORKINGS
+(1)Incometaxespaid   CU"000
+OpeningITpayable(86-8)   78
+Chargeforyear   124
+NetITpayableat31.12.X2(102-10)   (92)
+pled   110
+(2)Non-currentassetdisposals
+CU'000   CU'000
+At 1.1X2   1560   At31.12.X2   1596
+Purchases   90   Disposals   54
+1650   1650
+ACCUMULATEDDEPRECIATION
+CU'000   CU'000
+At31.1.X2   318   At.1.1.x2   224
+Depreciationondisposals   24   Chargeforyear   118
+342   342
+CU'000
+Carryingamount.ofdisposals   30
+Net lossreported   (18)
+Proceeds ofdisposals   12
+462   Accounting   ICA82026

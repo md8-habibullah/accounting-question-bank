@@ -1,0 +1,38 @@
+Non-current
+liabilities
+Borrowings   200   500
+Current liabilities
+Tradepayables   12
+Taxation   102   86
+114   92
+Total equity and liabilities   1.426   14Z0
+Dividends totalling CU66,000 were paid during the year.
+Duringtheyear,thecompanypaid CU90,000foranew piece ofenergyefficientmachinery.
+IncludedinthecostofsalesisdepreciationofCU118,000.AlossondisposalofCU18,000has
+beenincludedin.distributioncosts.
+Requirement
+Prepareastatement of cash flowsforKaneplcfortheyearended31December20X2in
+accordancewith.therequirementsoflAS7.
+Solution
+Thefollowing steps should befollowed when preparing a statementofcash flows:
+(1)Setoutthepro-forma statementofcash flows withall theheadings requiredby lAS7.In
+theAccounting exam,theproformawill beprovidedforyou.
+(2)Completethecashflowsfromoperating activities asfaraspossible.When calculating cash
+flows using the statementof financialposition,you willusuallyhaveto calculate items such
+asdepreciation,profitorlosson saleofnon-currentassets andprofitfortheyear(seeStep
+4).Remembertouse parenthesestodenoteanegativefigure.
+(3)Calculatethefiguresfortaxpaidpurchaseorsaleofnon-currentassets,issueofshares
+and repayment of loans if these arenotalreadygiven to you (asthey maybe).Note that
+you may not be given thetax charge in thestatementof profit or loss,You will then have to
+assumethatthetaxpaid intheyearis lastyear's year-end provisionandcalculate.the
+chargeasthebalanicingfigure.
+(4)Ifyouarenotgiventheprofitfigureopenupaworkingforthestatementofprofitorloss.
+Using the opening and closing retained earnings balances,thetaxation charge and
+dividends paid you will be able to calculate profitforthe yearas the balancing figure to
+put in the statement.
+(5) You will nowbe able to complete the statementbyslotting in thefigures given or
+calculated.
+(6)Check that the net increase in cash and cash equivalents thatyou havecalculated plus the
+cash and cash equivalents atthebeginning of the periodtotals to the cash and cash
+equivalentsattheend of theperiod.
+460   Accounting   ICAB2026

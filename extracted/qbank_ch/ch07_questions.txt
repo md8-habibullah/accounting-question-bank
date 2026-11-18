@@ -1,0 +1,632 @@
+    Chapter 7: Cost of sales and inventories
+1   A business has opening inventory of £7,200 and closing inventory of £8,100. Purchases for the year
+    were £76,500, delivery inwards was £50 and delivery outwards was £180.
+    Requirement
+    What is the amount for cost of sales?
+    A   £75,550
+    B   £75,650
+    C   £75,830
+    D   £77,450
+                                                                                                   LO 1d, 3c
+
+
+2   Platoon plc is preparing its ﬁnancial statements for the year ended 30 April 20X1, having extracted
+    an initial trial balance.
+    It had no opening inventory, its purchases in the period were £686,880 and closing inventories were
+    valued as £18,647 on 30 April 20X1.
+    Requirement
+    Which two of the following journal entries are required to record cost of sales and closing
+    inventories at 30 April 20X1?
+    A   Dr Cost of sales: £686,880; Cr Inventories: £686,880
+    B   Dr Purchases: £686,880; Cr Cost of sales: £686,880
+    C   Dr Cost of sales: £686,880; Cr Purchases: £686,880
+    D   Dr Inventories: £18,647; Cr Cost of sales: £18,647
+    E   Dr Cost of sales: £18,647; Cr Inventories: £18,647
+    F   Dr Inventories: £18,647; Cr Purchases: £18,647
+                                                                                                          LO 3c
+
+
+3   Muse plc began trading on 1 January 20X8 and had no opening inventories at that date. During
+    20X8 it made purchases of £455,000, incurred delivery inwards of £24,000, and delivery outwards of
+    £29,000. Closing inventories at 31 December 20X8 were £52,000.
+    Requirement
+    What is the amount of cost of sales for the year ended 31 December 20X8?
+    A   £456,000
+    B   £427,000
+    C   £432,000
+    D   £531,000
+                                                                                                          LO 3c
+
+
+
+
+    ICAEW 2024                                                         7: Cost of sales and inventories      33
+4   Boomerang Co had 200 units in inventory at 30 November 20X1 valued at £800. During December
+    20X1 it made the following purchases and sales.
+
+     2 Dec 20X1            Purchased         1,000 units          @ £5.00 each
+
+     5 Dec 20X1            Sold              700 units            @ £7.50 each
+
+     12 Dec 20X1           Purchased         800 units            @ £6.20 each
+
+     15 Dec 20X1           Purchased         300 units            @ £6.60 each
+
+     21 Dec 20X1           Sold              400 units            @ £8.00 each
+
+     28 Dec 20X1           Sold              500 units            @ £8.20 each
+
+    Requirement
+    Which of the following is the closing inventory amount using the ﬁrst in ﬁrst out (FIFO) method?
+    A     £4,460
+    B     £4,340
+    C     £4,620
+    D     £3,500
+                                                                                                   LO 1d
+
+
+5   The following information relates to Camberwell plc’s year-end inventory of ﬁnished goods.
+
+                                                                            Expected
+                                  Direct costs of        Production       selling and
+                                  materials and          overheads        distribution         Expected
+                                          labour           incurred        overheads        selling price
+                                                £                 £                  £                 £
+        Inventories category 1             2,470              2,100               480              5,800
+        Inventories category 2             9,360              2,730               150            12,040
+        Inventories category 3             1,450                850               190              2,560
+                                          13,280              5,680               820            20,400
+
+    Requirement
+    At what amount should ﬁnished goods inventory be stated in the company’s statement of ﬁnancial
+    position?
+
+
+    A     £13,280
+    B     £18,960
+    C     £18,760
+    D     £19,580
+                                                                                                   LO 1d
+
+
+
+
+    34      Accounting                                                                        ICAEW 2024
+6   At its year end Crocodile plc has 6,000 items of product A costing £10 per unit, and 2,000 items of
+    product B costing £5 per unit. The following information is available:
+    Product A – 500 are defective and can only be sold at £8 each.
+    Product B – 100 are to be sold for £4.50 each with selling expenses of £1.50 each.
+    Requirement
+    What amount should be shown in Crocodile plc’s statement of ﬁnancial position for inventory?
+    A   £57,000
+    B   £68,950
+    C   £68,800
+    D   £70,000
+                                                                                                     LO 1d, 3c
+
+
+7   Indicate whether the following statements are true or false.
+    Requirements
+    In a period of rising prices, applying the ﬁrst in ﬁrst out (FIFO) method to determine the cost of
+    inventories will give a lower gross proﬁt ﬁgure than the average cost (AVCO) method.
+    A   True
+    B   False
+    Closing inventory is a debit in the statement of proﬁt or loss.
+    C   True
+    D   False
+                                                                                                     LO 1d, 2a
+
+
+8   Mickey Ltd has calculated the cost of inventory using the average cost (AVCO) method. At 1 June
+    20X8, there were 60 units in inventory at a cost of £12 each. On 8 June, 40 units were purchased for
+    £15 each, and a further 50 units were purchased for £18 each on 14 June. On 21 June, 75 units were
+    sold for £20.00 each.
+    Requirement
+    What is the carrying amount of closing inventory at 30 June 20X8?
+    A   £1,110
+    B   £1,010
+    C   £900
+    D   £1,125
+                                                                                                            LO 3c
+
+
+
+
+    ICAEW 2024                                                           7: Cost of sales and inventories      35
+9   Morgan plc’s direct production cost of each unit of inventory is £46. Production overheads are £15
+    per unit. Currently the goods can only be sold if they are modiﬁed at a cost of £17 per unit. The
+    selling price of each modiﬁed unit is £80 and selling costs are estimated at 10% of selling price.
+    Requirement
+    At what amount should each unmodiﬁed unit of inventory be included in the statement of ﬁnancial
+    position?
+    A    £48
+    B    £55
+    C    £64
+    D    £61
+                                                                                                          LO 3c
+
+
+10 Indicate whether each of the following statements are true or false.
+    Requirements
+    A van for resale by a dealer is shown as a non-current asset in its statement of ﬁnancial position.
+    A    True
+    B    False
+    Import duties are included in the cost of inventory.
+    C    True
+    D    False
+                                                                                                          LO 3c
+
+
+11 Which two of the following may be included when arriving at the cost of ﬁnished goods inventory for
+   inclusion in the ﬁnancial statements of a manufacturing company?
+    A    Delivery inwards
+    B    Delivery outwards
+    C    Depreciation of delivery vehicles
+    D    Finished goods storage costs
+    E    Production line wages
+                                                                                                      LO 1d
+
+
+12 Which of the following statements about inventory for the purposes of the statement of ﬁnancial
+   position is correct?
+    A    Average cost (AVCO) and last in ﬁrst out (LIFO) are both acceptable methods, under IAS 2,
+         Inventories, of arriving at the cost of inventories.
+    B    The cost of inventories of ﬁnished goods may include labour and materials cost only, without
+         including overheads.
+    C    Inventories should be included at the lowest of cost, net realisable value and replacement cost.
+    D    It may be acceptable for the cost of inventories to be based on selling price less estimated proﬁt
+         margin.
+                                                                                                      LO 1d
+
+
+
+
+    36    Accounting                                                                             ICAEW 2024
+13 A company’s closing inventory at 31 January 20X3 amounted to £284,700.
+    The following items were included, at cost, in the total:
+    (1) 400 coats, which had cost £80 each and are normally sold for £150 each. Owing to a defect in
+        manufacture, they were all sold after 31 January 20X3 at 50% of their normal selling price.
+        Selling expenses amounted to 5% of the proceeds.
+    (2) 800 skirts, which had cost £20 each. These too were found to be defective. Remedial work in
+        February 20X3 cost £5 per skirt, and selling expenses were £1 per skirt. They were sold for £28
+        each.
+    Requirement
+    What should be the inventory value after considering the above items?
+    A   £281,200
+    B   £282,800
+    C   £329,200
+    D   £284,700
+                                                                                                                LO 1d
+
+
+14 Sahara plc sells three products: Basic, Super and Luxury. The following information was available at
+   the year end.
+
+                                                                    Basic               Super              Luxury
+                                                                £ per unit         £ per unit          £ per unit
+     Original cost                                                      6                    9                    18
+     Estimated selling price                                            9                   12                    15
+     Selling and distribution costs to be incurred                      1                    4                     5
+
+
+                                                                    Units                Units                  Units
+     Units of inventory                                               200                 250                    150
+
+    Requirement
+    What is the value of inventory at the year end?
+    A   £3,600
+    B   £4,700
+    C   £5,100
+    D   £6,150
+                                                                                                                LO 1d
+
+
+
+
+    ICAEW 2024                                                               7: Cost of sales and inventories      37
+15 A company uses the ﬁrst in ﬁrst out (FIFO) method to arrive at its inventory cost. At 1 May 20X2 the
+   company had 700 engines in inventory, valued at £190 each.
+    During the year ended 30 April 20X3 the following transactions took place:
+
+     20X2
+
+     1 July                                       Purchased 500 engines at £220 each
+
+     1 November                                   Sold 400 engines for £160,000
+
+
+     20X3
+
+     1 February                                   Purchased 300 engines at £230 each
+
+     15 April                                     Sold 250 engines for £125,000
+
+    Requirement
+    What is the cost of the company’s closing inventory of engines at 30 April 20X3?
+    A    £188,500
+    B    £195,500
+    C    £161,500
+    D    £167,500
+                                                                                                   LO 1d
+
+
+16 An inventory record has been extracted from the computerised accounting system. It shows the
+   following details.
+
+     1 February           50 units in inventory at a cost of £40 per unit
+
+     7 February           100 units purchased at a cost of £45 per unit
+
+     14 February          80 units sold
+
+     21 February          50 units purchased at a cost of £50 per unit
+
+     28 February          60 units sold
+
+    Requirement
+    What is the cost of inventory at 28 February using the ﬁrst in ﬁrst out (FIFO) method?
+    A    £2,450
+    B    £2,500
+    C    £2,700
+    D    £2,950
+                                                                                                   LO 1d
+
+
+
+
+    38    Accounting                                                                          ICAEW 2024
+17 For the year ended 31 October 20X3 a company carried out a physical count of inventory on 4
+   November 20X3, leading to an inventory cost at this date of £483,700.
+    The following transactions took place between 1 November 20X3 and 4 November 20X3:
+    (1) Goods costing £38,400 were received from suppliers.
+    (2) Goods that had cost £14,800 were sold for £20,000.
+    (3) A customer returned, in good condition, some goods which had been sold to them in October
+        for £600 and which had cost £400.
+    (4) The company returned goods that had cost £1,800 in October to the supplier, and received a
+        credit note for them.
+    Requirement
+    What amount should be shown in the company’s ﬁnancial statements at 31 October 20X3 for closing
+    inventory, based on this information?
+    A   £458,700
+    B   £505,900
+    C   £508,700
+    D   £461,500
+                                                                                                            LO 3c
+
+
+18 In preparing its ﬁnancial statements for the current year, a company’s closing inventory was
+   understated by £300,000.
+    Requirement
+    What will be the effect of this error if it remains uncorrected?
+    A   The current year’s proﬁt will be overstated and next year’s proﬁt will be understated.
+    B   The current year’s proﬁt will be understated but there will be no effect on next year’s proﬁt.
+    C   The current year’s proﬁt will be understated and next year’s proﬁt will be overstated.
+    D   The current year’s proﬁt will be overstated but there will be no effect on next year’s proﬁt.
+                                                                                                            LO 2a
+
+
+19 At 30 September 20X3 the closing inventory of a company amounted to £386,400.
+    The following items were included in this total at cost:
+    (1) 1,000 items which had cost £18 each. These items were all sold in October 20X3 for £15 each,
+        with total selling expenses of £800.
+    (2) Five items which had been in inventory for many years, and which had been purchased for £100
+        each, were sold in October 20X3 for £1,000 each, net of selling expenses.
+    Requirement
+    What is the amount of closing inventory at 30 September 20X3?
+    A   £382,600
+    B   £390,200
+    C   £368,400
+    D   £400,600
+                                                                                                            LO 3c
+
+
+
+
+    ICAEW 2024                                                           7: Cost of sales and inventories      39
+20 The cost of inventory in the ﬁnancial statements of Quebec Ltd for the year ended 31 December
+   20X4 of £836,200 was based on an inventory count on 4 January 20X5.
+    Between 31 December 20X4 and 4 January 20X5, the following transactions took place:
+
+                                                                                                        £
+     Purchases of goods                                                                            8,600
+     Sales of goods (proﬁt margin 30% on sales)                                                   14,000
+     Goods returned by Quebec Ltd to a supplier                                                        700
+
+    Requirement
+    What amount should be included in the ﬁnancial statements for inventories at 31 December 20X4?
+    A    £838,100
+    B    £842,300
+    C    £818,500
+    D    £834,300
+                                                                                                    LO 3c
+
+
+21 The closing inventory of Epsilon Ltd amounted to £284,000 at cost at the year end of 30 September
+   20X1. This total includes the following two inventory lines.
+    (1) 500 items which had cost £15 each and which were included at £7,500. These items were found
+        to have been defective at the date of the statement of ﬁnancial position. Remedial work after that
+        date cost £1,800 and they were then sold shortly afterwards for £20 each. Selling expenses were
+        £400.
+    (2) 100 items which had cost £10 each. After the date of the statement of ﬁnancial position they
+        were sold for £8 each, with selling expenses of £150.
+    Requirement
+    What amount should be shown in Epsilon Ltd’s statement of ﬁnancial position for inventory at 30
+    September 20X1?
+    A    £283,650
+    B    £284,350
+    C    £284,650
+    D    £291,725
+                                                                                                    LO 3c
+
+
+
+
+22 Lamp Ltd makes the following purchases in the year ending 31 December 20X9:
+
+                                             Units                £/unit              Total (£)
+
+     1         21 January 20X9               100                  12.00               1,200
+
+     2         30 April 20X9                 300                  12.50               3,750
+
+     3         31 July 20X9                  40                   12.80               512
+
+     4          1 September 20X9             60                   13.00               780
+
+     5         11 November 20X9              80                   13.50               1,080
+
+
+
+
+    40    Accounting                                                                          ICAEW 2024
+    At the year-end 200 units are in inventory but 8 are damaged and are only worth £10 per unit. These
+    are identiﬁed as having been part of the 11 November 20X9 delivery. Lamp Ltd measures the cost of
+    inventory using the FIFO method.
+    Requirement
+    What is the correct ﬁgure for inventories at 31 December 20X9?
+    A   £2,450
+    B   £2,525
+    C   £2,594
+    D   £2,700
+                                                                                                          LO 1d
+
+
+23 Bouncy Balls plc has 40 units of its special spongy balls in inventory as at 30 November 20X7. The
+   product costs £5 per unit to manufacture and can be sold for £15 per unit. Half of the units in
+   inventory at the year-end have been damaged and will require rectiﬁcation work costing £10 per unit
+   before they can be sold. Selling costs are £1 per unit.
+    Requirement
+    What is the value of inventory at 30 November 20X7?
+    A   £160
+    B   £180
+    C   £200
+    D   £600
+                                                                                                          LO 1d
+
+
+24 The closing inventory of Stacks plc amounted to £58,200 excluding the following two inventory lines:
+    (1) 200 items which had cost £15 each. These items were found to be defective at the year-end
+        date. Rectiﬁcation work after that date amounted to £1,200 for the batch, after which they were
+        sold for £17.50 each, with selling expenses totalling £300 for the batch.
+    (2) 400 items which had cost £2 each. All were sold after the year-end date for £1.50 each, with
+        selling expenses of £200 for the batch.
+    Requirement
+    What amount for inventory should be shown in the statement of ﬁnancial position of Stacks plc?
+    A   £62,000
+    B   £61,600
+    C   £60,600
+    D   £61,000
+                                                                                                          LO 3c
+
+
+25 Fenton plc is a manufacturer of tablets. The company makes two different models, the M1 and M2,
+   and has 100 of each in inventory at the year end.
+    Costs and related data for a unit of each model are as follows:
+
+                                                                           M1                              M2
+                                                                             £                               £
+     Costs to date                                                        230                              350
+     Selling price                                                        400                              500
+     Modiﬁcation costs to enable sale                                     110                                –
+
+
+
+    ICAEW 2024                                                         7: Cost of sales and inventories      41
+                                                                                M1                       M2
+                                                                                 £                         £
+     Delivery outwards                                                          65                        75
+
+    Requirement
+    What ﬁgure for inventory should be shown in the statement of ﬁnancial position at the year end?
+    A    £57,500
+    B    £58,000
+    C    £65,000
+    D    £65,500
+                                                                                                        LO 3c
+
+
+26 When calculating the cost of inventory, which of the following shows the correct method of arriving
+   at cost?
+    A    Include inward delivery costs, Exclude production overheads
+    B    Exclude inward delivery costs, Include production overheads
+    C    Include inward delivery costs, Include production overheads
+    D    Exclude inward delivery costs, Exclude production overheads
+                                                                                                        LO 1d
+
+
+27 A trader who sets her selling prices by adding 50% to cost, only managed to achieve a mark-up of
+   45%.
+    Requirement
+    Which of the following factors could account for the shortfall?
+    A    Sales were lower than expected.
+    B    The value of the opening inventories had been overstated.
+    C    The closing inventories of the business were higher than the opening inventories.
+    D    Goods taken from inventories by the proprietor were recorded by debiting drawings and
+         crediting purchases with the cost of the goods.
+                                                                                                        LO 2a
+
+
+28 The gross proﬁt margin is 20% where:
+    A    cost of sales is £100,000 and sales are £120,000
+    B    cost of sales is £100,000 and sales are £125,000
+    C    cost of sales is £80,000 and gross proﬁt is £16,000
+    D    cost of sales is £80,000 and sales are £96,000
+                                                                                                        LO 2a
+
+
+29 Which of the following factors could cause a company’s gross proﬁt margin to fall below the
+   expected level?
+    A    Overstatement of closing inventories
+    B    The incorrect inclusion in purchases of invoices relating to goods supplied in the following
+         period
+    C    The inclusion in sales of the proceeds of sale of non-current assets
+    D    Increased cost of delivery borne by the company on goods sent to customers
+
+
+
+    42    Accounting                                                                           ICAEW 2024
+                                                                                                              LO 1d
+
+
+30 An extract from a business’s statement of proﬁt or loss is as follows:
+
+                                                                                         £                       £
+        Revenue                                                                                        115,200
+        Opening inventory                                                         21,000
+        Purchases                                                                 80,000
+        Closing inventory                                                          (5,000)
+                                                                                                        (96,000)
+                                                                                                         19,200
+
+    Requirement
+    What mark-up has the business applied?
+    A     14.8%
+    B     16.7%
+    C     20.0%
+    D     83.3%
+                                                                                                              LO 1d
+
+
+31 Franz plc is a manufacturer. Its 12-month reporting period ends on 31 July and it adopts the average
+   cost (AVCO) method when valuing its closing inventory. At 1 August 20X4 it held inventory of 2,400
+   units of the material Zobdo, valued at £10 each. In the year to 31 July 20X5 there were the following
+   inventory movements of Zobdo:
+
+     14 November 20X4                      Sales             900 units
+
+     28 January 20X5                       Purchase          1,200 units for £20,100
+
+     7 May 20X5                            Sales             1,800 units
+
+    Requirement
+    What was the cost of Franz plc’s closing inventory of Zobdo at 31 July 20X5?
+    A     £11,700
+    B     £9,000
+    C     £15,075
+    D     £35,100
+                                                                                                              LO 1d
+
+
+32 For many years Wrigley plc has experienced rising prices for raw material X and has kept constant
+   inventory levels. It has always used the average cost (AVCO) method to arrive at the cost of inventory.
+    Requirement
+    What would the result be if Wrigley plc had always used the ﬁrst in ﬁrst out (FIFO) method in each
+    successive year’s ﬁnancial statements?
+    A     Lower cost of sales and higher closing inventory
+    B     Lower cost of sales and lower closing inventory
+    C     Higher cost of sales and lower closing inventory
+
+
+
+
+    ICAEW 2024                                                             7: Cost of sales and inventories      43
+    D    Higher cost of sales and higher closing inventory
+                                                                                                LO 1d, 3a
+
+
+33 During the year ended 31 March 20X4 Boogie plc suffered a major ﬁre at its factory, in which
+   inventory that had cost £36,000 was destroyed. An insurance payment of 80% of the cost has been
+   agreed but not received at the year end.
+    Requirement
+    Which of the following correctly completes the journal entry to take account of these matters?
+    Debit trade and other receivables with £28,800 and:
+    A    Debit Administrative expenses £36,000, Credit Purchases £28,800, Credit Revenue £36,000
+    B    Debit Administrative expenses £7,200, Credit Purchases £36,000
+    C    Debit Administrative expenses £36,000, Credit Purchases £36,000, Credit Other income £28,800
+    D    Debit Administrative expenses £7,200, Credit Inventory £36,000
+                                                                                                LO 2a, 2c
+
+
+34 Percy plc started trading on 1 April 20X4 and made a loss in the year to 31 March 20X5. The cost of
+   inventory shown in Percy plc’s statement of ﬁnancial position at 31 March 20X5, using the average
+   cost (AVCO) basis, was £6,420. Had the ﬁrst in ﬁrst out (FIFO) basis been used, the cost would have
+   been £8,080.
+    Requirement
+    What is the effect of adopting the FIFO basis on Percy plc’s ﬁnancial statements for the year ended
+    31 March 20X5?
+    A    decreases losses and decrease current assets by £1,660
+    B    increase current assets and decrease losses by £1,660
+    C    increase capital and decrease current assets by £1,660
+    D    increase current assets and increase losses by £1,660
+                                                                                            LO 1d, 3a, 3c
+
+
+35 Kane Ltd has completed its inventory count for the period ended 30 June 20X8. The inventory count
+   concluded that there were inventories costing £32,340 of which £1,280 were found to be damaged
+   and had a net realisable value of nil.
+    Requirement
+    What is the journal entry to record closing inventories at 30 June 20X8?
+    A    Dr Cost of sales: £32,340; Cr Inventories: £32,340
+    B    Dr Inventories: £32,340; Cr Cost of sales: £32,340
+    C    Dr Cost of sales: £31,060; Cr Inventories: £31,060
+    D    Dr Inventories: £31,060; Cr Cost of sales: £31,060
+                                                                                                     LO 1d
+
+
+36 Mango Ltd provides website design and development services to its clients. It has a contract relating
+   to the design of a website for its client Pear Ltd. The contract commenced on 1 June 20X5 and is due
+   to be completed by 31 August 20X5 and is therefore in progress at its year end 31 July 20X5. The
+   following information is relevant to the contract:
+
+
+
+
+    44    Accounting                                                                          ICAEW 2024
+                               Budgeted time              Time incurred to date      Hourly rate (£)
+                               (hours)                    (hours)
+
+     Contract manager          4                          1                          100
+
+     Lead designer             20                         12                         75
+
+     Developer                 12                         4                          80
+
+    Mango Ltd bills amounts to its client on completion of the contract.
+    Requirement
+    Calculate the amount of the work-in-progress at 31 July 20X5.
+    A   £Nil
+    B   £2,860
+    C   £1,907
+    D   £1,320
+                                                                                                            LO 1d
+
+
+37 Pogo Ltd provides environmental consultancy services to its clients, advising on how they can reduce
+   their waste and make their practices more sustainable. Pogo Ltd recently entered into a contract with
+   a new client which is ongoing at Pogo Ltd’s year end of 31 December 20X5. The directors of Pogo
+   Ltd have asked you to identify which of the costs incurred can be included in its work-in progress at
+   31 December 20X5.
+    Requirement
+    Which THREE of the following costs can be included in work-in-progress at 31 December 20X5?
+    A   Costs of advertising the services offered to all clients
+    B   Legal fees incurred in agreeing the contract with the client
+    C   Administrative expenses incurred in running Pogo Ltd’s ofﬁces
+    D   A bonus paid to Pogo Ltd’s staff for securing the contract with the client
+    E   The salary of Pogo Ltd’s payroll manager
+    F   Travel costs incurred in agents travelling to the client’s workplace
+                                                                                                            LO 1d
+
+
+
+
+    ICAEW 2024                                                           7: Cost of sales and inventories      45

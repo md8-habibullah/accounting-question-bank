@@ -1,0 +1,381 @@
+    Chapter 9: Accruals and prepayments
+1   Correct answer(s):
+    A     Statement of proﬁt or loss: £56,000; Statement of ﬁnancial position: £10,000
+    Statement of proﬁt or loss (8/12 × 60,000) + (4/12 × 48,000)
+    Statement of ﬁnancial position (2/12 × 60,000)
+
+
+2   Correct answer(s):
+    A     £3,407.60
+    (2/3 × 798.00) + 898.80 + 814.80 + 840.00 + (1/3 × 966.00)
+
+
+3   Correct answer(s):
+    D     £475,900
+                                              RENT RECEIVABLE
+
+                                                     £                                                  £
+        b/d arrears                            21,200    b/d advances                            28,700
+        Statement of proﬁt or loss (bal ﬁg)   475,900    Cash received                          481,200
+        c/d advances                           31,200    c/d arrears                             18,400
+                                              528,300                                           528,300
+
+
+
+4   Correct answer(s):
+    B     understated by £1,920
+    If the £960 has been treated as an accrual, an expense for the same amount has been recognised
+    which would reduce proﬁt. To cancel the error, the accrual and associated expense should be added
+    back: Dr Accruals £960; Cr Expenses £960 then to post the prepayment requires: Dr Prepayments
+    £960; Cr Expenses £960. The impact on proﬁt is therefore an increase of £1,920.
+
+
+5   Correct answer(s):
+    D     £316,200
+                                       SUBSCRIPTION INCOME ACCOUNT
+
+                                                     £                                                  £
+        b/d arrears                            16,900    b/d advances                            24,600
+        Subscription income (bal ﬁg)          316,200    Cash received                          318,600
+        c/d advances                           28,400    c/d arrears                             18,300
+                                              361,500                                           361,500
+
+
+
+6   Correct answer(s):
+    C     Statement of proﬁt or loss: £34,000 Credit; Statement of ﬁnancial position: Deferred income
+          (Credit) £3,000
+
+
+
+
+    ICAEW 2024                                                           9: Accruals and prepayments    197
+                                                                                                         £
+    Receipt
+    1 October 20X1 (£7,500 × 1/3)                                                                   2,500
+    30 December 20X1                                                                                7,500
+    4 April 20X2                                                                                    9,000
+    1 July 20X2                                                                                     9,000
+    1 October 20X2 (£9,000 × 2/3)                                                                   6,000
+    Credit to statement of proﬁt or loss                                                           34,000
+
+
+    Credit deferred income (£9,000 × 1/3)                                                           3,000
+
+
+
+7   Correct answer(s):
+    A     Statement of proﬁt or loss: £40,000; Statement of ﬁnancial position: £10,000 Prepayment
+    (1) Statement of proﬁt or loss = £60,000 × 12/18 = £40,000
+    (2) Statement of ﬁnancial position = £60,000 × 3/18 prepayment = £10,000
+
+
+8   Correct answer(s):
+    B     Website expenses: £10,000; Accrual: £1,000
+    Website expenses (8/12 × 9,000) + (4/12 × 12,000) = 10,000
+    Accrual 12,000/12 = 1,000
+
+
+9   Correct answer(s):
+    D     £828,700
+                                              RENT RECEIVABLE
+
+                                                     £                                                   £
+        b/d arrears                             4,800     b/d advances                           134,600
+        Rental income (bal ﬁg)                828,700     Cash received                          834,600
+        c/d advances                          144,400     c/d arrears                               8,700
+                                              977,900                                            977,900
+
+
+
+10 Correct answer(s):
+    B     Statement of proﬁt or loss: £9,900; Statement of ﬁnancial position: £1,000 in other payables
+
+                                                                                                         £
+    Statement of proﬁt or loss
+    December to June 8,400 × 7/12                                                                   4,900
+    July to November 12,000 × 5/12                                                                  5,000
+                                                                                                    9,900
+
+    Other payables 12,000 × 1/12 = 1,000 (December rent received in advance)
+
+
+
+
+    198     Accounting                                                                         ICAEW 2024
+11 Correct answer(s):
+    C     £70,000
+
+                                                                                                          £
+        August to September 60,000 × 2/12                                                            10,000
+        October to July 72,000 × 10/12                                                               60,000
+                                                                                                     70,000
+
+
+
+12 Correct answer(s):
+    C     Statement of proﬁt or loss: £36,700; Statement of ﬁnancial position: Prepayment £9,500
+
+                                                                                     Statement of ﬁnancial
+                                              Statement of proﬁt or loss                          position
+                                                                        £                                 £
+    Prepaid insurance                                             8,200
+    Payment January 20X5                                         38,000
+    Prepayment July-Sept 20X5                                     (9,500)                             9,500
+                                                                 36,700                               9,500
+
+
+
+13 Correct answer(s):
+    A     £84,000
+                                              RENT RECEIVABLE
+
+                                                     £                                                    £
+        b/d arrears                             3,800     b/d advances                               2,400
+        Rental income (statement of
+          proﬁt or loss) (bal ﬁg)              84,000     Cash received                             83,700
+        c/d advances                            3,000     c/d arrears                                4,700
+                                               90,800                                               90,800
+
+
+
+14 Correct answer(s):
+    A     Statement of proﬁt or loss: £11,100; Statement of ﬁnancial position: £9,000 prepayment (Debit)
+    Statement of proﬁt or loss = (9/12 × £10,800) + (3/12 × £12,000) = £11,100
+    Statement of ﬁnancial position = prepayment of (9/12 × £12,000) = £9,000
+
+
+15 Correct answer(s):
+    B     Statement of proﬁt or loss: £9,000; Statement of ﬁnancial position: £3,000
+    100,000 × 12% × 9/12 = £9,000 is payable (P/L), but only £6,000 has been paid (April and July).
+
+
+16 Correct answer(s):
+    D     Statement of proﬁt or loss: £27,500; Statement of ﬁnancial position: £5,000 deferred income
+
+
+
+    ICAEW 2024                                                              9: Accruals and prepayments   199
+    Statement of proﬁt or loss (5/12 × 24,000) + (7/12 × 30,000) = £27,500
+    Statement of ﬁnancial position (2/12 × 30,000) = £5,000
+
+
+17 Correct answer(s):
+    B     £3,320
+                                          ELECTRICITY ACCOUNT
+
+                                                   £                                              £
+        20X0                                            20X0
+        1 Aug        Cash                       600     1 July        Accrual reversed          300
+        1 Nov        Cash                       720
+        20X1                                            20X1
+        1 Feb        Cash                       900
+        30 June      Cash                       840
+                                                                      Statement of proﬁt
+        30 June      Accrual £840 × 2/3         560     30 June          or loss              3,320
+
+                                               3,620                                          3,620
+
+
+
+18 Correct answer(s):
+    D     £7,300
+    (12 × £600) – 400 (opening accrual) + 500 (closing accrual) = £7,300
+
+
+19 Correct answer(s):
+    D     £1,140
+    £250 (reversed prepayment) + £800 (cash) + £90 accrual = £1,140
+
+
+20 Correct answer(s):
+    A     £3,300
+    £4,000 (cash) − £300 (opening accrual) − £400 (closing prepayment) = £3,300
+
+
+21 Correct answer(s):
+    B     £260
+                                               INSURANCE
+
+                                                   £                                              £
+        Reverse prepayment (bal ﬁg)             260     Statement of proﬁt or loss            1,760
+        Cash                                   1,820    Prepayment                              320
+                                               2,080                                          2,080
+
+
+
+22 Correct answer(s):
+    B     £12,600
+
+
+
+
+    200     Accounting                                                                     ICAEW 2024
+    (6/12 × (13,200 × 100/110)) + (6/12 × 13,200) = £12,600
+
+
+23 Correct answer(s):
+    D   overstated by £800
+
+
+24 Correct answer(s):
+    B   Current assets: £22,240; Current liabilities: £0
+    Loan 12,000 + (12,000 × 2%) = £12,240 current asset
+    Insurance 9,000 × 8/12 = £6,000 current asset
+    Rent = £4,000 current asset
+
+
+25 Correct answer(s):
+    A   Debit electricity: £300
+    D   Credit insurance: £800
+    F   Credit accruals: £300
+    G   Debit prepayments: £800
+
+
+26 Correct answer(s):
+    C   £3,515
+    (£3,420 − 215 + 310) = £3,515
+
+
+27 Correct answer(s):
+    B   £10,280
+    (£10,400 + 800 − 920) = £10,280
+
+
+28 Correct answer(s):
+    B   Debit the prepayments account
+    F   Credit the communication expenses account
+    £60 has been prepaid as at the year end of 31 August 20X4, so this should be debited to the
+    prepayments account (B) and credited to the telephone charges account (F).
+
+
+29 Correct answer(s):
+    D   credit £4,330
+    The prepayment of local property tax is for July and August, that is 2/3 × £6,495 = £4,330. This is
+    debited to prepayments and credited to administrative expenses.
+
+
+30 Correct answer(s):
+    A   Deferred income £75
+    C   Prepayment £100
+    D   Accrual £4,500
+    Five months of the subscription has been prepaid at 31 August 20X8:
+    £240 × 5/12 = prepayment £100 (C)
+
+
+
+
+    ICAEW 2024                                                            9: Accruals and prepayments     201
+    Deposits of £75 will be treated as income in the subsequent year, so this must all be treated as
+    deferred income £75 (A).
+    Five of the six months property tax relates to the year ended 31 August 20X8, so this must be
+    accrued:
+    £5,400 × 5/6 = accrual £4,500 (D)
+
+
+31 Correct answer(s):
+    A     a debit entry to the rental income account
+    F     a credit entry to the accrued income (asset) account
+    The company debited cash at bank with the 20X3 rent received and credited rental income for 20X4,
+    when it should have credited the rent receivable or accrued income asset account set up at 31
+    December 20X3. The correcting journal should therefore Debit Rental income (A) and Credit
+    Accrued income (F).
+
+
+32 Correct answer(s):
+    A     Debit Accruals £10,038, Credit Prepayments £5,632, Credit Distribution costs £4,406
+    The bookkeeper has processed the opening (1) and closing (2) journals as follows:
+                                                  ACCRUALS
+
+                                                       £                                               £
+                                                           b/d                                      5,019
+                                                           Jnl 1                                    5,019
+                                                           Jnl 2                                    4,423
+
+                                                PREPAYMENTS
+
+                                                       £                                               £
+        b/d                                     2,816
+        Jnl 1                                   2,816
+        Jnl 2                                   3,324
+
+                                            DISTRIBUTION COSTS
+
+                                                       £                                               £
+        Jnl 1                                   2,203      Jnl 2                                    3,324
+        Cash                                  147,049
+        Jnl 2                                   4,423
+
+    The cash payment and Journal 2 are correct. To correct Journal 1 the bookkeeper should:
+    Debit Accruals £10,038, Credit Prepayments £5,632, Credit Distribution costs £4,406
+
+
+33 Correct answer(s):
+    B     £3,000
+    Correct answer(s):
+    F     £620
+    Unless told otherwise we can assume that all charges accrue evenly in the period.
+
+
+
+
+    202       Accounting                                                                        ICAEW 2024
+    The internet server charge payment of £4,500 made on 1 November 20X5 covers the six months to
+    30 April 20X6. Of this payment, four months is a prepayment covering the period 1 January to 30
+    April 20X6, an amount of (4/6 × £4,500) = £3,000 (B).
+    The telephone rental payments are in arrears, so when the last payment for 20X5 is made on 30
+    November, Bez plc still owes one month (December) of rental, which is (£7,440 × 1/12) = £620 (F).
+
+
+34 Correct answer(s):
+    B   an accrual of £7,875
+    Having paid its 20X4/X5 fee in advance, Butters plc is now paying its 20X5/X6 fee in arrears. The
+    amount unpaid at 30 June 20X5 will therefore be an accrual. There are outstanding fees for the
+    period 1 March–30 June 20X5, which is four months. The accrual is therefore £21,000 × 1.125 × 4/12
+    = £7,875 (B).
+
+
+35 Correct answer(s):
+    A   Dr Administrative expenses: £8,100; Cr Prepayment: £8,100
+    In the ﬁnancial statement for the previous year ended 30 June 20X6, a prepayment of (£10,800 ×
+    9/12) would have been recorded. This must be reversed in the year ended 30 June 20X7 by debiting
+    the expense in the statement of proﬁt or loss and crediting the prepayment (A). (B) has calculated the
+    correct prepayment but has not recorded the correcting journal entry. (C) and (D) both incorrectly
+    involve an accrual being created for the year ended 30 June 20X6.
+
+
+36 Correct answer(s):
+    B   Debit Accrued income £8,700, Debit Rental income £135,900, Credit Deferred income £144,600
+    The rent received in advance is deferred income which must be removed from the amount recorded
+    as rental income in the year by Debit Rental income and Credit Deferred income. The rent in arrears
+    is accrued income which must be included in rental income for the year by Debit Accrued income
+    and Credit Rental income. (B) is the correct combination of these journal entries.
+
+
+37 Correct answer(s):
+    A   Debit Proﬁt and loss ledger account: £136,000; Credit Marketing expense: £136,000
+    The balance on the marketing expense account at 30 November 20X6 is £120,000 × 4/12 +
+    £144,000 × 8/12 = £136,000. This is a debit balance and therefore to transfer the balance to the
+    proﬁt and loss ledger account, Debit proﬁt and loss ledger account £136,000 and Credit Marketing
+    expense (A). Option (B) reverses the journal entry. Options (C) and (D) incorrectly calculate the
+    marketing expense.
+
+
+38 Correct answer(s):
+    C   Debit Advertising expense £500, Credit Accruals £500
+    The rent expenses needs to be increased (debit) and a liability to pay this amount needs to be
+    created (credit accruals).
+
+
+39 Correct answer(s):
+    A   Debit Proﬁt and loss ledger account £27,200, Credit Insurance expense £27,200
+    The insurance expense for the year ended 30 June 20X5 is £27,200, being the £8,200 prepayment
+    plus £19,000 (£38,000 × 6/12). This is a debit balance on the insurance expense account and
+    therefore to transfer the balance to the proﬁt and loss ledger account, we must debit the proﬁt and
+    loss ledger account and credit the insurance expense account with £27,200 (option A). Option B
+    reverses the journal entry. Options (C) and (D) incorrectly calculate the insurance expense.
+
+
+
+
+    ICAEW 2024                                                           9: Accruals and prepayments   203

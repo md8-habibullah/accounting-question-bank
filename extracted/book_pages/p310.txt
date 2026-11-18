@@ -1,0 +1,34 @@
+Answers to Interactive questions
+Answerto Interactivequestion1
+Thethreeinvoicesreceived during20X2totalledCU1,060.55,butthis isnotthefull charg
+for the reporting period:the November and December electricity charge was not invoiced
+until the endof January20X3.To show thecorrect chargeforthereporting period,we accrue
+thecharge forNovemberand Decemberbased on January's bill. The chargefor20x2 is:
+CU
+Paid in year   1,060.55
+Accrual (2/3×CU491.52)   327.68
+1388.23
+The double entry for the accrual will be:
+DEBIT   Electricityaccount   CU327.68
+CREDIT   Accruals   CU327.68
+Answerto Interactivequestion2
+2.1Salaries expense in the statement of profit orloss year ended31December20X6
+CU
+Costof8employeesforafull yearatCU13,200each   105,600
+Costoftraineefora half year(CU8,400/2)   4.200
+109,800
+2.2Salariesactuallypaid in20X6
+CU
+December20X5salaries paid in January (Bemployees ×CU1,000permonth)   8,000
+Salariesof8employeesfor January-November20X6paid in February-
+December(8employees×CU1.100permonth*11months)   96,800
+Salaryof trainee (for July-November paid in August-December:5months
+xCU700permonth)   3,500
+Salaries actually paid   108.300
+2.3Accruedsalaryasat31December20X6
+(ie,costschargedintheStatementofprofitoross,butnotyetpaid)
+CU
+8employees×1month.×CU1,100permonth   8.800
+1trainee×1month×CU700penmonth   700
+9,500
+300   Accounting   ICAB2026

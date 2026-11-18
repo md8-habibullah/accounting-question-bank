@@ -1,0 +1,40 @@
+Requirement
+Whatisthetotal costofadministrativeexpenses inthe year ended 31December 20x2?See
+Answer.attheend ofthis chapter.
+OHAPTER
+Theaccrualprincipleand income
+Sectionoverview
+Theaccrual principlealsoappliestoincome.
+Accrued income arises when receiptofincome (suchas rentorsubscription)is in arrears
+at the end of the reporting period.
+Deferred incomearises when income has bcen received inadvance atthe end.ofthe
+reporting period,so itneedstobe caried forward and treatedas incomeofthefollowing
+reporting period.
+Accountingforaccrued income:
+DEBIT   Accrued Income (asset in the statementoffinancial   EX
+position)
+CREDIT   Revenueorotherincome(statementofprofit.orloss)   EX
+Accounitingfordeferredincome:
+DEBIT   Revenueorotherincome (statementofprofitorloss)
+CREDIT   Deferred income (liabilityin thestatementof   EX
+financial position)
+So farwe have concentrated on accrued and prepaid expenses arising from theneed to
+matchexpenses with the incometo whichtheyrelate.lt isalsonecessary sometimestotreat
+income in linewiththeaccruals principle.
+(a)Cashmaybereceived inoneperiodalthoughtheactual saletowhichitrelates occurs in
+the subsequent period.Anexample is a deposit (oradvance payment, orpayment on
+account)recelved froma customer on an item which will bedelivered in thefuture.The
+deposit is banked but until the actual sale is recognised the cash should betreated as still
+beingowingtothecustomer,notas income.This isknown asdeferred income,a current
+liabilityinthestatement offinancial position.
+(b) Cashmaybe received in oneperiod in relationto an event whicharose inaprevious
+period.Anexample is where a suppliermakes a refund inrelation to a purchase ina
+previous period.This isknown as accrued income,a currentassetonthe statementof
+financial position.
+The treatment is similar to accruals and prepayments of expenses:
+Calculatethe amount of thedeferred oraccrued incone,
+Attheendofthereportingperiod,preparea journalentrywhichupdatestherelevant
+statementofprofitorloss accounts,andwhichsets uptherelevantasset.and liability
+accounts:
+At the beginning of the next reporting period,reverse the journal entry.
+ICAB2026   Accrualsandprepayments   291

@@ -1,0 +1,34 @@
+Thestatementofprofitorloss (lAS1)
+Sectionoverview
+The statementof profit or loss mustshow balances as setout in the lAS 1.Presentationof
+Financial Statementsformat,Includinggrossprofit.profitbeforetaxandprofitforthe
+reportingperiod.
+TheIAs1statementofprofitorlossfunctional formattobelearned is shown intheexample
+below (Oucatplc).This includes theminimumdisclosure requirements oftAS1.Themain
+requirement is thatallitemsof incomeand expense recognised ina period shallbeincluded
+inprofitor loss.
+Contextexample:Statementofprofitorloss
+Ducatplc'sstatementofprofitorloss ispresentedbelow.
+Ducatplc
+Statementofprofitorlossfortheyearended31December20x3
+Revenue   623.000
+Cost of sales   (414.000)
+Gross profit   209.000
+Otherincome   26.000
+Distribution costs   (73,000)
+Administrativeexpenses   (32.000)
+Operating profit   130,000
+Financeincome   5.000
+Finance costs   (20.000)
+Profitbeforetax   115.000
+Incometax   (35,000)
+Profitforthe period   80.000
+Notes
+1Otherincomemayinclude:gainsondisposalofproperty.plantandequipment,gainson   CHAPTER
+disposalofintangibleassets,rentteceivedfrompropertyandproceedsfrom insurance
+claims.Finance incomemay include dividends received on investments in equityshares
+and bankinterestreceived.
+2Youmay seetheterminvestment income usedinstead of finance income.Theterms can
+beused interchangeably.
+12
+ICA82026   Companyfinancialstatements underiFRS AccountingStandards

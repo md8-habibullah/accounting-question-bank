@@ -1,0 +1,31 @@
+Note:Monty Ltd paid a dividend of 20p per share to allregistered shareholders on 31
+December20X8and issued20,000CU1equitysharesatCU1.50onFebruary20X9.Theonly
+othermovementinequityintheyearwasinrespectofprofitfortheperiodofCU55,700
+Requirement
+PrepareMontyLtd'sstatementofchanges inequityforthe yearended30April20x9.
+Solution
+Share   Share   Retained   Other
+capital   premium   earnings   reserves   Total
+CU   CU   CU   CU   CU
+Balanceasat1May20x8   100,000   60,000   86.700   12,000   258.700
+Issue ofshare capital   *20,000   10,000   30,000
+Dividends   *(20,000)   (20,000)
+Profit(loss)fortheyear   55.700   55,700
+Balance as at 30 April   120.000   70.000   122.400   12.000   324.400
+20X9
+*The total raised onthe issueoftheshares is 20,000shares×CU1.50-CU30,000.
+Thedividend waspaid toregistered shareholders on31December20x8and wastherefore
+beforetheadditional share issue.Thedividend istherefore 100,000 shares×20p=CU20,000
+Interactivequestion 2:Statement of changes in equity
+Theaccountant of Millhouse Ltd is preparing its statementof changes in equityfortheyear
+ended31May20X5.Shehas identified the followingtransactions whichmayrequiretobe
+presented in.the statement of changes in equity:
+(t) The purchase of non-current assets which were financed using a bank loan
+(2)Dividends paidtoequityshareholders shortlybeforethe yearend
+(3)Dividends paidonpreference shares thatareredeemableon31May20X5
+(4) A bonus issueofsharesis made fromretained earnings duringthe year
+Requirement
+ldentify and explain whetherthe abovetransactions would bepresented in.thestatement of
+changes in equity.
+SeeAnswerattheendofthis chapter.
+412   Accounting   ICAB2026

@@ -1,0 +1,36 @@
+Professional skillsfocus:Structuring problems and solutions
+You maybefaced with a question in which you areinformed that thetrial balanceor other
+accounting information presented contains an error.You will needto identifywhattype of   CHAPTER
+error is presentthendetermine the journal entryrequiredto correctit.
+Professional skills focus:Applying judgement
+Looking for errors in a trial balance thatbalances requires an accountant to apply their
+judgement as to whether any balances appear unusual or.whether there areunexpected
+issues,suchasabalancewewouldnormallyexpecttobeadebitpresentingasa credit.
+1.3   Making adjustments afterthe initial trial balance is extracted
+Weoften needtomakeadjustments (eg,foromissions,errors.orperiod end journals)afterthe
+initialtrialbalancehas been extracted.These adjustments must be recorded in thenominal
+ledgeraccounts using adjustment journals.Afterthe adjustment journals have been posted,
+ratherthan extractinganothertrial balance,we caninstead adjusttheinitial trial balance
+already extractedtoproducea final trialbalance.
+Worked example:Initial trialbalanceand adjustment journals
+Asat31.3.20X7,HawkLtd,whichis notregisteredforVAT,hasthefollowingnominal ledger
+accountbalances:
+Balance
+Bank loan   12,000
+Cash at bank   11,700
+Capital   13,000
+Rent   1,880
+Tradepayables   11,200
+Purchases   12,400
+Sales   34.600
+Otherpayables   1,620
+Tradereceivables   12,000
+Bank loan interest   1,400
+Otherexpenses   11,020
+Non-currentassets   22,020
+On31.3.X7 Hawk Ltd madethefollowingtransactionsafter.thebalances listed abovehad
+been calculated.
+Boughtmaterialsfor cu1,ooo,halffor cash andhalfon credit.
+MadesalesofcU1040,CU800ofwhichwereoncredit.
+Paid wagesto shopassistantsof CU260 in cash.
+ICAB2026   Preparingbasicfinancialstatements   149

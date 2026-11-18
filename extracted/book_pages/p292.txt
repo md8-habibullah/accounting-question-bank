@@ -1,0 +1,38 @@
+Accountingforaccrualsandprepayments
+Sectionoverview
+Accruals are includedas current liabilities and prepayments as current assets as they
+nearly always clear very soon after the end of the reporting period.
+Inordernottodoublecountaccruedexpenditureorfailtoaccountforprepaid
+expenditure at al,closingaccrualsand prepaymentsmustbe reversedatthestartofthe
+next reporting period:
+DEBIT   Accruals   CUX
+CREDIT   Expense   CUX
+DEBIT   Expense   CUX
+CREDIT   Prepayment   CUX
+Somecomputerisedaccounting systems mayrecordan accrual orprepaymentautomatically
+at.the end oftheaccounting period forrecurring expenses suchas rentand insurance.Forthe
+purposes oftheWorkbook,wewill assumethataccruals andprepayments arerecordedusing
+ajournal entry.
+You can seefromthedouble entry to record an accrual:
+DEBIT   Expense   CUX
+CREDIT   Accruals   CUX
+and to recorda prepayment:
+DEBIT   Prepayments   CUX
+CREDIT   Expense   CUX
+that whilst one side of the journal entry adjusts the expense account, the other side of the
+entry istakentothestatementoffinancial positiont asanassetora liabilityaccountthatis
+needed.onlyattheendofeachreportingperiod.
+Prepayments are included in.current assets in the statement of financial positionas they
+representgoods or services thatthe business is owed inrespect of expenses that have
+been paid in the yearbut relate to futureaccounting periods.They usually clear within 12
+months.ofthedate of.the statementoffinancial position.The balance on the prepayment
+ledger account is brought down as a debit balance atthe beginning of the next period.
+Accruals are included in current liabilities astheyrepresent expenses whichhave been
+incurred butfor whichno invoice has yetbeen received.Theynearlyalways clearsoon
+after the end of the reporting period.The balance onthe accruals accountis brought
+down as a credit balance atthe beginning of thenextperiod.
+Transaction   DR   CR   Description
+Accrual   Expense   Liability (accrual)   Expense incurred in
+period,not
+paid/recorded
+282   Accounting   ICAB2026

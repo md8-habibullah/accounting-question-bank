@@ -1,0 +1,47 @@
+3.4.1.2ProprietaryFunds
+Proprietary funds ofa governmenitfollow accounting and financial reporting principles thatare
+similartothoseforcommercialbusinessentities.Asinbusiness,ifa governmentintendsto
+chargeusers forthe goods or servicesprovided,its officialsneedtoknowthe full cost ofthose
+proprietaryfunds:1)internal servicefunds and 2)enterprisefunds.
+1).Internal ServiceFund Internal servicefunds are createdto improvethemanagement of
+resourcesandgenerally providegoodsorservicesto departments oragenciesofthe
+samegovernmentandsometimesto othergovernmentson a cost-reimbursementbasis.
+Examplesof senvicestypicallyaccountedforbyinternal servicefunds include central
+purchasing and warehousing of supplies,motorpools,centralized data processing,and
+self-insurancepools,
+2) EnterpriseFund Enterprise funds maybe usedto account foractivities in which goods or
+services are provided to thepublicfora fee that isthe principal sourceof revenueforthe
+fund.
+3.4.1.3FiduciaryFunds
+Fiduciary activities ofa governmentare reported using the same principles as proprietaryfund
+and govemment-widefinancialstatements:theeconomic resourcesmeasurementfocusand
+accrual basis of accounting.Again,it should benoted thatfiduciary activities arereported only
+inthefiduciaryfund statements (statementoffiduciarynetassetsand statement of changes in
+fiduciarynetassets)andnot inthegovernment-widestatements.
+The fiduciaryfund category consists of 1)agencyfunds andthree types oftrust funds:2)
+1)Agency fundAgency funds generallyareused when thegovernmentholds cash on a
+custodialbasisforan externalparty (individual,organization,orgovernment).Anexample
+is taxes collected bya government on behalf of other governments.There are no net
+assets in agencyfunds,sinceforevery dollar of assets held there is a dollarof liabilityto
+theexternal party(total assets in thefund alwaysequal total liabilities).   CHAPTER
+2)Investment trustfunds Investment trustfunds used toreport the equity ofexternal
+participants (typicallyothergovernments)ina sponsoringgovernment's investmentpool.
+3) Pension fund Pension trust funds hold assets in trust to provideretirement benefits for
+employees.
+4) Private-purpose trustfund Private-purpose trust funds created to benefit private   15
+individuals,suchas afundtoprovidescholarships for.thechildren offirefighters andpolice
+officerskilled inthe lineofduty.
+3.4.2Dualtrackapproach:Recordingingovernmentaccounting
+Dual track approach is used in governmental funds and proprietaryfunds.Itis notused in
+fiduciaryfunds,Althoughmany ofgovenmentshaveadoptedthe IPSAS reportingmodel,
+mosthave continuedto usetraditionalfundaccountingsoftwaresystems.Thesesystems
+recordtransactions that occurduring the year in the appropriate governmental funds,but they
+are unable todirectly provide accountbalances on theaccrual basis needed forthe
+government-wide financial statements.To compensateforthis deficiency.mostgovernments
+manually convert theirfund-based financial information to the accrual basisby preparing
+spreadsheets.Mostmunicipal accounting software vendorshavehelped simplifythis approach
+bydeveloping report generators that selectively aggregate data needed for the government-
+widestatements.
+It isarguedbymanythatthereclassificationapproach is deficient in the sensethatthegeneral
+ledgeraccounts donotprovideall theinformation neededtoprepare govermment-wide
+ICAB2026   Introductian to PublicFinancialManagement   503

@@ -1,0 +1,39 @@
+Wagg
+Gross profitfortheyearended31March20x6
+CU
+Revenue   81,400
+Openinginventory   8800
+Purchases   48,000
+Lessclosinginventory(400+5,500)   (5,900)
+Cost of sales   (50.900)
+Gross profit   30,500
+Byusingthefgureof90orclosing inventries,thecostfsalesautomaticlly includ
+the inventorywrite-downofcU1,700.
+2.6   Inventorydestroyed orstolen and subjecttoan insuranceclaim
+Whereamaterialamountofinventoryhasbeenstolen ordestroyed, includingits cost ingross
+profit will give a very distorted idea of the business's basic profitabilty:
+Purchases will includethe costof goodsthatcould notbe sold,so theaccrual principleis
+broken,yettheyarenotinclosing inventoryeither,so itwillookas ifthebusiness'sgross
+margin on sales has fallen catastrophically.
+There may be an amount of income as a result of an insurance claim,which cannot be
+included in cost of salesunderthe'no offsetting'principle.
+These problemsare overcomeby taking the cost ofgoods stolen ordestroyed out of
+purchases and including itunder administrativeexpenses.The accountant will make suchan
+adjustmentbypostinga journal intothecomputerisedaccountingsystem.Aninsuranceclaim
+is treated as other income in calculating netprofit:ifit has niotyetbeenreceived in the form of   CHAPTER
+cash it is disclosed as'otherreceivables on the statement offinancial position.It should only
+berecorded ifitisreasonablycertainthattheamountwill bereceived,which willbe
+evidenced byhaving a valid insurance policy and confirmation from the insurerthattheclaim
+will besettied.
+Workedexample:Material amountof inventorystolen
+Frankie had CU15,000ofinventory as at1January20x2.During theyearto31Decernber
+20X2theypurchasedinventonyforCU98000,incurringdelivery inwardsofCU150.Theymad
+salesofCU150,000,incurringdeliverycoststohercustomersofCU2,400.At31December
+20x2FrankierealisesthatinventorycostingonlyCU200isleft:goodscostingCU18,000have
+been stolen.
+Requirement
+Prepare Frankie'sstatementof profit or loss assuming:
+(1)Frankiehastelevant insurance and the insurer has agreed to paya claim for75% of the
+cost:and
+(2) Frarikie does.nothaveany insurance.
+ICAB2026   Cost of sales and inventories   215

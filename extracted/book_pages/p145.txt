@@ -1,0 +1,39 @@
+Self-test questions
+Answerthefollowingquestions,
+1The credit side ofa journal entrymay:
+Increase sales
+Increaseexpenses
+CDecreasetrade payables
+Increasetradereceivables
+2 The nominal ledger:
+A Is the record ofall transactions notdirectly recorded by the computerisedaccounting
+system
+Isusedtorecordonlytransactionsrelatingtoreceivables
+lsusedtorecordonlytransactionsrelatingtopayables
+Is the record ofan entity'sfinancial transactions
+In aTaccountadebitentrywould bemade in the;
+Left hand side
+Right hand side
+4AdebitentryinaTaccountwill:
+Decreaseanasset
+Decrease an expense
+Increasea liability
+Decrease capital
+5Acreditentry inaTaccountwill:
+Decrease an asset
+Iincreaseanexpense
+Decrease a liability
+Decreasecapital
+6Whenacredit customerpaysan invoiceforCU120 including VATat20%,thecreditentry
+intheVATledgeraccountwill be:
+A.CU120
+B.CU100
+CCU20
+DNil
+CHARTER
+7Earlysettlementdiscountsreceivedfrom supplierswll;
+ADecrease purchases
+BDecrease sales
+CIncrease trade payables
+Increasetradereceivables
+ICAB2026   Ledgeraccounting anddouble enty   135

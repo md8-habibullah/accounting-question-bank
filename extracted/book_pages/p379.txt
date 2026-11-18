@@ -1,0 +1,42 @@
+company)to anotherperson (notthecompany).Suchtransactionsdonotgive riseto anything
+that has to berecorded in the company's accounting records,
+1.2   Publicandprivatecompanies
+Companiesareeitherpublicorprivatecompanies,
+Apubliccompanyhasplcin itsnameApubliccompanymayofferitssecurities(shares
+and loan stocksuchasbonds)forsaletopersons.whoareunrelatedtothecompany(the
+public'),but is subjectto stricterregulation than private companies,
+Aprivatecompanyendsits namewithLimited'or'Ltd'Aprivatecompanyis any
+companythat is notapublic company.Private companies cannotoffertheirsecurities for
+sale to the public at large.
+1.3   Accountingforcompanies
+Companieshavedistinctive characteristicsto be accounted for.Thefollowingare examinable
+inAccounting:
+equity (owners capital comprising share capital,retained earnings and otherreserves),
+rights issuesandbonus issues
+formsofdebtcapital (non-current liabilities)
+provisions
+tax on profits
+dividends
+Equity:share capital
+Section overview
+Sharecapital canbesplit into:   CHAPTER
+equity shares (no entitlementtoa setamountofdividend)
+irredeemable preference shares (which haveafixed entitlement.to dividends)
+Redeemable preference shares are entitled to a setamount of dividend but are treated as
+non-current liabilities (debt capital).
+The figure for called-up share capital at parvalue appears on the statement of financial
+position.Thismaybe less than the figurefor issued share capital.ifan amountof called-up
+capital is unpaid,this is treated as an other receivable'.
+Ofthe issue price,anyexcess or'premium'received overparvalue ls credited to sharea
+premium(areserveor'othercomponentofequity).
+21   Equitysharesand preference shares
+Companies often have just one class of share, ordinary shares, which are referred as'equity
+share capital'because each share represents an equal interest in the ownership of the
+company.
+A companymight also issue preference shares,which entitle their holdersto a dividend outof
+profits (preference dividend)before equity shareholders are entitled toany equity dividend.
+Once the preference dividend has been paid, the remaining profit"belongs to the equity
+shareholders. However,the directors will usually decide to retain some profits (retained
+eamings)within the company,and the equity dividend will be an amount declared bythe
+directorsas being appropriateand affordable,
+CAB2026   Company financialstatements   369

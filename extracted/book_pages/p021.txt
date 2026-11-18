@@ -1,0 +1,46 @@
+2.2   Legislation
+Alisted companyisone whosesharescanbetradedona stockexchange,forexamplethe
+sharescannotbetradedonastockexchange.Limited liabilitycompaniesarerequired bythe
+Companies Act 1994to prepareand publish financial statements annually.Theirform and
+contentare tegulated by legislation butmust cormplywithaccepted accountingand financial
+reportingstandards,Forlimited liabilitycompanies,thismeanscompliancewithIFRS
+Accounting Standards,Thenatureofalimited companyand theissueofsharesaredealt with
+inmoredetail in Chapter11.
+2.3   Accountingstandards
+While ethical principles underpin financial accouriting,different people could stillinterpret
+situations differently.Professional judgement is applied byaccountants based on their
+interpretation.afascenario,whichcanleadto subjectivityinaccounting.Inordertodealwith
+sormeof thissubjectivity,andto achieve comparabilitybetween differentorganisations,
+accounting standards were developed.These were developed at an international level by the
+International Accounting Standards Board (IASB)andatBangladesh,ithasbeen adoptedby
+InstituteofCharteredAccountantsofBangladesh (ICAB).
+In2021theIFRSFoundationannounced theformation oftheInternational Sustainability
+Standards Board (theisSB),whichformallyrecognised theneedforcompaniesto disclose
+sustainability-related non-financial information alongsidetheinfinancial stalerments.TheISSB is
+coveredinmoredetail.inTopic3below.
+2.4   International Financial Reporting Standards (IFRSAccounting Standards)
+The IASB is responsibleforsetting international financial reporting standards (IFRS Accounting
+Standards).
+Thestandards thatare issuedbythe IASBcomprise:
+International Financial Reporting Standards (FRSAccounting Standards)
+InternationalAccountingStandards(IAS)
+The interpretations thatare issued by the IFRS Interpretations Committeeare:
+IFRIC Interpretations
+ SICInterpretations
+IASand IFRS AccountingStandardshavethesarnestatus,IASsaresimplyolderstandards;
+those published since 2001are called IFRS Accounting Standards.IFRS Accounting Standards
+is the collective term used throughoutthis Workbook to referto allIFRS Accounting Standards
+and IASs.
+The ConceptualFramework sets outthe concepts thatunderlie thepreparation and
+presentation offinancial statements.
+IFRSAccountingStandards stem from theconcepts setout inthe ConceptualFramework
+(althioughsome Standards weredeveloped priortothe Conceptual Frameworkandthereare
+some inconsistencies as a result).
+2.5   Trueandfairview/faithful representation
+Financial statements are required to give a true and fair view or present fairly in all material
+respects the financial results of the entity.Theseterms are not defined and tend to be decided
+in.courts of law.onthefacts.
+The Conceptual Framework:Conceptual Framework statesthat if financial informationisto
+be useful, it must be relevantand faithfullyrepresent what it purports to represent
+(ConceptualFramework:para.2.5).
+12   Accounting   ICAB2026

@@ -1,0 +1,996 @@
+  Chapter 13: Statement of cash ﬂows
+1 Havisham plc
+
+   Marking guide                                                                   Marks
+
+  PBT                                                                                .5
+  Finance income                                                                     .5
+  Finance costs                                                                      .5
+  Depreciation charge                                                                .5
+  Amortisation charge                                                                 1
+  Impairment charge                                                                  .5
+  Gain/loss on sale of PPE                                                           .5
+  Gain/loss on sale of intangible assets                                              1
+  Movement in inventories                                                             1
+  Movement in trade receivables                                                       1
+  Movement in trade payables                                                          1
+  Tax paid                                                                            1
+  Interest paid                                                                       1
+  Purchase of PPE                                                                     1
+  Purchase of intangibles                                                            .5
+  Proceeds from sales of PPE                                                         .5
+  Proceeds from sales of intangible assets                                           .5
+  Interest received                                                                  .5
+  Proceeds from issue of shares                                                       1
+  Movement in borrowings                                                             .5
+  Dividends paid                                                                      1
+  Opening and closing cash                                                           .5
+  Maximum                                                                                    16
+  Total                                                                                      16
+
+
+  Statement of cash ﬂows for the year ended 31 March 20X2
+
+                                                                                              £
+   Cash ﬂows from operating activities
+   Proﬁt before tax                                                                  730,040
+   Finance income                                                                         (2,000)
+   Finance costs                                                                       89,600
+   Depreciation                                                                      232,900
+   Amortisation (W1)                                                                   21,200
+   Impairment charge (W1)                                                              20,000
+   Gain/loss on sales of property, plant and equipment                                 84,810
+   Gain/loss on sales of intangible assets (17,000 – 24,000)                              (7,000)
+   Movement in inventories (285,550 – 430,040)                                       (144,490)
+   Movement in trade receivables (224,150 – 342,700)                                 (118,550)
+
+
+
+
+  ICAEW 2024                                                   13: Statement of cash ﬂows    265
+                                                                                        £
+ Movement in trade payables (146,700 – 135,900 – 13,900)                           (3,100)
+ Cash generated from operations                                                  903,410
+
+
+ Tax paid (W2)                                                                   (236,420)
+ Interest paid (W3)                                                               (92,200)
+ Net cash from/used in operating activities                                      574,790
+
+
+ Cash ﬂows from investing activities
+ Purchase of property, plant and equipment (W4)                                  (531,900)
+ Purchase of intangible assets                                                   (251,340)
+ Proceeds from sale of property, plant and equipment (127,800 – 84,810)            42,990
+ Proceeds from sale of intangible assets                                           24,000
+ Interest received                                                                  2,000
+ Net cash from/used in investing activities                                      (714,250)
+
+
+ Cash ﬂows from ﬁnancing activities
+ Proceeds from issue of shares (W5)                                              126,800
+ Movement in borrowings ((423,000 + 51,000) – (567,400 + 115,600) + (75,000))    284,000
+ Dividends paid (W6)                                                             (231,640)
+ Net cash from/used in ﬁnancing activities                                       179,160
+
+
+ Net increase/decrease in cash and cash equivalents                                39,700
+ Cash and cash equivalents at beginning of period                                 (13,430)
+ Cash and cash equivalents at end of period                                        26,270
+
+WORKINGS
+(1)
+                                        INTANGIBLE ASSETS
+
+                                                   £                                   £
+      b/d                                     386,900   Amortisation (bal ﬁg)     21,200
+      Purchases                               251,340   Disposals                 17,000
+                                                        Impairment charge         20,000
+                                           –––––––      c/d                      580,040
+                                              638,240                            638,240
+
+(2)
+                                                TAX PAID
+
+                                                   £                                   £
+                                                        b/d                      192,520
+
+
+
+266   Accounting                                                                ICAEW 2024
+                                           £                                                   £
+      Cash (bal ﬁg)                  236,420    Statement of proﬁt or loss              245,700
+      c/d                            201,800                                          –––––––
+                                     438,220                                            438,220
+
+(3)
+                                     INTEREST PAID
+
+                                           £                                                   £
+                                                b/d                                      12,350
+      Cash (bal ﬁg)                   92,200    Statement of proﬁt or loss               89,600
+      c/d                              9,750                                          –––––––
+                                     101,950                                            101,950
+
+(4)
+                                          PPE
+
+                                           £                                                   £
+      b/d                            797,500
+      Purchases                       13,900    Disposals                               127,800
+      Cash (bal ﬁg)                  531,900    Depreciation                            232,900
+                                    –––––––     c/d                                     982,600
+                                    1,343,300                                         1,343,300
+
+(5)
+                            SHARE CAPITAL AND SHARE PREMIUM
+
+                                           £                                                   £
+                                                B/d (232,800 + 351,000)                 583,800
+      c/d (398,200 + 312,400)        710,600    Cash (bal ﬁg)                           126,800
+                                     710,600                                            710,600
+
+(6)
+                                  RETAINED EARNINGS
+
+                                           £                                                   £
+      Dividend (bal ﬁg)              231,640    b/d                                     282,100
+      c/d                            534,800    Proﬁt in period                         484,340
+                                     766,440                                            766,440
+
+
+
+
+ICAEW 2024                                                        13: Statement of cash ﬂows   267
+2 Castle plc
+
+   Marking guide                                             Marks
+
+   Proﬁt before tax                                           .5
+   Finance income                                             .5
+   Finance costs                                              .5
+   Depreciation                                                1
+   Amortisation                                                1
+   Gain/loss on sales of property, plant and equipment        .5
+   Movement in inventories                                    .5
+   Movement in trade receivables                               1
+   Movement in prepayments                                    .5
+   Movement in trade payables                                  1
+   Movement in accruals                                        1
+   Tax paid                                                    1
+   Interest paid                                              .5
+   Purchase of property, plant and equipment                   1
+   Purchase of intangible assets                              .5
+   Purchase of investments                                    .5
+   Proceeds from sale of property, plant and equipment         1
+   Interest received                                           1
+   Proceeds from issue of shares                              .5
+   Dividends paid                                             .5
+   Movement in borrowings                                      1
+   Opening and closing cash                                   .5
+   Maximum                                                           16
+   Total                                                             16
+
+
+
+
+                                                         £            £
+   Cash ﬂows from operating activities
+   Proﬁt before tax                                          3,370,000
+   Finance income                                              (78,000)
+   Finance costs                                              563,000
+   Depreciation (W2)                                          902,000
+   Amortisation (W5)                                          975,000
+   Gain/loss on sales of property, plant and equipment        189,000
+   Movement in inventories                                     (26,000)
+   Movement in trade receivables (W12)                         (20,000)
+   Movement in prepayments                                      13,000
+   Movement in trade payables (W13)                           145,000
+   Movement in accruals (W11)                                 (162,000)
+   Cash generated from operations                            5,871,000
+
+
+
+
+  268      Accounting                                        ICAEW 2024
+                                                                                     £                 £
+ Tax paid (W7)                                                                                  (546,000)
+ Interest paid (W10)                                                                            (513,000)
+ Net cash from/used in operating activities                                                   4,812,000
+
+
+ Cash ﬂows from investing activities
+ Purchase of property, plant and equipment (W1)                            (1,394,000)
+ Purchase of intangible assets (W4)                                          (339,000)
+ Purchase of investments (W6)                                              (2,018,000)
+ Proceeds from sale of property, plant and equipment (W3)                     221,000
+ Interest received                                                             76,000
+ Net cash from/used in investing activities                                                   (3,454,000)
+
+
+ Cash ﬂows from ﬁnancing activities
+ Proceeds from issue of shares (W8)                                           422,000
+ Dividends paid                                                              (243,000)
+ Movement in borrowings                                                    (1,400,000)
+ Net cash from/used in ﬁnancing activities                                                    (1,221,000)
+
+
+ Net increase/decrease in cash and cash equivalents                                             137,000
+ Cash and cash equivalents at beginning of year                                                 222,000
+ Cash and cash equivalents at end of year                                                       359,000
+
+WORKINGS
+(1)
+                           PROPERTY, PLANT AND EQUIPMENT – COST
+
+                                                   £                                                   £
+      b/d                                3,091,000
+      Cash (bal ﬁg)                      1,394,000      PPE – disposals                       1,201,000
+                                        ––––––––        c/d                                   3,284,000
+                                         4,485,000                                            4,485,000
+
+(2)
+              PROPERTY, PLANT AND EQUIPMENT – ACCUMULATED DEPRECIATION
+
+                                                   £                                                   £
+                                                        b/d                                   2,001,000
+      PPE – disposals (1,201,000 –                      Statement of proﬁt or loss (bal
+        496,000)                              705,000      ﬁg)                                  902,000
+      c/d                                2,198,000                                           ––––––––
+                                         2,903,000                                            2,903,000
+
+
+
+
+ICAEW 2024                                                                13: Statement of cash ﬂows   269
+(3)
+              PROPERTY, PLANT AND EQUIPMENT – PROCEEDS FROM DISPOSALS
+
+                                            £                                             £
+                                                 PPE – acc dep (1,201,000 –
+      PPE – cost or valuation        1,201,000     496,000)                         705,000
+      Trade receivables                 79,000   Statement of proﬁt or loss         189,000
+                                                 Cash (bal ﬁg)                      221,000
+                                     ––––––––    c/d                                165,000
+                                     1,280,000                                     1,280,000
+
+(4)
+                                 INTANGIBLE ASSETS – COST
+
+                                            £                                             £
+      b/d                            8,645,000
+      Cash (bal ﬁg)                    339,000
+      Trade payables                   376,000   c/d                               9,360,000
+                                     9,360,000                                     9,360,000
+
+(5)
+                       INTANGIBLE ASSETS – ACCUMULATED DEPRECIATION
+
+                                            £                                             £
+                                                 b/d                               2,715,000
+                                                 Statement of proﬁt or loss (bal
+      c/d                            3,690,000      ﬁg)                             975,000
+
+                                     3,690,000                                     3,690,000
+
+(6)
+                                       INVESTMENTS
+
+                                            £                                             £
+      b/d                              127,000
+      Cash (bal ﬁg)                  2,018,000   c/d                               2,145,000
+                                     2,145,000                                     2,145,000
+
+(7)
+                                         TAX PAID
+
+                                            £                                             £
+      Cash (bal ﬁg)                    546,000   b/d                                503,000
+      c/d                              641,000   Statement of proﬁt or loss         684,000
+                                     1,187,000                                     1,187,000
+
+(8)
+
+
+
+
+270   Accounting                                                                   ICAEW 2024
+                               SHARE CAPITAL AND SHARE PREMIUM
+
+                                              £                                                 £
+                                                   b/d (1,000,000 + 1,421,000)         2,421,000
+                                                   Retained earnings                     500,000
+       c/d (1,800,000 + 1,543,000)     3,343,000   Cash (bal ﬁg)                         422,000
+                                       3,343,000                                       3,343,000
+
+(9)
+                                      INTEREST RECEIVED
+
+                                              £                                                 £
+       b/d                                8,000    Cash (bal ﬁg)                          76,000
+       Statement of proﬁt or loss        78,000    c/d                                    10,000
+                                         86,000                                           86,000
+
+(10)
+                                        INTEREST PAID
+
+                                              £                                                 £
+       Cash (bal ﬁg)                    513,000    b/d                                    75,000
+       c/d                              125,000    Statement of proﬁt or loss            563,000
+                                        638,000                                          638,000
+
+(11)
+                                          ACCRUALS
+
+                                              £                                                 £
+       Cash (bal ﬁg)                    162,000    b/d                                   262,000
+       c/d                              100,000                                       ––––––––
+                                        262,000                                          262,000
+
+(12)
+                                      TRADE RECEIVABLES
+
+                                              £                                                 £
+       b/d                              840,000    b/d                                     8,000
+       Cash (bal ﬁg)                     20,000                                           79,000
+       Interest receivable               10,000
+       PPE                              165,000    c/d                                   948,000
+                                       1,035,000                                       1,035,000
+
+(13)
+                                       TRADE PAYABLES
+
+                                              £                                                 £
+                                                   b/d                                   896,000
+
+
+
+ICAEW 2024                                                         13: Statement of cash ﬂows   271
+                                                    £                                £
+                                                         Cash (bal ﬁg)        145,000
+          c/d                                1,417,000   Intangible assets    376,000
+                                             1,417,000                       1,417,000
+
+
+
+3 Tam plc
+
+   Marking guide                                                             Marks
+
+  Proﬁt before tax                                                            .5
+  Finance income                                                              .5
+  Finance costs                                                               .5
+  Depreciation                                                                .5
+  Amortisation                                                                 1
+  Gain/loss on sales of property, plant and equipment                          1
+  Gain/loss on sales of intangible assets                                      1
+  Movement in inventories                                                     .5
+  Movement in trade receivables                                                1
+  Movement in prepayments                                                     .5
+  Movement in trade payables                                                  .5
+  Movement in accruals                                                        .5
+  Movement in provisions                                                      .5
+  Tax paid                                                                     1
+  Interest paid                                                                1
+  Purchase of PPE                                                              1
+  Purchase of investments                                                     .5
+  Proceeds from sales of PPE                                                  .5
+  Proceeds from sales of intangible assets                                    .5
+  Interest received                                                           .5
+  Proceeds from issue of ordinary shares                                      .5
+  Dividends paid                                                               1
+  Movement in borrowings                                                      .5
+  Opening and closing cash                                                    .5
+  Maximum                                                                            16
+  Total                                                                              16
+
+
+
+
+                                                                                      £
+  Cash ﬂows from operating activities
+  Proﬁt before tax                                                             756,000
+  Finance income                                                               (55,000)
+  Finance costs                                                                 68,000
+  Depreciation (W5)                                                          1,100,000
+  Amortisation (W3)                                                             19,000
+
+
+
+
+  272     Accounting                                                         ICAEW 2024
+                                                                                            £
+ Gain/loss on sales of property, plant and equipment (W8)                             (98,000)
+ Gain/loss on sales of intangible assets                                                3,000
+ Movement in inventories                                                              (87,000)
+ Movement in trade and other receivables (W10)                                         (5,000)
+ Movement in prepayments                                                               30,000
+ Movement in trade payables                                                            77,000
+ Movement in accruals                                                                   2,000
+ Movement in provisions                                                               (20,000)
+ Cash generated from operations                                                    1,790,000
+ Tax paid (W7)                                                                       (115,000)
+ Interest paid (W6)                                                                   (93,000)
+ Net cash from/used in operating activities                                        1,582,000
+
+
+ Cash ﬂows from investing activities
+ Purchase of property, plant and equipment (W4)                                    (1,323,000)
+ Purchase of investments                                                             (406,000)
+ Proceeds from sale of property, plant and equipment                                 424,000
+ Proceeds from sale of intangible assets (W9)                                          12,000
+ Interest received (W11)                                                               45,000
+ Net cash from/used in investing activities                                        (1,248,000)
+
+
+ Cash ﬂows from ﬁnancing activities
+ Proceeds from issue of shares (W1 and W2)                                           242,000
+ Dividends paid (W8)                                                                  (50,000)
+ Movement in borrowings                                                              (300,000)
+ Net cash from/used in ﬁnancing activities                                           (108,000)
+
+
+ Net increase/decrease in cash and cash equivalents                                  226,000
+ Cash and cash equivalents at beginning of year                                      200,000
+ Cash and cash equivalents at end of year                                            426,000
+
+
+
+
+WORKINGS
+(1)
+                                            SHARE CAPITAL
+
+                                                  £                                         £
+                                                       b/fwd                       1,000,000
+
+
+
+
+ICAEW 2024                                                     13: Statement of cash ﬂows   273
+                                            £                                             £
+                                                 Share premium                       50,000
+      c/fwd (1,100,000)              1,100,000   Cash (bal ﬁg)                       50,000
+                                     1,100,000                                     1,100,000
+
+(2)
+                                      SHARE PREMIUM
+
+                                            £                                             £
+      Share capital (bonus)             50,000   b/fwd                              200,000
+      c/fwd                            342,000   Cash (bal ﬁg)                      192,000
+                                       392,000                                      392,000
+
+(3)
+                       INTANGIBLE ASSETS – ACCUMULATED AMORTISATION
+
+                                            £                                             £
+      Disposals                         40,000   b/fwd                              354,000
+                                                 Statement of proﬁt or loss (bal
+      c/fwd                            333,000      ﬁg)                              19,000
+
+                                       373,000                                      373,000
+
+(4)
+                                  PPE – COST OR VALUATION
+
+                                            £                                             £
+      b/fwd                          6,375,000   b/fwd                              106,000
+      Cash (bal ﬁg)                  1,323,000   Disposals                          479,000
+      c/fwd                            351,000   c/fwd                             7,464,000
+                                     8,049,000                                     8,049,000
+
+(5)
+                              PPE – ACCUMULATED DEPRECIATION
+
+                                            £                                             £
+      Disposals (W7)                   153,000   b/fwd                             3,974,000
+                                                 Statement of proﬁt or loss (bal
+      c/fwd                          4,921,000      ﬁg)                            1,100,000
+
+                                     5,074,000                                     5,074,000
+
+
+
+
+(6)
+                                       INTEREST PAID
+
+                                            £                                             £
+      Cash (bal ﬁg)                     93,000   b/fwd                               50,000
+
+
+
+274   Accounting                                                                   ICAEW 2024
+                                                 £                                                 £
+       c/fwd                                 25,000   Statement of proﬁt or loss             68,000
+                                            118,000                                         118,000
+
+(7)
+                                              TAX PAID
+
+                                                 £                                                 £
+       Cash (bal ﬁg)                        115,000   b/fwd                                 165,000
+       c/fwd                                282,000   Statement of proﬁt or loss            232,000
+                                            397,000                                         397,000
+
+(8)
+                                           PPE – DISPOSALS
+
+                                                 £                                                 £
+       Statement of proﬁt or loss (bal
+          ﬁg)                                98,000   Acc depn (479,000 – 326,000)          153,000
+       Cost                                 479,000   Cash                                  424,000
+                                            577,000                                         577,000
+
+(9)
+                                         RETAINED EARNINGS
+
+                                                 £                                                 £
+       Dividends (bal ﬁg)                    50,000   b/fwd                               1,311,000
+       c/fwd                              1,785,000   Statement of proﬁt or loss            524,000
+                                          1,835,000                                       1,835,000
+
+(10)
+                                    INTANGIBLE ASSETS – DISPOSALS
+
+                                                 £                                                 £
+       Cost (938,000 – 883,000)              55,000   Accumulated amortisation               40,000
+                                                      Cash                                   12,000
+                                                      Statement of proﬁt or loss (bal
+                                            ––––––       ﬁg)                                  3,000
+
+                                             55,000                                          55,000
+
+(11) Movement in trade receivables
+
+                                                                                                   £
+       Opening (465,000 – 15,000)                                                           450,000
+       Closing (480,000 – 25,000)                                                           455,000
+       Increase                                                                                5,000
+
+(12)
+
+
+
+
+ICAEW 2024                                                            13: Statement of cash ﬂows   275
+                                         INTEREST RECEIVED
+
+                                                  £                              £
+          b/fwd (trade and other
+             receivables)                    15,000      Cash (bal ﬁg)     45,000
+          Statement of proﬁt or loss         55,000      c/fwd             25,000
+                                             70,000                        70,000
+
+
+
+4 Kaya plc
+
+   Marking guide                                                         Marks
+
+  Proﬁt before tax                                                        .5
+  Finance income                                                           1
+  Finance costs                                                           .5
+  Depreciation                                                            .5
+  Amortisation                                                             1
+  Impairment                                                               1
+  Gain/loss on sales of property, plant and equipment                      1
+  Movement in inventories                                                  1
+  Movement in trade receivables                                            1
+  Movement in trade payables                                               1
+  Tax paid                                                                 1
+  Interest paid                                                            1
+  Purchase of PPE                                                         .5
+  Purchase of intangible assets                                           .5
+  Proceeds from sales of PPE                                              .5
+  Interest received                                                       .5
+  Proceeds from issue of ordinary shares                                   1
+  Movement in borrowings                                                   1
+  Dividends paid                                                           1
+  Opening and closing cash                                                .5
+  Maximum                                                                        16
+  Total                                                                          16
+
+
+
+
+                                                                                  £
+   Cash ﬂows from operating activities
+   Proﬁt before tax                                                       911,100
+   Finance income (W1)                                                     (25,000)
+   Finance costs (W3)                                                       75,000
+   Depreciation                                                           750,600
+   Amortisation (W6)                                                        12,300
+   Impairment charge                                                        15,000
+   Gain/loss on sales of property, plant and equipment                     (39,500)
+
+
+
+  276     Accounting                                                     ICAEW 2024
+                                                                                                     £
+ Movement in inventories                                                                      304,600
+ Movement in trade receivables (W7)                                                            (12,000)
+ Movement in trade payables (W5)                                                                 1,000
+ Cash generated from operations                                                             1,993,100
+ Tax paid (W2)                                                                                (300,000)
+ Interest paid (W3)                                                                            (77,000)
+ Net cash from/used in operating activities                                                 1,616,100
+
+
+ Cash ﬂows from investing activities
+ Purchase of property, plant and equipment (W4)                                             (1,573,000)
+ Purchase of intangible assets                                                                 (77,500)
+ Proceeds from sale of property, plant and equipment                                          600,000
+ Interest received (W1)                                                                         12,500
+ Net cash from/used in investing activities                                                 (1,038,000)
+
+
+ Cash ﬂows from ﬁnancing activities
+ Proceeds from issue of shares (W8 and W9)                                                    750,000
+ Movement in borrowings                                                                       100,000
+ Dividends paid (W10)                                                                       (1,425,000)
+ Net cash from/used in ﬁnancing activities                                                    (575,000)
+
+
+ Net increase/(decrease) in cash and cash equivalents                                            3,100
+ Cash and cash equivalents at beginning of year                                                 32,600
+ Cash and cash equivalents at end of year                                                       35,700
+
+WORKINGS
+(1)
+                                        INTEREST RECEIVED
+
+                                                   £                                                 £
+      b/fwd                                     2,000   Interest received (bal. ﬁg)            12,500
+      Statement of proﬁt or loss               25,000   c/fwd                                  14,500
+                                               27,000                                          27,000
+
+(2)
+                                                TAX PAID
+
+                                                   £                                                 £
+      Cash (bal ﬁg)                           300,000   b/fwd                                 360,000
+      c/fwd                                   410,000   Statement of proﬁt or loss            350,000
+
+
+
+
+ICAEW 2024                                                              13: Statement of cash ﬂows   277
+                                                  £                                             £
+                                            710,000                                       710,000
+
+(3)
+                                            INTEREST PAID
+
+                                                  £                                             £
+       Cash (bal ﬁg)                         77,000    b/fwd                                7,000
+       c/fwd                                  5,000    Statement of proﬁt or loss          75,000
+                                             82,000                                        82,000
+
+(4)
+                                                 PPE
+
+                                                  £                                             £
+       b/fwd                               6,713,500   Disposals                          560,500
+       Cash (bal ﬁg)                       1,573,000   Statement of proﬁt or loss         750,600
+       Trade payables                        10,000    c/fwd                             6,985,400
+                                           8,296,500                                     8,296,500
+
+(5)
+
+      Movement in trade payables
+
+                                                                                                 £
+      Opening (139,500 – 7,000)                                                            132,500
+      Closing (148,500 – 5,000 – 10,000)                                                   133,500
+      Increase                                                                               1,000
+
+(6)
+                                       INTANGIBLE ASSETS
+
+                                                  £                                             £
+                                                       Statement of proﬁt or loss (bal
+       b/fwd                                300,500       ﬁg)                              12,300
+       Cash                                  77,500    Impairment                          15,000
+                                           ––––––––    c/fwd                              350,700
+                                            378,000                                       378,000
+
+(7) Movement in trade receivables
+
+                                                                                                 £
+      Opening (144,500 – 2,000)                                                            142,500
+      Closing (169,000 – 14,500)                                                           154,500
+      Increase                                                                              12,000
+
+(8)
+
+
+
+
+278    Accounting                                                                        ICAEW 2024
+                                          SHARE CAPITAL
+
+                                                  £                                                 £
+                                                       b/fwd                               3,500,000
+                                                       Bonus issue (share premium)            35,000
+         c/fwd                           4,000,000     Cash (bal ﬁg)                         465,000
+                                         4,000,000                                         4,000,000
+
+  (9)
+                                         SHARE PREMIUM
+
+                                                  £                                                 £
+         Bonus issue (share capital)        35,000     b/fwd                                 950,000
+         c/fwd                           1,200,000     Cash (bal ﬁg)                         285,000
+                                         1,235,000                                         1,235,000
+
+  (10)
+                                       RETAINED EARNINGS
+
+                                                  £                                                 £
+         Dividends paid                  1,425,000     b/fwd                               2,206,700
+         c/fwd                           1,342,800     Statement of proﬁt or loss            561,100
+                                         2,767,800                                         2,767,800
+
+
+
+5 Siena plc
+
+   Marking guide                                                                           Marks
+
+  Proﬁt before tax                                                                           .5
+  Finance income                                                                             .5
+  Finance cost                                                                               .5
+  Depreciation                                                                                1
+  Impairment                                                                                  1
+  Gain/loss on sale of property, plant and equipment                                         .5
+  Movement in inventories                                                                     1
+  Movement in trade receivables                                                               1
+  Movement in trade payables                                                                  1
+  Tax paid                                                                                    1
+  Interest paid                                                                               1
+  Purchase of PPE                                                                            .5
+  Purchase of investments                                                                     1
+  Proceeds from sales of PPE                                                                  1
+  Interest received                                                                          .5
+  Proceeds from issue of ordinary shares                                                      1
+  Movement in borrowings                                                                      1
+  Dividends paid                                                                              1
+  Opening and closing cash                                                                    1
+
+
+
+  ICAEW 2024                                                           13: Statement of cash ﬂows   279
+ Marking guide                                             Marks
+
+Maximum                                                            16
+Total                                                              16
+
+
+
+
+                                                                    £
+Cash ﬂows from operating activities
+Proﬁt before tax                                             866,100
+Finance income                                                 (5,000)
+Finance costs                                                 89,000
+Depreciation                                                 750,600
+Impairment                                                    12,000
+Gain/loss on sales of property, plant and equipment           55,000
+Movement in inventories                                       (95,500)
+Movement in trade receivables                                 (24,500)
+Movement in trade payables (W9)                               43,900
+Cash generated from operations                             1,691,600
+Tax paid (W2)                                               (347,600)
+Interest paid (W7)                                            (84,000)
+Net cash from/used in operating activities                 1,260,000
+
+
+Cash ﬂows from investing activities
+Purchase of property, plant and equipment                  (2,057,000)
+Purchase of investments (W10)                                 (18,000)
+Proceeds from sale of property, plant and equipment (W4)     441,300
+Interest received                                              5,000
+Net cash from/used in investing activities                 (1,628,700)
+
+
+Cash ﬂows from ﬁnancing activities
+Proceeds from issue of shares (W5 and W6)                  1,400,000
+Movement in borrowings (W1)                                 (366,000)
+Dividends paid (W3)                                         (500,500)
+Net cash from/used in ﬁnancing activities                    533,500
+
+
+Net increase/decrease in cash and cash equivalents           164,800
+Cash and cash equivalents at beginning of year               120,200
+Cash and cash equivalents at end of year                     285,000
+
+
+
+
+280     Accounting                                         ICAEW 2024
+WORKINGS
+(1)
+                                          BORROWINGS
+
+                                                  £                                                £
+       Preference shares                  150,000
+       Cash (bal ﬁg)                      366,000     b/fwd                                 472,000
+       c/fwd                              556,000     PPE                                   600,000
+                                        1,072,000                                         1,072,000
+
+      Further clariﬁcation:
+      WORKING 1.1
+                                      LOAN (BORROWINGS)
+
+                                                  £                                                £
+       Cash (bal ﬁg)                      516,000     b/fwd                                 472,000
+       c/fwd                              556,000     PPE                                   600,000
+                                        1,072,000                                         1,072,000
+
+      WORKING 1.2
+                        REDEEMABLE PREFERENCE SHARES (BORROWINGS)
+
+                                                  £                                                £
+                                                      b/fwd                                        0
+       c/fwd                              150,000     Cash (bal ﬁg)                         150,000
+                                          150,000                                           150,000
+
+      WORKING 1.3
+
+      MOVEMENT IN BORROWINGS
+
+                                                                                                   £
+      Loan (from working 1.1)                                                 516,000 (cash outﬂow)
+      Less preference shares (from working 1.2)                               (150,000) (cash inﬂow)
+      Total cash outﬂow resulting
+        from movement in borrowings                                                         366,000
+
+(2)
+                                             TAX PAID
+
+                                                  £                                                £
+       Cash (bal ﬁg)                      347,600     b/fwd                                 350,000
+       c/fwd                              300,000     Statement of proﬁt or loss            297,600
+                                          647,600                                           647,600
+
+(3)
+
+
+
+
+ICAEW 2024                                                            13: Statement of cash ﬂows   281
+                                       RETAINED EARNINGS
+
+                                               £                                        £
+      Cash – dividends paid (bal ﬁg)     500,500    b/fwd                          74,500
+      c/fwd                              142,500    Statement of proﬁt or loss    568,500
+                                         643,000                                  643,000
+
+(4)
+                                              PPE
+
+                                               £                                        £
+      b/fwd                             2,950,300   Statement of proﬁt or loss    750,600
+      Cash
+                                        2,057,000   Disposals (bal ﬁg)            496,300
+      Long term loan                     600,000    c/fwd                        4,360,400
+                                        5,607,300                                5,607,300
+
+(5)
+                                         SHARE CAPITAL
+
+                                               £                                        £
+                                                    b/fwd                        1,800,000
+                                                    Bonus issue                   180,000
+      c/fwd                             3,000,000   Cash (bal ﬁg)                1,020,000
+                                        3,000,000                                3,000,000
+
+(6)
+                                        SHARE PREMIUM
+
+                                               £                                        £
+      Bonus issue (W7)                   180,000    b/fwd                         850,000
+      c/fwd                             1,050,000   Cash (bal ﬁg)                 380,000
+                                        1,230,000                                1,230,000
+
+(7)
+                                         FINANCE COST
+
+                                               £                                        £
+      Cash (bal ﬁg)                       84,000    b/fwd                           5,000
+      c/fwd                               10,000    Statement of proﬁt or loss     89,000
+                                          94,000                                   94,000
+
+(8)
+                                        TRADE PAYABLES
+
+                                               £                                        £
+      Interest payable                     5,000    b/fwd                         289,600
+
+
+
+282   Accounting                                                                 ICAEW 2024
+                                                          £                                                £
+                                                              Investments                            10,000
+                                                              Interest payable                       10,000
+           c/fwd                                348,500       Cash (bal ﬁg)                          43,900
+                                                353,500                                             353,500
+
+    (9)
+                                                INVESTMENTS
+
+                                                          £                                                £
+           b/fwd                                156,000       Impairment                             12,000
+           Cash (bal ﬁg)                         18,000
+           Trade payables                        10,000       c/fwd                                 172,000
+                                                184,000                                             184,000
+
+
+
+6   Correct answer(s):
+    D     2, 3 and 4
+    Loss on sale of non-current assets should be added back to proﬁt before tax.
+
+
+7   Correct answer(s):
+    D     Addition to cash ﬂows from operating activities: £990,000
+
+                                                                                                           £
+     Add depreciation                                                                               900,000
+     Add impairment losses                                                                            80,000
+     Less proﬁt on sale of non-current assets                                                        (40,000)
+     Less increase in inventories                                                                   (130,000)
+     Add decrease in trade receivables                                                              100,000
+     Add increase in trade payables                                                                   80,000
+     Addition to proﬁt/loss before taxation                                                         990,000
+
+
+
+8   Correct answer(s):
+    D     1 and 4
+    The depreciation charge and the increase in trade payables should both have been added.
+
+
+9   Correct answer(s):
+    A     Cash ﬂows from operating activities: £(9,000)
+    The £9,000 proﬁt is shown before proﬁt before tax in the statement of proﬁt or loss. As it is not a cash
+    ﬂow it is deducted from the proﬁt before tax ﬁgure in the reconciliation of proﬁt before tax to net
+    cash from operating activities.
+
+
+
+
+    ICAEW 2024                                                                13: Statement of cash ﬂows   283
+10 Correct answer(s):
+    A     £20,000 paid
+                                                 TAX PAID
+
+                                                   £                                                  £
+        Cash paid                            20,000     b/fwd                                   10,000
+        c/fwd                               150,000     Tax expense                           160,000
+                                            170,000                                           170,000
+
+
+
+11 Correct answer(s):
+    D     £845,600
+
+                                                                                                      £
+    Cash ﬂows from operating activities
+    Proﬁt before tax                                                                           782,200
+    Finance costs                                                                               15,000
+    Movement in inventories (363,700 – 310,600)                                                 53,100
+    Movement in trade receivables (299,500 – 312,000)                                           (12,500)
+    Movement in trade payables (277,200 – 269,400)                                                7,800
+    Cash generated from operations                                                             845,600
+
+    Option A has used proﬁt for the period instead of proﬁt before tax. Option B has subtracted the
+    movement in inventories and in trade payables and added the movement in trade receivables.
+    Option C has incorrectly subtracted the ﬁnance costs instead of adding them back.
+
+
+
+
+    284     Accounting                                                                       ICAEW 2024

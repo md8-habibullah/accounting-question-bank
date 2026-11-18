@@ -1,0 +1,39 @@
+Anyover-provisionorunder-provision inprevious reportingperiods iscredited/debited in
+the currentreportingperiod's statement ofprofitor loss.
+Acompanyasaseparatelegalentity is liabletopaytaxon itsprofitstoCommissionerofTaxes
+itself:the liability is not thatof its owners.Tax is therefore treated as a deduction from profit.
+Anyoutstanding liabilityforunpaidtaxis shownas a liabilityonthe statementoffinancial
+8.1   Accountingfortax
+Differentmethods ofaccountingfortax (excluding VAT)canbeused,but in this Workbook a
+single tax payable ledgeraccount is used forboth theexpense in the statementof profit or
+lossandthe liabilityinthestatementof financial position,
+When atax liabilityarisesand is identified,thedoubleentry to record it is:
+DEBIT   Taxexpense (statementofprofit   CUX
+orloss)
+CREDIT   Tax payable account   CUX
+Whenataxpaymentismade:
+DEBIT   Tax payable account   CUX
+CREDIT   Cashatbank   CUX
+Attheendofthereportingperiod,anybalanceon thetaxpayableaccount is carried down.
+Usually this is a credit balance and is shown as Tax payable under current liabilities on the
+statementoffinancial position.
+Contextexample:Tax1
+Hardworkplc has estimated thatCU9o,000 ispayable intax ontheprofits earned in the year   CHAPTER
+ended31December20X1.Noneofthistaxhas beenpaid by thedate of thestatementof
+financial position.
+Thetaxwillbeaccountedforas follows:
+TAXPAYABLEACCOUNT
+CU   CU
+20X1   20X1
+Taxexpense
+Balanceld   90,000   90,000
+(statementofprofitor loss)
+90,000   90,000
+20X2
+00006
+Balanceb/d
+Sincea company's statementof profitorloss is usually prepared before thetaxdue is finally
+agreed withthe Commissionerof Taxes,the expense in the statementof prafitorloss is an
+estinate.Itnearlyalways provestobetoo high (over-provision)ortoo low (under-provision).
+Insteadofgoingback tothefinancialstatements forthe reporting period and changing them:
+ICAB2026   Companyfinanicialstatements   383

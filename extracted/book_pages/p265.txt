@@ -1,0 +1,38 @@
+Solution
+Aerobic HealthFoods Shop
+Statementofprofit or lossfor the years ended31December
+20X1   20X2   20X3
+CU   CU   CU   CU   CU
+Gross profit   27.000   45,000   60,000
+Expenses:
+Irrecoverabledebts
+writtenoff   8.000   10,000   7,000
+Increase/decrease in
+allowance for
+receivables*   1,000   250   (450)
+Otherexpenses   20,000   28,750   32,850
+(29,000)   (39,000)   (39,400)
+Profit/(loss)fortheyear   (2,000)   6,000   20,600
+*Wecalculatethe statement of profit or loss amount by:
+preparinga T-accountfortheallowance forreceivables;
+carrying downthefigure that we require atthe end ofeach reporting period'sstatement
+offinancialpositionand
+treating the balancing figure inthe reporting period as thecharge or credit required in
+the statementof profit orlossforthatreporting period.
+ALLOWANCEFORRECEIVABLES
+CU
+31.12.X1lrrecoverable
+31.12X1Balancec/d   1,000   debts expense   1,000
+1,000   1,000
+1.1.X2Balanceb/d   1,000
+31.12.X2lrrecoverable
+31.12.X2Balancec/d   1.250   debts expense (balfig)   250
+CHAPTER
+1,250   1,250
+31.12.X3 Irrecoverabledebts   450   1.1.X3 Balanceb/d   1,250
+expense (balfig)
+800
+31.12.X3Balancec/d
+1250   1,250
+1.1.X4 Balanceb/d   800
+ICAB2026   Irrecoverabledebts and the allowancefor receivables   255

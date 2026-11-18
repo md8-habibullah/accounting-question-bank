@@ -1,0 +1,29 @@
+TRADERECEIVABLES
+CU   CU
+Sales   5,800   Cashatbankaccount   3,200
+OTHER EXPENSES
+CU   CU
+Cashatbankaccount   006
+Next,theaccounts arebalanced offas shownbelowsoatrial balance canbeprepared.In a
+computerisedaccountingsystemthiswouldhappenautomatically.
+Theledgeraccountswill nowlookasfollows:
+CASHATBANKACCOUNT
+Capital   2,000   Trade payables   3.600
+Tradereceivables   3.200   Non-current assets   1,500
+Balance d   800   Other expenses   900
+6,000   6.000
+Balance b/d   800
+*A creditbalanceb/d onthecash atbank ledgeraccountmeansthatthis cash item isa liability,
+notan asset.This indicatesa bank overdraftof CU800.
+CAPITAL
+CU   CU
+Balance dd   2,000   Cashatbankale   2,000
+2.600   2,000
+Balanceb/d   2,000
+TRADEPAYABLES
+CU   CU
+Cashatbankalc   3,600   Purchases   4,300
+Balancecld   700
+4,300   4.300
+Balanceb/d   700
+158   Accounting   ICAB2026

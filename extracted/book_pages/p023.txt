@@ -1,0 +1,46 @@
+Accountantsplayakeyroleinmeasuring,analysingandreportingonentitiesimpactonthe
+environment and socielyand analysing howthese issues impact the entity.
+3.3   Laws,regulation and guidance
+Someorganisations havedeveloped guidance around thedisclosureof sustainability
+information;however,a lack ofmandatory standards andthe rangeofguidancehas ledto
+inconsistencyinwhattypeofinformation isdisclosed,howitisdisclosedandhowit linksto
+'traditional'accountingandmeasuresofcorporatevalue.
+Governmentsare employing a widerange oflaws andregulations tointernaliseexternal
+environmental costs and incentivise organisations and individualsto act ina more sustainable
+wayEffectiveoperationof lawsandregulationsrequires reliableinformationregardingthe
+subject material and thecurrentregulations.
+Therearea numberofbodies,forexamplethe Taskforce on Climate-related Financial
+Disclosures(TCFD),the ISSBandthe Giobal Reporting Initiative(GRi)whohave issued
+guidanceandrepontson sustainabilitydisclosures.Some arebestpractice,somewil become
+mandatory.
+3.4   The IsSBand SustainabilityDisclosure Standards
+TheISSBwasformedbytheIFRSFoundationin2021withresponsibilityfordevelopingasetof
+sustainabilitydisclosurestandards (IFRS SustainabilityDisclosureStandards)whichwill
+complementtheexistingIFRSAccountingStandards
+TheISsB comprisesmembersfroma rangeofprofessionalbackgrounds andgeographical
+areaswho haveexperience and expertiserelevantto sustainability.
+The aim ofthe IFRS SustainabilityDisclosure Standards isto provide high-quality,transparent
+andcomparable informationrelatingto sustainability in.theirannual.reportand sustainability
+disclosures whichare focused on theneeds of investors and thefinancial markets.
+The intention isfortheISSBtocovera rangeofsustainabilitytopicson whichinvestors want
+information,Ithasbegun with the climaterelated disclosures duetothe urgencyregarding
+climate-relatedmatters.However,a generalrequirements standard has also been draftedto
+enable companiestodisclosea complete setofsustainability-related financialdisclosuresforal
+significant sustainability-related risksandopportunities.
+TheSSB initiallybuilt onthe workofexisting organisations whichhave issued guidanceon
+voluntarydisclosuresrelatingtosustainability and value creation,Building onthe workof
+others,includingtheTCFD,gavetheISSBa running startwhenitcametodevelopingand
+issuing IFRS Sustainability Disclosure Standards.
+DraftFRSSustainabilityDisclosure Standardswereissuedforpublicconsultationin2022,with
+thefirsttwostandardsissued in2023.
+There aretwo fundamentaf aspects to sustainability reporting:
+one is companiesreportinghowtheirbusiness positively ornegativelyaffects
+environmental,societal,andgovernanceissues-'impacts"
+the otheris consideringhowthesefactors affecta company'sfinancialstatements andtheir
+abilitytomaintainvalue-dependencies'
+Examplesfmpactsincludeworkerrights,humanrightshealthandsafetypolicywa
+greenhouse gas emissions, water usage,land usage and biodiversity.
+TheISSBhasno autharitytomandatetheapplication ofIFRS SustainabilityDisclosure
+Note:An organisation's impacts can also be financially materialdue to reputational impacts
+suchas reduced consumerdemandorremovalof licenseto operate.
+Accounting   ICAB2026

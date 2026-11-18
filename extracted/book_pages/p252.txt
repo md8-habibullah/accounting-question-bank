@@ -1,0 +1,38 @@
+CU
+80@CU25-   2,000
+50@CU22-   1,100
+10@CU20-   200
+3.300
+Soprofitis(CU3,110-CU3,300)-CU190moreunderFiFO
+6Correctanswer(s):
+BCU28,000
+Closing inventory-600+800-500-400-200-300units CostofinventoryonanAVCO
+basis
+Date of purchase   Total cost
+Units   CU per unit
+Opening inventary   600   20.00   12.000
+2Feb   (500)   20.00   (10,000)
+100   2.000
+13Feb   800   3125   25,000
+006   30.00   27,000
+Opening inventory   12,000
+Purchases(800×CU31.25)   25,000
+Clasinginventory(300xCU30.00)   (9,000)
+Cost of sales   28,000
+7.Correctanswer(s):
+BAnincreaseofCU1,000
+Itshouldnowbeincluded inclosinginventoryatCU1,000(lowerofcostandNRV).Thiswill
+increaseprofitbyCU1.00o.
+8 Correct answer(s)
+D2,100
+Lowerofcostand NRy
+Xat.cost(100×1.50)   150
+YatNRV(200×(8.00-2.00)   1,200
+ZatNRV(250×(3.50-0.50))   750
+2,100
+9Correctanswer(s):
+DCU1.95
+Inventoryvaluation-Lowerof:
+Cost   CU2.50
+Netrealisablevalue (selling price lessdiscount lessrepackaging cost)   CU1.95
+Accounting   ICAB2026

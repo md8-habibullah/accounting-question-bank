@@ -1,0 +1,37 @@
+4.1   Accountingfordepreciation
+There aretwo basic aspects ofaccountingfordepreciation to remember:
+Adepreciationchargeismadeinthe statementof profitorloss ineachreportingperiod
+foreverydepreciablenon-currentasset.Nearly all non-currentassets aredepreciable,the
+mostimportantexceptionbeingfreehald land.
+Thetotal accumulated depreciation on a non-current assetbuilds up as the asset gets
+older.Thetotalaccumulateddepreciation is alwaysgettinglarger,untilthenon-current
+assetisfullydepreciated.
+Accountingfordepreciation is asfollows:
+Set up an accumulated depreciation account for each separate category ofnon-current
+asset,forexampleplantandmachinery.land andbuildings,fixtures andfittings,motor
+vehicles,
+With the depreciation chargeforthe period:
+DEBIT   Depreciation expense (statementofprofitor loss)   CUX
+CHAFTER
+CREDIT Accumulated depreciation account (statementoffinancial position)   CUX
+Thebalance on theaccumulateddepreciation accountis thetotal accumulated
+depreciation,This is always a credit balance brought forward in the ledger account.
+The non-current asset costaccounts are unaffected bydepreciation.
+10
+Inthestatementoffinancial position,thebalanceontheaccumulateddepreciation
+account is setagainst thenon-currentassetcost accountstoderive the carrying amount of
+thenon-currentassets.
+This ishow the non-current assetcost,accunulated depreciationand depreciation charge
+accounts mightappearin atrial balance:
+DR   CR
+Freeholdbuilding-cost   2,000,000
+Freeholdbuilding-accumulateddepreciation
+(CU20,000currentreportingperiod)   500,000
+Motorvehicles-cost   70,000
+Motorvehicles-accumulateddepreciation (CU15,000.current
+reportingperiod)   40.000
+Right-of-useasset-.cost   25,000
+Right-of-useasset-accumulated depreciation (CU3,000 current
+reportingperiod)   15,000
+Depreciationexpense(20.000+15,000+3,000)   38.000
+ICAB2026   Nan-curtentassets,depreciaticnand impairment   325

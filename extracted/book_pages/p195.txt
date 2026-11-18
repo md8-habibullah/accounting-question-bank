@@ -1,0 +1,33 @@
+1.2Adjust thecash atbankaccountand preparethebankreconiiation.
+See Answerat theend of this chapter.
+Interactivequestion 2:Bankreconciliation ll
+Tilfer'sbank statementshows CU715directdebitsand CU353finariceincomewhichhavenot
+been automatically recorded by the computerised accounting system and are therefore not
+included in the cash atbankaccount.The bank statement does not show a receipt froma
+customerfor CU875 entered in the cash atbank account on the last.day of the reporting
+period.Thecashatbankaccounthasacredit balanceof cU610.
+Requirement
+What balance is shown on the bank statement? See Answer at the end of this chapter.
+CHAPTER
+Types of errorin accounting
+Section overview
+Errorscanbeclassifiedas:transpositionerrors,errorsofomission,errorsofprinciple
+errors ofcommissionand compensatingerrors.
+Asaccounting softwarepackagesbecomeincreasingly sophisticated,theriskandoccurrence
+of errors is decreased.Itremains important howeverforan accountantto beableto identify
+and correcterrors intheaccountingsystem.
+There are fivebroadtypes oferrorasfollows:
+transpositionerrors
+errorsofomission
+errorsofprinciple
+errorsofcommission
+compensatingerrors
+Once an errorhas been detected, it needs to be put right via a journal entry.
+3.1   Transpositionerrors
+Definition
+Transposition errors:When two digits in an amount are accidentallyrecorded the wrong way
+round.
+Asale Is credited inthe sales accountandtradereceivables as CU6,843,butthe amount
+should havebeen CU6,483.Thedebits and credits will still beequal but will bestated at
+the wrong amount.
+ICAB2026   Errors andcorrectionstoaccountingrecordsand financial statements   185

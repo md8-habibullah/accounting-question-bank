@@ -1,0 +1,35 @@
+Thepro-formafortheinvestingactivitiessection isasfollows
+Cashflows from investing activities   CU
+Purchaseof property.plant and equipment   (x)
+Purchase of intangible assets   (X)   OIAPFER
+Proceedsfrom saleofproperty.plantand equipment
+Proceedsfrom saleofintangibleassets
+Interestreceived
+Netcashfrom/(used in)investingactivities   X/(X)   13
+Workedexample:Cashflowsfrominvestingactivities
+Pearl plcacquireda new green'factoryin theyearto30 June20x6fora costofCU805,000.It
+sold its aldfactoryforCU425,000.Italsoreceived interestonsurplus fundsofCU350,000.
+Requirement
+Calculatenetcashflowsfrorninvestingactivities.
+Solution
+Cash flows from investing activities   CU
+Purchaseof property.plantand equipment   (805.000)
+Proceedsfromsaleofproperty.plantandequipnent   425.000
+Interestreceived   350,000
+Net cash used in investing activities   (30,000)
+2.10   Cashflows from financingactivities
+This sectiorv of the statementof cash flows shows the share ofcash which the entity's capital
+Providers have claimed during the period.This is an indicator of likely future interest and
+dividend payments.The standard gives thefollowing examples ofcash flows which might arise
+under this heading.
+Cashflowsfrom financing activities   CU
+Proceeds from issue of shares
+Movementinborrowings   X(X)
+Dividends paid
+Netcashfrom/(usedin)financingactivities   X(X)
+2.11   Cash receivedfrom issuingshares
+The amount of cash received from new issues of shares can usually be calculated from the
+opening and closing statement offinancial position figures forshare capital and share premium,
+adjustedtotakeaccountofbonusissuesof.shares.
+As a general rule:
+ICAB2026   Statementofcashflows   453

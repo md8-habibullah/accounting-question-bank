@@ -1,0 +1,37 @@
+Current liabilities
+Trade and otherpayables   1,896
+income tax payable   750
+2.646
+Total equity and liabilities   6.795
+Format plc
+Statementofchanges in equityfortheyearended31December20x2
+Equity share   Preference   Retainedeamings
+capital   share capital   Total
+CU'000   CU000   CU'000   CU000
+Balanceas at1 January20x2   800   200   1,100   2.100
+Bonusissueof share.capital   100   (100)
+Profit/(ioss)fortheyear   1,049   1.049
+Balanceasat31December
+20X2   900   200   2.049   3,149
+WORKINGS
+(1)Analysisofexpenses
+Distribution   Admin
+Cost of sales   costs   expenses
+CU'000   CU'000   CU'000
+Pertrial balance   5,055
+Administrativeexpenses   1,220
+Salaries   300   275
+Distribution costs   891
+Delivery inwards   100
+5,455   891   1,495
+(2)
+RETAINED EARNINGS
+CU'000   CU'000
+Share capital (bonus)   100   Balance b/d   1,100
+Profitfortheperiod
+Balanceld   2,049   (statementofprofitorloss)   1,049
+2,149   2,149
+12
+Note:The retained earnings column in the statementofchangesin equity is simply the
+Informationfromtheretained earnings Taccountpresented inacolumnarformat.
+ICAB2026   Companyfinancialstatementsunder IFRSAccounting Standards   419

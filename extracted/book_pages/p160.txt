@@ -1,0 +1,42 @@
+Requirements
+Preparean initial trial balance showing thebalancesas at the end of31.3.X7.
+(a)Preparetheadjustmentjournalsforthetransactionson31.3.X7
+(b)Preparethefinaltrial balanceat31.3.X7
+Solution
+To preparean initial trial balance we split the originalbalances into debit and credit balances.
+Youneedtouseyourknowledgeofassets,capital,liabilities,expensesandincomeforthis.
+Debit   Credit
+Bankloan   12.000
+Cashatbank   11,700
+Capital   13,000
+Rent
+Trade payables   11,200
+Purchases   12.400
+Sales   34,600
+Otherpayables   1,620
+Tradereceivables   12,000
+Bank loaninterest   1,400
+Otherexpenses   11,020
+Non-current assets   22,020
+72.420   72,420
+(e)
+CU
+DEBIT   Purchases   1,000
+CREDIT   Cashatbank   500
+Trade payables   500
+DEBIT   Cashatbank   240
+Trade receivables   800
+CREDIT   Sales   1,040
+DEBIT   Otherexpenses   260
+CREDIT   Cashatbank   260
+(b)
+CU   CU
+Bank loan   12,000
+Cash.atbank(11,700+240-500-260)   11.180
+Capital   13,000
+Rent   1,880
+Tradepayables(11,200+500)   11,700
+Purchases(12,400+1,000)   13.400
+Sales(34,600+1,040)   35,640
+Otherpayables   1,620
+150   Accounting   ICAB2026

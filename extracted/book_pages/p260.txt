@@ -1,0 +1,37 @@
+Suppose it is discovered that an invoice for servicesrendered to a custonerfor CU300 is
+nevergoing to be paid.Theneteffectof theway we accountforthis as follows:
+Revenue (in thestatementofprofitorloss)   300
+Irrecoverabledebis expense (administrativeexpense)   (300)
+Overall,however,aloss ismadeonthetransaction sincetheentityhas incurredcostsin
+rendering the service,and thesewill notbe recoveredThebusiness has also foregone the
+profititcould havemade onthetransaction in selling thegood orservicetoadifferent
+customer.
+Whenadebtis writtenoff,thevalue of.thereceivableas a currentasset is zero.lt isno longer
+recognised asan assetbecauseit no longerhas the potential to produce economicbenefits
+forthebusiness and therefore doesnotmeet theConceptual Framework definition of an
+asset.
+Professional skills focus:Assimilating andusinginformation
+Anaccountantmustuse information.aboutits credit customerstodeterminewhetheradebt
+is irrecoverable.This informationmaybeformallyprovidedbythe creditcustamer's
+liquidatororadministratorormaybemoregenerallyconfirmed bya publicnoticethatthe
+credit customer has entered into administration.
+1.1.1   rrecoverabledebts writtenoff and subsequentlypaid
+An irrecoverabledebt whichhas been written offmightbeunexpectedlypaid.Whetherit is
+paid in the samereportingperiodora subsequentperiod,the entry is:
+DEBIT   Cashat bank   CUX
+CREDIT   Irrecoverabledebtsexpense   CUX
+Wedonotneedto credittradereceivables as thishasalreadybeendonewhenthedebtwas
+initiallywrittenoff.
+Worked example:lrrecoverabledebts subsequentlyreceived
+1.Ar1December20x6,Guernsey's financialstatementsincludedatradereceivable
+totallingCU500in respectofitscreditcustomerAlderney.On31December20X6,
+Guernseyreceived an emailfromAlderney's lawyerstoadvisethat it was bankruptand
+was unlikely tobeable to paythe debt.
+Requirement
+Preparethe journalentrytowriteoff thedebtofAlderneyat31December20x6.
+2On12February20x7,Guernseyunexpectedly receiveda paymentofCU200from
+Alderney in respectof its debtThepayment was accompanled byanemail statingthat
+this was the only and final paymentthat would be made.
+Requirement
+Prepare the jourmal entry to record the payment received.
+250   Accounting   ICAB2026

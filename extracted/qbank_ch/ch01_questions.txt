@@ -1,0 +1,269 @@
+    Chapter 1: Introduction to accounting
+1   Which of the following best explains the term ‘capital expenditure’?
+    Capital expenditure is expenditure:
+    A   on non-current assets, including repairs and maintenance
+    B   on expensive items over £10,000
+    C   on the acquisition of non-current assets, or improvement in their earning capacity
+    D   on items relating to owners’ capital
+                                                                                                           LO 1d
+
+
+2   Which of the following should be accounted for as capital expenditure?
+    A   The annual cost of painting a factory ﬂoor
+    B   The repair of a window in a building
+    C   The purchase of a vehicle for re-sale by a car retailer
+    D   Legal fees incurred on the purchase of a building
+                                                                                                           LO 1d
+
+
+3   Which of the following transactions should be treated as capital expenditure in the ﬁnancial
+    statements of Sydney, sole trader?
+    A   £500 taken by Sydney to buy a music system for personal use
+    B   £800 spent on purchasing a new laptop to replace the secretary’s old one
+    C   £2,000 on purchasing a machine for resale
+    D   £150 paid to a painter for redecorating his ofﬁce
+                                                                                                           LO 1d
+
+
+4   Which of the following is an aspect of relevance, according to the IFRS Foundation’s Conceptual
+    Framework for Financial Reporting (the Conceptual Framework for Financial Reporting)?
+    A   Neutrality
+    B   Free from error
+    C   Completeness
+    D   Materiality
+                                                                                                           LO 1a
+
+
+5   According to the Conceptual Framework for Financial Reporting, which of the following are
+    enhancing qualitative characteristics?
+    A   Comparability, understandability, timeliness, veriﬁability
+    B   Consistency, prudence, measurability, veriﬁability
+    C   Consistency, reliability, measurability, timeliness
+    D   Materiality, understandability, measurability, reliability
+                                                                                                           LO 1a
+
+
+
+
+    ICAEW 2024                                                             1: Introduction to accounting       1
+6   In relation to the business of a sole trader, which two of the following does the government and its
+    agencies need to be able to do?
+    A   Establish levels of tax revenue
+    B   Assess whether the business will continue in existence
+    C   Produce national statistics
+    D   Assess the owner’s stewardship
+    E   Take decisions about their investment
+                                                                                                         LO 1a
+
+
+7   Information about an entity’s assets and liabilities at a point in time is primarily provided in:
+    A   the statement of proﬁt or loss
+    B   the statement of ﬁnancial position
+    C   retained earnings
+    D   the statement of cash ﬂows
+                                                                                                         LO 1a
+
+
+8   According to the Conceptual Framework for Financial Reporting, information on which two of the
+    following areas can help users identify the reporting entity’s ﬁnancial strengths and weaknesses?
+    A   The economic resources it controls
+    B   Its ﬁnancial performance in the past                       ... because help to assess the company's liquidity
+    C   The demographic structure of the local economy
+    D   The claims on an entity’s resource (the entity’s liabilities)
+    E   Its management structure
+                                                                                                         LO 1a
+
+
+9   According to IAS 1, Presentation of Financial Statements which two of the following are objectives of
+    primary ﬁnancial statements?
+    A   To show the results of management’s stewardship of the resources entrusted to it
+    B   To provide a basis for valuing the entity
+    C   To provide information about the ﬁnancial position, ﬁnancial performance and cash ﬂows of an
+        entity that is useful to a wide range of users in making economic decisions
+    D   To facilitate comparison of ﬁnancial performance between entities operating in different
+        industries
+    E   To assist management and those charged with governance in making timely economic decisions
+        about deployment of the entity’s resources
+                                                                                            LO 1a
+
+
+
+
+    2     Accounting                                                                                ICAEW 2024
+10 Information is relevant if it is capable of making a difference in the decisions made by users.
+   According to the Conceptual Framework for Financial Reporting, ﬁnancial information is capable of
+   making a difference in decisions if it has which of the following?
+    (1) Predictive value
+    (2) Comparative value
+    (3) Historic value
+    (4) Conﬁrmatory value
+    A   1 and 3 only
+    B   2 and 4 only
+    C   1 and 4 only
+    D   2 and 3 only
+                                                                                                         LO 1d
+
+
+11 The accounting principle which, in times of rising prices, tends to understate asset values and
+   overstate proﬁts, is:
+    A   going concern
+    B   accruals
+    C   consistency
+    D   historical cost
+                                                                                                         LO 1d
+
+
+12 Which of the following statements about accounting concepts and the characteristics of ﬁnancial
+   information is correct?
+    A   Financial statements are required to give a true and fair view. These terms have clear deﬁnitions
+        which are included in IAS 1, Presentation of Financial Statements.
+    B   The historical cost concept means that only items capable of being measured in monetary terms
+        can be recognised in ﬁnancial statements.
+    C   It may sometimes be necessary to exclude information that is relevant and reliable from ﬁnancial
+        statements because it is too difﬁcult for some users to understand.
+    D   A speciﬁc disclosure requirement of an IFRS Accounting Standard need not be satisﬁed if the
+        information is immaterial.
+                                                                                                 LO 1d
+
+
+13 Listed below are two comments on accounting conventions.
+    (1) According to the Conceptual Framework for Financial Reporting, ﬁnancial information must be
+        either relevant or faithfully represented if it is to be useful. ... must be both
+    (2) Materiality means that only items having a physical existence may be recognised as assets.
+    Requirement
+    Which, if either, of these comments is correct?
+    A   1 only
+    B   2 only
+    C   Both of them
+    D   Neither of them
+                                                                                                         LO 1d
+
+
+
+
+    ICAEW 2024                                                           1: Introduction to accounting       3
+14 Which of the following is the best description of fair presentation in accordance with IAS 1,
+   Presentation of Financial Statements?
+    A   The ﬁnancial statements are accurate.
+    B   The ﬁnancial statements are as accurate as possible given the accounting systems of the
+        organisation.
+    C   The directors of the company have stated that the ﬁnancial statements are accurate and correctly
+        prepared.
+    D   The ﬁnancial statements are reliable in that they faithfully reﬂect the effects of transactions, other
+        events and conditions.
+                                                                                                         LO 1d
+
+
+15 Which of the following deﬁnitions of the going concern concept in accounting is consistent with the
+   deﬁnition given in IAS 1, Presentation of Financial Statements?
+    A   The directors do not intend to liquidate the entity or to cease trading in the foreseeable future.
+    B   The entity is able to pay its debts as and when they fall due.
+    C   The directors expect the entity’s assets to yield future economic beneﬁts.
+    D   Financial statements have been prepared on the assumption that the entity is solvent and would
+        be able to pay all creditors in full in the event of being wound up.
+                                                                                                  LO 3b
+
+
+16 According to IAS 1, Presentation of Financial Statements, compliance with IFRS Accounting Standards
+   will normally ensure that:
+    A   the entity’s inventory is valued at net realisable value
+    B   the entity’s assets are valued at their break-up value
+    C   the entity’s ﬁnancial statements are prepared on the assumption that it is a going concern
+    D   the entity’s ﬁnancial position, ﬁnancial performance and cash ﬂows are presented fairly
+                                                                                                   LO 1d, 3b
+
+
+17 The directors of Lagon plc wish to omit an item from the company’s ﬁnancial statements on the
+   grounds that it is commercially sensitive. Information on the item would inﬂuence the users of the
+   information when making economic decisions.
+    Requirement
+    According to IAS 1, Presentation of Financial Statements, the item is said to be:
+    A   neutral
+    B   prudent
+    C   material
+    D   understandable
+                                                                                                       LO 1a
+
+
+
+
+    4     Accounting                                                                             ICAEW 2024
+18 The International Sustainability Standards Board (ISSB) was established in 2021 and will issue IFRS
+   Sustainability Disclosure Standards.
+    Requirement
+    Which of the following statements regarding sustainability reporting is true?
+    A   There is a legal requirement for UK companies to disclose information relating to sustainability in
+        their ﬁnancial statements.
+    B   The ISSB will initially focus on climate-related disclosures.
+    C   The IFRS Sustainability Disclosure Standards will replace IFRS Accounting Standards.
+    D   There has not previously been any guidance issued relating to the disclosure of sustainability
+        information.
+                                                                                                    LO 1a
+
+
+19 Which three of the following are fundamental principles of the IESBA Code of Ethics for Professional
+   Accountants?
+    A   Integrity
+    B   Objectivity
+    C   Independence
+    D   Conﬁdentiality
+    E   Courtesy
+                                                                                                         LO 1b
+
+
+20 Which of the following statements is correct?
+    A   The ICAEW Code of Ethics applies to its members only.
+    B   The ICAEW Code of Ethics applies to its members and employees of member ﬁrms only.
+    C   The ICAEW Code of Ethics applies to its members, employees of member ﬁrms and ICAEW
+        students.
+    D   The ICAEW Code of Ethics applies to its members, employees of member ﬁrms, ICAEW students
+        and all other members of UK accountancy bodies.
+                                                                                            LO 1b
+
+
+21 Which of the following statements best describes ethical guidance in the UK?
+    A   Ethical guidance provides a set of rules which must be followed in all circumstances.
+    B   Ethical guidance is a framework containing a combination of rules and principles, the application
+        of which is dependent on the professional judgement of the accountant based on the speciﬁc
+        circumstances.
+    C   Ethical guidance provides a set of principles which can be applied at the discretion of the
+        accountant.
+    D   Ethical guidance is a series of legal requirements.
+                                                                                                         LO 1b
+
+
+22 There are two main approaches to a code of professional ethics: a rules-based ethical code and a
+   code based upon a set of principles.
+    Indicate whether the following statements are true or false.
+
+
+
+
+    ICAEW 2024                                                           1: Introduction to accounting       5
+    Requirements
+    A code based upon a set of principles requires a professional accountant to comply with a set of
+    speciﬁc rules.
+    A   True
+                         ...if principle based then no rules to follow
+    B   False
+    A rules-based code requires a professional accountant to identify, evaluate and address threats to
+    compliance with fundamental ethical principles.
+    C   True
+                       ... if rules based then no need to make judgement
+    D   False
+    The ICAEW uses a rules-based approach.
+    E   True                ... principle based
+    F   False
+                                                                                                    LO 1b
+
+
+23 Which of the following is not a beneﬁt to users of sustainability disclosures in ﬁnancial statements?
+    A   To assess whether published ESG targets have been met
+    B   To assist in understanding how the entity can create long term value
+    C   To provide information which is directly comparable with other companies disclosures
+    D   To provide a more comprehensive view of the company’s performance
+
+
+
+
+    6     Accounting                                                                           ICAEW 2024

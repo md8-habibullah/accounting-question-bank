@@ -1,0 +1,38 @@
+3.5   Reviewing and changing thedepreciation method
+As wehavenoted above,depreciation is anarea of significant judgement,As suchitmaybe
+appropriatetochangethedepreciationmethod,theusefulifeortheresidualvalueifnew
+informationbecomesavailable.
+Thedepreciation method used should be reviewed annuallyforappropriateness. If there are
+any changes in the expected pattern ofuse ofthe asset (and hence economicbenefit),then
+the method used should be changed.The remaining carrying amount is depreciatedunder
+the new method, ie,only current and futureperiods areaffected When the basis of
+depreciation is changed, the effect on current and future periods should be quantified and
+disclosedinthefinancial statements,and thereason forthechange shouldbestated.
+Workedexample:Changeinmethodofdepreciation
+Jakob CopurchasedanassetforCU100,000on1.1.X1.Ithad an estimated useful lifeoffive
+years,and it wasdepreciated using the reducing balance method ata rate of40%.On 1.1.X3 it
+was decided to change thedepreciation method to straight line.There was no changeto the
+useful life,andno residual valueisanticipated.
+CHAPTER
+Requirement
+Show the depreciation charge foreach year (to 31 December)ofthe asset's life.
+Solution
+DepreciationAccumulated   10
+Year   charge   depreciation
+CU   CU
+20X1   CU100.000×40%   40,000   40,000
+20X2   CU60.000×40%   24,000   64,000
+CU100.000-CU64,000
+20X3   3 remainingyears   12,000   76,000
+20X4   12000   88,000
+20X5   12.000   100,000
+Interactivequestion3:Changeindepreciationmethod
+Fordeplcprepares its financial statements forthe12-monthreportingperiodto31December
+eachyear.On1January20x0 itboughtamachineforCU100,000anddepreciateditat10%per
+annum on the reducing balance basis.
+On31December20X3,the machine will be included inForde plc'sfinancial statementsat:
+CU
+Cost.   100,000
+Accumulateddepreciation(10,000+9.000+8,100+7290)   (34,390)
+Carrying amount   65,610
+ICAB2026   Non-currentassets,depreciation and impairment   323

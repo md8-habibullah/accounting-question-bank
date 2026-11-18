@@ -1,0 +1,35 @@
+Earlysettlement   Donot deducttheamount of the   Do not deductthediscountwhen
+discountisnot   discount when recording the recording the expenise and payable.
+expectedtobe   revenue and receivable.   If the discount is unexpectedlytaken
+taken   Ifthediscount is unexpectedly   reduce the expense and payable
+taken,reduce the revenue and   accordingly.
+receivable accordingly.
+Trade discounts should be deducted before any cash discount is calculated.
+Interactivequestion4:Discountsl
+Soft Supplies Co recentlypurchased from Hard Imports Co10printers originallypricedat
+CU200 each.A10%tradediscountwas negotiatedtogetherwith a5% early settlement
+discountifpayment ismade within14days.It is expectedthatadvantage oftheearly
+settlementdiscount will be taken.
+Requirements
+4.1Calculatethetotal ofthetradediscount
+4.Z Calculate the total ofthe early settlement discount See Answerat the end of this chapter.
+Interactivequestion5:Discounts ll
+Youarerequiredtopreparethestatementofprofit or loss of SeesawTimberMerchantsforthe
+year ended 31March20X6,given thefollowing information.
+Purchases at gross cost   120,000
+Trade discounts received   4,000
+Cashdiscountsreceivedfromsuppliers   1,500
+Cash sales   34,000
+Credit sales at invoice price   150,000
+Cashdiscountsprovidedtoandtakenbycustomers   8,000
+Distribution costs   32,000
+Administrative expenses   40,000
+You shouldignore VAT.
+See Answeratthe endof this chapter.
+AccountingforVAT
+Section overview
+Standing data in computerisedaccounting systems will includeabusiness'VAT
+registration numberand applicableVATrates.This informationisusedtoautomatically
+calculate and record VATon invoices.Acomputerisedaccounting.system.will alsosuppoit
+accuraterecordkeepingfor VATpurposes.
+128   Accounting   ICAB2026

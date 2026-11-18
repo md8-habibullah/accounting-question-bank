@@ -1,0 +1,41 @@
+Statementofcashflows (IAS7)
+Sectionoverview
+CHAPTER
+Thestatementof cashflows showsmovements incashand cash equivalents.
+Bothlistedand unlisted companies arerequiredtoproduce a statementofcash flows.
+The statementof cash flows isa useful additionto the financial statements because
+accountingprofitisnottheonlyindicatorofperformance.
+The statement of cash flows concentrates on thesources and uses ofcashandis a useful   13
+indicatorof liquidityandsolvency.
+1.1   IAS7,StatementofCashFlows
+The objectiveof tAs7,Statement of CashFlows istoprovidehistorical informationabout
+changes in cash and cash equivalents,classifyingcashfiows as operating,investingand
+financing activities.This will provide information to users of financial statementsaboutthe
+entity's ability to generate cash and cash equivalents, as well as indicating the cash needs of
+theentity.
+IAs7sets outthe structureofa statement ofcash flowsand it sets the minimumlevel of
+disclosure.lntheexam you maybe askedto prepare statementof cash llowsusingthe pro
+formaprovided intheexam.software.ln ordertopreparethestatementofcashflows,youwill
+beprovidedwithfinancial information,usuallyintheformofthestatementofprofitorlossand
+statement offinancial positionand youwill be givensome additional informationabout
+transactions that arerelevantwhen calculating the correct amounts forinclusion in the pro.
+forma.
+Most computerised accountingsystems canautomaticallyproducea statementofcash flows
+as oneoftheprimary financialstatements ofabusiness.It is,however,importantthatan
+accountantcan understand the underlying approachto preparing the statement ofcash flows
+andhowtoidentifycashmovementsfromtransactions.
+1.2   PurposeofIAs7
+IAS7beginswiththefollowingstatement.
+'information aboutthe cashflows ofanentity is useful inprovidingusers offinancial statemients
+with a basis to assess the ability of the entity to generate cash and cash equivalents and the
+needsoftheentitytoutilisethosecash flows.(lAs7,Objective)
+Ithas been argued that'profit does notalways givea useful ormeaningful pictureofa
+company's operations The users ofa company's financial statements mightevenbemisled by
+areported profitfigure.Considerthe following:
+(a)Shareholdersmightbefievethat ifa companymakesa profitforthe yearof,say.
+CU100,000 then this is theamount which it could afford topayas a dividend.Unlessthe
+companyhas sufficientcash availableto stay inbusiness andalso to paya dividend,the
+shareholders'expectations would be wrong.
+(b)Employeesmightbelieve that ifa companymakes profits,itcan afford to payhigher wages
+avallabilityofcash.
+ICAB2026   Statementof.cashfiows   443

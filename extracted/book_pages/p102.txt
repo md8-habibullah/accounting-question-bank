@@ -1,0 +1,39 @@
+Informationusuallyshownonan.involceincludesthefollowing:
+invoicenumber
+nameandaddress of sellerandpurchaser
+sale date
+product/service description
+quantityandunit priceofwhat has been sold(eg.20pairs of shoes at Cu25apair)
+details oftradeorbulk discount,ifany(eg,10%reduction in cost ifbuying over100pairs
+ofshoes)and anyearlysettlement(cash)discountofferedforpaymentbyan agreeddate
+total invoiceamountincludingVATdetails,ifappropriate
+the datebywhichpayment is due,account detalls forthetransferoffundsand otherterms
+of sale
+a remitance advice slipmayalso be included if settlement bycheque is permitted.The
+customer willincludetheremittanceadvice slipwith their payment so thatthe seller can
+identifywhatoutstanding amounts arebeing settledby thepayment.
+2.6   Creditnotes
+Suppose Creative Suppliessentoutasales invoice toa customer for20 dinnerplates,butthe
+bookkeeperresponsibleforcreatingtheinvoiceaccidentallyinputin.atotalofCU162.10,
+insteadof
+CU62.10.The customer has been overcharged by CU100.What are Creative Suppliesto do?
+Anothercustomer received 15plates from Creative Supplies but found thatthey had all been
+broken in thepost.Althoughthe customerhasreceivedaninvaicefor,say.CU45.6o,ithasno
+intentionofpaying itbecausetheplates weresubstandard,Again,whatisCreative Suppliesto
+do?
+TheansweristhatCreative Suppliessends out creditnotesto its customers,Itwillbemadeout
+inthesamewayas an invoice,butwitha'credit notenumber instead ofa'sales invoice
+number.
+Definition
+Credit note: Adocument issued to a customerrelating to returned goods,or refunds whena
+customerhas been overchargedfor whateverreason. It can be regarded as a negative invoice.
+Itisasourcedocumentforcredittransactions.
+2.6.1   Debitnotes
+Adebitnote mightbe issuedto asupplier asa means of farmallyrequestinga credit note
+fromthat supplier.Adebit noteis notasourcedocument.
+Interactivequestion2:Creditnote
+Fillintheblanks.
+Creative Supplies sends outa   toa creditcustomerinordertocorrectan error
+wherea customerhas been overchargedona
+SeeAnswerattheendofthis chapter.
+92   Accounting   ICAB2026

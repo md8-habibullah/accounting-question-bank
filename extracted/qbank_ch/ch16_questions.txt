@@ -1,0 +1,543 @@
+  Chapter 16: Practice exam
+1 Shindig plc
+  The following trial balance was extracted from the nominal ledger of Shindig plc, a computer game
+  developer, on 31 December 20X4. Shindig plc sells its games to individual and wholesale customers.
+
+                                                                                        £              £
+   Licence                                                                         60,000
+   Work in progress, 1 January 20X4                                              125,500
+   Buildings                                                                     220,000
+   Equity share capital – £1 nominal value                                                      500,000
+   Share premium                                                                                100,000
+   5% Preference share capital (redeemable) – £1 nominal value                                  120,000
+   Revenue                                                                                    1,705,600
+   Developer staff costs (charged to cost of sales)                              620,400
+   Accumulated depreciation on buildings, 1 January 20X4                                         60,000
+   Inventories of ﬁnished games, 1 January 20X4                                  155,600
+   Consultancy fees paid (charged to other operating expenses)                     44,000
+   Computer hardware and servers                                                 130,000
+   Accumulated depreciation on computer hardware and servers,
+     1 January 20X4                                                                              20,000
+   Income tax                                                                                    12,400
+   Equity dividend paid, 30 September 20X4                                       125,000
+   Allowance for receivables                                                                     18,765
+   Bank account                                                                  440,200
+   Trade receivables                                                             420,300
+   Trade payables                                                                                80,200
+   Raw materials                                                                 294,500
+   Suspense account                                                                83,765
+   Retained earnings, 1 January 20X4                                            –––––––         102,300
+                                                                               2,700,500      2,700,500
+
+  The following additional information is available:
+  (1) Closing ﬁnished inventories are valued at cost of £180,000 whilst work in progress has increased
+      to £140,000. These valuations do not take into account the fact that, at the year-end physical
+      inventory count, it was discovered that a range of games which had a total cost of £5,000 had
+      been subject to negative publicity and were expected to be sold for a signiﬁcantly reduced price
+      of £500 in total.
+  (2) The licence was acquired on 1 January 20X4 in respect of exclusive rights to sell games in a
+      speciﬁc market for a period of three years. If the company chose to do so, it could sell these
+      rights on without there being a signiﬁcant impact on the remainder of the business.
+  (3) Buildings are depreciated over 20 years. Computers are depreciated over ﬁve years. Both
+      depreciation and amortisation are charged to other operating expenses.
+  (4) Shindig plc received notice on 15 January 20X5 that one of its customers, X Limited, had gone
+      into liquidation. This customer owed £45,000 at the year-end which should be written off as an
+
+
+
+  ICAEW 2024                                                                      16: Practice exam    151
+      irrecoverable debt. Shindig plc determined that an allowance for receivables totalling £18,765
+      was required. There was no allowance for receivables in the prior year. The credit entry has been
+      correctly recorded but the debit entry has been made to the suspense account. Irrecoverable
+      debts are charged to other operating expenses.
+(5) There is an estimated income tax bill in relation to 20X4 of £120,000. The income tax ﬁgure in
+    the trial balance (a credit balance) represents the difference between the income tax payable
+    balance at 31 December 20X3 and the income tax paid in the year.
+(6) During the year, Shindig plc made a 1 for 4 bonus issue of equity shares from share premium.
+    The correct entry has been made to share capital, however the corresponding entry has been
+    made to the suspense account.
+(7) An electronic payment was issued to a supplier in the amount of £5,000 on 31 December 20X4.
+    This was not recorded in the accounting records of Shindig plc until 1 January 20X5.
+(8) There has been a lot of publicity surrounding Shindig plc’s newest game, ‘Warpaint’, which is
+    due to be released in March 20X5. Due to the high level of interest Shindig plc have allowed
+    customers to pay for the game in advance to ensure that they receive their copy of the game on
+    the release date. Shindig plc was unclear how to account for the advance payments totalling
+    £35,000 so included it in the suspense account.
+(9) One of Shindig plc’s employees has launched a legal case against the company in respect of
+    unfair dismissal. Shindig plc’s lawyers believe the former employee will win their case and
+    damages are expected to be in the region of £10,000. Provisions are charged to other operating
+    expenses.
+Requirement
+Prepare the statement of proﬁt or loss for Shindig plc for the year ended 31 December 20X4 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 December 20X4
+
+                                                                                                     £
+
+Revenue
+
+Cost of sales
+
+Gross proﬁt
+
+Other operating expenses
+
+Operating proﬁt
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the year
+
+Statement of ﬁnancial position as at 31 December 20X4
+
+                                                                                                     £
+ASSETS
+Non-current assets
+Buildings (W1)
+Computers (W1)
+
+Intangible assets (W4)
+
+
+
+
+152    Accounting                                                                           ICAEW 2024
+                                                                                                            £
+
+
+
+    Current assets
+
+    Inventories (W5)
+
+    Trade receivables (W6)
+
+    Cash and cash equivalents (440,200 – 5,000)
+
+
+    Total assets
+    EQUITY AND LIABILITIES
+    Equity
+
+    Equity share capital
+    Retained earnings (W7)
+
+
+    Non-current liabilities
+
+    Borrowings (redeemable preference share capital)
+    Current liabilities
+
+    Trade payables (80,200 – 5,000)
+
+    Accruals (120,000 × 5%)
+
+    Deferred income
+
+    Provision
+
+    Income tax payable
+
+
+    Total equity and liabilities
+
+    Note: The boxes in this question indicate where an answer is required and where marks are available
+    in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                       Total: 16 marks
+
+
+2   Which three of the following users of ﬁnancial statements are likely to be interested in the ﬁnancial
+    statements of a small private company?
+    A   Stock market analysts
+    B   Company employees
+    C   The company’s bank
+    D   Institutional shareholders
+    E   Suppliers
+                                                                                                         LO 1a
+
+
+
+
+3   Which of the following accounting treatments derive from the accrual accounting concept?
+    (1) Write down of a non-current asset which has suffered a fall in value
+
+
+
+    ICAEW 2024                                                                       16: Practice exam     153
+    (2) Opening and closing inventory adjustments
+    (3) Capitalisation and amortisation of development expenditure
+    A     1 and 2
+    B     3 only
+    C     2 and 3
+    D     1 only
+                                                                                                     LO 3b
+
+
+4   In times of rising prices, what effect does the use of the historical cost concept have on a company’s
+    asset values and proﬁt?
+    A     Asset values and proﬁt are both understated
+    B     Asset values and proﬁt are both overstated
+    C     Asset values are understated and proﬁt is overstated
+    D     Asset values are overstated and proﬁt is understated
+                                                                                                 LO 1d, 3b
+
+
+5   Harley has downloaded a transaction report from their electronic banking system. The report shows a
+    receipt of £565 which the computerised accounting system has not been able to automatically match
+    to a transaction.
+    Requirement
+    Which of the following transactions is most likely to have resulted in the unmatched receipt?
+    A     A payment made to settle a supplier invoice of £600 on which a prompt payment discount of
+          £35 has been taken
+    B     A standing order paid in respect of rental charges of £565 for the month
+    C     Proceeds of £565 from the sale of machinery to a competitor
+    D     A receipt from a credit customer in settlement of an invoice of £565
+                                                                                                     LO 1c
+
+
+
+
+6   Rose Ltd was set up on 1 May 20X8 with opening capital of £1,000. During the month of May 20X8, it
+    entered into the following transactions:
+
+                                                                                                         £
+    Purchases of goods for resale, on credit                                                        12,100
+    Payments to credit suppliers                                                                     8,400
+    Sales on credit                                                                                 16,200
+    Sales in cash                                                                                    1,300
+    Receipts from credit customers                                                                   3,200
+    Non-current assets purchased for cash                                                            1,500
+    Depreciation                                                                                      100
+    Other expenses, all paid in cash                                                                  800
+
+    Requirement
+    What is the proﬁt for the period earned by Rose Ltd in the month of May 20X8?
+    A     £3,200
+
+
+
+    154    Accounting                                                                          ICAEW 2024
+    B   £5,400
+    C   £4,500
+    D   £3,000
+                                                                                                         LO 3c
+
+
+7   Two errors have been found in Trim plc’s accounts:
+    (1) It was agreed that the credit balance of £420 in Avery’s payables ledger should be offset against
+        their account in the receivables ledger, but no entries have been made in trade receivables or
+        trade payables to reﬂect this.
+    (2) The balance of £510 owed by Taylor, a credit customer, is irrecoverable, however the journal
+        entry posted to write off the irrecoverable debt was made for £150 in error.
+    Requirement
+    The journal that corrects both these errors is:
+    A   Debit Trade payables £420, Debit Irrecoverable debts expense £360, Credit Trade receivables
+        £780
+    B   Debit Trade receivables £780, Credit Irrecoverable debts expense £360, Credit Trade payables
+        £420
+    C   Debit Trade payables £780, Credit Irrecoverable debts expense £360, Credit Trade receivables
+        £420
+    D   Debit Trade receivables £420, Debit Irrecoverable debts expense £360, Credit Trade payables
+        £780
+                                                                                                LO 2c
+
+
+
+
+8   Nimbus plc has prepared its draft ﬁnancial statements for the year ending 30 June 20X0. Following a
+    physical inventory count, it was discovered that inventory at a cost of £18,000 had been stolen.
+    Nimbus plc has insurance which covers 40% of the cost of inventory stolen. The insurance company
+    has agreed to settle the claim, but no money has yet been received. No accounting entries have
+    been made in respect of the stolen inventory.
+    Requirement
+    Correcting this matter will:
+    A   increase net proﬁt by £7,200
+    B   decrease net proﬁt by £7,200
+    C   increase net proﬁt by £10,800
+    D   decrease net proﬁt by £10,800
+                                                                                                         LO 2a
+
+
+9   A bakery business, which is registered for VAT, issued the following invoice to one of its customers:
+
+     Invoice: 1005
+     Date: 8 May 20X8                                                                                       £
+     Cakes: 150 @ £12                                                                                1,800
+     Less 5% trade discount                                                                               (90)
+                                                                                                     1,710
+
+
+
+
+    ICAEW 2024                                                                       16: Practice exam     155
+    Requirement
+    Assuming the VAT rate is 20% and that the invoice amounts are exclusive of VAT, what amount of VAT
+    should have been charged on the invoice?
+    A     £360
+    B     £300
+    C     £285
+    D     £342
+                                                                                                      LO 1c
+
+
+10 The ICAEW Code of Ethics is a principles-based system. Which two of the following statements are
+   correct regarding a principles-based code of ethics?
+    A     A principles-based system cannot accommodate a rapidly changing environment
+    B     No judgement is required in determining what action is needed
+    C     The guidance needs to be long and detailed to cover every issue
+    D     It reduces the risk of loopholes arising
+    E     Accountants are expected to follow the spirit as well as the letter of the guidance
+                                                                                                      LO 1f
+
+
+
+
+11 As at 31 December 20X1 the transaction report downloaded from a company’s electronic banking
+   system shows an overdraft of £1,500. The transaction report includes bank charges of £30 which
+   have not yet been recorded in the company’s cash at bank account. On 29 December 20X1 the
+   company had made a payment of £500 to a supplier and received cash of £200 from a credit
+   customer; neither of these items appear in the bank statement.
+    Requirement
+    The overdraft on the bank balance in the company’s statement of ﬁnancial position as at 31
+    December 20X1 should be:
+    A     £1,800
+    B     £1,830
+    C     £1,200
+    D     £1,230
+                                                                                                      LO 2b
+
+
+12 A review of the receivables ledger reveals that debts totalling £985 are considered irrecoverable and
+   are to be written off. The allowance for receivables is to be increased by £100.
+    Requirement
+    What is the journal entry required to adjust the allowance for receivables and to write off the
+    irrecoverable debts?
+    A     DEBIT Allowance for receivables £100, DEBIT Irrecoverable debts expense £985, CREDIT Trade
+          receivables £1,085
+    B     DEBIT Allowance for receivables £100, DEBIT Trade receivables £985, CREDIT Irrecoverable
+          debts expense £1,085
+    C     DEBIT Irrecoverable debts expense £1,085, CREDIT Trade receivables £1,085
+    D     DEBIT Irrecoverable debts expense £1,085, CREDIT Allowance for receivables £100, CREDIT
+          Trade receivables £985
+                                                                                                LO 3c
+
+
+
+
+    156    Accounting                                                                           ICAEW 2024
+13 Bark plc has yet to account for sales commission of £1,755 owed to its employees for sales made
+   during the year. Sales commission is included within distribution costs.
+    Requirement
+    Which two of the following entries of £1,755 should Bark plc make at the year-end in respect of the
+    sales commission?
+    A   Debit the accruals account
+    B   Debit the prepayments account
+    C   Debit the distribution costs account
+    D   Credit the distribution costs account
+    E   Credit the prepayments account
+    F   Credit the accruals account
+                                                                                                         LO 1d
+
+
+
+
+14 Brindal plc acquired ﬁve apartments on 1 June 20X4 and immediately rented them out to different
+   tenants. Brindal plc has a credit balance on its rental income account in the trial balance as at 31 May
+   20X5 of £22,850. It has yet to record rental income in arrears for Apartment 1 as at 31 May 20X5 of
+   £4,490 and rental income in advance for Apartment 4 of £7,720 also at 31 May 20X5.
+    Requirement
+    What amount will appear for rental income in Brindal plc’s statement of proﬁt or loss for the year
+    ended 31 May 20X5?
+    A   £19,620
+    B   £22,850
+    C   £26,080
+    D   £37,340
+                                                                                                         LO 3c
+
+
+15 Cornucopia plc applies a standard mark-up of 25% on cost. During 20X9, its sales were £125,000
+   and its purchases were £80,000. Opening inventory was £35,000. The company did not carry out an
+   inventory count at 31.12.X9 and has no records of an inventory ﬁgure at that date.
+    Requirement
+    Using the information above, what should the closing inventory be?
+    A   £15,000
+    B   £21,250
+    C   £48,750
+    D   £55,00
+                                                                                                         LO 1d
+
+
+16 Violet has a machine which cost £68,000 on 1 September 20X5. It is being depreciated on the
+   straight-line basis over 10 years to its residual value of £8,000. On 31 August 20X7, Violet carried out
+   an impairment review and has assessed that the machine had a fair value less disposal costs of
+   £51,000 and a value in use of £49,000.
+    Requirement
+    What is the total amount charged to proﬁt or loss in respect of the machine in the year ended
+    31 August 20X7?
+    A   £6,000
+
+
+
+
+    ICAEW 2024                                                                       16: Practice exam     157
+    B     £6,800
+    C     £11,000
+    D     £13,000
+                                                                                                          LO 1d
+
+
+
+
+17 McClown plc has the following information in its ﬁnancial statements relating to ﬁxtures and ﬁttings
+   as at 31 December:
+
+                                                                                20X9                  20X8
+                                                                                     £                       £
+     Cost                                                                     600,000               480,000
+     Accumulated depreciation                                                 180,000               218,000
+     Carrying amount                                                          420,000               262,000
+
+    During the year to 31 December 20X9, the following transactions occurred in relation to ﬁxtures and
+    ﬁttings:
+    (1) Additions £284,000
+    (2) Sales proceeds from disposals £178,800
+    (3) Depreciation charge £66,400
+    Requirement
+    What is McClown plc’s proﬁt or loss on disposals of ﬁxtures and ﬁttings in the year ended
+    31 December 20X9?
+    A     £119,200 loss
+    B     £119,200 proﬁt
+    C     £196,800 proﬁt
+    D     £196,800 loss
+                                                                                                          LO 1d
+
+
+18 Waddy Ltd prepares its ﬁnancial statements in accordance with UK GAAP. At the end of its ﬁrst year
+   of trading on 30 June 20X1 Waddy Ltd’s net assets are £207,594. It has share capital of £50,000
+   made up of 25p equity shares issued at 40p each, and a retained proﬁts reserve of £107,594.
+    Requirement
+    Which of the following statements could be true in relation to Waddy Ltd’s balance sheet at 30 June
+    20X1?
+    A     It has other reserves of £50,000.
+    B     It has share premium of £100,000.
+    C     It has other reserves of £20,000.
+    D     It has share premium of £50,000.
+                                                                                               LO 1d, 3a, 3c
+
+
+19 On 1 April 20X0 a sole trader paid £3,080 in local taxes for the year ending 31 March 20X1. This was
+   an increase of 10% on the charge for the previous year.
+    Requirement
+    What is the correct charge for local taxes in the sole trader’s proﬁt and loss account for the year
+    ended 31 December 20X0?
+
+
+
+    158     Accounting                                                                           ICAEW 2024
+    A   £2,870
+    B   £3,003
+    C   £3,010
+    D   £3,080
+                                                                                              LO 1d, 3c
+
+
+20 Hal Ltd discovered that an error had taken place during its inventory count for the year ended
+   31 March 20X7. Some inventory was double counted, which lead to closing inventory being £1,298
+   higher than cost. The directors of Hal Ltd do not plan to correct for this error.
+    Requirement
+    What is the impact of the error on the proﬁt for the years ended 31 March 20X7 and 31 March 20X8
+    if it remains uncorrected?
+    A   Proﬁt for the year ended 31 March 20X7 is overstated, Proﬁt for the year ended 31 March 20X8 is
+        overstated.
+    B   Proﬁt for the year ended 31 March 20X7 is overstated, Proﬁt for the year ended 31 March 20X8 is
+        understated.
+    C   Proﬁt for the year ended 31 March 20X7 is understated, Proﬁt for the year ended 31 March 20X8
+        is understated.
+    D   Proﬁt for the year ended 31 March 20X7 is understated, Proﬁt for the year ended 31 March 20X8
+        is overstated.
+                                                                                             LO 1d, 3c
+
+
+21 A limited company is preparing its ﬁnancial statements.
+    Requirement
+    Which of the following is true regarding ﬁnancial statements prepared under IAS 1?
+    A   Leased assets never appear in the statement of ﬁnancial position
+    B   The cost and accumulated depreciation of property, plant and equipment must be shown on the
+        face of the statement of ﬁnancial position
+    C   All companies must prepare a Statement of Cash Flows
+    D   Preference shares are always recognised in equity
+
+
+22 At 1 January 20X5 Tandem plc had an allowance for receivables in its ledger accounts totalling
+   £2,375. On 30 June 20X5 Basnet plc’s liquidator informed Tandem plc that it would not make any
+   further payments and therefore Basnet plc’s outstanding debt of £200 should be written off. At
+   31 December 20X5 Ost plc paid £500 of an amount written off as irrecoverable in the previous year.
+   Tandem plc’s allowance for receivables needs to be increased by £800 at 31 December 20X5.
+    Requirement
+    What amount for irrecoverable debts expense should be included in Tandem plc’s statement of proﬁt
+    or loss for the year ended 31 December 20X5?
+    A   £500 debit
+    B   £500 credit
+    C   £1,275 debit
+    D   £1,275 credit
+                                                                                              LO 1d, 3c
+
+
+
+
+    ICAEW 2024                                                                   16: Practice exam   159
+23 Which two of the following are enhancing qualitative characteristics in the Conceptual Framework for
+   Financial Reporting?
+    A     Materiality
+    B     Veriﬁability
+    C     Comparability
+    D     Consistency
+                                                                                                    LO 1b
+
+
+24 Which of the following statements about statements of cash ﬂows is/are correct?
+    (1) A statement of cash ﬂows prepared using the direct method produces a different ﬁgure for net
+        cash ﬂows generated from operations compared to that produced when the indirect method is
+        used.
+    (2) A rights issues of shares will not feature in statements of cash ﬂows.
+    (3) A bonus issue of shares will not appear as an item in a statement of cash ﬂows.
+    (4) A proﬁt on the sale of a non-current asset will appear as an item under Cash Flows from
+        Investing Activities in a statement of cash ﬂows.
+    A     1 and 4
+    B     2 and 3
+    C     3 only
+    D     2 and 4
+                                                                                                    LO 3c
+
+
+25 Part of a draft statement of cash ﬂows is shown below:
+
+                                                                                                   £’000
+     Proﬁt before tax                                                                              8,640
+     Depreciation charges                                                                         (2,160)
+     Proceeds of sale of non-current assets                                                          360
+     Increase in inventories                                                                        (330)
+     Increase in trade payables                                                                      440
+
+    The following criticisms of the above extract have been made:
+    (1) Depreciation charges should have been added, not deducted.
+    (2) Increase in inventories should have been added, not deducted.
+    (3) Increase in trade payables should have been deducted, not added.
+    (4) Proceeds of sale of non-current assets should not appear in this part of the statement of cash
+        ﬂows.
+    Requirement
+    Which of these criticisms are valid?
+    A     2 and 3 only
+    B     1 and 4 only
+    C     1 and 3 only
+    D     2 and 4 only
+                                                                                                    LO 3c
+
+
+
+
+    160     Accounting                                                                        ICAEW 2024

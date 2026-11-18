@@ -1,0 +1,30 @@
+Accountingfornon-currentassets
+1Acquireasset
+DR   Cost
+CR   Cash/payables/disposal
+2Depreciateasset
+DR   Depreciation charge
+CR   Accumuiateddepreciation
+3Testforimpairment   DR   P/Lirnpairmentloss
+CR   PPECarryingamount
+4 Disposeofasset   Disposal
+Cost   Accumulated
+depreciation
+Cash/payables/
+Pxvaluatian
+P/L (profit)   P/L (loss)
+Non-currentassets (PpE)noteto statementoffinancial position
+Landand   Plantand   Motor
+buildings   equipment vehicles   Total
+Cost   CU   CU
+P/8
+Additions
+Disposals
+Accumulateddepreciation
+B/d
+Additions
+Disposals
+Carrying amount
+P/8
+Cld
+ICAB2026   Non-currentassets,depreciationand impairment   349

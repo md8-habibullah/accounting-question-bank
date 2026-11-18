@@ -1,0 +1,44 @@
+1 Reconciling to external documents
+Section overview
+Ina computerisedaccountingsystem,atanypointintimethetotalofthepersonal
+accounts ofeachcreditcustomer inthereceivablesledger,andofeach credit supplierin
+the payables ledger,will beequal tothetotaltradereceivables andtotaltradepayables
+balancesrespectively.
+Companies mayverily the accuracyof theiraccounting records using extermal documents.
+Reconciliation ofthe ledgerbalances to extemal documents canhelpto identifyerrors in
+accountingrecords,
+Theexternal documents mostcommonlyusedforthis purposearebank statements and
+supplierstatements,
+Itis importantthatwedefinethekeytermsused inthis chapter.
+CHAPTER
+Definitions
+Trade receivables account:ln the nominal ledger,thetradereceivables account is usedto
+recordtransactionsrelatingtocreditcustomers intotal.Thebalanceofthetradereceivables
+accountatanytimewillbethetotal amountduetothebusiness from all its creditcustomers.
+Receivablesledger Thereceivables ledger isa listingofalltransactions witheach individual
+credit customer.The receivablesledgeris divided intoindividual (personal)accounts,onefor
+each creditcustomer,and shows thetotal balance due fromthatcustomeratany point in time.
+Therecelivables ledger is separatetothe nominal ledger and does not form part of the double
+entrysystem.It is used forrecord-keeping purposes onlyand is thereforeoften referred to asa
+memorandumledger.
+Tradepayables account: In thenominal ledger,thetradepayables account is usedto record
+transactions involving creditsuppliers intotal,and thebalance onthis accountatanytime will
+bethetotalamountowed bythebusiness toallits creditsuppliers.
+Thepayables ledger:Thepayablesledger is a listingofall transactions with eachindividual
+credit supplier.Consistentwith thereceivables ledgerdescribed above,the payablesledger
+includes a personal account for each credit supplierwhichshows the total amountowed to
+thatsupplieratanypointintime.Consistentwiththereceivables ledger,thepayablesledgeris
+separateto thenominal ledger,doesnotformpartofthedouble-entrysystemandis
+maintained forrecord-keeping purposes only.
+Inamanualsystemofaccounting.thepersonalaccounts inthereceivablesledgerareupdated
+independently of thetrade receivables account inthenominal ledger.Thismeans that
+differences betweenthetwo could arise,Reconcilingthetradereceivablesaccountto the
+receivables ledger isthereforean importantpart ofensuringthe accounting records are
+accurate.Thesame alsoappliestothepayables ledgerand thetradepayablesaccount.
+Inacomputerised system,transactionsenteredintothepersonalaccountofacreditcustomer
+in thereceivablesledgerare automatically postedto thetrade receivables account in the
+nominal ledger.Therefore,whilstareconciliation is still auseful control mechanism,there is
+unlikely to be differences between the trade receivables accountand the receivables ledger.
+The same also applies to the payables ledger and the trade payables account in a
+computerisedsystem,
+ICAB2026   Errors and correctionsto accountingtecords and financial statements   172

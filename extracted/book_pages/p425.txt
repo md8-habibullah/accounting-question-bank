@@ -1,0 +1,34 @@
+Allocationofexpenditure
+Distribution   Administrative
+Property costs   25   75
+Depreciation   50   50
+Requirements
+1Prepare year-end journal entriestoadjustfortheabove items.
+2Prepare theextended trial balance ofFormat plc after processingthe adjustments.
+3Prepare a statementof profitorlossforFormat plcfor the year ended 31December20X2
+andastatementof financialpositionas atthatdate.
+4Prepareastatementofchanges in equityforFormatplc fortheyearended 31December
+20X2
+Note:Intheexam,allexpenses/losses inthestatementofprofitorlossmustbeincluded as.
+negativenumbers,ie,withaminussign in frontorinbrackets.
+Solution
+The year-end journals to be putthrough in the adjustments column are as follows:
+CU'000   CU'000
+DEBIT   Cost of sales   1.950
+CREDIT   Opening inventory   1.950
+DEBIT   Cost of sales   5,125
+CREDIT   Purchases   5.125
+DEBIT   Clasing inventory   2,020
+CREDIT   Cost of sales   2,020
+2and6
+DEBIT   Administrativeexpenses   200
+Distribution costs   200
+Fixturesandfittings-accumulated
+CREDIT   depreciation(2,000   400
+20%)
+CHAPTER
+DEBIT   Administrativeexpenses   30
+CREDIT   Developmentcosts-amortisation(300x   30
+10%)
+12
+NCAB2026   Companyfinancial statements under IFRS Accounting Standards   415

@@ -1,0 +1,35 @@
+31Dec   Accrual   327.68
+account
+1388.23   138823
+20X3   20X3
+31Jan   Cash atbank   491.52   1Jan   Accrualreversed   32768
+Statementof
+30Apr   Cashatbank   400.93   31Dec   profit   2.387.87
+31 Jul   Cash at bank   700.94   orloss
+31.Oct   Cashatbank   620.00
+31Dec:   Accrual   502.16
+account
+2.715.55   2,715.55
+The20x3 statement ofprofitorloss chargeofCU2,387.87andaccrualforCU502.16can be
+checkedasfollows:
+Proportioncharged in
+Invoice paid   CU   20X3   CU
+31JanX3   491.52   1/3   163.84
+30Apr X3   400.93   all   400.93
+31JulX3   700.94   all   700.94
+31OctX3   620.00   all   620.00
+31JanX4   753.24   2/3   502.16
+Chargetostatementofprofitorloss in20x3   2387.87
+4.1.2   Reversingprepayments
+Usingtheadvertising accountfromtheprepaymentworked example,theCU5,000rent
+prepaid in 20X4 will be reversed by anopening journal in the new period.The advertising
+expensein20x5willbecalculatedas:
+CU
+Amountprepaidin20X4
+Add:Advertisingexpensespaidin20x5
+Less:Amount prepaid in20X5
+PREPAYMENTACCOUNT
+20X4   20X4
+31DecAdvertisinga/c   5,000   31DecBalancec/d   5,000
+5,000   5,000
+284   Accounting   ICAB2026

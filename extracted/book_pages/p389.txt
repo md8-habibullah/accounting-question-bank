@@ -1,0 +1,33 @@
+Requirement
+Showthe revised statement offinancial positionof Canvatplcafterbothshare issues have
+taken place.
+See Answer at the end of this chapter.
+5.2.1   Calculating the dividends from retained earnings where there has been a bonus issue during
+the year
+If there is no share premium account,or you are specifically toldto use the retained earnings
+accountforthe issueofbonus shares,you should understandhowthis transaction willaffectthe
+calculationofdividendsfromtheretainedearnings account
+Worked example: Bonus issue,dividends and retained earnings
+Atthestartof theyear the companyhad 100,000 CU1equity shares in issue and retained
+earningsof
+CU800000.Duringthe yearthecompanymadea profitofCU370,000andmadea1far10
+bonus issue ofshares from the retained earnings account Atthe end of theyearthe company
+hadretainedeaningsofCU1,140,000.
+Requirement
+Calculatethedividends paidduringtheyear.
+Solution
+Thetotaldividendpaidduringtheyearis CU20,000 (W)
+WORKING
+Dividend paid
+SHARECAPITAL   CHAPTER
+CU   CU
+B/fwd   100,000
+Cffwd   110,000   Bonus issue   10,000
+110000   110,000
+RETAINEDEARNINGS
+CU
+Bonus issueDividends (bal.   10,000   B/fwd   800,000
+fig.)   20,000   Profit forthe year   370,000
+Cifwd   1,140,000
+1,170,000   1,170,000
+ICAB 2026   Companyfinancialstatements

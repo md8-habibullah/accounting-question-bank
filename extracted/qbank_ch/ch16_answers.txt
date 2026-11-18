@@ -1,0 +1,473 @@
+  Chapter 16: Practice exam
+1 Shindig plc
+
+   Marking guide                                                              Marks
+
+  Revenue                                                                        1
+  Cost of sales                                                                  1
+  Other operating expenses                                                       1
+  Finance costs                                                                 .5
+  Income tax expense                                                             1
+  PPE                                                                          1.5
+  Intangible assets                                                              1
+  Inventories                                                                    1
+  Receivables                                                                    1
+  Cash                                                                           1
+  Equity share capital                                                           1
+  Retained earnings                                                              1
+  Borrowings                                                                    .5
+  Payables                                                                       1
+  Accruals                                                                       1
+  Deferred income                                                               .5
+  Provision                                                                     .5
+  Income tax payable                                                            .5
+  Maximum                                                                               16
+  Total                                                                                 16
+
+
+  Statement of proﬁt or loss for the year ended 31 December 20X4
+
+                                                                                         £
+   Revenue                                                                    1,705,600
+   Cost of sales                                                                (880,500)
+   Gross proﬁt                                                                  825,100
+   Other operating expenses                                                     (174,765)
+   Operating proﬁt                                                              650,335
+   Finance costs                                                                     (6,000)
+   Proﬁt/(loss) before tax                                                      644,335
+   Income tax expense                                                           (107,600)
+   Proﬁt/(loss) for the year                                                    536,735
+
+  Statement of ﬁnancial position as at 31 December 20X4
+
+                                                                                         £
+   ASSETS
+   Non-current assets
+   Buildings (W1)                                                               149,000
+
+
+
+
+  ICAEW 2024                                                       16: Practice exam    291
+                                                                                    £
+Computers (W1)                                                                  84,000
+Intangible assets (W4)                                                          40,000
+                                                                              273,000
+
+
+
+Current assets
+Inventories (W5)                                                              315,500
+Trade receivables (W6)                                                        356,535
+Cash and cash equivalents (440,200 – 5,000)                                   435,200
+                                                                             1,107,235
+Total assets                                                                 1,380,235
+EQUITY AND LIABILITIES
+Equity
+Equity share capital                                                          500,000
+Retained earnings (W7)                                                        514,035
+                                                                             1,014,035
+Non-current liabilities
+Borrowings (redeemable preference share capital)                              120,000
+Current liabilities
+Trade payables (80,200 – 5,000)                                                 75,200
+Accruals (120,000 × 5%)                                                          6,000
+Deferred income                                                                 35,000
+Provision                                                                       10,000
+Income tax payable                                                            120,000
+                                                                              246,200
+Total equity and liabilities                                                 1,380,235
+
+WORKINGS
+(1) Property, plant and equipment
+
+                                                                Computer
+                                                                 hardware
+                                                   Buildings   and servers       Total
+                                                          £             £           £
+      Cost                                          220,000       130,000
+      Depreciation
+      b/f                                            60,000        20,000
+      Charge (W2)                                    11,000        26,000
+      c/f                                            71,000        46,000      ––––––
+      Carrying amount c/f                           149,000        84,000     233,000
+
+
+
+
+292    Accounting                                                            ICAEW 2024
+(2) Allocation of costs
+
+                                                        Other expenses       Cost of Sales
+                                                                    £                    £
+     Staff costs                                                                  620,400
+     Depreciation: Buildings (220,000/20)                      11,000
+     Depreciation: Computer equipment and hardware
+       (130,000/5)                                             26,000
+     Amortisation: Licence (60,000 × 3) (W4)                   20,000
+     Raw materials                                                                294,500
+     Irrecoverable debts (45,000 + 18,765) (W6)                63,765
+     Finished games (180,000 – (5,000-500) – 155,600)                              (19,900)
+     Work in progress (140,000 – 125,500)                                          (14,500)
+     Provision                                                 10,000
+     Consultancy fees                                          44,000           ––––––––
+                                                              174,765             880,500
+
+(3) Income tax
+
+                                                                                         £
+     For year                                                                     120,000
+     Overprovision re previous year                                                (12,400)
+                                                                                  107,600
+
+(4) Intangible assets (licence)
+
+                                                                                         £
+     b/f                                                                            60,000
+     Amortisation for the year                                                     (20,000)
+     c/f                                                                            40,000
+
+(5) Inventories
+
+                                                                                         £
+     Finished games (180,000 – (10 × £450))                                       175,500
+     WIP                                                                          140,000
+                                                                                  315,500
+
+(6) Trade receivables
+
+                                                                                         £
+     Per TB                                                                       420,300
+     Less: Irrecoverable debt write off                                            (45,000)
+     Allowance for receivables                                                     (18,765)
+                                                                                  356,535
+
+
+
+
+ICAEW 2024                                                           16: Practice exam   293
+    (7)
+                                            RETAINED EARNINGS
+
+                                                      £                                                  £
+           Dividends paid                       125,000    b/d                                  102,300
+           c/d (bal ﬁg)                         514,035    Proﬁt for the year                   536,735
+                                                639,035                                         639,035
+
+    (8)
+                                              SHARE PREMIUM
+
+                                                      £                                                  £
+           Bonus issue (suspense)               100,000     Per TB                              100,000
+                                                100,000                                         100,000
+
+    (9)
+                                            SUSPENSE ACCOUNT
+
+                                                      £                                                  £
+           Per TB                                83,765     Bonus issue (share premium)         100,000
+           Deferred income                       35,000     Allowance for receivables            18,765
+                                                118,765                                         118,765
+
+
+
+2   Correct answer(s):
+    B     Company employees
+    C     The company’s bank
+    E     Suppliers
+    The employees, the bank and the suppliers will be interested in the ﬁnancial statements of a small
+    private company.
+    Neither stock market analysts nor institutional shareholders (large owners of company shares eg,
+    pension funds) would be interested in a small private company as they will not invest in companies of
+    this size.
+
+
+3   Correct answer(s):
+    C     2 and 3
+    Application of the accrual accounting concept means that income and expenses should be
+    recognised in the period that they are incurred and that income should be matched with the
+    expenses incurred in generating it.
+    Adjusting for opening and closing inventory (2) is an application of accrual accounting as it matches
+    the cost of inventory with the income generated from its sale.
+    Amortisation of development expenditure (3) is an application of accrual accounting as amortisation
+    matches the cost of development with the period over which it is expected to generate beneﬁts.
+    The write down of non-current assets (1) is more aligned with the concept of prudence.
+
+
+4   Correct answer(s):
+    C     Asset values are understated and proﬁt is overstated
+
+
+
+    294    Accounting                                                                         ICAEW 2024
+    Proﬁt will be overstated due to depreciation being based on understated assets, and cost of sales
+    based on understated inventory.
+
+
+5   Correct answer(s):
+    C   Proceeds of £565 from the sale of machinery to a competitor
+    As the receipt is unmatched, it is most likely to be the proceeds of sale of equipment as this is not a
+    regular transaction. The receipt from the credit customer in respect of an invoice of £565 is likely to
+    have been matched by the accounting system as it is a straightforward regular transaction. The other
+    two transactions are payments, not receipts.
+
+
+6   Correct answer(s):
+    C   £4,500
+    Proﬁt is calculated as:
+
+                                                                                                             £
+     Sales on credit                                                                                 16,200
+     Sales in cash                                                                                    1,300
+     Purchases of goods for resale, on credit                                                       (12,100)
+     Depreciation and other expenses                                                                      (900)
+     Proﬁt for the period                                                                             4,500
+
+    Option A ignores cash sales. Option B simply takes account of sales and purchases. Option D
+    incorrectly deducts capital expenditure on non-current assets.
+
+
+7   Correct answer(s):
+    A   Debit Trade payables £420, Debit Irrecoverable debts expense £360, Credit Trade receivables
+        £780
+    The correct entry is to debit payables with the contra of £420 and irrecoverable debts expense with
+    £360 (£510 – 150), then credit receivables with the total £780 (£420 + £360).
+
+
+8   Correct answer(s):
+    A   increase net proﬁt by £7,200
+    The stolen inventory will already have been reﬂected in the physical count, so effectively its cost has
+    already been debited to gross proﬁt, reducing both gross and net proﬁt by £18,000. The insurance
+    claim will be 40% × £18,000 = £7,200. This ﬁgure should be accounted for as follows:
+
+                                                                                        £                    £
+     DEBIT                                            Other receivables            £7,200
+     CREDIT                                               Other income                               £7,200
+
+    The credit entry increases net proﬁt – not gross proﬁt – by £7,200 (A).
+
+
+9   Correct answer(s):
+    D   £342
+    As the invoice amounts are exclusive of VAT, it should be calculated as 20% of the invoice amount
+    after deducting the trade discount. If the amounts had been inclusive of VAT, the VAT would have
+    been calculated as 20/120 of the invoice total.
+
+
+
+
+    ICAEW 2024                                                                        16: Practice exam    295
+10 Correct answer(s):
+    D     It reduces the risk of loopholes arising
+    E     Accountants are expected to follow the spirit as well as the letter of the guidance
+    A principles-based system can accommodate a rapidly changing environment, which is the type of
+    environment accountants operate in. This is a beneﬁt of a principles-based system.
+    Judgement is needed to determine any actions needed as accountants need to apply their own
+    individual interpretation to the guidance.
+    Guidance needs to be long and detailed in a rules-based system, not in a principles-based system.
+    A principles-based system does reduce the risk of loopholes arising as members can’t engage in a
+    box-ticking exercise.
+    Accountants are expected to follow the spirit as well as the letter of the guidance in a principles-
+    based system.
+
+
+11 Correct answer(s):
+    A     £1,800
+
+                                                                                                            £
+     Balance per bank statement                                                                      (1,500)
+     Less payment not included                                                                         (500)
+     Add uncredited lodgement                                                                              200
+     Cash at bank account balance                                                                    (1,800)
+
+
+
+12 Correct answer(s):
+    D     DEBIT Irrecoverable debts expense £1,085, CREDIT Allowance for receivables £100, CREDIT
+          Trade receivables £985
+    The allowance for receivables needs to be increased by £100. The journal entry to record this
+    increase is:
+
+                                                                                          £                 £
+     DEBIT                                    Irrecoverable debts expense              100
+     CREDIT                                      Allowance for receivables                                 100
+
+    The irrecoverable debts are written off by posting the following journal entry:
+
+                                                                                          £                 £
+     DEBIT                                    Irrecoverable debts expense              985
+     CREDIT                                             Trade receivables                                  985
+
+    D correctly combines these journal entries.
+
+
+13 Correct answer(s):
+    C     Debit the distribution costs account
+    F     Credit the accruals account
+    Unpaid sales commission of £1,755 is an accrued expense which should be credited to accruals (F).
+    As sales commission is included within distribution costs it should be debited to this account (C).
+    SAMPLE EXAM
+
+
+
+    296    Accounting                                                                            ICAEW 2024
+14 Correct answer(s):
+    A     £19,620
+                                              RENTAL INCOME
+
+                                                     £                                                    £
+        Deferred income                         7,720     Cash at bank                             22,850
+        Statement of proﬁt or loss (bal ﬁg)    19,620     Accrued income                             4,490
+                                               27,340                                              27,340
+
+    SAMPLE EXAM
+
+
+15 Correct answer(s):
+    A     £15,000
+
+                                                                       £’000          £’000               %
+    Sales                                                                               125              125
+    Opening inventory                                                     35
+    Purchases                                                             80
+    Closing inventory (bal ﬁg)                                            (15)
+    Cost of sales (125,000 × 100/125)                                                   100              100
+    Gross proﬁt                                                                          25               25
+
+
+
+16 Correct answer(s):
+    C     £11,000
+
+                                                                                                          £
+    Cost at 1 September 20X5                                                                        68,000
+    Depreciation charge ((68,000 - 8,000) × 2/10)                                                  (12,000)
+    Carrying amount at 31 August 20X7                                                               56,000
+    Recoverable amount – higher of:
+    Fair value less disposal costs                                                                  51,000
+    Value in use                                                                                    49,000
+    Recoverable amount                                                                              51,000
+    Loss on impairment                                                                               5,000
+    Total charge to proﬁt or loss (6,000 (depreciation) +
+       5,000 (impairment)                                                                           11,000
+
+    Option (A) is just depreciation, option (B) is depreciation ignoring the residual value and (D) uses the
+    incorrect recoverable amount based on value in use.
+
+
+17 Correct answer(s):
+    B     £119,200 proﬁt
+
+
+
+
+    ICAEW 2024                                                                       16: Practice exam    297
+    The incorrect ﬁgure of £196,800 is arrived at by using a single carrying amount T account and mixing
+    up the b/d and c/d ﬁgures.
+                                         FIXTURES & FITTINGS – COST
+
+                                                    £                                                  £
+        b/d                                   480,000    Disposals – bal ﬁg                    164,000
+        Additions                             284,000    c/d                                   600,000
+                                              764,000                                          764,000
+
+                             FIXTURES & FITTINGS – ACCUMULATED DEPRECIATION
+
+                                                    £                                                  £
+        Disposals – bal ﬁg                    104,400    b/d                                   218,000
+        c/d                                   180,000    Charge                                 66,400
+                                              284,400                                          284,400
+
+                                                 DISPOSALS
+
+                                                    £                                                  £
+        F&F – cost                            164,000    F&F – acc dep                         104,400
+        P/L – Proﬁt on disposal               119,200    Proceeds                              178,800
+                                              283,200                                          283,200
+
+
+
+18 Correct answer(s):
+    C     It has other reserves of £20,000.
+
+                                                                                                £
+    Share capital                                                                          50,000
+    Share premium (£50,000/£0.25 × £(0.40 – 0.25))                                         30,000
+    Retained proﬁts reserve                                                              107,594
+    Other reserves (bal ﬁg)                                                                20,000      (C)
+    Closing net assets                                                                   207,594
+
+
+
+19 Correct answer(s):
+    C     £3,010
+
+                                                                                                       £
+        3,080 × 9/12                                                                                2,310
+        3,080 × 100/110 × 3/12                                                                       700
+                                                                                                    3,010
+
+
+
+20 Correct answer(s):
+    B     Proﬁt for the year ended 31 March 20X7 is overstated, Proﬁt for the year ended 31 March 20X8 is
+          understated.
+
+
+
+
+    298       Accounting                                                                     ICAEW 2024
+    If closing inventory at 31 March 20X7 is overstated by £1,298, then cost of sales for the year ended
+    31 March 20X7 will be understated and proﬁt for that year will be overstated.
+    The closing inventory then becomes the opening inventory as at 1 April 20X7. The cost of sales for
+    the year ended 31 March 20X8 will therefore be overstated and the proﬁt for that year will be
+    understated.
+
+
+21 Correct answer(s):
+    C     All companies must prepare a Statement of Cash Flows
+    Leased assets, known as right-of-use asset, along with a corresponding liability appear in the
+    statement of ﬁnancial position.
+    The carrying amount of property, plant and equipment must appear on the face of the statement of
+    ﬁnancial position. The cost and accumulated depreciation can be shown in the note to the ﬁnancial
+    statements.
+    Redeemable preference share are recognised as liabilities.
+
+
+22 Correct answer(s):
+    A     £500 debit
+                                      IRRECOVERABLE DEBTS EXPENSE
+
+                                                    £                                                      £
+        Irrecoverable debts expense              200     Cash at bank                                     500
+        Increase in allowance                    800     Statement of proﬁt or loss                       500
+                                                1,000                                                1,000
+
+
+
+23 Correct answer(s):
+    B     Veriﬁability
+    C     Comparability
+    The four enhancing qualitative characteristics of ﬁnancial reporting per the Conceptual Framework
+    for Financial Reporting are: comparability, veriﬁability, timeliness and understandability.
+    Materiality is a component of relevance which is one of the fundamental qualitative characteristics.
+    Consistency is related to comparability but is not itself an enhancing qualitative characteristic.
+
+
+24 Correct answer(s):
+    C     3 only
+    The direct and indirect methods will give the same ﬁgure. A rights issue of shares is a cash ﬂow.
+    The proﬁt on sale of a non-current asset appears as an adjustment to proﬁt before taxation in order
+    to reach net cash ﬂow from operating activities.
+
+
+25 Correct answer(s):
+    B     1 and 4 only
+    Depreciation should be added back as it is not a cash ﬂow. Proceeds from the sale of non-current
+    assets appear under the heading ‘Cash ﬂows from investing activities’ and are not included as an
+    adjustment to proﬁt in order to reach net cash ﬂows from operating activities.
+
+
+
+
+    ICAEW 2024                                                                        16: Practice exam    299

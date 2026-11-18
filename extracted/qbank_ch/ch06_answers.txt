@@ -1,0 +1,395 @@
+    Chapter 6: Errors and corrections to
+    accounting records and ﬁnancial statements
+1   Correct answer(s):
+    A   A receipt of £135 from a customer who unexpectedly, but correctly, has taken a 3% prompt
+        payment discount.
+    C   A receipt of £3,500 from the disposal of a van with a carrying amount of £2,700.
+    D   A journal entry posted by the bookkeeper to write off an irrecoverable debt of £55 in which the
+        bookkeeper was unsure where to record the credit entry.
+    In A, where a discount is taken unexpectedly, the transaction would not be automatically matched
+    against the amount recorded on the invoice and a suspense account would be used. In C the
+    disposal of a van is not a regular transaction and therefore the computerised system is unlikely to be
+    able to match it and a suspense account would be used. In D, if the bookkeeper is unsure of one side
+    of a transaction, the suspense account is used to enable the posting to take place and then
+    investigated and corrected later. In B, the payment made of £84 (which is equal to £70 plus VAT at
+    20%) appears to be a regular transaction, and so this receipt would be matched. In E, £95 less 5% is
+    £90.25 and the discount was expected to be taken, so this payment would also be matched.
+
+
+2   Correct answer(s):
+    A   True
+    Owner’s drawings will be a debit balance in an initial trial balance.
+    Correct answer(s):
+    C   True
+    Closing inventory is a debit balance in the ﬁnal trial balance.
+
+
+3   Correct answer(s):
+    B   Direct debit shown on bank transaction report only
+    C   Bank charges
+    Cash at bank account: The direct debit shown on bank transaction report only (B) will need to be
+    recorded in the accounting system, as will the bank charges (C).
+    Deposits credited after date (A) and cheque presented after date (E) have already been accounted
+    for correctly and would appear on the bank reconciliation. The bank error would also appear on the
+    bank reconciliation and would require correction by the bank.
+
+
+4   Correct answer(s):
+    C   £657 credit
+    The dishonoured funds transfer needs to be deducted from Epsilon Ltd’s cash at bank account.
+    £(565) – 92 = £(657). The payment of £57 is already included in the cash at bank account.
+
+
+5   Correct answer(s):
+    B   £319,100
+
+                                                                                                             £
+    Draft proﬁt                                                                                       324,700
+    Less irrecoverable debts                                                                            (6,800)
+
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements   175
+                                                                                                        £
+    Add back depreciation charged in error (24,000 × 25%) – (24,000 × 20%)                      1,200
+    Adjusted proﬁt                                                                            319,100
+
+    Option A did not deduct the irrecoverable debt expense. Option C deducted depreciation of 20% of
+    £24,000 but, did not add back the incorrect depreciation charged already. Option D deducted the
+    difference in depreciation charges, instead of adding it back.
+
+
+6   Correct answer(s):
+    C     DEBIT, Plant and machinery, £25,000; CREDIT, Suspense account £25,000
+    The transaction will have been recorded as DEBIT, Suspense account £25,000 and CREDIT, Cash at
+    bank account £25,000. The credit entry to bank is correct but the £25,000 needs to be removed from
+    the suspense account (CR) and instead be recorded in the plant and machinery account (DR).
+
+
+7   Correct answer(s):
+    C     £11,200
+
+                                                                                                        £
+    Cash at bank account: balance b/f                                                           (8,970)
+    Bank charges                                                                                  (550)
+    Correct cash at bank account                                                                (9,520)
+    Error                                                                                         425
+    Electronic payment not cleared bank                                                         3,275
+    Uncredited lodgements                                                                       (5,380)
+    Bank statement balance                                                                     (11,200)
+
+
+
+8   Correct answer(s):
+    A     In preparing a bank reconciliation, unpresented cheques must be deducted from the balance
+          shown in the bank statement.
+    D     An overdraft is a debit balance on the bank statement.
+    A dishonoured payment needs to be removed (credited) from the cash at bank account as the
+    amount will not be received. An error made by the bank does not require correction in the cash at
+    bank account. Bank charges on the bank statement would be credited to the cash at bank account,
+    not debited.
+
+
+9   Correct answer(s):
+    C     £310
+
+                                                                                                        £
+     Alpha balance                                                                              4,140
+     Discount disallowed                                                                            40
+     Cash paid                                                                                  4,080
+     Goods returned                                                                               380
+                                                                                                8,640
+
+
+
+
+    176     Accounting                                                                      ICAEW 2024
+                                                                                                              £
+        Beta balance                                                                                     8,950
+        Difference remaining                                                                                 310
+
+
+
+10 Correct answer(s):
+    B     Debit Revenue £300, Credit Suspense account £300
+    The suspense account entry has to be reversed (credited) and the amount debited to revenue to
+    reduce revenue recorded for this sale to the amount net of the early settlement discount taken by the
+    customer.
+
+
+11 Correct answer(s):
+    A     Electronic payments which were initiated and recorded in the cash at bank account on 30
+          November 20X3 which have not yet cleared the bank statement
+    B     Omission by the bank of a cash lodgement made by the company on 30 November 20X3 but
+          not recorded by the bank until 1 December 20X3
+    Unpresented payments (A) and uncredited lodgements (B) are always included in the reconciliation
+    of the bank transaction report to the corrected cash at bank account balance. Bank charges (C) and
+    dishonoured receipts (D) would appear on the bank transaction report and would have to be
+    corrected in the cash at bank account before reconciliation.
+
+
+12 Correct answer(s):
+    B     was debited to the purchases account
+    An error of principle occurs when the ‘rules’ of accounting are broken. This would be the case here
+    as the purchase has been treated as revenue expenditure rather than capital expenditure.
+
+
+13 Correct answer(s):
+    B     Debit Revenue £30, Debit Suspense account £265, Credit Trade receivables £295
+    The £30 prompt payment discount taken by the customer will reduce (debit) revenue. The suspense
+    account needs to be removed (debit) and trade receivables decreased (credit) to reﬂect that the
+    debt is no longer owed by the credit customer. Option (A) and (C) ignore the adjustment to revenue
+    and (D) reverses the journal entries.
+
+
+14 Correct answer(s):
+    A     2 and 4
+    In preparing a bank reconciliation, uncredited lodgements reduce an overdrawn balance in the bank
+    statement. If a payment received from a customer is subsequently dishonoured, a credit entry in the
+    cash at bank account is required to reinstate the debt. Not all differences between the cash at bank
+    account and the bank statement must be corrected by means of a journal entry, since some items
+    appear in the bank reconciliation only (eg, errors by the bank, payments that have not cleared the
+    bank account and uncredited lodgements). Bank charges not yet entered in the cash at bank account
+    should be dealt with by updating the cash at bank account, not by making an adjustment to the
+    balance per the bank statement.
+
+
+15 Correct answer(s):
+    A     £325,200
+
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements    177
+                                              TRADE PAYABLES
+
+                                                     £                                                   £
+        Cash at bank account                  988,400    Opening balance                        384,600
+        Purchases (discount received
+           from suppliers)                     12,600    Purchases                              945,800
+        Trade receivables                       4,200
+        Closing balance                       325,200                                          –––––––
+                                            1,330,400                                         1,330,400
+
+
+
+16 Correct answer(s):
+    C     one side of a transaction has been recorded in the wrong account, and that account is of the
+          same class as the correct account
+    An error of commission arises when a transaction has been posted to the wrong account, but not the
+    wrong class of account. For example, a rental expense in respect of a photocopier is debited to
+    distribution costs rather than administrative expenses. It is correct to debit expenses, but the
+    incorrect expense category has been used.
+
+
+17 Correct answer(s):
+    B     Credit £25
+    The balance can be found by working out what double entries the computerised accounting system
+    has made:
+
+    Item 1                                  Debit Suspense a/c, Credit Cash at bank a/c             £135
+    Item 2                                  Debit Cash at bank a/c, Credit Suspense a/c              £90
+    Item 3                                  Debit Cash at bank a/c, Credit Suspense a/c              £70
+
+                                                SUSPENSE A/C
+
+                                                     £                                                   £
+        Cash at bank account                      135    Cash at bank account                            90
+        Balance c/d                                25    Cash at bank account                            70
+                                                  160                                                160
+                                                         Balance b/d                                     25
+
+
+
+18 Correct answer(s):
+    C     Debit Revenue £230, Debit VAT £46, Credit Trade receivables £276
+    When the goods were sold, they would have been recorded as Debit Trade receivables £276 (£230 +
+    VAT at 20%), Credit Revenue £230 and Credit VAT £46. This journal entry required to be reversed
+    when the goods are returned. Option (C) is the correct reversing journal entry. Option (A) records the
+    sale, Option (B) ignores VAT and Option (D) reverses revenue and trade receivables.
+
+
+19 Correct answer(s):
+    A     an overstatement of proﬁt and an overstatement of non-current assets
+    An expense has been posted as a non-current asset when it should have been a deduction from
+    proﬁt, non-current assets are overstated as a result.
+
+
+
+    178     Accounting                                                                         ICAEW 2024
+20 Correct answer(s):
+    D   increased by £1,614
+    £807 should have been credited to payables, but instead it was debited to payables. The payables
+    ledger should be credited with £807, to correct the error, and £807 again to record the invoice ie,
+    increase by 2 × £807 = £1,614.
+
+
+21 Correct answer(s):
+    B   Gross proﬁt: £145,000; Net proﬁt: £69,000
+
+                                                                                                             £
+    Gross proﬁt                                                                                       150,000
+    Closing inventory included in error                                                                 (5,000)
+    Adjusted gross proﬁt                                                                              145,000
+
+
+    Net proﬁt                                                                                           83,000
+    Closing inventory included in error                                                                 (5,000)
+    Staff training costs capitalised in error                                                          (10,000)
+    Add back depreciation on capitalised staff training costs (10,000 × 20% × 6/12
+      months)                                                                                            1,000
+
+    Adjusted net proﬁt                                                                                  69,000
+
+    Option A deducted the resale value of the inventory instead of the cost. Option C did not deduct the
+    inventory cost from the net proﬁt. Option D deducted the resale value of the inventory and did not
+    add back the depreciation charge on the capitalised staff training costs.
+
+
+22 Correct answer(s):
+    B   Credit £1,800
+    As some items have been withdrawn by the owner rather than sold or carried forward as inventory,
+    cost of sales should be reduced (credited).
+    Correct answer(s):
+    C   Increase
+    A lower cost of sales ﬁgure means an increased reported proﬁt. The drawings will be deducted when
+    calculating capital, but this does not impact on proﬁt.
+    SAMPLE EXAM
+
+
+
+
+23 Correct answer(s):
+    A   Staint plc paid an invoice for £26 even though it had recorded a credit note that Rufﬂe Ltd had
+        issued in respect of this amount.
+    Balances in the payables ledger are normally credit, representing amounts Staint plc owes to its
+    credit suppliers. If Staint plc paid an invoice that it did not owe (because a credit note had been
+    issued), a debit balance would arise. The debit balance represents the amount the supplier, Rufﬂe
+    Ltd, now owes to Staint plc.
+    B and C would have no effect yet on Rufﬂe Ltd’s account.
+
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements   179
+    D is incorrect as paying £26 too little on an invoice would leave a credit balance on the account.
+
+
+24 Correct answer(s):
+    A     £99,996
+    As opening inventory is debited to cost of sales in the statement of proﬁt or loss, an overstatement or
+    overvaluation here decreased proﬁt and so should be added back. The reverse is true of closing
+    inventory.
+
+                                                                                                   £
+     Draft gross proﬁt                                                                       99,500
+     Add back: overstatement of opening inventory (3,720 × 25/125 *)                            744
+     Deduct: overstatement of closing inventory (1,240 × 25/125 *)                              (248)
+     Corrected gross proﬁt                                                                   99,996      (A)
+
+    In Option B the overstatement in opening inventory is deducted, and that in closing inventory is
+    added back. In the other two options the wrong gross proﬁt percentage is applied, taking 25%
+    margin (on sales value ie, 25/100) rather than 25% mark-up (on cost).
+    * Gross proﬁt percentages:
+
+                                                                                                   %
+     Revenue                                                                                     125
+     Cost                                                                                        (100)
+     Gross proﬁt                                                                                   25
+
+    To calculate gross proﬁt from selling price, multiply by 25/125.
+
+
+25 Correct answer(s):
+    B     £74,300
+    The whole of the subscription relates to the following year, so the instalment paid should all be
+    treated as a prepayment, which reduces expenses in the year and so should be added back to the
+    draft net proﬁt.
+    The problem with the returned goods is that the draft net proﬁt reﬂects the revenue made on sale of
+    the goods, less the cost of those goods, therefore the proﬁt on the sale should be deducted from the
+    draft net proﬁt.
+
+                                                                                                   £
+     Draft net proﬁt                                                                         75,000
+     Add back: Prepaid subscription instalment (£1,000/2)                                       500
+     Deduct: proﬁt on returned goods £400 × 75/25                                             (1,200)
+                                                                                             74,300      (B)
+
+    In A the proﬁt deducted has been calculated as £400 × 25%; in C just the cost of goods (£400) has
+    been deducted, while in D the proﬁt has been added back and the prepayment deducted.
+
+                                                                                                 %
+     * Gross proﬁt percentages:
+     Revenue                                                                                    100
+     Cost                                                                                       (25)
+
+
+
+
+    180     Accounting                                                                         ICAEW 2024
+                                                                                                          %
+    Gross proﬁt                                                                                          75
+
+    To calculate gross proﬁt from cost, multiply by 75/25.
+
+
+26 Correct answer(s):
+    B     £531,480
+    The repair costs should have been expensed fully to the statement of proﬁt or loss, reducing proﬁts
+    by £6,600, and the depreciation charged of £1,650 should be added back. The net effect is to
+    decrease proﬁts by £4,950.
+    The early settlement discount was not expected to be taken, so the original sales invoice would have
+    been recorded gross of this discount. Now the discount has been taken, it should have been
+    credited to trade receivables and debited to sales. As the amount has currently been credited to
+    sales, the reduction in proﬁt will be £1,785 × 2 to remove the credit and post the debit to sales.
+
+                                                                                                           £
+    Draft net proﬁt                                                                                540,000
+    Net repair costs (6,600 × 0.75)                                                                  (4,950)
+    Discount to customer (×2)                                                                        (3,570)
+    Final net proﬁt                                                                                531,480        (B)
+
+
+
+27 Correct answer(s):
+    D     £14,600
+    £10,200 + £3,000 + £1,400 = £14,600.
+
+
+28 Correct answer(s):
+    A     Debit Receivables £414, Credit Payables £9, Credit Cash at bank £405
+    (1) Receivables has reduced by £414 more than it should have and cash at bank increased by the
+        same amount. This needs to be reversed by Debit Receivables £414 and Credit Cash at bank
+        £414.
+    (2) Payables has been reduced by £9 more than it should have and cash at bank decreased by the
+        same amount. This needs to be reversed by Debit Cash at bank £9 and Credit Payables £9.
+    The journal entries can be combined to correct the errors.
+
+
+29 Correct answer(s):
+    B     £74,695
+    The early settlement discount of £2,220 should have been debited to revenue and credited to
+    receivables, so the debit entry posted to payables needs to be reversed.
+                                                   TRADE PAYABLES
+
+                                                         £                                                        £
+        1 Trade receivables (contra)                    85     b/d                                         72,560
+        c/d (bal ﬁg)                               74,695      2 Sales                                         2,220
+                                                    –––––                                                  –––––
+                                                   74,780                                                  74,780
+
+
+
+
+    ICAEW 2024                         6: Errors and corrections to accounting records and ﬁnancial statements    181
+30 Correct answer(s):
+    B     £57,409
+    The incorrect entry was debit Prepayments £738, credit Suspense £738. Reversing this has no effect
+    on proﬁt. Making the correct entry of debit Expenses £738, credit Accruals £738 decreases proﬁt by
+    £738: £58,147 – £738 = £57,409 (B).
+
+
+
+
+    182    Accounting                                                                       ICAEW 2024

@@ -1,0 +1,28 @@
+AnswertoInteractivequestion4
+DEBIT   Costof sales   23.490
+CREDIT   Inventory(opening)Clearing   23.490
+opening inventoryto costof sales
+DEBIT   (nventory(closing)   40,285
+CREDIT   Cost of sales   40,285
+Recording closing inventoryasan
+assetattheendofthe
+reportingperiod
+AnswertoInteractivequestion5
+ftem   Cos   NRV   Lowerofcost/NF   Quantity Total valua
+CU   CU   CU   Units
+A(NRV:30-7)   20   23   20   200   4.000
+B(NRV:12-2-2)   150   1,200
+C(NRV:22-8-2)   14   12   12   300   3.600
+8,800
+Answerto Interactivequestion6
+CU
+Sales   100   1,000
+COGS   (75)   (750)1.000×75/100
+GP   25   250
+If the business operates at amargin of
+25%,thecostoftheinventoryisCU750.
+Sales   125   1,000
+COGS   (100)   (800)1,000×100/125
+GP   25   200
+Ifthebusinessoperatesatamark-upof25%,the costof theinventoryis CU800.
+240   Accounting   ICAB2026

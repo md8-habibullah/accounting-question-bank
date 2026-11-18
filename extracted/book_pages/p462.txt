@@ -1,0 +1,21 @@
+PROPERTY,PLANTANDEQUIPMENT(COST)
+CU
+SeeAnsweratthe end of.this.chapter.
+2.9   Interestanddividendsreceived
+Retums received in cash from investments will nclude interest and dividends received.The
+cashflows can be calculatedbyusing an interest receivedor dividendsreceived T-account.
+BothT-accounts areverysimilarandarepreparedasfollows:
+INTEREST/DIVIDENDSRECEIVED
+CU   CU
+Balanceb/d (receivable)   Cashreceipt (balancingfigure)
+Financeincome(statementof
+profit orloss)   Balance c/d (receivable)
+Interactivequestion3:Interestreceived
+A.companyhad interestreceivableofCU35,000atthestartoftheyearand interestreceivable
+of CU42,000 atthe end of the year.The statementof profit or lossfartheyearshowsfinance
+incomeafcU90,000.
+Requirement
+Whatwerethecashreceipts forinterest received in theyear?
+INTERESTRECEIVED
+SeeAnsweratthe end of this chapter.
+452   Accounting   ICAB2026

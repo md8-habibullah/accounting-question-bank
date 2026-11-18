@@ -1,0 +1,40 @@
+(2)Property.plantandequipment
+Freehold land   Fixtures and
+fittings
+CU'000   CU'000
+Costpertrial balance   2,120   2,000
+Depreciation pertrial balance   (900)
+(3)Retainedearnings
+Retained earnings
+CU'000
+Per trial balance   1,100
+Profitforthe yearper statementofprofitor loss
+Steps3 and4
+Nowall the balances havebeen transferred from thetrial balancewe canmove onto the
+adjustments.Here we will work throughthem in order,but they can be attempted in any order
+in the exam.This is steps 3and 4.You can write jourmals out,as above,buthere we will state
+which.balances the adjustments affects.
+(1)Inventory
+Increase inventory on the statementoffinancial position proforma and decrease costof
+salesinthe expenses workingby CU2,020.
+(2) Depreciation
+Increase expenses persplit in note6anddecrease fixtures andfittings in theworkings
+(3) Amortisation
+Decrease development costs on the statement of financial pasition.and increase
+administrativeexpensesintheexpensesworking.
+(4)Irrecoverabledebtandallowanceforreceivables
+Reducetradereceivables on the statement of financial position and increaseadministrative
+expenses inthe expensesworking.
+(5) Tax
+Increase the tax expense on the statementofprofitor loss and increase the tax liability on
+the statement of financial position.
+(6)Expenses
+Notetosplitexpenses between the categories
+(7)Loaninterest
+Increase financecosts on the statement of profit orloss and increasetradeand other
+payables on the staterment of financial position.   CHAPTER
+(8) Bonus issue
+Increase share capital on the statement of financial position and reduce retainedearnings
+in the working.
+12
+KAB2026   Companyfinancialstatements under IFRS Accounting Standards   425

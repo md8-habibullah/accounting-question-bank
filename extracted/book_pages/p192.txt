@@ -1,0 +1,33 @@
+butwhichhavenotyetlearedthebankstatement.Someelectronicpaymentsdono
+instantly clear the bank statement and there may be some occasions when payments
+arerecordedbythebusinessand credited inthecashat bankaccount whichdonot
+yet appearon the bank.statement.These areknown as uncleared payments.
+(2)Payments receivedbythebusiness anddebitedtothecashatbankaccount,butwhich
+have not yet been'cleared'bythebank and so do not yet appear on the bank
+statement These areknownas uncleared receipts or lodgements.
+Professional skills focus: Structuring problems and solutions
+When you arefaced with a bank reconciliation,it is importantthatyou can identify which
+reconciling items impactonthebankstatementandwhichimpactonthecashatbankaccount
+When you have worked out those that impact on the cash at bankaccount you need to then
+preparea journal entry to correct the account.
+Professional skills focus:Assimilating andusing information
+Anaccountant isrequiredtouse informationwithin.theentity'sown accountingsystemand
+information providedbythebank It is importanttobeabletocomparethesame information
+fromtwodifferentsourcesto understandthedifferencesbetweenthem,whichwill bethe
+reconcilingitems,
+Workedexample:Bankreconciliationl
+At30September20X6,thebalance inWordsworthCo'scashatbankaccount wasCU805.15
+debit.Abankstatement at 30September20X6 showed Wordsworth Cotobe in credit atthe
+bankbycU1,112.30.
+On investigationofthedifference,itwas establishedthat:
+1Acustomerpaid CU9obyelectronictransferinsettlementofaninvoicewhichwasnot
+matched bythe computerised accounting system and has notyet been recorded in the
+cashatbankaccount.
+Requirement
+Correctthecashatbankaccountbalance.
+2A funds transferreceived from a customerbut not yet cleared by the bank totalled
+CU208.20;and payments madeto supplierswhichhavenotcleared thebankwere
+CU425.35.
+Requirement
+Preparethebankreconciliation.
+182   Accounting   ICAB2026

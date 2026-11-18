@@ -1,0 +1,35 @@
+Contextexample:Costofmanufactured goods
+Abusinesshas thefollowingdetails relatingto production andsalesforareporting period:
+Sales:900unitsatCU600each
+1,o00 units are produced with the following costs being incurred:
+Openinginventoryofrawmaterials:200units atCU100eachPurchasesofrawmaterials:1,050
+units atCU100eachClosing inventoryofrawmaterials:250units at CU100each
+Productionwages   CU150.000
+Production overheads   CU100.000
+Generaladministration,selinganddistributioncosts   CU100.000
+productionoverheads,butnotnon-productionexpenses.
+The statementofprofitorloss ofthis business forthereportingperiod isas follows:
+Sales(900units×CU600)   540.000
+Costofproduction(1,000units)
+Inventories
+Openinginventory(200×CU100)   20.000
+Purchases (1,050xCU100)   105,000
+Lessclosinginventory(250×CU100)   (25,000)
+Costofrawmaterialsused   100,000
+Production wages   150,000
+Production overheads   100,000
+Costofproduction(1,000unitscostCU350000/1000=CU350each)350,000
+Less closing inventory.finishedgoods(100×CU350)   (35,000)
+Costofsales   (315,000)
+Grossprofit   225,000
+Generaladministration,sellinganddistribution costs   (100,000)
+Net profit   125,000
+The costofproduction is spreadoverthe units produced.Anyunsoldunits arevalued ata
+figurethatreflectsa shareofthesecosts.Whenthe inventoryis eventuallysold,theproduction
+overheads associated with its manufacture will betherebyproperly matched withtherevenues
+earmed.
+63.2   What is the total cost of items left in inventory?
+Abusiness maybecontinuallyadding items tofinished goods inventoryorpurchasinga
+particularcomponntAsachconsigmntireceivedfomsuppliersorachfinishedgoo
+batch isaddedto inventory,theyarestored intheappropriateplace,wheretheywill be
+226   Accounting   ICAB2026

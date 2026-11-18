@@ -1,0 +1,41 @@
+Accountingand Reporting Standardsfor
+PublicSector
+SectionOverview
+Accounting follows budgeting and precedes auditing to producefinancial information
+useful for understanding and assessing a government's financial conditions,
+The objectiveof public sectoraccounting and reporting isto ensurethe accountabilityof
+spendingthepublicmoney.
+Governmentand not-for-profitorganizations establish theiraccounting systems on a fund
+basis.
+IPSASBinitiatedtheirproject InternationalPublieSectorAccountingStandard (IPSASyin
+late1996.
+There are twotypesof iPSAS:Cashbasis and accruals basis
+Awellfunctioning accounting and financial management systen is the foundation ofa
+3.1   PublicSectorAccounting
+Inthepublicfinancialmanagement(PFM)cycleaccountingfollowsbudgetingandprecedes
+auditing to producefinancial information useful forunderstanding and assessinga
+government'sfinancial conditions,Financialaccounting ofpublic sectoraccounting concerned
+withmeasuring thefinancial consequences ofactualtransactions and events-is regulated by
+rulesto ensure the quality ofboth the inputs and outputs ofthe accounts of governments.
+Someoftherules,calledaccountingstandards,areproposedfor.adoptionbya government
+as its accountingpolicies foractual implementation.Publicsector accounting practicesvaries
+acrosstheworld.Wheresomecountriesarefollowingaccrual basisaccounting,some
+countriesarefollowingcashbasis accounting.In themeanwhilesomecountries aretryingto
+transform theaccounting from the cashbasisto accrual basis accounting.This chapterusesthe
+term public sectoraccountingto indicate thefinancialaccounting ofa governmentfor
+general/centralgovernment
+3.2   Objective of Public SectorAccounting and reporting
+The objective.ofpublic sectoraccountingand reporting isto ensuretheaccountabilityof
+spending thepublicmoneyAs per International Public SectorAccounting Standard (iPSAS),
+The objectives offinancial reporting bypublic sectorentities areto provide information
+aboutthe entitythat isusefulto usersofGPFRs (General purposefinancialreports)for
+accountability purposes andfor decision-making purposes (hereafterreferred to as
+"usefulforaccountabilityanddecision-makingpurposes").[iPSAs,section2.1]
+Financialreportingis notan end in itself.Itspurposeistoprovideinformationusefultousers
+of GPFRs,The objectives of financial reporting are therefore determined byreference to the
+usersofGPFRs,andtheirinformationneeds.[IPSAS,Section2.2]
+3.3   Accountabilityand Statements inPublicSector
+Governmental financialreporting has evolved to meet theunigue needs of citizens and other
+financial statementusers.It shouldnotbe surprising thatthese financial statements are quite
+different from those prepared bybusiness organizations.ln general,two sets ofstatements are
+500   Accounting   ICAB2026

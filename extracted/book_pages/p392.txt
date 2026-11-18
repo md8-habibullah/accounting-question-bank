@@ -1,0 +1,33 @@
+Stage3:Remove excessprovision
+thestatementoffinancialpositionshouldbereleasedtoprofitorlossbyrecordingthejournal
+entry.
+DEBIT   Current liabilities   CUX
+CREDIT   Expenses(P/L)   CUX
+Considerthe fallowing example.
+Contextexample:Provision forlegal claim
+An employee ol Stop Ltddamaged his handwhilst usingmachinery that was not fittedwith
+adequatesafetyguards.intheyearended31 July20x7,theemployeesuedStopLtdfor
+CU100,000 in respectof the damages he suffered,Stop Ltd's lawyershave indicatedthat the
+employee is 80% likelyto winthecase and agree that theamountpayable is likelytobe
+CU100,000.They are not sure whenthe amount will be settled,but it is expected to be within
+thenext12months.
+AsStop Ltdexpectstheemployeeto winthecase,itshould provideforthelikelyamount
+Ltd's accountingrecords at31July20x7ist
+DEBIT   Expenses (P/L)   CU100.000
+CREDIT   Current liabilities   CU100,000
+Beingcreationofprovisionforlegalcosts
+On3November20x7,theclaimwassettled infavouroftheemployeeandStopLtdpaidhim
+CU8o,oo0.The journalstorecord the settlementofthe claim and toremovethe provision are
+(amountinCU):
+DEBIT   Current liabilities   80,000
+CREDIT   Cash at bank   80,000
+Beingsettlementofclaim
+Current liabilities   20,000
+CREDIT   Expenses(P/L)   20,000
+Beingtheremoval of remainingprovision
+Tax
+Sectionoverview
+Anytaxdue on profits isthecompany'sliabilityandthereforemustbeshown:
+as a deduction in thestatement of profitorloss
+asa payable inthestatementoffinancial position
+Accounting   ICAB2026

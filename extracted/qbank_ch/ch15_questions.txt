@@ -1,0 +1,245 @@
+    Chapter 15: Sole trader ﬁnancial statements
+    under UK GAAP
+1   A sole traders’ private petrol bills have been treated as part of the business’ motor vehicle expenses.
+    Which of the following journals corrects the error?
+    A     Debit Drawings account, Credit Motor vehicle expenses account
+    B     Debit Motor vehicle expenses account, Credit Drawings account
+    C     Debit Motor vehicle expenses account, Credit Capital account
+    D     Debit Capital account, Credit Motor vehicle expenses account
+                                                                                              LO 1d, 1e, 2c
+
+
+2   The capital account of a sole trader has been written up as follows.
+                                             CAPITAL ACCOUNT
+
+                                                    £                                                      £
+                                                          Balance b/d                                    270
+                                                          Drawings                                   6,200
+        Balance c/d                            19,470     Net Proﬁt                                13,000
+                                               19,470                                              19,470
+
+    The balance brought down is entered correctly and the other entries are all correct in amount.
+    Requirement
+    What is the correct balance carried down?
+    A     A debit balance of £7,070
+    B     A credit balance of £7,070
+    C     A debit balance of £19,470
+    D     A credit balance of £19,470
+                                                                                                  LO 1d, 1e
+
+
+3   A gas accrual for £400 at the reporting date was treated as a prepayment in a sole trader’s ﬁnancial
+    statements. As a result, the proﬁt was:
+    A     understated by £800
+    B     understated by £400
+    C     overstated by £800
+    D     overstated by £400
+                                                                                                         LO 2a
+
+
+
+
+4   Avery is a sole trader who prepares their ﬁnancial statements each year to 31 May. Avery’s rent is
+    payable quarterly in advance on 1 January, 1 April, 1 July and 1 October. Local property taxes are
+    paid each year in two equal instalments on 1 April and 1 October.
+    Avery’s annual rental for the calendar years 20X6 and 20X7 was £4,800 and £5,400 respectively but
+    on 1 January 20X8 this was increased to £6,600 per annum. Local property tax for the last three years
+    has been as follows:
+
+
+
+
+    ICAEW 2024                                       15: Sole trader ﬁnancial statements under UK GAAP     145
+                                                                                                         £
+    Year commencing 1 April 20X6                                                                  3,600
+    Year commencing 1 April 20X7                                                                  3,900
+    Year commencing 1 April 20X8                                                                  4,500
+
+    Requirement
+    In preparing his ﬁnancial statements for the year ended 31 May 20X8, the charge to the proﬁt and
+    loss account from his rent and local property tax account would be:
+    A     £9,900
+    B     £10,100
+    C     £10,200
+    D     £10,300
+                                                                                               LO 1d, 3c
+
+
+5   A local taxes prepayment of £475 at the reporting date was treated as an accrual in preparing a
+    trader’s proﬁt and loss account. As a result, his proﬁt was:
+    A     understated by £950
+    B     overstated by £950
+    C     understated by £475
+    D     overstated by £475
+                                                                                                      LO 2a
+
+
+6   The net assets of Wei’s business decreased by £11,025 over the year to 31 October 20X7. During
+    that year Wei had paid in additional capital of £14,000, drawn £875 in cash each month and, on one
+    occasion, taken goods costing £2,625 for their own use.
+    Requirement
+    The loss made by Wei’s business for the year ended 31 October 20X7 was:
+    A     £10,150
+    B     £11,900
+    C     £21,525
+    D     £25,025
+                                                                                           LO 1d, 1e, 3a
+
+
+
+
+7   Harsha has been unable to calculate her business’ proﬁt or loss for the year ended 31 December
+    20X8 as a ﬁre destroyed most of her accounting records. She has, however, been able to provide the
+    following information.
+    (1) Net assets at 31 December 20X7 were £23,000 and £32,500 at 31 December 20X8.
+    (2) Harsha introduced capital during the year of £4,000 cash.
+    (3) Harsha took cash drawings of £2,500 and goods with a selling price of £800. The cost of the
+        goods was £750.
+    Requirement
+    What was Harsha’s proﬁt or loss for the year ended 31 December 20X8?
+    A     £8,750 proﬁt
+    B     £(1,750) loss
+
+
+
+    146    Accounting                                                                        ICAEW 2024
+    C   £9,800 proﬁt
+    D   £(2,750) loss
+                                                                                              LO 1d, 1e, 3a
+
+
+8   Alex’s net assets have increased by £127,000 over the year. Alex took drawings of £47,000 and paid
+    in the proceeds from a personal property sale amounting to £25,000. Alex’s net proﬁt for the year
+    was:
+    A   £55,000
+    B   £105,000
+    C   £149,000
+    D   £199,000
+                                                                                              LO 1d, 1e, 3a
+
+
+9   A business has net assets of £286,400 on 31 January 20X6 and had net assets of £266,800 on 31
+    January 20X5. During the year the owner of the business:
+    (1) took goods for his own use which cost £10,000 and had a market value of £14,000;
+    (2) introduced capital of £50,000; and
+    (3) withdrew £30,000 as salary.
+    Requirement
+    The proﬁt for the year was:
+    A   £9,600
+    B   £30,400
+    C   £70,400
+    D   £109,600
+                                                                                              LO 1d, 1e, 3a
+
+
+
+
+10 Which two of the following could be classiﬁed as current liabilities in the balance sheet of a sole
+   trader?
+    A   Owner’s capital
+    B   Accrued interest charges
+    C   Drawings
+    D   Lease liability
+    E   Income tax payable
+                                                                                                         LO 3c
+
+
+11 Which of the following equations represents the closing capital of a sole trader?
+    A   Opening capital – capital introduced + proﬁt – drawings
+    B   Opening capital – capital introduced – proﬁt + drawings
+    C   Opening capital + capital introduced + proﬁt – drawings
+    D   Opening capital + capital introduced – loss + drawings
+                                                                                              LO 1e, 3a, 3c
+
+
+12 Sam has discovered the following errors and omissions in their accounting records for the year
+   ended 31 August 20X6:
+
+
+
+    ICAEW 2024                                       15: Sole trader ﬁnancial statements under UK GAAP     147
+    (1) A payment of £180 received from a customer on 30 August 20X6 was returned dishonoured by
+        the customer’s bank on 31 August 20X6. No entries have been made in the accounting records
+        for the returned payment.
+    (2) An invoice for £12 was raised by the bookkeeper and entered into the accounting records by the
+        computerised accounting system; however, it was later discovered that it should have been a
+        credit note.
+    Requirement
+    Which of the following journals will be entered in Sam’s nominal ledger accounts in order to correct
+    these errors and omissions?
+    A     Debit Debtors £156, Debit Sales £24, Credit Cash £180
+    B     Debit Cash £180, Credit Debtors £156, Credit Sales £24
+    C     Debit Debtors £168, Debit Sales £12, Credit Cash £180
+    D     Debit Bad debts expense £180, Debit Debtors £24, Credit Cash £180, Credit Sales £24
+                                                                                                LO 1d, 2c
+
+
+13 Which three of the following could be found in the ﬁnancial statements of a sole trader?
+    A     Fixed assets
+    B     Share premium
+    C     Drawings
+    D     Dividends paid
+    E     Proﬁt for the year
+                                                                                                   LO 3c
+
+
+14 Sunil started business on 1 December 20X3, introducing cash of £5,000 on that date. Sunil has not
+   yet prepared a full set of ﬁnancial statements. As at the end of the ﬁrst reporting period, 30
+   November 20X4, Sunil has cash at bank of £1,726. Sunil made sales of £33,498 during the period
+   and paid expenses in cash of £19,385. Sunil has no outstanding creditors at the end of the period,
+   and has no ﬁxed assets or stock, but one customer owes £2,387.
+    Requirement
+    Assuming Sunil made no other capital injections but took drawings of £15,000 in the period, identify
+    the proﬁt for the 12-month reporting period to 30 November 20X4 and the net assets at the end of
+    the period on an accrual basis.
+    A     Net proﬁt of £11,726, net assets of £1,726
+    B     Net proﬁt of £14,113, net assets of £4,113
+    C     Net proﬁt of £11,726, net assets of £4,113
+    D     Net proﬁt of £14,113, net assets of £1,726
+                                                                                                LO 1d, 3b
+
+
+15 Randolph started a trading business on 1 May 20X4 with capital of £40,000. In his ﬁrst year of
+   trading, he made a net proﬁt of £117,000, selling goods at a mark-up on cost of 60%. He injected
+   additional capital of £30,000 in the year and withdrew a monthly amount of £3,200 for his living
+   expenses. He also took drawings from stock of goods with a resale value of £7,200. He had no stock
+   at the year end.
+    Requirement
+    What was the amount of Randolph’s net assets at 30 April 20X5?
+    A     £141,400
+    B     £144,100
+
+
+
+
+    148    Accounting                                                                         ICAEW 2024
+    C   £144,280
+    D   £179,300
+                                                                                                         LO 3a
+
+
+16 Mushtaq, a sole trader, has the following information at the start and end of his second year of
+   trading.
+
+                                                 At 31 December 20X0                   At 1 January 20X0
+                                                                       £                                    £
+     Fixed assets (net book value)                               46,000                             39,400
+     Stock                                                       18,900                             15,600
+     Trade debtors                                                 8,400                            11,500
+     Trade creditors                                               7,500                            10,200
+     Cash in hand                                                  6,400                              6,600
+
+    During 20X0 Mushtaq introduced £3,000 capital. He took stock for his own use that cost £500 and
+    paid himself £750 per month.
+    Requirement
+    What is Mushtaq’s proﬁt or loss for 20X0?
+    A   £15,800 proﬁt
+    B   £2,800 loss
+    C   £16,300 proﬁt
+    D   £18,800 proﬁt
+                                                                                                         LO 3a
+
+
+
+
+    ICAEW 2024                                       15: Sole trader ﬁnancial statements under UK GAAP     149

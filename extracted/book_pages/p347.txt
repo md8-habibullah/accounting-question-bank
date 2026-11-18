@@ -1,0 +1,34 @@
+CU   CU
+DEBIT   AssetAcost   20,000
+CREDIT   Cash   12,000
+CREDIT   Disposal account (Asset B's pant   8,000
+exchange value)
+Being theacquisition of AssetAforcashandpart-exchange ofAssetBNext,AssetBshould be
+removedfrom.theledgeraccounts
+Asset Baccumulated depreciation   4,000
+CREDIT   Disposalaccount(AssetB)   4,000
+DEBIT   Disposal account(Asset B)   15,000
+CREDIT   AssetBcostaccount   15,000
+BeingtheremovalofAssetBfromtheledgeraccountsFinally.thelossondisposalofAssetB   CHAPTER
+should be recorded.
+CU   CU
+DEBIT   Statementof profit orloss   3,000
+CREDIT   Disposal account   3,000
+10
+Beingthelosson.disposal.ofAssetB(8,000-(15,000-4,000))
+DISPOSALSACCOUNT
+Disposalproceeds(part
+Asset Bcost(b)   15,000   exchangevalue)(a)   8.000
+AssetBaccumulated
+depreciation (b)   4,000
+Statementofprofitorloss (c)
+(lossondisposal)   3,000
+15,000   15,000
+Alternative working:
+CU
+Asset Bat cost   15,000
+Accumulateddepreciationattimeofsale   (4,000)
+Carrying amount attime of sale   11,000
+Part-exchange value   8,000
+Loss on disposal   3,000
+ICAB2026   Non-currentassets,depreciationandimpairment   337

@@ -1,0 +1,632 @@
+    Chapter 9: Accruals and prepayments
+1   A business preparing its ﬁnancial statements for the year to 31 October pays rent quarterly in
+    advance on 1 January, 1 April, 1 July and 1 October each year. The annual rent was increased from
+    £48,000 to £60,000 from 1 March 20X4.
+    Requirement
+    What amount should appear for rent in the statement of proﬁt or loss for the year ended 31 October
+    20X4 and in the statement of ﬁnancial position as at that date?
+    A   Statement of proﬁt or loss: £56,000; Statement of ﬁnancial position: £10,000
+    B   Statement of proﬁt or loss: £52,000; Statement of ﬁnancial position: £5,000
+    C   Statement of proﬁt or loss: £56,000; Statement of ﬁnancial position: £5,000
+    D   Statement of proﬁt or loss: £55,000; Statement of ﬁnancial position: £10,000
+                                                                                               LO 1d, 3c
+
+
+2   A business has received telephone bills as follows:
+
+                                             Date received        Amount of bill              Date paid
+                                                                                £
+    Quarter to 30 November 20X0            December 20X0                  739.20          January 20X1
+    Quarter to 28 February 20X1                 March 20X1                798.00             April 20X1
+    Quarter to 31 May 20X1                       June 20X1                898.80             June 20X1
+    Quarter to 31 August 20X1             September 20X1                  814.80         October 20X1
+    Quarter to 30 November 20X1            December 20X1                  840.00          January 20X2
+    Quarter to 28 February 20X2                 March 20X2                966.00           March 20X2
+
+    Requirement
+    What amount of telephone expenses should be included in the statement of proﬁt or loss for the
+    year ended 31 December 20X1?
+    A   £3,407.60
+    B   £3,351.60
+    C   £3,250.80
+    D   £3,463.60
+                                                                                               LO 1d, 3c
+
+
+3   A company receives rental income from a large number of properties. The total cash received in the
+    year ended 31 October 20X6 was £481,200.
+    The following are the amounts of rental income received in advance and in arrears at 31 October
+    20X5 and 20X6.
+
+                                                          31 October 20X5              31 October 20X6
+                                                                         £                              £
+    Rental income received in advance                               28,700                       31,200
+    Rental income received in arrears                               21,200                       18,400
+
+
+
+
+    ICAEW 2024                                                          9: Accruals and prepayments     55
+    Requirement
+    What amount of rental income should be included in the company’s statement of proﬁt or loss for
+    the year ended 31 October 20X6?
+    A    £486,500
+    B    £460,900
+    C    £501,500
+    D    £475,900
+                                                                                                          LO 1d, 3c
+
+
+4   An insurance expense prepayment of £960 was treated as an accrual in a sole trader’s statement of
+    proﬁt or loss at the year end. As a result, the proﬁt was:
+    A    understated by £960
+    B    understated by £1,920
+    C    overstated by £1,920
+    D    overstated by £960
+                                                                                                          LO 1d, 3c
+
+
+5   In the year ended 31 December 20X4 B Ltd received cash of £318,600 from subscribers to its
+    website in respect of ﬁtness classes B Ltd provides through its website.
+    Details of subscriptions in advance and in arrears at the beginning and end of 20X4 are as follows:
+
+                                                           31 December 20X4           31 December 20X3
+                                                                               £                                £
+    Subscriptions received in advance                                   28,400                              24,600
+    Subscriptions owing                                                 18,300                              16,900
+
+    All subscriptions owing were subsequently received.
+    Requirement
+    What ﬁgure for subscriptions income should be included in the statement of proﬁt or loss of B Ltd for
+    20X4?
+    A    £321,000
+    B    £336,400
+    C    £300,800
+    D    £316,200
+                                                                                                          LO 1d, 3c
+
+
+6   A company receives rental income for subletting part of its ofﬁce block.
+    Rental income, receivable quarterly in advance, is received as follows:
+
+    Date of receipt                                             Period covered                                  £
+                                                                                    ... 1 month = 2500
+    1 October 20X1                             3 months to 31 December 20X1                                  7,500
+    30 December 20X1                               3 months to 31 March 20X2                                 7,500
+    4 April 20X2                                     3 months to 30 June 20X2                                9,000
+    1 July 20X2                               3 months to 30 September 20X2                                  9,000
+    1 October 20X2                             3 months to 31 December 20X2        ... 2 months = 6000       9,000
+
+
+                                                                        all added with adjustments = 34,000
+
+
+    56    Accounting                                                                                     ICAEW 2024
+    Requirement
+    What ﬁgures, based on these receipts, should be included in the company’s ﬁnancial statements for
+    the year ended 30 November 20X2?
+    A   Statement of proﬁt or loss: £33,500 Debit; Statement of ﬁnancial position: Accrued income
+        (Debit) £6,000
+    B   Statement of proﬁt or loss: £33,500 Credit; Statement of ﬁnancial position: Deferred income
+        (Credit) £6,000
+    C   Statement of proﬁt or loss: £34,000 Credit; Statement of ﬁnancial position: Deferred income
+        (Credit) £3,000
+    D   Statement of proﬁt or loss: £34,000 Credit; Statement of ﬁnancial position: Accrued income
+        (Debit) £3,000
+                                                                                               LO 1d, 3c
+
+
+7   During 20X4, Bibi, a sole trader, paid a total of £60,000 for insurance, covering the period from 1
+    October 20X3 to 31 March 20X5.
+    Requirement
+    What amounts in respect of insurance should be included in the ﬁnancial statements for the year
+    ended 31 December 20X4?
+    A   Statement of proﬁt or loss: £40,000; Statement of ﬁnancial position: £10,000 Prepayment
+    B   Statement of proﬁt or loss: £40,000; Statement of ﬁnancial position: £15,000 Prepayment
+    C   Statement of proﬁt or loss: £50,000; Statement of ﬁnancial position: £10,000 Accrual
+    D   Statement of proﬁt or loss: £50,000; Statement of ﬁnancial position: £15,000 Accrual
+                                                                                                  LO 1d, 3c
+
+
+8   A company pays website fees which cover website hosting, content management and website
+    security quarterly in arrears on 1 January, 1 April, 1 July and 1 October each year. The website fees
+    were increased from £9,000 per year to £12,000 per year as from 1 October 20X2.
+    Requirement
+    What website expenses and accrual should be included in the company’s ﬁnancial statements for the
+    year ended 31 January 20X3?
+    A   Website expenses: £10,000; Accrual: £2,000
+    B   Website expenses: £10,000; Accrual: £1,000
+    C   Website expenses: £9,750; Accrual: £1,000
+    D   Website expenses: £9,750; Accrual: £2,000
+                                                                                                  LO 1d, 3c
+
+
+9   A company owns a number of properties which are rented to tenants. The following information is
+    available for the year ended 30 June 20X6:
+
+                                                                                         Rental income in
+                                                     Rental income in advance                      arrears
+                                                                               £                            £
+    30 June 20X5                                                       134,600                       4,800
+    30 June 20X6                                                       144,400                       8,700
+
+    Cash received from tenants in the year ended 30 June 20X6 was £834,600.
+    All rental income in arrears was subsequently received.
+
+
+
+
+    ICAEW 2024                                                            9: Accruals and prepayments       57
+    Requirement
+    What amount should appear in the company’s statement of proﬁt or loss for rent receivable in the
+    year ended 30 June 20X6?
+    A    £840,500
+    B    £1,100,100
+    C    £569,100
+    D    £828,700
+                                                                                                LO 1d, 3c
+
+
+10 A company has sublet part of its ofﬁces. The rent receivable in the year ended 31 November 20X3
+   was:
+
+     Until 30 June 20X3                       £8,400 per year
+
+     From 1 July 20X3                         £12,000 per year
+
+    Rent was received quarterly in advance on 1 January, April, July, and October each year.
+    Requirement
+    What amounts should appear in the company’s ﬁnancial statements for the year ended 30 November
+    20X3?
+    A    Statement of proﬁt or loss: £9,900; Statement of ﬁnancial position: £2,000 in other payables
+    B    Statement of proﬁt or loss: £9,900; Statement of ﬁnancial position: £1,000 in other payables
+    C    Statement of proﬁt or loss: £9,600; Statement of ﬁnancial position: £1,000 in other payables
+    D    Statement of proﬁt or loss: £9,600; Statement of ﬁnancial position: £2,000 in other receivables
+                                                                                                 LO 1d, 3c
+
+
+11 A business preparing its ﬁnancial statements for the year to 31 July each year pays its buildings
+   insurance quarterly in advance on 1 January, 1 April, 1 July and 1 October each year. The annual
+   insurance was increased from £60,000 per year to £72,000 per year as from 1 October 20X3.
+    Requirement
+    What amount should be included as the insurance expense in the statement of proﬁt or loss for the
+    year ended 31 July 20X4?
+    A    £69,000
+    B    £62,000
+    C    £70,000
+    D    £63,000
+                                                                                                LO 1d, 3c
+
+
+12 At 1 July 20X4 a company had prepaid insurance of £8,200. On 1 January 20X5 the company paid
+   £38,000 for insurance for the year to 30 September 20X5.
+    Requirement
+    What amounts should be included for insurance in the company’s ﬁnancial statements for the year
+    ended 30 June 20X5?
+    A    Statement of proﬁt or loss: £45,200; Statement of ﬁnancial position: Prepayment £0
+    B    Statement of proﬁt or loss: £39,300; Statement of ﬁnancial position: Prepayment £9,500
+    C    Statement of proﬁt or loss: £36,700; Statement of ﬁnancial position: Prepayment £9,500
+    D    Statement of proﬁt or loss: £39,300; Statement of ﬁnancial position: Prepayment £0
+
+
+
+
+    58    Accounting                                                                           ICAEW 2024
+                                                                                                 LO 1d, 3c
+
+
+13 A company sublets part of its ofﬁce accommodation. In the year ended 30 June 20X5 cash received
+   from tenants was £83,700.
+    Details of rental income in arrears and in advance at the beginning and end of the year were:
+
+                                          Rental income in arrears               Rental income in advance
+                                                                 £                                      £
+     30 June 20X4                                            3,800                                  2,400
+     30 June 20X5                                            4,700                                  3,000
+
+    All arrears of rent were subsequently received.
+    Requirement
+    What amount for rental income should be included in the company’s statement of proﬁt or loss for
+    the year ended 30 June 20X5?
+    A   £84,000
+    B   £83,400
+    C   £80,600
+    D   £86,800
+                                                                                                 LO 1d, 3c
+
+
+14 Details of a company’s insurance policy are shown below:
+
+     Premium for year ended 31 March 20X6 paid April 20X5                                        £10,800
+     Premium for year ending 31 March 20X7 paid April 20X6                                       £12,000
+
+    Requirement
+    What amounts relating to insurance should be included in the company’s ﬁnancial statements for the
+    year ended 30 June 20X6?
+    A   Statement of proﬁt or loss: £11,100; Statement of ﬁnancial position: £9,000 prepayment (Debit)
+    B   Statement of proﬁt or loss: £11,700; Statement of ﬁnancial position: £9,000 prepayment (Debit)
+    C   Statement of proﬁt or loss: £11,100; Statement of ﬁnancial position: £9,000 accrual (Credit)
+    D   Statement of proﬁt or loss: £11,700; Statement of ﬁnancial position: £9,000 accrual (Credit)
+                                                                                                LO 1d, 3c
+
+
+15 Usherwood Ltd has a year end of 30 September 20X6. On 1 January 20X6 Usherwood Ltd took out a
+   loan of £100,000 with annual interest of 12%. The interest is payable in equal instalments on the ﬁrst
+   day of April, July, October and January in arrears.
+    Requirement
+    In respect of interest, what amount should Usherwood Ltd charge to the statement of proﬁt or loss
+    for the year ended 30 September 20X6, and what amount should be accrued on the statement of
+    ﬁnancial position as at that date?
+    A   Statement of proﬁt or loss: £12,000; Statement of ﬁnancial position: £3,000
+    B   Statement of proﬁt or loss: £9,000; Statement of ﬁnancial position: £3,000
+    C   Statement of proﬁt or loss: £9,000; Statement of ﬁnancial position: £0
+    D   Statement of proﬁt or loss: £6,000; Statement of ﬁnancial position: £3,000
+                                                                                                 LO 1d, 3c
+
+
+
+
+    ICAEW 2024                                                           9: Accruals and prepayments    59
+16 A business sublets part of its ofﬁce accommodation.
+    The rent is received quarterly in advance on 1 January, 1 April, 1 July and 1 October. The annual rent
+    has been £24,000 for some years, but it was increased to £30,000 from 1 July 20X5.
+    Requirement
+    What amounts for this rent should appear in the company’s ﬁnancial statements for the year ended
+    31 January 20X6?
+    A    Statement of proﬁt or loss: £27,500; Statement of ﬁnancial position: £5,000 accrued income
+    B    Statement of proﬁt or loss: £27,000; Statement of ﬁnancial position: £2,500 accrued income
+    C    Statement of proﬁt or loss: £27,000; Statement of ﬁnancial position: £2,500 deferred income
+    D    Statement of proﬁt or loss: £27,500; Statement of ﬁnancial position: £5,000 deferred income
+                                                                                                LO 1d, 3c
+
+
+17 The electricity account for the year ended 30 June 20X1 was as follows.
+
+                                                                                                           £
+     Opening balance for electricity accrued at 1 July 20X0                                             300
+     Payments made during the year
+     1 August 20X0 for three months to 31 July 20X0                                                     600
+     1 November 20X0 for three months to 31 October 20X0                                                720
+     1 February 20X1 for three months to 31 January 20X1                                                900
+     30 June 20X1 for three months to 30 April 20X1                                                     840
+
+    On 1 August 20X1 a payment of £840 was made for the three months ended 31 July 20X1.
+    Requirement
+    What is the charge for electricity that should be included in the statement of proﬁt or loss for the year
+    ended 30 June 20X1?
+    A    £3,060
+    B    £3,320
+    C    £3,360
+    D    £3,620
+                                                                                                   LO 1d, 3c
+
+
+18 The year-end of Murphy plc is 30 November 20X1. The company pays for its gas by a standing order
+   of £600 per month. It had an opening accrual of £400 and a closing accrual of £500.
+    Requirement
+    What is the correct charge for gas to be included in Murphy plc’s statement of proﬁt or loss for the
+    year ended 30 November 20X1?
+    A    £7,700
+    B    £7,100
+    C    £7,200
+    D    £7,300
+                                                                                                   LO 1d, 3c
+
+
+
+
+    60    Accounting                                                                             ICAEW 2024
+19 At 31 December 20X8 Blue Anchor plc has an insurance prepayment of £250. During 20X9 it pays
+   £800 in respect of various insurance contracts. The closing accrual for insurance is £90.
+    Requirement
+    What is the charge for insurance that should be included in the statement of proﬁt or loss for the year
+    ended 31 December 20X9?
+    A   £460
+    B   £800
+    C   £960
+    D   £1,140
+                                                                                                 LO 1d, 3c
+
+
+20 At 31 March 20X7, accrued rent payable was £300. During the year ended 31 March 20X8, rent paid
+   was £4,000, including an invoice for £1,200 for the quarter ended 30 April 20X8.
+    Requirement
+    What is the statement of proﬁt or loss charge for rent payable for the year ended 31 March 20X8?
+    A   £3,300
+    B   £3,900
+    C   £4,100
+    D   £4,700
+                                                                                                 LO 1d, 3c
+
+
+21 Constains plc has an insurance prepayment of £320 at 31 March 20X2. During the year ended
+   31 March 20X2 Constains plc paid two insurance bills, one for £1,300 and one for £520.
+    Requirement
+    What was the insurance prepayment at 31 March 20X1 if the charge for insurance for the year was
+    £1,760?
+    A   £200
+    B   £260
+    C   £320
+    D   £380
+                                                                                                 LO 1d, 3c
+
+
+22 The annual insurance premium for Boost Ltd for the period 1 July 20X6 to 30 June 20X7 is £13,200,
+   which is 10% more than the previous year. Insurance premiums are paid on 1 July.
+    Requirement
+    What is the statement of proﬁt or loss charge for insurance for the year ended 31 December 20X6?
+    A   £12,000
+    B   £12,600
+    C   £13,200
+    D   £14,520
+                                                                                                 LO 1d, 3c
+
+
+
+
+    ICAEW 2024                                                            9: Accruals and prepayments   61
+23 A gas accrual for £400 at the year-end was treated as a prepayment in a business’s statement of proﬁt
+   or loss.
+    Requirement
+    As a result, the proﬁt was:
+    A    understated by £400
+    B    overstated by £400
+    C    understated by £800
+    D    overstated by £800
+                                                                                                      LO 2a
+
+
+24 At 31 December 20X2 the following matters require inclusion in a company’s ﬁnancial statements:
+    (1) On 1 January 20X2 the company made a loan of £12,000 to an employee, repayable on 30 April
+        20X3, charging interest at 2% per year. On the due date she repaid the loan and paid the whole
+        of the interest due on the loan to that date.
+    (2) The company has paid insurance £9,000 in 20X2, covering the year ending 31 August 20X3.
+    (3) In January 20X3 the company received rent from a tenant £4,000 covering the six months to
+        31 December 20X2.
+    Requirement
+    For these items, what total amounts should be included in the company’s statement of ﬁnancial
+    position at 31 December 20X2?
+    A    Current assets: £22,000; Current liabilities: £240
+    B    Current assets: £22,240; Current liabilities: £0
+    C    Current assets: £10,240; Current liabilities: £0
+    D    Current assets: £16,240; Current liabilities: £6,000
+                                                                                                  LO 1d, 3c
+
+
+25 Whilst reviewing the trial balance for a business it was determined that an accrual for electricity was
+   required for £300 and that there was a prepayment of insurance of £800.
+    Requirement
+    What four entries are required to adjust the initial trial balance?
+    A    Debit electricity: £300
+    B    Debit insurance: £800
+    C    Credit electricity: £300
+    D    Credit insurance: £800
+    E    Debit accruals: £300
+    F    Credit accruals: £300
+    G    Debit prepayments: £800
+    H    Credit prepayments: £800
+                                                                                                      LO 1d
+
+
+26 A business has an accrual for electricity at 1 January 20X7 of £215 and has paid electricity bills of
+   £3,420 during the year to 31 December 20X7. At 31 December 20X7 there is an accrual for
+   electricity of £310.
+    Requirement
+    What is the electricity charge to be included in the statement of proﬁt or loss for the year ended 31
+    December 20X7?
+
+
+
+    62    Accounting                                                                            ICAEW 2024
+    A   £2,895
+    B   £3,325
+    C   £3,515
+    D   £3,945
+                                                                                                LO 1d, 3c
+
+
+27 A business has paid £10,400 of insurance premiums during the year ended 31 March 20X7. At 1
+   April 20X6 there was an insurance prepayment of £800 and at 31 March 20X7 there was a
+   prepayment of £920.
+    Requirement
+    What is the insurance charge in the statement of proﬁt or loss for the year ended 31 March 20X7?
+    A   £8,680
+    B   £10,280
+    C   £10,400
+    D   £10,520
+                                                                                                LO 1d, 3c
+
+
+28 Wright & Co’s year end is 31 August 20X4. The company provides VoIP (Voice over Internet Protocol)
+   services to its remote workers. VoIP costs of £120 were paid on 31 July 20X4 for the two months from
+   that date. This amount was included in the accounting records by debiting the communication
+   expenses account and crediting the cash at bank account.
+    Requirement
+    Which two of the following entries of £60 should Wright & Co make at the year-end in relation to this
+    expense?
+    A   Debit the communication expenses account
+    B   Debit the prepayments account
+    C   Debit the accruals account
+    D   Credit the accruals account
+    E   Credit the prepayments account
+    F   Credit the communication expenses account
+                                                                                                       LO 1d
+
+
+29 Krim Ltd owns a small grocery store chain and incurred food waste disposal costs of £6,495 on
+   31 May 20X7 in respect of the three months ending 31 August 20X7.
+    Requirement
+    What adjustment must Krim Ltd make to the administrative expenses ledger account for the year
+    ended 30 June 20X7?
+    A   debit £2,165
+    B   credit £2,165
+    C   debit £4,330
+    D   credit £4,330
+                                                                                                       LO 1d
+
+
+30 Jeremiah plc is a newsagent business and is preparing its ﬁnancial statements for the year ended
+   31 August 20X8. There are three outstanding matters that the company has not yet accounted for.
+
+
+
+
+    ICAEW 2024                                                           9: Accruals and prepayments      63
+    (1) A subscription of £240 for the year ending 31 January 20X9, paid and accounted for by
+        Jeremiah plc on 1 July 20X8.
+    (2) Advance payments (deposits) of £75 recorded as received from customers in respect of
+        magazines on order but not yet delivered to the customers at the year end.
+    (3) An unpaid property tax demand for the six months to 30 September 20X8 for £5,400.
+    Requirement
+    Which three of the following balances will appear in Jeremiah plc’s statement of ﬁnancial position as
+    at 31 August 20X8?
+    A    Deferred income £75
+    B    Accrued income £75
+    C    Prepayment £100
+    D    Accrual £4,500
+    E    Accrual £900
+    F    Prepayment £140
+                                                                                              LO 1d, 3b, 3c
+
+
+31 Minoto plc is preparing its ﬁnancial statements as at 31 December 20X4. Its ledger account balance
+   for rental income includes £9,870 rent received in respect of the year ended 31 December 20X3.
+    Requirement
+    Minoto plc should enter a journal with two entries of £9,870 as:
+    A    a debit entry to the rental income account
+    B    a debit entry to the deferred income (liability) account
+    C    a debit entry to the accrued income (asset) account
+    D    a credit entry to the rental income account
+    E    a credit entry to the deferred income (liability) account
+    F    a credit entry to the accrued income (asset) account
+                                                                                              LO 1d, 2c, 3b
+
+
+32 As at 30 November 20X4 Whitley plc had accrued distribution costs of £5,019 and prepaid
+   distribution costs of £2,816. On 1 December 20X4 the bookkeeper processed the following opening
+   journal:
+    Debit Prepayments £2,816, Debit Distribution costs £2,203, Credit Accruals £5,019.
+    During the year to 30 November 20X5 cash was paid in respect of distribution costs of £147,049 and
+    was correctly posted to the distribution costs account. At the year end, Whitley plc’s bookkeeper
+    correctly processed closing journals to set up an accrual of £4,423 and a prepayment of £3,324 in
+    respect of distribution costs.
+    Requirement
+    Which of the following journals should Whitley plc process as at 30 November 20X5 to correct the
+    three accounts?
+    A    Debit Accruals £10,038, Credit Prepayments £5,632, Credit Distribution costs £4,406
+    B    Debit Accruals £5,019, Credit Prepayments £2,816, Credit Distribution costs £2,203
+    C    Debit Distribution costs £4,406, Debit Prepayments £5,632, Credit Accruals £10,038
+    D    Debit Distribution costs £2,203, Debit Prepayments £2,816, Credit Accruals £5,019
+                                                                                              LO 1d, 2c, 3b
+
+
+
+
+    64    Accounting                                                                           ICAEW 2024
+33 Bez plc draws up its ﬁnancial statements to 31 December in each year. It pays internet server charges
+   for each year ending 30 April in two equal instalments, on 1 May and 1 November, in advance. It also
+   pays telephone rental charges quarterly in arrears at the end of February, April, July and November.
+   The total internet server charge for the year to 30 April 20X6 was £9,000. Telephone rental charges
+   for the year commencing 1 July 20X5 were £7,440.
+    Requirements
+    What was the prepayment for internet server charges included in Bez plc’s statement of ﬁnancial
+    position at 31 December 20X5?
+    A    £1,500
+    B    £3,000
+    C    £2,250
+    What was the accrual for telephone rental charges included in Bez plc’s statement of ﬁnancial
+    position at 31 December 20X5?
+    D    £1,860
+    E    £1,240
+    F    £620
+                                                                                              LO 1d, 3b, 3c
+
+
+34 Butters plc is ﬁnalising certain ﬁgures that will appear in its ﬁnancial statements as at 30 June 20X5.
+   On 1 March 20X4 the company paid an annual subscription to a trade association of £21,000 for the
+   12 months ended 28 February 20X5. A 12.5% increase in this subscription is expected, but has not
+   been ﬁnalised at 30 June 20X5.
+    Requirement
+    What will Butters include in its statement of ﬁnancial position at 30 June 20X5 in respect of the
+    subscription?
+    A    an accrual of £15,750
+    B    an accrual of £7,875
+    C    a prepayment of £15,750
+    D    a prepayment of £7,875
+                                                                                              LO 1d, 3b, 3c
+
+
+35 Details of a company’s insurance policy are shown below:
+    •   Premium for year ending 31 March 20X7 paid April 20X6: £10,800
+    •   Insurance costs are included within administrative expenses.
+    Requirement
+    What is the double entry to reverse the opening accrual or prepayment in the year ended 30 June
+    20X7?
+    A    Dr Administrative expenses: £8,100; Cr Prepayment: £8,100
+    B    Dr Prepayments: £8,100; Cr Administrative expenses: £8,100
+    C    Dr Administrative expenses: £2,700; Cr Accruals: £2,700
+    D    Dr Accruals: £2,700; Cr Administrative expenses: £2,700
+                                                                                              LO 1d, 2c, 3b
+
+
+36 Alli Ltd owns a number of properties which are rented to tenants. Cash received from tenants in the
+   year ended 30 June 20X6 was £834,600 which has been included as rental income in the year.
+    The following information is available for the year ended 30 June 20X6:
+
+
+
+
+    ICAEW 2024                                                            9: Accruals and prepayments   65
+                                                        Rent in advance                     Rent in arrears
+                                                                       £                                  £
+     30 June 20X6                                               144,600                              8,700
+
+    All rent in arrears was subsequently received.
+    Requirement
+    What is the journal entry to adjust Alli Ltd’s rental income for the year ended 30 June 20X6?
+    A    Debit Accrued income £144,600, Credit Deferred income £8,700, Credit Rental income
+         £135,900
+    B    Debit Accrued income £8,700, Debit Rental income £135,900, Credit Deferred income £144,600
+    C    Debit Deferred income £144,600, Credit Accrued income £8,700, Credit Rental income
+         £135,900
+    D    Debit Deferred income £8,700, Debit Rental income £135,900, Credit Accrued income £144,600
+                                                                                        LO 1d, 2c, 3b
+
+
+37 Stripes Ltd is a food delivery service provider. It has paid marketing fees of £120,000 per annum to a
+   social media inﬂuencer to promote and market its delivery service. From 1 April 20X6 the marketing
+   fee paid was increased to £144,000 per year. The fee is paid to the inﬂuencer quarterly in advance on
+   1 January, 1 April, 1 July and 1 October each year.
+    Requirement
+    What is the journal entry to transfer the balance on the rent expense account to the proﬁt and loss
+    ledger when preparing the ﬁnancial statements for the year ended 30 November 20X6?
+    A    Debit Proﬁt and loss ledger account: £136,000; Credit Marketing expense: £136,000
+    B    Debit Marketing expense: £136,000; Credit Proﬁt and loss ledger account: £136,000
+    C    Debit Marketing expense: £138,000; Credit Proﬁt and loss ledger account: £138,000
+    D    Debit Proﬁt and loss ledger account: £138,000; Credit Marketing expense: £138,000
+                                                                                         LO 1d, 2c, 3b
+
+
+38 What is the journal entry for an accrual of social media advertising expenses of £500?
+    A    Debit Prepayments £500, Credit Advertising expense £500
+    B    Debit Accruals £500, Credit Advertising expense £500
+    C    Debit Advertising expense £500, Credit Accruals £500
+    D    Debit Advertising expense £500, Credit Prepayments £500
+                                                                                              LO 1d, 2c, 3b
+
+
+39 At 1 July 20X4 a company had prepaid insurance of £8,200. On 1 January 20X5 the company paid
+   £38,000 for insurance for the year to 31 December 20X5.
+    Requirement
+    What is the journal entry to transfer the balance on the insurance expense account to the proﬁt and
+    loss ledger account for the year ended 30 June 20X5?
+    A    Debit Proﬁt and loss ledger account £27,200, Credit Insurance expense £27,200
+    B    Debit Insurance expense £27,200, Credit Proﬁt and loss ledger account £27,200
+    C    Debit Proﬁt and loss ledger account £36,700, Credit Insurance expense £36,700
+    D    Debit Insurance expense £36,700, Credit Proﬁt and loss ledger account £37,600
+                                                                                              LO 1d, 2c, 3b
+
+
+
+
+    66    Accounting                                                                            ICAEW 2024

@@ -1,0 +1,30 @@
+Shu pays within 10 days
+fuunxptdypayswithindaysndscurethpompaymntdiscountwi
+reduce the revenue recorded by the amountof the discount (5%×CU340=CU17).The
+joumal entry would be:
+DEBIT   Cashat bank account   CU323
+DEBIT   Revenue   CU17
+CREDIT   Trade receivables   CU340
+TRADERECEIVABLES
+CU   CU
+Revenue   340   Cash atbank account   323
+Revenue   17
+CASHATBANKACCOUNT
+CU
+Trade   323
+REVENUE
+Trade receivables   17   Tradereceivables   340
+6.2.2   Accountingforearlysettlementdiscountsreceivedfromsuppliers
+Accountingforearlysettlementdiscounts offeredto abusiness byits suppliers is consistent
+with the approachdescribed above.Any early settiement discount received is ofiset against
+purchases or other appropriate expense category.A judgement should be made when the
+invoice is recorded as to whetheror not the business is likely to take advantageofthe early
+settlementdiscountoffered.
+Worked example: Early settlement discounts-credit purchases
+Continuing theabove example,prepare Rabia's ledgeraccounts to showhow Rabia would
+record the purchase transaction assuming that they expectedtotake advantage ofthe early
+settlement discount but then did not pay within 10 days.
+Solution
+As Rabia expected to take advantage of the discount when the invoice wasreceived,they
+shouldrecordthepurchasenetofthediscount:
+126   Accounting   ICAB2026

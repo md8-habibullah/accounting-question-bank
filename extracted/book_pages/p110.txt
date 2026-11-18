@@ -1,0 +1,47 @@
+Self-test questions
+Answerthefollowing questions.
+1Transactions are processed inthe computerisedaccounting system atthe pointat which
+they occur' is a description of"batch processing' in a computerised accounting system.
+Reguirement
+Is this statement true orfalse?
+ATrue
+BFalse
+2Sales orders are sourcedocuments thatarerecorded in the accounting system.
+Requirement
+Is this statementtrue or false?
+ATrue
+BFalse
+3When an entity returns goodsto.a supplier it will expectto receive which of the following
+documents fromthe suppliert
+AAn invoice
+BAcreditnote
+CApurchase order
+D Agoods recelived note
+Which of thefollowing are sourcedocuments for credit purchases?
+Suppliers invoices and'credit notes
+Invoicesand creditnotesto customer
+Delivery notes
+Goodsreceivednotes
+Which of thefollowingdocuments would be issued bya supplierif it was discovered it hac
+overcharged itscustomerbyCU400?
+AAremittanceadvice
+BAdebitnote
+Acreditnote
+Asupplierinvoice
+6Sepidownloadsa reportofherbank tranisactions fortheday.The teportshows a deposit
+of cU150whichthecomputerisedaccounting systemhasnotbeen abletomatchtoa
+transaction.
+Requirement
+Which of the followingtransactions mayhaveresulted in the cash receipt?
+AAdirectdebitpayment in respectoftelephoneexpenses
+B Areceiptfroma customerwhohad purchasedgoodson credit
+Thepurchaseofanew.officechair
+Thepaymentofa supplierinvoice
+Thecostofemployer'sNlcontributions is partofa company's:
+ANetpay
+Grosspay
+Wagesandsalaries cost
+Incometaxcharge
+Now go back to the Introductionand ensure that you have achieved the Learning outcomes
+listed for this chapter.
+100   Accounting   ICAB2026

@@ -1,0 +1,36 @@
+DISPOSALS
+Cast   80.000   Accumulated   50,000
+depreciation
+Proceeds   20,000
+Loss (p)   10,000
+80.000
+80,000
+CashfromoperationsCash
+300.000
+inflow:
+Disposal proceeds
+20.000
+320.000
+Cashoutflow:purchasesof
+non-currentassets
+(140000)
+Netcash increase
+180.000
+Note:Adjustmentsfordepreciation and loss on disposal will alreadybe included in netcash
+from operating activities.
+Alternatively,thesolution couldbecalculatedas follows:
+Netcashfromoperatingactivities (given inquestion)   300,000
+Proceeds from saleofnon-currentassets   20,000
+Additionsofnon-currentassets(calculatedbelow)   (140.000)
+Increasein cash   180.000
+Calculation of additions:
+Costb/d   180.000
+Cost of assetdispased of   (80000)
+Additions(balancingfigure)   140,000
+Cost cld   240.000
+4 Correctanswer(s):
+CInflowCU498.000,outflowCU498.000
+TheoutflowisclassifiedunderPurchaseof property,plantand
+equipment',Theinflow is classifiedunder'Proceedsfromissuanceof
+share capital
+422   Accounting   ICAB2026

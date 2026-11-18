@@ -1,0 +1,42 @@
+Debit   Credit
+CU
+Tradereceivables(12,000+800)   12,800
+HAPTER
+Bankloaninterest   1,400
+Otherexpenses(11.020+260)   11.280
+Non-currentassets   22,020
+73960   73,960
+1.4   Processing adjustments to the initial trial balance
+Analternative wayofpresentingthe adjustments isusinga columnarapproachwherebyan
+additional debit column and an additional credit column are created alongside the initialtrial
+balance.Afinaltrial balance isthencreated byaddingacross.
+Toa debit balance in the trial balance, add debits and subtract credits if the result is
+positive,insertitinthedebitcolumnofthefinaltrialbalance.Ifit isnegative,insertitinthe
+creditcolumnof the final trial balance.
+To a credit balance in the trial balance, subtract debits and add credits. If the answer is
+positive,insertit inthe creditcolumn ofthefinal trial balance.Ifitisnegative,insertit inthe
+debitcolumn ofthefinal trial balance
+UsingthebalancesfromHawk Ltdabove:
+Ledger
+Account   Initial trial balance   Adjustments   Finaltrialbalance
+Debit   Credit   Debit   Credit   Debit   Credit
+CU
+Bank loan   12,000   12,000
+Cash at bank   11,700   240   760   11,180
+Capital   13,000   13,000
+Rent   1880   1,880
+Trade payables   11,200   500   11.700
+Purchases   12,400   1,000   13,400
+Sales   34,600   1,040   35,640
+Other
+payablas   1,620   1,620
+Trade
+receivables   12,000   800   12,800
+Bank loan
+interest   1,400   1,400
+Other
+exponses   11,020   260   11,280
+Non-currentassets   22,020   22,020
+72.420   72,420   2,300   2.300   73.960   73.960
+*500+260
+ICAB2026   Preparingbasic financial statements   151

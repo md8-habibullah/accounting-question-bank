@@ -1,0 +1,44 @@
+IAS1stateswhatisrequiredforafairpresentation, includingthe:
+selection and application ofaccounting policies
+presentationofinformation inamannerwhichprovidesrelevant,reliable,comparableand
+understandableinformation
+additional disclosures whererequired to enable users to understand the impact of
+panticulartransactions events and conditions on theentity's financial position and
+performance(IAS 1:para.17)
+7.1.4   Departures fromIFRS Accounting Standards
+Theremaybe (very rare)circumstanceswhenmanagementdecides thatcompliance witha
+requirementof an IFRS Accounting Standardwould be somisleadingthatfinancial statements
+wouid
+notmeet theirobjectives.Departure fromthe IFRSAccounting Standards may therefore be
+required to achieve a fair presentation.The following should be disclosed in suchan event:
+managementconfirmation that thefinancial statements fairly presenttheentity'sfinancial
+position,performance andcash flows;
+statementthatall IFRSAccounting Standards havebeen compliedwith except inrespect
+ofdeparturefrom individual IFRS Accounting Standards,required to achieve afair
+presentation;
+details ofthe nature of the departure,why the IFRS Accounting Standards treatment would
+bemisleading,andthetreatrnentadopted,and
+financialeffectofthedeparture.
+7.2   Goingconcern (IAS1)
+Definition
+Going concern:Theentity is viewedas continuing in operation forthe foreseeable future,Itis
+assumed thatthe entityhas neitherthe intention northenecessityof liquidation or ceasingto
+trade.
+Thisconceptassumes that when preparingaregularsetoffinancial statements,thebusiness
+willcontinueto operate in approxirnatelythe same mannerforthe foreseeable future (atleast,
+butnotlimited to,thenext 12months).In particularthe entity will not go into liquidation or
+ceasetrading,orhave norealisticalternative butto liquidate orcease trading.
+When an entity is nota going concern,thefinancial statements must state that they are
+preparedonabasisotherthan going concern,and clarify whatthisbasis entails.An example
+ofa different basis would bethebreak up'basis ofaccounting.When presenting financial
+statements using a break up basis ofaccounting,an entity's assets are valuedat their'break
+up'value:the amount they would sell for (their net realisable value)if they were sold off
+individuallyinaforced saleandthebusinesswerebrokenup.Sincethisforcedsaleis
+necessarybecausethebusinesshasforeseenproblems inthenext12months,financial
+statements prepared on a break-up basis will contain neither non-current assets nornon-
+current liabilities.Allassets will be deemed tobe for saleand all liabilities will betreatedas
+becomingduewithin 12months ofthe date ofthe statementoffinancial position.
+Interactivequestion3:Goingconcern
+Aretailercommencesbusinesson1Januaryandbuys20washingmachines,eachcosting
+CU100.Duringtheyear,the retailersells17machines at.CU150each.
+24   Accounting   ICAB2026

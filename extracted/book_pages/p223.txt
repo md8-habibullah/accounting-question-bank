@@ -1,0 +1,38 @@
+Cost   Includedincostofsales?   Explanationown
+Sales agent commission   Yes   Thecommission is onlypaid
+whenanewcontractissecured
+and istherefore incrementalto
+the contract.
+Freelance expert fees   Yes   Freelanceexpertsareappointed
+todesignanddelivercoursesas
+requiredbyclientsand are
+therefore incremental tothe
+contract.
+Printing and delivery af hard   Yes   The costs af printingand
+copylearning materials   delivering the hard copy
+materials are direct materials
+costs and should be included in
+cost of sales
+Note:Costs whichcannot bepresented in.costof sales are included in.other expense
+categories in thie statementof profit orloss.Administrative expenses are often used.
+Interactivequestion2:Directlabourcosts
+ABCAccountants offersaccountingand tax servicesto its clients.ABCAccountants is
+preparing its financial statements for the year end 31 August 20x5 and provides services to its
+clients whichspan itsyear-end,Thefollowinginformation is relevanttothepreparation ofthe
+financial statements and taxreturn fora clientengagement whichspans ABC Accountants
+year end.
+Staff member   Hourlycost (CU)   Budgeted hours   Hours incurred
+Partner   100   CHAPTER
+Manager   40
+Studentaccountant   20   20   14
+Tax manager   50
+Requirement
+Calculate the amountthat should be included in ABC Accountants cost:of sales at 31 August
+20X5.
+Staffmemberl   Hourly cost (CU)   Hours Incurred   Labourcost (CU)
+Partner   100
+Manager   40
+Student accountant   20
+Total
+SeeAnswerattheendofthischapter,
+ICAB2026   Cost of sales and inventories   213

@@ -1,0 +1,41 @@
+Total   Costof
+Received   Sold   inventory   goods
+Date   (goods in)(goodsout)   Balance   cost   Unit cost   Plos
+Units   Units   Units   CU
+Opening inventory   100   200   2.00
+3May   400   840   2.10
+500   1,040   -208
+AMay   200   (416)   2.08   416
+300   624   2.08
+9 May   300   636   212
+600   1,260   210
+11 May   400   (840)   "2.10   840
+200   420   2.10
+18May   100   240   2.40
+300   660   *2.20
+20May   100   (220)   "2.20   220
+1,476
+Closing inventory cost   200   440   2.20   440
+1.916
+A newunit cost is calculated whenevermore goods are purchased.
+"Whenever goods are sold, the unit cost of the items sold is the curtent weighted
+averagecostperunit atthetimeof thesale.
+Forthismethadtoo,the cost ofgoods sold plusthe costof closing inventoryequalsthe
+6.4   Inventorycostmethodandprofit
+FiFOandAVCOeachproduceddifferentcosts,bothofclosing inventories andalsoofcostof
+goods sold.Sinceraw material costs affect the cost of production,and the costof production   CHARTER
+worksthrougheventuallyintothecostofsales,itfollowsthatdifferentmethodsofinventory
+valuationwill providedifferentprofitfigures.
+Usingmark-up/marginpercentagesto
+establishcost
+Sectionoverview
+Mark-up is calculatedon cost.
+Marginiscalculatedon sales.
+.Margin andmark-up can helpusto establish the cost ofan item of inventory.
+It is commonto establishstandardgrossprofitpercentages inrelationtocosttosetthesales
+price:
+InventorythatcostCU120maybesoldatamarginof 40%,5othesalesvalueis CU120x
+100/60-CU200,andtheprofitisCU120×40/60=CU80.
+InventorythatcostCU120maybesoldatamark-upof40%toreacha salespriceof
+CU168(120×140/100)
+ICAB2026   Costof salesand inventorles

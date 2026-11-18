@@ -1,0 +1,35 @@
+The initial trial balance
+Sectionoverview   CHAPTER
+Atthe end ofa periodthebalances on all the nominal ledgeraccounts are listed on an
+initial trial balance:debit balances appearin thedebit column andcreditbalances in the
+credit column.Whenaddedup,thetotals.ofthetwo.columns shouldbeequal.
+Extracting an initial trial balancefrom the accounting system is the starting pointfor
+preparing the financial statements,
+Adjustments maybe requiredtothe initialtrial balanceto correctforerrors oromissions
+andtorecordperiodendadjustments,
+Adjustmentsaremade using journals whichare processedagainsttheinitial trial balance
+to createafinal trialbalance.Financial statements arepreparedfrom thefinal trialbalance.
+Definition
+Initialtrialbalance:Alistofnominal ledgeraccountbalances shownindebitandcredit
+columns at a point in tirne, usually the end of the accounting year,The initial trial balance is not
+partofthe doubleentry system, it is extracted from the double entry system.It is the starting
+pointtopreparingthefinancial statements,
+Atthe endofareporting period (usuallytheyear-end),a balance is extracted foreach nominal
+ledgeraccount.
+Alldebits andcredits ontheaccount,includingopeningbalances,aretotalled.
+Iftotal debitsexceedtotal credits,thereis a debit balance on the account.
+Iftotal credits exceedtotal debits the account has a creditbalance.
+In Ryder'sledgeraccounts, which we drewup in Chapter 4, there was very little balancing
+Bothtradepayablesandtradereceivablesbalancedofftozero.
+ThecashatbankaccounthasadebitbalanceofcU6,53(totaldebitsexceedtotal
+credits).
+ThetotalonthesalesaccountisCU12,500,whichisacreditbalance.
+Otherwise,theaccountshaveonlyane entryeach,sothereisnototallingtodotoarriveatthe
+balanceoneachaccount.
+We will continue to use Ryder's nominal ledgeraccounts toillustrate howthe initial trial
+balanceis preparedand used.In acomputerised accounting system,an initial trialbalancecan
+time.ln this Workbook,we assume a moremanual approachto preparing andusing atrial
+balance wherebyan initial trial balance is created at the year-end date and any adjustments
+are processed against those initial balancesto give a final trial balance.Wedo notassume that
+multipletrialbalancesareextracted.
+ICAB2026   Preparing basic financial statements   147

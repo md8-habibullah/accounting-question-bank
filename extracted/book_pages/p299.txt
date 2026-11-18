@@ -1,0 +1,37 @@
+Contextexample:Prepayments3
+Terry commences business as a landscapegardeneron 1September20x5.Terry
+immediatelydecidesto jointhelocal tradeassociation,the Confederation ofLuton
+Gardeners,forwhichtheannualmembership subscriptionisCU180,payableannuallyin
+advance,Terrypaidthis amounton1September20X5.InthefollowingyearTerryexpects   CHAPTER
+the subscription to rise by CU12.Terrydecides that the reporting period should end on 30
+Juneeach year.
+Inthefirstreportingperiodto30 June20x6(10months),afull year'smembershipwill have
+beenpaid,butonlytentwelfthsofthesubscriptionshouldbechargedtotheperiod(1o/12x
+CU180=CU150).There isa prepayment of twomonthsofmembershipsubscription (ie,2/12
+*CU180=CU30),Thejoumaltosetuptheprepaymentisasfollows;
+DEBIT   Prepaymentaccount   CU30
+CREDIT   Subscriptions account   CU30
+Thebalanceonthesubscriptions account (CU15)shouldthenbetakentothe statement of
+profit or loss.The balance on the prepayment account will appearasa current asset in the
+statementoffinancial positionasat30June20X6,andwill bereversedon1July20x6.
+SUBSCRIPTIONSACCOUNT
+CU
+20X5   20X6
+1SeptCashatbank   180   30JunStatementofprofitor   150
+30
+loss30JunPrepayment
+180
+180
+20X6
+1JulPrepaymentreversed   30
+The subscription account for the next reporting period will be;
+SUBSCRIPTIONSACCOUNT
+CU   CU
+20X6   20X7
+30JunStatementof
+1Jul Prepaymentreversed   30   profitorloss (balfig)   190
+1SeptCashatbank   192   30JunPrepayment(192×2/12)   32
+222   222
+20X7
+1JulPrepaymentreversed   32
+CAB2026   Accruals andprepayments   289

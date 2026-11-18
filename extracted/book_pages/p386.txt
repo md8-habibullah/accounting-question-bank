@@ -1,0 +1,31 @@
+Rights issues and bonus issues of shares
+Section overview
+:Arights ssue of shares is madeto existing owners in proportion totheir shareholdings.
+Amountsfromretainedearnings andshareprermiummay bereclassified as sharecapitalin
+abonusissue:
+DEBIT   Share premium   CUX
+Retained earnings   CUX
+CREDIT   Share capital   CUX
+5.1   Rights issues of shares
+Largeshareissuestoraisenewcashareoftenintheformofarightsissue
+Definition
+Rights ssue:New shares are offered to existing owners in proportion to their existing
+shareholding,usually at a discount to the currentmarket price.
+Forexampleacompanywith20milionshares inissuedecidestoraisemorecashbyissuing5
+millionnewshares.ltcanofferthenewsharestoexistingowners ina1for4rights issue:each
+existingownerisofferedonenewshareforeveryfourcurrentlyheld (20million/5million=4).
+Interactivequestion3:Rights issue
+Thestatementoffinancial positionofOmnibus plccontainsthefollowing information.
+ASSETS   CU'000
+Non-currentassets   18.600
+Current assets   2,900
+Total assets   21.500
+EQUITYANDLIABILITIES
+Equity
+Sharecapital:equity sharesof 20peach   6.000
+Share premium   5,700
+Retainedearnings   7,000
+Total equtty   18,700
+Total iabilities   2.800
+Total equityand liabilities   21500
+376   Accounting   ICAB2026

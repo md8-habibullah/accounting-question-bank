@@ -1,0 +1,29 @@
+CASHATBANKACCOUNT
+Trade   2,000
+TRADERECEIVABLES
+Cashatbank   2,000
+Theaccounts recording thesaleto,and paymentby.Mr Alabama nowappearasfollows:
+CASHATBANKACCOUNT
+Trade   2,000
+SALESACCOUNT
+CU
+Trade receivables   2,000
+TRADERECEIVABLES
+CU   CU
+Sales alc   2,000   Cashat bank alc   2,000
+The twotradereceivables entries cancel each otherout,whiletheentries inthe cash atbank
+accountandsales accountreflectthesameposition as ifthe salehadbeenmadeforcash(see
+above).
+Interactive question 2:Debits and credits Il
+Identifythe debitand credit entries in thefollowingtransactions (ignoreVAT).
+(1)boughta machinean credit fromA,cost CU8,000
+(2)boughtgoodsoncredit fromB,costCu500
+(3)soldgoodsoncredittoC,valueCU1,200
+(4)paidD(a credit:supplier)CU300
+(5)collectedCU180fromE,acreditcustomer   OHAPTER
+(6)paid netwagesCU4,000
+(7)receivedrentbillofCU700from landlordG
+(8)paid rentofCU700 to landlordG
+(9)paid insurance premium CU90
+See Answer at the end of this chaptar.
+ICAB2026   Ledgeraccounting and double entry

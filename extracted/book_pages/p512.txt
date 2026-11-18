@@ -1,0 +1,46 @@
+3.4.1   Fund Categories
+Therearethree categoriesoffunds:governmental.,proprietary.andfiduciary.Accounting
+characteristics and principles uniquetoeachfund categoryare discussed inthesections that
+follow.
+3.4.1.1GovemmentalFunds
+Thegovernmentalfunds category includesfivetypesoffunds:1)theGeneral Fund,2)special
+revenuefunds,3)debt servicefunds,4)capitalprojectsfunds,and5)permanentfunds.
+1)General Fund Every state and local government has one and only one General Fund,
+although it maybe called by a differentname such as General RevenueFund,General
+OperatingFund,or Current Fund.Othergovernmental funds will be created asneeded
+Mostdepartmentaloperatingactivities,suchasthoseofpoliceandfire,publicworks
+parks and recreation,culture,education,and social services,as well as general
+govenmentsupportservices,suchasthecitymanager'soffice,finance.personnel,and
+data processing,aretypicallyaccountedfor.intheGeneral Fund.Unlessafinancial
+resourceisrequiredtobeaccountedforinadifferentfundtype,itisusuallyaccountedfor
+intheGeneral Fund,
+2)Special Revenue Fund When tax orgrantrevenues orprivate gifts are legallyrestrictedfor
+particularoperating purposes,such as the operation ofa library or maintenance of roads
+and bridges,aspecial revenuefund is created.The number of special revenue funds used
+bystateand localgovemmentsvariesgreatly.rangingfromafewtomany.
+3)DebtServiceFundGovernments thathavebondobligations outstandingand certainother
+types of long-termgeneral liabilitiesmayberequiredbylaworbond covenantsto createa
+debt servicefund.The purpose ofa debt servicefund isto accountfor financial resources
+segregated forthe purpose of making principal and interest payments ongeneral long-
+termdebt.
+4)Capital ProjectFund Governments often engage in capitalprojects to accommodatea
+majorconstruction of itens such as buildings,highways orbridges,or parks.To account
+fortaxorgrantrevenues,orbondproceedsearmarkedfora capitalprojectas well as
+projects fund is typically created.
+5)PermanentFundApermanentfund is usedtoaccountforpermanentendowments
+created when a donorstipulates that the principal amourit of a contribution must be
+invested and preservedbutearningson amounts so investedcanbeusedforsomepublic
+purpose.Publicpurposes includeactivities suchasmaintenanceofa cemeteryoraesthetic
+enhancementsto public buildings.
+It shouldbenoted thataccountingforgovermmentalfundsfocuses onthe infilows and outflows
+ofcurrentfinancial resources.Currentfinancialresources are cash or items such as receivables
+that will be converted into cash duringthe current fiscal period orthat will beavailable soon
+enoughaftertheend ofthe periodto pay current-period liabilities.Becausegovernmental
+fundsaccount forthe inflows andoutflows ofcurrentfinancial resources,thebalance sheetfor
+governmental funds reports only current assets and current liabilities and fund balances (or
+fund equity).which is the difference between current assets and current liabilities.
+Recognizing as revenues only those inflows thatare measurable and availableto pay currenit.
+period obligations and recognizing as expenditures only obligations that will be paid from
+currentlyavailable financialresources isreferredtoas themodified accual basisof
+accounting.
+502   Accounting   ICAB2026

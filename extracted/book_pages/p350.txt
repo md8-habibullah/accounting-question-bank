@@ -1,0 +1,36 @@
+Thefollowing matters have now been discovered:
+whichCU1,250depreciationhadbeencharged.Theyreceivedpaymentbybank
+transferforCU7,950.The accounting entrymade wastodebit thecashatbank
+accountandcreditthe suspenseaccount.
+On1January20x0 Rodrigo also traded inacarthat hadcostCU8,000andonwhich
+CU4,500depreciationhadbeenchargedforanew carcostingCU13,300.Rodrigo also
+paid7bybanktranfehnlyntrywithgardothtraactonwascrei
+the cashatbank accountand debit the suspenseaccount.
+Withregardto theassetsheldat31December20X0,depreciationon thefreehold
+CU6,900,istobecharged.
+Requirements
+(b)Prepare thefinal trialbalance aftertaking accountof the adjustments.
+Solution
+(a)
+CU
+DEBIT   Suspense   7.950
+CREDIT   Disposal-plant   7,950
+DEBIT   Plant and equipment-accumulated   1,250
+depreciation
+Disposal-plant(carryingamount)   8,750
+CREDIT   Plantandequipment-cost   10,000
+Beingthecorrectrecordingofcashreceived ondisposalofplant,andtheremovalofthe
+asset'scostandaccumulateddepreciation
+CU   CU
+DEBIT   Motor.vehicles-cost   13,300
+CREDIT   Suspense   7.750
+Disposal-cargiven inpartexchange(13,300-7.750)   5,550
+Being the correct recording of purchase ofa newcarfor Cu13,300
+CU
+Motorvehicles-accumulateddepreciation   4,500
+Disposal-cargiveninpart exchange(carrying   3,500
+Qunowe
+CREDIT   Motorvehicles-cost   8,000
+Beingtheremovalofthecostandaccumulateddepreciation inrelationtoacar,giveninpart
+exchangefora newone
+340   Accounting   ICAB2026

@@ -1,0 +1,34 @@
+ACCUMULATEDDEPRECIATION
+Date   CU   Date
+Statementofprofitor
+28.2.X7   Balance cld   4,500   28.2.X7   loss   4.500
+28.2.X8   Balance.cd   000'6   1.3.X7   Balance b/d   4.500
+Statement of profit
+28.2.X8   orloss   4.500
+9,000   9.000
+Balance c/d   13,500   1.3.X8   Balance b/d   9,000
+Statementof profit
+28.2.X9   orloss   4.500   CHAPTER
+13,500   13,500
+13x9   Balanceb/d   13,500
+10
+Atthe endofthreereportingperiods,thenetwork isfullydepreciateddownto itsresidual
+value(Cu16,000-CU13,500=CU2,500).fitcontinuestobeusedbyBillie, itwillnotbe
+depreciated anyfurther (unless its estimated residual value is reduced).
+Statementofprofitorloss(extract)
+Year ending:   CU
+28Feb20x7   Depreciationexpense   4.500
+28Feb 20x8   Depreciation expense   4.500
+28 Feb20x9   Depreciation expense   4.500
+Statementoffinancialposition(extract)
+as at28February
+20X7   20x8   20X9
+CU   CU
+Computerequipmentatcost   16,000   16,000   16,000
+Lessaccumulateddepreciation   (4,500)   (000'6)   (13,500)
+Carrying amount   11,500   7,000   2,500
+Intheory,thenon-currentassetisnowattheendofitsuseful life.However,untilitis soldoffor
+scrapped,the assetwill still appear inthe statementoffinancial position atcost (less
+accumulateddepreciationjand it should remain inthe ledgeraccountsforcomputer
+equipment until disposal.
+ICAB2026   Non-currentassets,depreciation.and impairment   327

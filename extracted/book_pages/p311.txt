@@ -1,0 +1,36 @@
+Summary
+CU
+Accruedsalaries asat1January20X6 (December20X5salaries)   8.000
+Addsalariescostfor20X6 (Statementofprofitorloss (a))   109.800   CHAPTER
+117.800
+Less salaries paid (b)   (108,300)
+Equalsaccruedsalaries as at31December20X6 (liability in statementof
+financial position (c)   9,500
+SALARIESACCOUNT
+CU   CU
+20X6   20X6
+Cashpaid   108.300
+1JanAccrual reversed   8,000
+31DecStatementofprofitar
+31Dec Accrual   9,500   loss   109.800
+117,800   117,800
+AnswertoInteractivequestion3
+3.1Yearto31August20x4
+CU
+Onemonth'srental(1/3×CU2.100)*   700
+Accruedcopyingcharges(1/3×CU1,500)**   500
+Photocopying expense (Statement of profit or loss)   1.200
+*From the quarterlybill dated1August20X4
++From.thequarterlybill dated1November20x4
+Thereisaprepaymentfor2months rental(2/3×CU2,100=CU1,400)asat31August20X4
+andanaccrualforcopyingchargesofCU1,500/3=CU500
+3.2Yearto31August20X5
+CU
+Rentalfrom1September20X4-31July20X5(11months.atCU2.100
+perquarterorCU700permonth)   7700
+Rentalfrom1August-31August20X5(1/3×CU2.700)   006
+Rentalchargefortheyear   8.600
+Copying charges:
+1September-31October20X4(2/3×CU1,500)   1,000
+1November20X4-31January20X5   1/400
+ICAB2026   Accrualsandprepayments   301

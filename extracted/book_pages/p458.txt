@@ -1,0 +1,33 @@
+WORKING
+CU
+Cashpaidtosuppliers(19,500-2,550)   16,950
+Cashpaidtoandonbehalfofemployees(10,500-750)   9.750
+Cashpaidtosuppliers andemployees   26,700
+2.5   Payments ofinterestand incometax
+The direct and indirect methods are different waysto calculate'cash generated from
+operations.Toarriveat'netcashfromoperatingactivitieswemustadjustthe cash
+generated fromoperations for:
+taxpaid-cashflows fromoperating activities also includepayments and refundsof
+incometaxunlesstheycanbespecifically identified withinvestingorfinancingactivities.
+Incometaxpaymentsrelatetoprofitsfromoperatilons and sotheyarea cashflowfrom
+operatingactivities;and
+interestpaid-cashamounts ofinterest paid inthe periad maybepresented ineitherthe
+operatingactivitiesorfinancingactivitiessection.ForthepurposesofAccounting,wewill
+always assume interest paid is presented in operating activities.Interestreceived maybe
+presented ineitheroperatingactivitiesorinvesting activities,butforthepurposesof
+Accounting,wewillalwaysassume interestreceived ispresented in investingactivities.
+Asimilarmethod can be usedto calculatethecashflowsforinterestpaidand incometaxpaid.
+Foreach item,theinformation.availablemightbe:
+openingbalanceat.thestartoftheperiod (openingstatementoffinancialposition)
+statementofprofit orloss (theamountof.theitem,as reported)
+closingbalance atthe end oftheperiod (closing statement offinancial position)
+Thecashflow is a balancingfigure obtained from these threefigures.AT-accountcan beused
+as a working.
+Contextexample:Interestpaid
+Acompany'sfinancialstatements showthefollowing information:
+At1Jan   At31Dec   Forthe year
+20X2   20X2   20X2
+CU
+Interestpayable   54.000   63.000
+Finance cost   240,000
+448   Accounting   ICAB2026

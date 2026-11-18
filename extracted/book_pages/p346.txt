@@ -1,0 +1,36 @@
+MACHINERY-ACCUMULATEDDEPRECIATION
+CU
+Disposals(20%ofCU30,000for2   12,000   Balance b/d   70,000
+years)
+Balance cld   58,000
+70.000   70.000
+Balanceb/d   58.000
+DISPOSALACCOUNT
+CU
+Machinery-cost   30.000   Machinery-accumulated
+Statementofprofitorloss(profit   depreciation   12,000
+ondisposal)   1.000   Cashat bankale   19,000
+31,000   31,000
+Alternativeworking:
+CU
+Assetatcost   30,000
+Accumulateddepreciationattimeofsale   (12.000)
+Carrying amountattime of sale   18,000
+Disposalproceeds   19.000
+Profit ondisposal   1.000
+6.3   Accountingfordisposals ofnon-currentassets given inpart-exchange
+Quite oftena businessdoes notreceive cashforthe asset,but insteadgeta'part-exchange'or
+'trade-in value'foritagainstthecostofanew asset.Insteadofdisposal proceedsbeing
+received intheformofcashorpromised in theformofa receivable,usethepart-exchange
+value given to the asset bythe other partyas its disposal value.
+Contextexample:Accountingforpart-exchange disposalsl
+AssetA,costingCU20,000isacquiredbyabusinessforCU12,000cash,plusits oldAssetB.
+Thepart-exchangevalueattributedtoAssetBisCU20,000-CU12,000-CU8,000.This
+amountmustbecomparedwithAssetB'scarryingamount inordertoestablishtheprofitor
+lossonAssetB'sdisposal.
+AssetBcostCU15,000andhashadCU4,000depreciation chargedinrespectofit,soits
+carryingamountatthedateof thepart-exchangedisposal is CU11,000.Thebusiness has
+madealossofCU11,000-CU8,000=Cu3000onAssetB'sdisposal.
+First,he8oopant-exchangevaluemustbeincludedinthecostfAssetA,alongwithth
+CU12,000cashhandedover.
+Accounting   ICAB2026

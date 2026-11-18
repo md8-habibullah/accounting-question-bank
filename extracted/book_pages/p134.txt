@@ -1,0 +1,28 @@
+The journalentrytorecordthesaleis:
+CU
+DEBIT   Tradereceivables   475
+CREDIT   Revenue   475
+Thetransaction is recordad in Finnie's ledgeraccounts asfollows
+TRADERECEIVABLES
+Revenue   475
+REVENUE
+Trade   475
+Rabiapayswithin10daysas expected
+If Rabia does paywithin the 10-dayperiodand secures the prompt payment discountas
+expected,atthepointofpayment,Finniewill record:
+DEBIT   Cashatbankaccount   CU475
+CREDIT   Tradereceivables   CU475
+TRADERECEIVABLES
+CU
+Revenue   475   Cashatbankaccount   475
+CASHATBANKACCOUNT
+Trade   475
+Rabiadoesnotpaywithin10days
+However,if Rabia does not pay within 10 days and therefore does not take advantage of the
+promptpaymentdiscountoffered,theywill berequired topaythefull CU500.An adjustment
+to revenue is therefore required to increase itto the full value of the sale,The journal entryto
+recordthepaymentandtheadjustmentis:
+DEBIT   Cash atbankaccount   CU500
+CREDIT   Trade receivables   CU475
+CREDIT   Revenue   CU25
+Accounting   ICAB2026

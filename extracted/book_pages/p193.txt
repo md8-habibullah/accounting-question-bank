@@ -1,0 +1,39 @@
+Solution
+CU
+Cash atbank accountbalance brought fonward   805.15
+Add
+Receiptfromcustomer   90.00
+Corrected cashatbankaccountbalance   895.15
+CU
+Balanceperbankstatement   1,112:30
+Add
+Unclearedreceipts   208.20
+1320.50
+Less
+Uncleared payments   (425.35)   CHAPTER
+Balance per correctedcash atbank account   895.15
+Worked example:Bank.reconciliation ll
+Athis yearend of30June20x0,Cook's cashatbankaccount showed that hehad a credit
+balance in respect ofan overdraft of CU310on his current accountatthebankThebank
+statementasat30June20X0showedthatCookhasanoverdraftof CU70.
+On reconcilingthe cash atbankaccountand thebankstatement youfind thefollowing:
+(1)Paymentsmadeto suppliersamountingto CU5o,hadbeenentered in thecashatbank
+account buthavenotyetclearedthe bank
+(2)Electronictransfersreceived,amountingto CU4oo,had beenenteredinthecash.atbank
+account, but had notyet cleared the bank.
+(3)Bankchargesof CU35shown inthebankstatementhadnotbeenenteredinthiecashat
+bankaccount
+(4)Dividendsreceived of CU225 had been paid directly into thebankand not entered in the
+cashatbankaccount.
+(5)AnelectronicpaymentforCU50received from Sunil wasrecorded andbanked on29
+JuneThiswas returnedunpaid bySunil'sbankon 30 June and then shown asa debit on
+thebank statement.No entryhas been made inthe cash at bank accountfor.the
+dishonouredpayment
+Requirement
+Maketheappropriateadjustments in thecashatbank accountthenpreparea statement
+reconcilingthe arnended cash atbank accauntbalance withthat shown onthe bank
+statement.
+Solution
+Thecashatbankaccountshouldbe correctedforthe items in notes (4)and (5).Bank charges
+(note3)also callsforan adjustment.
+ICAB2026   Erors andcorrectionstoaccountingrecords and financial statements   183

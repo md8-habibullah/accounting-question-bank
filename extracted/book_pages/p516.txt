@@ -1,0 +1,46 @@
+International MonetaryFund(MF),theWorldBankandtheOrganization,forEconomicCo
+operatlonandDevelopment(OECD)(IPSASB (2014)).It hasbeenclaimedthatmorethan80
+countries,alongwith manyinternational organizations,includingthe UN System
+Organizations,haveadopted,orareintheprocessofadopting.PSAS,eitherdirectlyor
+indirectly.
+3.5.1   IPSASandApproachedtoAdoption
+Thereare twotypesof IPSAS:Cashbasis andaccrualsbasis
+Cashbasis
+ThecashbasisIPSASallowfartransparentfinancialreportingofcashreceipts,paymentsand
+balances,underthe cashbasis ofaccounting.Whilst theIPSAsB hopes that all government
+entities will eventuallybeabletoadoptafull accrualsbased accounting system,followingthe
+requirementsofthe cashbasisIPSASwillneverthelessenhancetransparentand
+comprehensive financial reporting.The standard includes guidance on the transition process
+from cashtoaccrualsbasis.There is currentlyonlyone cashbasisIPSAS.Veryfewgovernment
+organisations havesofar implemented the requirements ofthecashbasis iPSAS on the
+groundsthat its keyrequirement isto produce consolidated financial statements for all
+controlled entities. Consolidating govermment business entities with ministries and
+departments would be very time consuming andmanygovernments considerthatthe benefits
+of reportingthisdonotmeetthe significant costs neededtocompete.this.
+Accrualsbasis
+Theaccruals-basedpsAsfocusonevenue,cost,assets,liabilityandequityinsteadofcah
+flowonly.andmostarebasedonan equivalentIFRS,About30countries areadoptingthe
+accrualsbasisPSA,includingFrance,SouthAfrica,Switzerland,Russia,Israel,Slovakiaand
+Brazil. Someare adopting IPSASdirectly (forexample Switzerland and Slovakia)whilst others
+areadoptingIPSASthroughtheirownnationalstandards (forexampleSouthAfricaand Brazil).
+Various supranationalorganisationshavealso adopted IPSAS,including theentireUN system
+theOECD,NATOandtheEU.In addition,sub-national governments are adoptingIPSAS when
+thedecentralized structure allows themto do so Independently ofnational legislation-for
+examplethePrefectureof Tokyoin Japanand the Stateof HesseinGermany.
+InteractiveQuestion5WhichreportingStandardhasbeen promisedtoadopt inthePublic
+Sectorof Bangladesh?
+3.6   Components of Financial Statements
+AsperiPSAS,A.completesetoffinancialstatementscomprises:
+(a)Astatementoffinancialposition;
+(b)Astatementof financialperformance:
+(c)Astatement ofchanges in netassets/equity:
+(d)Acashflowstatement:
+(e)Whentheentitymakespubliclyavailableitsapprovedbudget,acomparisonofbudget
+and actualamounts eitheras a separate additional financial statementor as a budget
+columnin.thefinancial statements;
+(f)Notes,comprisingasummaryofsignificantaccountingpoliciesandotherexplanatory
+notes;and
+(g)Comparative information inrespectofthepreceding period asspecifiedinparagraphs53
+and53AofIPSAS1.
+Interactive Question6What financial statements are prepared in Bangladesh?
+506   Accounting   ICAB2026

@@ -1,0 +1,35 @@
+4.1   Suspenseaccounts
+Definition
+Suspenseaccount:Atemporaryaccountusedwhen thecomputerisedaccountingsystemor
+thebookkeeper is unsure of howto record one sideofa transaction.
+Asuspenseaccountis atemporaryaccountwhichallowsatransactiontoberecorded inthe
+accountingsystem,eventhoughtheledgeraccountforonesideofthetransactionisnotyet
+confirmed.Asuspenseaccount.canbeopenedbythe computerisedaccounting system (whe
+itcannotmatchatransactiondetailedon thebanktransaction report)orbythebookkeeper
+(when they are unsure of which ledger accountto use).Once the issue has been resolved, ie,
+thetransaction has been matched orthe correctaccounthas been identified,the suspense
+accountshouldbeclearedusinga journalentry.
+Contextexample:Suspenseaccount
+WindfallGarments received a bank transfer of CU620.Theaccounting systemhas not been
+abletomatchthetransaction andsotheamounthas been creditedtothesuspenseaccount
+andlistedonan exceptionreport
+DEBIT   Cashatbankaccount   CU620
+CREDIT   Suspense account   CU620
+Afterinvestigation,it is discoveredthattheamountreceived ispartpaymentfromacredit
+customer.Thesuspenseaccountcannowbecleared,asfollows:
+DEBIT   Suspense account   CU620
+CREDIT   Tradereceivables   CU620
+4.2   Suspenseaccountsmightcontainseveral items
+As allunmatched andunidentifiedtransactions ina reporting period are accountedfor ina
+single suspense account the balance on the suspense accountmay contain several different
+items.Allofthe items shouldbe investigatedand correcting entriesmade.Several journal
+entries maybe requiredto clearthe suspenseaccount
+An examquestionmightgiveyou a suspenseaccountbalance,togetherwithinformationto
+make correctionswhich will leavea nilbalance on the suspenseaccountand correctbalances
+onthe nominal ledgeraccournts.
+4.3   Suspenseaccountsaretemporary
+Itmustbestressed thata suspenseaccount shouldonlybe temporary.There should be no
+suspenseaccountwhenit comesto preparingthestatementofprofitorlossand statementof
+financial position.The suspense accountshould be cleared and all correctingentries made
+before the final financial statementsaredrawn up,
+188   Accounting   ICAB2026

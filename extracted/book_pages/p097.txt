@@ -1,0 +1,49 @@
+developmenttools,networking capabilities,andmore:-hosted ataremotedatacentre
+managed bya cloud servicesprovider(or CSP).
+Cloud accounting:Cloud accounting refers to performing accountingtasks using cloud
+computing sofware,oftendeliveredina software-as-a-service (SaaS)model.
+Cloud computing is asenvicethatprovidesa business with access to software and data storage
+Viathe intemet.Instead ofbeingheld locallyon theuser'scomputer,the softwareand data are
+held in.'the cloud',whichmeanstheyareheld remotelyon thecomputerserversofthesoftware
+serviceprovider,ExamplesofcloudcomputingincludeAmazanWebServices(AwS)which
+offersstorage,computerpowerandnetworkingservicesorMicrosoftOneDrive,whichoffers
+storage services,
+Cioud computing technologieshave changed theways in whichorganisations store andmanage
+theirdata.An increasing amountoforganisationaldata is nowheld in servers operated bycloud
+basedserviceproviders.Ineffect,cloudcomputingistheaccesstobusinessservicesthroughthe
+intenet
+Therecouldtaketheformof
+ISoftwareasaservice-eg,anti-virus sofware Thesoftwareishosted inthecloud,but
+appears.onusersdeviceswithfullfunctionality.Thistypeofcloudserviceisthemost
+common,and is oftenaimeddirectlyattheenduser(eg,Hotmail;Gmail).
+Platformasa service-eg,Windows Azure.Forafee,thecloudprovideroffers virtualspace
+inwhichcustomerscanhostanddeveloptheirownapplications.
+Infrastructureas aservice-eg,data storage and back-up.Cloud storagecan handle all
+kinds ofstructured and unstructured data.
+Cloudaccountingis anapplicationofcloudcomputing.Accountingsoftwareis.providedinthe
+cloud byaservice provider.Theuseraccesses this software to process theiraccounting
+transactions and run reports as they would ifthesoftware was installedon their own computer.
+Theuseofcloudaccountingdoes notchangetherequirementforsourcedocumentstobe
+input intothesystem,whichdependingonthetypeofaccountingsoftwarepackage used,may
+CHAPTER
+be donebyabookkeeperormaybeautomated.Theprocessing oftransactions takes place in
+thesofwarewithinthecloudandoutputs intheform ofreports,orfinancial statements,which
+are extracted fromthecloud.
+Abenefitofcloud accounting is thata business canaccess its accounting records fron any
+computer(ortabletorphone)thathasanintenetconnection.Additionally,becausemostofthe
+processing and data storage is done on the service provider's servers,and notthe business's
+computers,thebusiness does notneedto purchaseexpensive,sophisticated ITequipment in
+ordertorunspecialisedsoftwareorstorelargeamountsofdata,Asthesoftwareismaintained
+bytheserviceprovider,thebusinessmayalsobeabletoteduceITsupportcosts withinitsown
+business.
+Anotherbenefitofcloudaccounting istheabilitytocollaboratewithadvisorsandother
+professionals.Forexample,theaccountingteamcouldworkremotelywiththeirauditorsortax
+advisors andallparties have access to the live data at the same time.
+Whilstithasmanyadvantages,cloud accounting does have its drawbacks.Cloud accounting
+requiresaccesstothe internet lfabusiness's internetconnection isunreliable,accessingits
+accounting records held in the cloud will bedifficult.There maybe server outages on the cloud
+that would mean that there weretemporary restrictions on the ability to access data.There are
+alsopotentialdata securityissues,suchas an increased riskofdatabeinghackedand lossor
+damagetodata, The business doesnotretain back-up copies of its data on its localcomputer,
+and therefore is reliant on the senvice providerto provide adequate security.
+ICAB2026   Recordingfinancialtransactions   87

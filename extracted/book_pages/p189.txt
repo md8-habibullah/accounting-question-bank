@@ -1,0 +1,39 @@
+PAYABLESLEDGEREXTRACT
+ACCOUNTNAME:Jade
+Date   Transaction   (Debit)/Credit
+Openingbalance   492.22
+5.3.X8   Invoice13287   129.40
+7.3.X8   Invoice13299   22.72
+10.3X8   Payment   (615.17)
+10.3.X8   Earlysettlementdiscountre Inv.13287   (6.45)
+18.3.X8   Invoice14101   394.94
+19.3.X8   Returns   (64.40)
+Closing balance   353.27
+The supplier statement shows that Violethas an outstanding balance of CU424.12.However,   HAPTER
+Violet's payablesledgershows anoutstandingbalanceowedto Jadeof CU353.27.Inarderto
+explain thedifference,Violetmustcomparethetransactionsrecorded in the payablesledger
+to those detailed on the statement received.We can see on the payables ledgerextractthat
+Violethas tickedthe items thatcanbematchedto the supplier staterment.
+The itemsthatdonotagreeareasfollows:
+The early settlementdiscountof CU6.45taken by Violet is not shown on the supplier
+statement On furtherinvestigation,Violetconfirmedthatalthoughtheydidnotexpectto
+take this discount when the invoice was initially recorded,payment was made within the
+required timeframeand therefore thediscountwas recordedappropriately.This issue
+should be raised with Jade.
+Thereturnof CU64.4oshowninthepersonalaccountis notincludedonthesupplier
+statement Onfurtherinvestigation,Violet identified thatthere isadisputeregardingthe
+returned items.This issue should also be raised with Jade.
+Supplierstatementreconciliation
+Account:JadeDate31.3.20x8   CU
+Balanceper:supplier'sstatement   424.12
+Less:Earlysettlementdiscountnoton statement   (6.45)
+Returnsindisputenotonstatement   (64.40)
+Balanceperpayables ledger   353.27
+Also,partofthe.reconciliationprocessiscustomerstatements,whichareproducedbythe
+businessandsentto its creditcustomers.Thesearenotexternaldocuments astheyare
+produced bythe business,but they can bea useful check as to theaccuracy of trade
+receivables as thecredit customermay respondtothebusiness to alent ittoany discrepancies
+orinconsistencies inthe statementThis is lessusefulthanthesupplierstatementreconciliation
+asthebusinesswill notknowifthecreditcustomerhas identifieddiscrepancies or justnot
+communicated them.
+ICAB2026   Errors and corrections to accounting records and financial statements   179

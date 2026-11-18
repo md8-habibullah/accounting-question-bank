@@ -1,0 +1,41 @@
+Closing inventory isdeductedfrom costofsales inthereporting period,so itcanbe
+carried foward and matched against the revenue it earms in the next period:
+DEBIT   Inventoryaccount (statementoffinancial position)
+CREDIT   Costofsales
+As wehaveseenabove,thecostofsalesfigure inthestatementofprofitorlossis summarised
+as.
+CU
+Opening inventory
+Plus purchases
+Plus delivery inwards
+Less closing inventory
+Costofsales
+However,thisformula hides threebasicproblems:
+How do you manageto geta precise count ofinventories held at any one time?
+Once counted,howdo you valuethe inventories?
+Assumingthe inventories aregivena value,howdoesthedouble entrybookkeepingfor
+inventories wark?
+The purposeof this chapter isto answerall three of these questions.In orderto makethe
+presentation a little easierto follow,we shall take the last question first.
+3.1   Ledgeraccountingforinventories
+As wesawabove,costofsalesispresentedinthestatementofprofitorlossbutiscalculated
+based on the totalsofother ledgerbalances.Althougha computerised accounting system will   CHAPTER
+calculatecostfsalesautomatically.itis importantthatyouundrstandtheunderlying
+adjustments thatarebeingprocessed.
+As inventory isa statementoffinancial positionbalance,closinginventoryatthe endofone
+period becomes opening inventory athestart of thenext period.Opening inventory needsto
+betransferred from the inventoryaccountto the cost of sales account(as it will besold in the
+period)usingthefollowing journal:
+DEBIT   Cost of sales
+CREDIT   Currentassets-inventory
+Purchases of inventories are transferred to a costof sales ledgeraccount via the following
+double entry:
+DEBIT   Costof sales
+CREDIT   Purchasesaccount
+The opening inventories and the purchasesrepresent the total amount of inventory thata
+business can sellina period.The inventory account is only used at the end ofa reporting
+period, when the business counts and values closing inventory,during the inventory count.At
+the inventory count date,an inventory listing is extracted from the computerised accounting
+system anda physicalcounttakes place to verify the accuracy and completeness ofthe listing.
+Once an inventory counthas been carried out and the business has a valuefor its closing
+ICAB2026   Costof sales and inventories   217

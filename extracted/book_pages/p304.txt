@@ -1,0 +1,41 @@
+advances and arrears atthe period end are usually calculated and accountedfor as
+adjustments afterthe initial trial balance has been extracted.
+Inacomputerisedaccountingsystemitislikelythatanewtrialbalancewouldbeextracted
+oncetheaccruals and prepaymentshadbeen recorded.However,forthe purposes of
+understandingthe approach,we willassumethataccrualsand prepaymentsareprocesseda
+adjustments againstthe initial trial balance byusing adjustments columns.
+Calculate theamounts otheaccrued and prepaidexpenes andthedeferredorarued
+income,asusual.
+Prepare the period-end jourmals as usual.
+Enterthese journals in theadjustments columns againstthe initialtrialbalance.
+Addacross(cross cast)to preparethefinal trialbalance.
+Enterthe closing journals in the ledger accounts as usual.
+Prepareand entertheopening journals toreverse theaccrualsand prepayments.
+Contextexample:Accruals andprepayments and the trial balance
+Jaxmakes and sells clothing toorder.Therepartingperiod is the12months ended31
+December.Jaxhas extracted thefollowingtrial balance as at31December20x1:
+Debit   Credit
+CU
+Cashat bank   6,541
+Opening capital   15,000
+Loan   8,000
+Non-currentassets   45,000
+Tradepayables   16.758
+Expenses   10877
+Purchases   62.975
+Sales   157.632
+Otherincome
+Tradereceivables   22,854
+Drawings   49.143
+197,390   197,390
+Jaxneeds totake account ofthefollowingmatters:
+(a)Thequarterlypowerbills areCU822.Thelast bill paid was inrespect of thequarter
+ending31October20X1.
+(b)Theannual insurancebill ofCU2,970waspaidon1May20x1 in respectoftheyearto30
+April20x2.
+(c)Sales includeCU350receivedfromcashy customers inDecember inrespectofitemsof
+clothing that Jax willcomplete in January20X2.
+(d)AroyaltyofCU58isduefromafashionmagazinewhichused Jax'sproducts inafashion
+shoot.Jax wishes to account for this as other/accrued incomeratherthan trade
+receivables.
+294   Accounting   ICAB2026

@@ -1,0 +1,46 @@
+Thebank statement is themirror image of the business's cash at bank account
+Cashatbank isanasset(adebitbalance)inthebusiness'sledgeraccounts.Fromthe
+perspectiveof thebank,theamountsdepositedbyabusinessrepresentmoneythat the
+bank owes to that business.Thus,every item recorded as a debit in thebusiness'sbooks-
+a positive bank balance,and any receipts of cash-will be shown as a crediton thebank
+statement.
+When there is abank overdraft,which is a liability (a credit balance)in thebusiness's
+ledgeraccounts,asfarasthebankisconcerned it isowedmoneyfromthebusiness.Thus,
+every creditentry in thebusiness's cash.at bank account-a negativebank balance an
+overdraft),and any payments of cash-will be shown as a debit on thebank statement.
+2.2   Cheques
+Some smallerbusinesses use cheques, although their usage has declined significantiy in
+recent years dueto the increasing popularity of electronic paymentmethods,
+Moreinformation oncheques canbefound in chapter3,buttheyarenotconsidered furtherin
+Accounting.
+CHAPTER
+2.3   Thebankreconciliation
+Definition
+Bankreconciliation:Acomparison ofa bank statement(usuallydailybut perhaps weeklyor
+monthlyfora smallerbusiness)withthe cashatbankaccount.Differencesbetweenthe
+balance on the bank staterment and thecash at bank account should be identifiedand
+satisfactorilyreconciled.Thecash atbank account should be updated accordingly,usuallyby
+posting a journal entry.
+Thereconciliationofthebankstatementtothecash atbankaccountmayidentifythefollowing
+errorsand.omissions:
+(a)Errors inrecordingtransactions inthecashatbankaccount,suchastransposition erors
+(eg.apaymentreceivedforCU360 ismanuallyrecordedinthecashatbankaccountas
+CU630)orpaymentsmadewhich have been omitted from thecashat bank account.Any
+errors oromissions fromthecashatbankaccountmustbecorrectedusinga journalentry.
+(b) Corrections and adjustmentstothecash atbank account
+(1)Depasitsintoorwithdrawalsfromthebank accountbywayofdebitcard,digitalwallet
+payment,standing order,directdebitor onlinetransferwhichhavenotyetbeen
+entered in the cash atbank account.Most of these willbe matched automatically by
+the computerised accountingsystem,butthere maybe unusual orunexpected
+deposits orwithdrawals thatcannot bematched,
+(2) Bank interest and bank charges notyet entered in the cash at bank account.
+(3) Dishonoured paymentsnot yetentered in the cash atbankaccount
+(c)Errorsinthebankstatement,suchastranspositionerrors,paymentsorreceiptsrecorded
+twice or interestand fees deducted incorrectly.The correct amount appears in the cash at
+bankaccount and thebalance perthe bank statementmust be correctedby notifying the
+bankof the error.There is no needto recordanything in the accounting records in respect
+ofbankerrors.
+(d)Items reconcilingthecorrectcashatbankaccountbalancetothebank statement (timing
+differences)
+(1) Payments madebythe business whichhavebeen credited to thecash at bankaccount
+ICAB2026   Emors andcorrectionstoaccountingrocordsand financialstatements

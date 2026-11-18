@@ -1,0 +1,23 @@
+Weightedaveragecost(AVCO)
+Averagecostper
+Date   Quantity   Cost per litre   Value   litre
+(litres)   CU   CU
+Opening balance   100   3.00   300   3.00
+40ct Issue   (80)   3.00   (240)
+20   60   3.00
+7ctPurchase   200   2.50   500
+220   560   2.55
+11Oct Issue   (0Z)   2.55   (178)
+150   382   2.55
+14OctPurchase   300   3.00   006
+450   1,282   2.85
+18OctIssue   (250)   2.85   (712)
+200   570
+21OdPurchase   50   4.00   200
+250   770   3.08
+25Oct Issue   (200)   3.08   (616)
+50   154
+28OctPurchase   100   3.50   350
+150   504   3.36
+Closing inventorycost-150litres@CU3.36-CU504
+244   Accounting   ICAB2026

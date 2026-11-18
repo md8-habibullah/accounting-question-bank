@@ -1,0 +1,40 @@
+Charge for the year
+Year1-(1,000-200)/10yearsYear2-(1,000-200)/10years
+Year3=840/8years
+AnswertoInteractivequestion5
+5.1Revisedannualdepreciationchargefrom20x4
+Carryingamountatrevision-residualvalue
+Revised remaining life
+CU102.000
+15
+=CU6.800perannum
+5.2lmpairment loss andrevised annual depreciation charge
+CHAPTER
+Recoverable amount isthehigheroffairvalue less costs of disposal of CU80,000 and the
+valueinuseofCU95,000.
+CU
+Carryingamountat31December20X3   102,000
+Recoverableamount   95,000
+10
+Impairmentloss   7.000
+Thecarrying amountof theasset at31December20x3is reducedtoCU95,000and the
+impairmentloss ofCU7.000 ischargedtoprofitorloss intheyear ended31December
+20X3.
+DR   P/Limpairmentloss   7,000
+CR   PPEcarrying amount   7.000
+Impairment loss on non-currentasset
+The revised annual depreciation charge from 20X4 is then calculated as:
+CU95,000
+=CU9.500
+10
+AnswertoInteractivequestion6
+MACHINERYACCOUNT
+CU   CU
+20X7   20X7
+Disposal of
+Balanceb/d(2 x   machinery
+I1 Jan   CU15,000)   30,000   31Mar   account   15,000
+Disposal of
+machinery   15.000
+30.000   1Dec   account   30.000
+ICAB 2026   Non.currentassets,depreciationandimpaimen   355

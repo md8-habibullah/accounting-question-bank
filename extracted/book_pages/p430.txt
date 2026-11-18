@@ -1,0 +1,40 @@
+(3)Propery.plantandequipmentnote
+Fixtures and
+Freehold land   fittings   Total
+CU'000   CU'000   CU'000
+Cost
+At 1.1X2   2.120   2,000   4.120
+Additions
+Disposals
+At31.12X2   2.120   2.00Q   4.120
+Accumulateddepreciation
+At1.1X2   900   900
+Charge far the year (CU2.000 ×20%)   400   400
+Disposals
+At31.12.X2   1,300   1300
+Carrying amount
+At1.1X2   2.120   L100   3,220
+At31.12.X2   2.120   700   2.820
+Worked example:PreparingIAS1formatfinancial statements in the exam
+Wewill now considerthesameexample asabovebutdemonstratehiowto approachthistype
+ofquestionintheexam.Intheexamyouwill begivenaproformastatementofprofitorloss
+andaproformastatementoffinancial position.
+Method:
+Step1-Quicklyread thequestiontogeta feelforthenumberandcomplexityofadjustments
+and identifywhereexpensesneedtoberecorded eg.amortisation ondevelopment
+costs in administrative expenses.
+Step2-Workdownthe trialbalanceand transfer all thefigures fromthe trialbalance tothe
+proformasprovidedIt iscommonfora numberofadjustmentstobemadeto
+property.plantandequipment(PPE).expenses,andretained earnings(fortheprofit
+orlossanddividends)
+Step3-Dealwithoneadjustmentatatime.Itisbesttostartwiththoseyoufindeasiestincase
+yourun outoftime.
+Step4-Onceyouhaveworkedthoughall theadjustments,orhaveafewminutesleft,add
+any working you have done and transfer these numbers to the pro formas.
+Step5-Adddown the statementofprofitorloss andtransfertheprofitto your retained
+earningsworking.TransferthePPEandretainedeamings figurestotheproforma
+andadddownthestatementoffinancialposition.
+Step6-fthestatementoffinancialpositiondoesnotcastthendon'tworryyoumayhavejust
+missed onefigure. f you havetime double check you recorded bothsides of the
+adjustments,
+Accounting   ICAB2026

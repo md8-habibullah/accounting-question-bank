@@ -1,0 +1,30 @@
+These standard percentages canbe'set out asfllows,using theaboveas an example:
+Margin on sales   Mark-upon cost
+(sales is the 100% figure)   (cost is the 100% figure)
+Sales   100   200   120×100/60   140   168   120×140/100
+Cost   (60)   (120)   (100)   120
+Gross   40   80   120x40/60   40   48   120×40/100
+profit
+Professional skills focus:Structuring problems and solutions
+Intheexam.youmaybefacedwithaquestion inwhichtheinventory isnotknown.orhasbeen
+recordedincorrectly.You canusegrossprofitpercentages in order.todeterminethe correct
+amountofinventoryattheendofareportingperiod.
+Interactivequestion6:Mark-upandmargin
+AbusinesshasinventorieswithatotalsellingpriceofCU1,ooo.
+Requirement
+What is the cost of the closing inventory assuming the business operates:
+(1)onamarginof25%?
+(2)onamark-upof25%?
+SeeAnswerattheend ofthis chapter.
+Inventorydrawings
+Sectionoverview
+When an ownertakes inventoryfortheirown use,itmustberecorded asadrawings:debit
+drawings,creditcostofsales.,
+Inventorydrawings
+Ifanownertakes items of inventoryfromthebusinessasdrawings, wedonotneedtoadjust
+opening orclosing inventory atall. Instead,we reduce the costof sales withthe cost ofitems
+withdrawn.
+CU
+DEBIT   Drawings
+CREDIT   Cost of sales
+232   Accounting   ICAB2026

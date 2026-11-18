@@ -1,0 +1,40 @@
+(1)thecostofgoodssold
+(2) the costof closing inventory
+Note:Foramanufacturerthecostofgoods sold isthe costofrawmaterialspluscosts of
+convertingthosematerials inthefinal product
+Howwould costof goods soldand closing inventorybe measuredusing:
+Requirements
+FIFO?
+AVCO?
+Solution
+FiFO assumes that goods are issued out of inventory in the order in which they were
+delivered into inventory ie,the cost of goods sold is deemedto beatthe cost ofthe
+earliestdeliveryremainingininventoryandthecostofinventoryisthatofthemostrecen
+purchases.
+Thecostofgoods soldand of closing inventoryusingFiFOwouldbeasfollows:
+Numberof
+unitssold Costofunits
+Date   (goodsout)   sold   Total cost
+CU
+4 May   200   100   atCU2.00   200
+100   atCU2.10   210
+200   410
+11May   400   300   atCU2.10   630
+100   atCU2.12   212
+400   842
+20May   100   100   atCU2.12   212
+1,464
+Closinginventory   200   100   at CU2.12   212
+100   atCU2.40   240
+200   452
+1,916
+Notethatthecost ofgoods sold plus the cost of the closing inventory equals the cost of
+purchasesplusthecostofopeninginventory(CU1,916).
+2AvcO maybe used in various ways in costing inventory issues.Themostcommon is the
+cumulative weighted average pricing method illustrated below.
+Aweighted average costforall unitsin inventoryiscalculated.The costofitems soldis
+calculated at this average cost,and thebalanceof inventoryremaininghas the same
+unit cost.
+Anewweightedaveragecost is calculated whenevera newdeliveryof goodsin is
+received.
+230   Accounting   ICAB2026

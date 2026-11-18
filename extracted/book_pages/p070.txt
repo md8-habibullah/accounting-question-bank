@@ -1,0 +1,44 @@
+4.2   Assets
+Thestatementoffinancial position distinguishes betweennon-current assets and current
+assets
+(againasrequiredbyIAs1).
+carriedatcostlessaccumulateddepreciation.
+Currentassets are expected to be converted into cashwithinoneyear.
+4.2.1   Non-currentassets
+Definition
+Non-current assets: Assets acquired for continuing use within the business,with a view
+earningincomeormakingprofitsfromtheiruse,eitherdirectlyorindirectlyovermorethano
+reporting period.
+Non-current assets in the statementoffinancial position usually comprise:
+property.plantandequipment(ie,tangible'assets)
+rightofuseassets
+intangible assets such as patents and licences
+long-terminvestments
+Anon-currentasset is notacquiredforsaletoa customer.
+Inamanufacturingindustry,aproductionmachineisanon.currentasset,becauseitmakes
+goodswhicharethensold.
+In a service industry.equipment used by employees giving service to customers is a non.
+current asset (eg,theequipmentused in agarage,orfurniture in a hotel).
+Lessobviouslyfactorypremises,officefurniture,computerequipment,companycar
+delivery vans or pallets in a warehouse are all non-current assets.
+Tobeclassedas anon.currentasset in thebusiness's statementoffinancial position,an item
+must satisfytwofurtherconditions,
+Itmustbeusedbythebusiness.Forexample,theowner'sownhousewouldnotnormally
+appearonthe business statementof financial position.
+The asset must have a life in use of more than one reporting period oryear.
+Atangiblenon-currentassetisaphysicalassetthatcanbetouched.Allofthe examples of
+non.current assets mentioned above are'tangibie'assets.Theyare oftenreferredto as
+property.plantandequipment
+Intangible non-current assets do not have a physical existence; they cannot be 'touched'.
+Examples area patent,which protects an idea and,a licence, which pemits the holdero
+An investment can also be anon-currerit asset.CompanyAmight invest in anothercompany.
+B,bypurchasing someof B's shares.These investments willearn incomefor A in the formof
+dividends paid outby B.If the investments arepurchased by Awith a viewto holding on to
+themformorethan.one year,they wouldbe classifiedas non-currentassets of A.
+in this chapter,we shallrestrictour attention to tangiblenon-currentassets.
+4.2.2Non-currentassetsanddepreciation
+Non-currentassets are held and used bya business fora numberofyears,buttheywear outor
+losetheirusefulness inthe courseoftirne.Everytangiblenon.currentassethas a limited life,
+known as the useful life'to thebusiness.This is notnecessarilythe same as thetotal life of the
+asset.Forexamplea well-maintainedcarmightexpecttohaveatotalifeoftenyears but, ifa
+Accounting   ICAB2026

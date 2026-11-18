@@ -1,0 +1,41 @@
+Solution
+CU(25,000-7,000)
+Annual depreciation   Cu3,000perannum
+6years
+CU
+Costofasset   25,000
+Lessaccumulateddepreciation (3×CU3,000)   (9,000)
+Carmying amount at dateof disposal   16.000
+Disposal proceeds   17,500
+Profit on disposal   1,500
+Thisprofitwll beshowninthestatement.ofproftorlossasanitemofotheincomeadded
+thegrossprofittoarriveatnetprofit
+Workedexample:Disposalofanon-currentasset ll
+Abusiness purchased a machineon1 July 20x1for CU39,000.Themachine had an estimated
+residualvalueofCU3,000andausefulifeofeightyears.ThemachinewassoldforCU18,600
+on31December 20X4,Tomakethe sale,thebusiness had to incurdismantlingcostsandcosts
+oftransportingthemachine to the buyer's premises ofCU1,200.
+Requirement
+Thebusiness uses thestraight line method of depreciation.Whatwas theprofit or loss on
+disposal of the machine?
+Solution
+Depreciationexpense
+CU(25,000-7.000)
+Annual depreciation   CU3,000perannum
+6years
+In 20x1only sixmonths depreciationwas charged,becausethe assetwas purchased six
+months into thereporting period.
+CU
+Non-currentassetatcost   39,000
+Depreciatian.in20X1(6.xCU375)   2,250
+20X2.20X3and20X4(3xCU4,500)   13,500
+Accumulateddepreciation   (15.750)
+Carrying amountat date of disposal   23,250
+Disposal proceeds   18,600
+Costs incurred inmakingthe sale   (1,200)
+Net disposal proceeds   (17.400)
+Losson disposal   (5,850)
+Thislosswill beshownaspartofadministrativeexpensesinthestatementofprofitorlossof
+thebusiness, Itisa capitalexpense,nota trading loss,and it should notthereforebe partof
+the calculation ofgrossprofit
+334   Accounting   ICAB2026

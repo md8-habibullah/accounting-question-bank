@@ -1,0 +1,36 @@
+Contextexample:Impairment and depreciation
+Abusiness purchased abuildingon1January20x1at a costof Cu100,000.Thebuildinghad
+a 20-year useful life, which resulted in an annual depreciation chargeof:
+CU100,000
+CU5,000perannum
+20years
+Atthereportingdateof31December20x5 the carrying amount of the building is calculated
+CU
+Costof thebuilding in 1 January20X5   100,000
+Accumulateddepreciationat31December20X5(5years×CU5,000)   (25,000)
+Carryingamountat31December20X5   75,000
+During20x5,propertypricesfell sharply indicatingthatthebuildingmaybeimpaired.On31   CIARFUR
+December20x5,the business undertook an impairment review and determined that the
+buildinghada.recoverableamountofCu60,000.
+Thebusinesscalculatedanimpairment lossat31December20X5:L
+Carrying amountofthebuilding at 31December 20X5   75,000   10
+Recoverableamountat31December20X5   (60,000)
+Impairmentloss charged toprofitorloss in20X5   15,000
+The business should therefore reduce the carrying amountof the building to CU60,o00 and
+chargetheimpairmentlossofCU15,000toprofitorloss.
+In20X6,depreciation shouldbe calculatedbased on thebuilding's newcarrying amountof
+CU60,000andtheremaininguseful lifeof15years:
+CU60,000
+cu4,000perannum
+15years
+At31December20X6,thecarryingamountof thebuildingwould
+CU
+Costofthebuildingin1January20x6   60,000
+Accumulateddepreciationat31December20X6   (4,000)
+Carryingamountat31December20X6   56,000
+5.2   Indicatorsof impairment
+Attheendofeachreportingperiod,abusinessisrequiredtoassessifthereisanyindication
+thatanassetmaybe impaired (IAs36:para.9)Indicationsofimpairmentcouldcomefrom
+internalorextemalsourcesofinformation.
+External indicators of impairment
+ICAB2026   Non-currentassets,depreciationand impairment   331

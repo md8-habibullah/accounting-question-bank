@@ -1,0 +1,39 @@
+Context example:Reducing balance method
+AbusinesspurchasesenergyefficientmachineryatacostfCU10000onJanuary20
+whichiplanstokeepforthreeyearsto31December20X3.Thebusinesswishestousethe
+reducingbalancemethodtodepreciatethemachineryandcalculatesthattherateof
+depreciationshouldbe40%ofthereducingbalance(carryingamount)ofthemachinery
+Thedepreciationchargeperannumandthecarrying amountoftheassetasattheendofeach
+reportingperiodwill beas follows:
+Accumulateddepreciation
+Machineryat cost   10,000
+Depreciationin20X1(40%)   (4,000)   4,000
+Carryingamountat end of20X1   6.000
+Depreciation in20x2(40%ofcarrying
+amount6,000)   (2,400)   6.400   (4,000+2,400)
+Carrying amountatend of 20X2   3,600
+Depreciationin20X3(40%×3,600)   (1,440)   7,840(6,400+1,440)
+Carying amountat endof 20X3   2.160
+The annual chargeforreducing balance depreciation ishigher in theearlierreporting periods
+oftheasset'slife,and lowerinthelaterreportingperiods(CU4,000,CU2,400andCU1,440
+respectively).
+Thebalanceremainingattheendofthethree-year.usefulifeofC2.160 istheestimated
+residual value which wastaken into account whencalculating that 40%reducingbalance was
+appropriate.
+3.4   Applyingadepreciation method consistently
+Abusinesscanchoosewhichmethodofdepreciationtoapplytoitsproperty.plantand
+equipmentOncethisdecisionhasbeenmade itshould beapplied consistentlyfrom
+thereis a change in the way in whichthe asset is used (see section 3.6).
+Abusiness can depreciate differentcategories ofnon-current assets in different ways.For
+exampleifabusinessownsthreecars,theneach.carwouldnormallybedepreciatedinthe
+same way(eg,bythestraight linemethod);butanothercategoryofnon-currentasset,say
+photocopiers,mightbedepreciatedusing.a differentmethod (eg,bythe.reducingbalance
+method)
+Interactivequestion2:Depreciation
+AlorryboughtforabusinesscostCU17.000plusVATat20%Itisexpectedtolastforfive
+yearsandthentobesoldforCU2,000plusVAT.
+Workoutthedepreciationtobe charged toeach12-monthreportingperiodunder:
+Requirements
+2.1 the straight line method
+2.2thereducingbalancemethod,using arate of35%See Answeratthe endofthis chapter.
+322   Accounting   ICAB2026

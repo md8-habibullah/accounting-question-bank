@@ -1,0 +1,39 @@
+Contextexample:LowerofcostandNRv
+AtraderbuysanitemofinventorycostingCU100.TheitemcanusualybesoldforCU140.The
+and the expected sellingprice is CU90.The item's NRVis then CU(90-5)=CU85and the
+businesswillmakealossofCU15(CU100-CU85)ontheitem.Assetsshouldnotbe
+overstated,sotheso losswillberecognisedbyvaluingthe item inthestatementoffinancial
+position at its NRVof CU85.
+6.2   ApplyingthelowerofcostandNRv
+Ifabusinesshasmany inventoryitems an hand thecomiparison of costand NRVshouldbe
+caredutachimaraelyoufficietomarethtaloalliny
+itemswiththeirtotalNRV,unlessthe itemsareinterchangeablesuchasnutsorbolts.
+Context example:Valuing eachinventory itemseparately
+Acompanyhasfour items of inventoryattheend of its reportingperiod.Theircosts andNRVs
+areasfollows:
+Lowerof
+Inventoryitem   Cost   NRV   COSU/NRV
+CU   CU
+27   32   27
+14
+43   55   43
+29   40   29
+113   135   107
+It wouldbeincorrecttocomparetotalcost(CU113)withtotal NRV(CU135)andto state
+inventoriesatCU113 in thestatementoffinancialposition.Thecompany canforeseealoss of
+CU6 on item 2 andthis should be recognised immediately.Ifthe fouritems aretaken together
+in total the loss on item2 ismasked bythe anticipated profits on theother items.By
+performing the cost/NRVcomparisonforeachitem separatelytheappropriatevaluation of
+CU107can bederived.This is thevaluewhich should appear in thestatementoffinancial
+position..
+Professional skillsfocus:Assimilating and using information
+Anaccountantwill use informationfrom various sourcesto determinethe NRV ofinventory.It is
+importantto establishnot justtheexpected sellingpriceforthegoodsbutalsothecostof
+makingthosesales,suchas anycommissiontobepaidtosalesstafforanydeliverycoststobe
+incured.
+Thevaluationofinventoryis an area in whichthereispotentiallyscopeformanipulationofthe
+financialstatements.Inventoryimpactsonthecarying amountofassets andongrass andnet
+profitifabusinessisunderpressuretoincreaseitsassetvalueorreportstrongprofts,perhaps
+tosecurebankfundingortoachievetargets,itwillwanttoavoidwritinginventorydownbelow
+itscost
+226   Accounting   ICAB2026

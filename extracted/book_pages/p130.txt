@@ -1,0 +1,36 @@
+1January
+DEBIT   Equipment(non-currentasset)   2,000
+CREDIT   Trade payables   2,000
+The purchase of equipmenton credit
+30 January
+Rentexpenseaccount   1,500
+CREDIT   Cashatbankaccount   1,500
+Thepaymentofrent.to31March
+30January
+Cash takings
+31January   CU
+DEBIT   Cash at bank account   600
+CREDIT   Salesaccount   600
+Trade receivables   80
+CREDIT   Sales account   80
+Theprovisionofhairtreatmentoncredit
+31January
+DEBIT   Drawings   100
+CREDIT   Cashatbankaccount   100
+Owner'sdrawings
+Thereceivablesandpayablesledgers
+Section overview
+The receivables ledger is where the individuat ledgeraccounts for each credit customer
+(personal accounts)are listed,
+Atotalreceivablesaacount is held in thenominal ledger,called tradereceivables.
+The payables ledgeris wherethe individual ledgeraccounts foreachcredit supplier
+(personalaccounts)are listed.
+Atotal payables account isheld inthe nominal ledger,calledtrade payables.
+5.1   Nominal ledgeraccountsandpersonalaccounts
+Nominal ledgeraccounts relatetotypes ofincome,expense,asset,capitaland liability-tent
+sales,tradereceivables,payables andsoon-butdonotrecord individualdetails relatingto
+the personorbusiness to whom the money is paid orfrom whom it is received.Therefore,
+thereisalsoaneedforpersonalaccounts,mostcommonlyforreceivablesandpayablesand
+theseare contained in.the receivables ledgerand the payables ledger.These are
+memorandumaccounts only,inmemorandum ledgers; theyare not partof the doubleentry
+120   Accounting   ICAB2026

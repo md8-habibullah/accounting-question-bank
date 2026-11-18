@@ -1,0 +1,36 @@
+The statement of changes in equity (IAS 1)
+Sectionoverview
+The statement of changes in equity explains how the equity section of the statement of
+financial positionhas changedinthereportingperiod,
+IAs1requires companiestopreparea statementof changes in equityas one oftheprimary
+financial statements.Thestatement ofchanges inequityexplainsthemovement intheequity
+section of the statement of financial position from the previous reporting date to the current
+reporting date.
+Thefollowing should be shown in the statement of changes in equity:
+(a)Total comprehensive incomefortheperiod.Forthepurposes of Accounting,this isprofit
+orlossfortheperiod.
+(b)Theamounts oftransactions withowners,showing separatelycontributionsby owners (eg,
+issues of share capital and anyrelated premium)and distributions to owners (in theform
+of dividends).
+(c) Foreach component ofequity,a reconciliation between the carrying amountat the
+beginningand end of the period,showing separately each change.Forthepurposes of
+Accounting,sharecapital,sharepremium,retainedearningsandotherreservesarethe
+key components of equitythat should be included in the statemerit of changes in equity.
+Professional skillsfocus:Assimilatingandusinginformation
+The approachtopreparingthestatementofchanges in equityis differentto thatfornthe other
+primaryfinancial statements we have metso far The statement of changes in equity uses the
+informationalready containedinthe statement ofprofit orloss andthe statementoffinancial
+position to explain how equity has changed in the period,You need to use the information
+relatingtotransactions and balancesalreadyrecorded inordertopreparethestatementof
+changes in equity.
+Workedexample:Statementofchanges inequity
+Thefollowing has been extracted from the equity section of thestatements offinancial position
+ofMontyLtdasat30April20x8and20x9:
+Equity   20X9   20X8
+CU
+CHAPTER
+Share capital:CU1equityshares   120,000   100,000
+Sharepremium   70.000   60,000
+Retained earnings   122,400   86.700
+Otherreserves   12,000   12.000
+ICAB2026   Companyfinancial statements under IFRS Accounting Standards   411

@@ -1,0 +1,41 @@
+Self-test questions
+Answerthefollowingquestions,
+Whichof thefollowing isthe correctcalculationforcost ofsales?
+A Sales-purchases
+B Opening inventory+purchases+closing inventory+delivery inwards
+COpening inventory+purchases-closing inventory+deliveryinwards
+D Sales-opening inventory-purchases+closing inventory-delivery inwards
+2Costofsales isCU14,000.Purchasesfortheperiod areCU14,000,deliveryinwards is
+CU1,000,deliveryoutwards isCU1,500and closinginventoryis CU13,000.Whatwasthe
+opening inventory figure?
+ACU10,500
+BCU11,500
+CCU12.000
+D CU13,000
+Give three reasons why inventory might have to be written off.
+Carlislehas thefollowing inventorymovements during May.
+Units   CU per
+unit
+Opening inventory   40
+2May-Goods in   60   10
+10May-Goodsout   50
+15May-Goodsin   70   CHAPTER
+18May-Goodsout   45
+24May-Goods in   80   11
+Requirement
+Assumingthatthebusiness calculates thecostofinventoryona FiFObasis,whatwill be
+the cost of closing inventory at the end ofthe manth?
+A CU1,615
+BCU1.655
+CCU1.700
+DCU1,705
+5.Atraderused the LiFOmethod to calculate the cost of inventory attheend of Julyat
+CU3,110.Sales and purchases in July were as follows:
+Date   Purchases (units)   Sales (units)
+3July   100atCU20/unit
+6July   80
+10July   Tametapul   40
+15July   50atCU22/unit
+22July   20
+27 July   80atCU25/unit
+ICAB2026   Cost of sales and inventories   235

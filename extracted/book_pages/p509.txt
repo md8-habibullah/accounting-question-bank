@@ -1,0 +1,47 @@
+2.5   BudgetClassificationsystems
+Classifying budgetarytransactions is importantforpolicyformulationand analysis,ensuring
+compliancewith the legislative authorizations and financial regulations,and for day-to-day
+administrationofthebudgetAbudgetclassificationsystemprovidesa normative framework
+forbothpolicydecisionmaking and ensuringbothparliamentaryand financialaccountability.
+Coding ofbudgetarytransactionforeachand everydata processing,reporting and controlis
+required,Codingsupportsthepurposeof data classificationsystems.Somecommon
+Forrevenues,thebudgetcodewill bestructuredtaking into accountthe different
+economiccategories,sub-categoriesand lower-leveldivisionsof revenues,
+Forexpenditures,the'budgetcode should be usedat eachstage of the expenditure
+Cycle from the appropriationto the payrnent.It will bebuilt bycombining the codes of the
+differentdimensions ofthe budgetexpenditure classification system.
+Abasicexpenditureclassificationsystemincludesatleast:(i)anadministrative
+classification,whichidentifies theadministrative divisions tesponsibleforbudget
+management:(i)anobject (orline-item)classification,whichusuallyclassifiesexpenditure
+by economiccategory:and (imi)in aid-dependent countries afinancing source
+classification.
+Mostdimensions of thebudgetclassification system have several levels; in such cases the code
+of the segment is a decimal hierarchical code.Forexample,the administrative classification
+mayhave the following three levels: ministry.directorate and division.
+Budgetclassification system in Bangladesh:Bangladeshhas attemptedtofollowthe
+budgetclassification,Underthereformation initiative, MinistryofFinance (MoF)declaredto
+adoptthebudgetclassification systemsandprepare thebudgetthroughautomation.A
+manual entitledBudget andAccounting Classification Manual"has been circulated inthis
+regardThe latestbudgetcanbe checked fromthewebsite of theMOFofBangladesh.
+Currently.governments usuallyadoptmultidimensional classificationsystemsthatincorporate
+atleastfouressential dimensions.Theseare:   CHAPTER
+Classification byadministrative unit;
+Classificationbyfunction;
+Classificationby economicfeature and.
+Classificationbyprogram.
+InteractiveQuestion3:Whyisbudgetclassificationimportant?
+Interactive Question 4:Howdoes budgetclassification linkedto accounting?   15
+2.6   International StandardsforFiscal Reporting
+Tofacilitatebudgetpolicyanalysis and international comparisons,thebudgetclassification
+must enable reporting accordingto certain international standards forfiscal reporting.These
+standards are defined in the2001version of the GovernmentFinanceStatisticsManual (GFSM
+2001)of the IMF.They include thefollowing:
+TheGFSM2001econamicclassificationofrevenues,expensesandothergovernment
+financial transactions
+Theclassificationoffunctionsofgovernment(COFOG)
+2.7   BudgetExecution
+Afterthe preparation andapproval of the budget, it is theresponsibilityof the line ministries,
+divisions, and spending institutions to execute the budget The MDls spend the budget within
+regulatory controlssetbytheFinance Division in delivering services and implementing
+developmentprojects.
+ICAB2026   IntroductiontoPublicFinancialManagement   499

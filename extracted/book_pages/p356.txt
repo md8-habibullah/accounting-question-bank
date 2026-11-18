@@ -1,0 +1,22 @@
+8.4   Othernon-currentassets
+in debt issued bycompanies orgovernments are included in non-currentassets as
+investments.Such investments areknown as financial instruments.Theaccounting and
+valuationofthese canbecomplexandfallsoutsidethescopeoftheAccountingsyllabus.
+The non-current assets notes to the statement
+offinancial position
+Section overview
+Thedetailsbehind thesinglefigurefortangiblenon-currentassets inthestatementof
+financialpositionareprovided inanon-currentassetnotetothestatementoffinancial
+position.
+There will be an equivalentnote for any right-of-use assets and intangible assets.
+There is usuallya detailed noteto the financial statements in respect of property.plant and
+equipment,with justthesummarisedfigure inthestatementoffinancialposition.Foreach
+class of property.plantand equipmentthe noteshows:
+costand accumulated depreciation brought forward
+additionsduringthereportingperiod
+disposalsduringthereporting period,andtherelatedaccumulateddepreciation
+depreciationchargeforthereportingperiod
+closingbalancecarriedforward
+Note:Disposal proceeds,and gains/losses on disposal,do notappear inthe non-current
+assetsnote.
+346   Accounting   ICAB2026

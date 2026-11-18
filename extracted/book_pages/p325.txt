@@ -1,0 +1,46 @@
+Lease theasset
+Ifanentityleasesanasset,itispayinganotherentityfortherighttousethatassetforanagreed
+petiodoftime.ltistheowner's(lessor's)property,buttheentity(lessee)isgettingtherighto
+use it andaccess to thebenefits from using it forthe agreed period oftime.
+Thereare clear legal differences between owning and leasing anassetHowever,manyleasing
+arrangements transferall thebenefits and risks ofowning an assettothelesseeforan agreed
+period.Insuchcases,simplyaccountingfortheleasepaymentsasanexpenseeachmonth
+doesnotappropriately reflectthe substance ofthe arrangement In orderto more accurately
+reflectthesubstanceofsucharrangements, IFRS 16,Leases requires a lessee torecognisea
+non-currentright-of-use assetrepresenting its rightto usetheleased assetforaspecified
+periodandaleaseliabilityrepresentingitsobligationtomakepaymentsunderthelease.
+This is also consistent with thedefinition ofan asset inthe Conceptual Frameworkwhich states
+thalanasset isa resourcethat is controlled bythe entity (notowned).
+Assessmentfocus point
+IntheAccountingexamyoumaybeaskedto calculatetheright-of-useasset,buthowto   CHAPTER
+calculatethe lease liabilityandaccountingforthe lease payments is excludedfromthe syllabus
+1.2   IAS16,Property,PlantandEquipment
+TheobjectiveofIAs16istoprescribeinrelation to property.plantand equipmentthe
+accountingtreatmentior:
+therecognitionofassets   10
+thedetermination of their carryingamounts
+thedepreciation chargesrelatingtothem
+This providesthe users offinancial statements with informationaboutan entity's investment in,
+anduseof,itsproperty.plantandequipment(PPE)andchangesin suchinvestments.
+IAS16 shouldbefollowedwhenaccounting forPPEunlessanotherIFRSAccounting Standard
+requiresa differenttreatment, eg,IFRS 5,Non-currentAssets Heldfor Sale and Discontinued
+OperationsorIFRS16,Leases.
+1.3   Cost of PPE
+The cost of PPE includes all amounts incurred to acquire the assetand any amounts that can
+be directly attributabletobringing theassetto the location and condition necessary foritto
+becapable of operating in the way intended bymanagement Withtheexception of cars,
+where the VAT is not usually recoverable, the amount capitalised will exclude VAT.
+Directlyattributable costs include:
+purchaseprice
+deliverycosts
+stamp duty and import duties(and irrecoverable VAT on cars)
+costs ofpreparing the sitefor installation andassembly of the asset
+professionalfees,suchas legalandarchitects fees
+costsoftesting whethertheassetis functioning
+Expensessuchasgenraloverheadcosts,administrationcosts,trainingcostsforstaff,fuelin
+vehicle on.delivery and licencefeesforoperating the assetare notincluded as part ofthetotal
+costs of the non-currentasset.
+Thecost of subsequent capital expenditure on a nion-current asset will be added to the cost of
+the asset,provided this expenditureenhances thebenefits of the non-current assetorrestores
+anybenefits.consumed.
+ICAB2026   Non-currentassets,depreciationand impairment   315

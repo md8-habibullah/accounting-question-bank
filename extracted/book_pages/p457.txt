@@ -1,0 +1,36 @@
+Workedexample:Cashgenerated fromoperations
+Questplchas profitbeforetaxfortheyearto31December20X6of CU850,aftercharging
+CU450 fordepreciationonan electriccar,CU200foran impairmentloss on anasset whichhas
+been subjecttotechnologicaladvances andmakingaprofitofCU120onthedisposalofadiesel
+cat.   CHAPTER
+The statementof financial positionforthe year showsthefollowing entries:
+20X6   20X5
+Inventories   586   763
+13
+Tradeandotherreceivables   1,021   589
+Tradeand otherpayables   443   1,431
+Requirement
+Calculate the cash generated from operations,
+Solution
+CU
+Profit before tax   850
+Depreciation(add)   450
+Impairmentloss(add)   200
+Profitonsaleafproperty.plantandequipment (deduct)   (120)
+Movement in inventories (adda decrease)   177
+Movementintradereceivables(deductanincrease)   (432)
+Movementintradepayables(deductadecrease)   (988)
+Cash generated from operations   137
+Contextexample:Directmethod
+Hail plc commencedtrading on1 January20x7followinga share issuewhichraised
+CU35,000.During the yearthe companyentered into thefollowing transactions:
+PurchasesfromsupplierswereCu19,500,ofwhichCU2550wasunpaidattheyearend.
+Wagesandsalaries amountedtoCU10,500,ofwhich CU750wasunpaidattheyear end.
+Sales revenuewas CU29,400,includingCU900receivablesattheyearend
+Cashgenerated from operations wouldbecalculatedanddisclosedas follows:
+Grossoperatingcashflowsfortheyearended31December20X7
+CU
+Cashreceivedfromcustomers (29,400-900)   28,500
+Cashpaidto suppliersandemployees (W)   (26.700)
+Cashgeneratedfrom.operations   1,800
+ICAB2026   Statementofcashfows   447

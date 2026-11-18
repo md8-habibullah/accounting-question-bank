@@ -1,0 +1,28 @@
+TechnicalReferences
+CHAPTER
+1 Objectiveofthestatementof cashflows
+Thestatementof cash flows should showthehistorical changes in cashand cash
+equivalents
+Cashcomprises cashonhandanddemanddeposits-IAs7,para.6
+Cash equivalents are short-term,highly liquid investments thatare readily convertible
+toknown amounts of cashand whichare subjectto an insignificanit riskof changes in
+value-IAS7.para.6
+2Presentationofastatementofcashflows-AppendixA
+Cashflows shouldbe classified byoperating.investing and financing activities-IAs7,
+para.10
+Cash flows from operating activities are primarily derived from the principal revenue-
+producingactivities of the entity-IAs7.paras.13-14
+Therearetwomethods of presentationfor cashflows fron operatinig activities:
+directmethod-IAs7,para.19
+indirectmethod-IAS7,para.20
+Cash flowsfrom investing activities are those related to the acquisition ordisposal of
+anynon-currentassets,ortradeinvestmentstogetherwithretums received incash
+frominvestments (ie,dividendsandinterestreceived)
+Financingactivities include:
+cashproceedsfromissuingshares
+cashproceeds from issuingdebentures,loans,notes,bonds,mortgagesandother
+shortorlong-term borrowings
+cashrepayments ofamountsborrowed
+repayment ofcapitalamounts underlease agreements
+dividendspaidtoshareholders-IAs7para.16
+ICAB2026   Statementofcashflows   465

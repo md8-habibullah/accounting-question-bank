@@ -1,0 +1,41 @@
+Professional skillsfocus:Assimilatingandusing information
+Supplierstatementreconciliations involve using information from two sources-the payables
+ledgerandthe supplierstatement lt is importanttomatchthe details carefullyinorderto
+identify the diferences and determine whether there is a needfor adjustment in the financial
+statements.
+Bankreconciliations
+Section overview
+The cashat bank accountandthebank statementbothreflecttransactions throughthe
+business's bank account.
+The cashat bank accountneedsto be regularly reconciled to thebank statementto
+identify anydifferences.Information relating to deposits and withdrawals shown on the
+bank transaction report will be matched to transactions undertaken bythe business and
+recordedinthecashatbankaccount.
+2.1   Cashatbankaccountandthebankstatement
+The cash atbankaccount is one ofa business's nominal ledger accounts.Thebalance on the
+cashatbankaccount will be reportedas a currentasset or,in the case ofan overdraft,a current
+liabilityinthestatementoffinancial position.
+Asdescribed inChapter3,someaccountingsoftwarepackages arenowintegratedwitha
+business's electronic banking system in such a way that thebanktransactions arematchedto
+knowntransactions and are thereforeautomatically recorded in the business's computerised
+accountingsystem.inotherpackages,abaokkeeperwillregularly(mostlikelydaily)extract.the
+bank transaction reportwhichdetails all deposits and withdrawals into thebusiness's bank
+accountduringtheperiod.Information fromthebanktransaction reportwill then beuploaded
+intothebusiness's computerised accountingsystem and,asdescribed above,thedeposits and
+withdrawals arethenautomaticallymatchedtoknowntransactians andrecordedinthe
+appropriate nominal ledgeraccounts.Most deposits and withdrawals thatare madeby
+electronicfunds transferwill includea unique reference number whichhelps with the.matching
+process.
+There will besometransactions thatthe computerised accounting systemcannotautomatically
+match,These unmatchedtransactions are posted to a temporary account (calleda suspense
+account-seeSection4)andarereportedonan exceptionreportfortheaccountantto
+investigate.Once identified,journalentries arepreparedtoclearthe suspenseaccountand
+post.thetransactionstothecorrectaccounts.
+Even thoughtheprocess islargelyautomatic,youarestill requiredto understandthe
+mechanics ofwhat the computerised accounting system is doing.That is the process of
+comparing thecash atbankaccountto thebank statement and then updating the accounting
+recordsbasedonthe informationshown inthebank statement.
+Definition
+Bank statement:Arecord oftransactions onthebusiness'sbank accountmaintainedby the
+bankinitsownaccountingrecords.
+180   Accounting   ICAB2026

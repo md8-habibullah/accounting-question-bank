@@ -1,0 +1,31 @@
+CREDIT   Tradereceivables   180
+(6)   DEBIT   Wages account   4,000
+CREDIT   Cash at bank   4,000
+(7)   DEBIT   Rent account   700
+CREDIT   Trade payables   700
+(8)   DEBIT   Trade payables   700
+CREDIT   Cash at bank   700
+(9)   DEBIT   Insurance expense   90
+CREDIT   Cash at bank   90
+AnswertoInteractivequestion3
+Inthis answerwehavecalculatedthebalancingfigureonthecashatbankaccountWeshall
+comebacktothisinChapter5.Fornow.justmakesurethatyou completedall thenecessary
+steps correctly.
+CASHATBANKACCOUNT
+CU   CU
+Capital (A)   7,000   Rent(B)   3,500
+Bank loan (D)   1,000   Shop fitings (E)Trade   2,000
+Sales (F)   10,000   payables (H) Bank loan   5,000
+Tradereceivables (1)   2,500   interest(J)Otherexpenses(K)   100
+Drawings(L)   1,900
+Balancingfigure(theamount   1,500
+ofcashleftoverafter
+14,000
+paymentshavebeen.made)-
+carried down   6,500
+20,500   20.500
+Debit balance brought down   6,500
+CAPITAL
+CU
+Cashatbank   7,000
+138   Accounting   ICAB2026

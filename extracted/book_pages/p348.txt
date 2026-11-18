@@ -1,0 +1,34 @@
+Worked example:Accounting for part-exchangedisposals ll
+A business trades in an asset that.cost CU30,000 two years agofora new asset that costs
+depreciated on the straight line basis overfive years.
+Requirement
+What are therelevantledger account entries?
+Solution
+MACHINERYACCOUNT
+CU
+Balanceb/d Cashat bankale   30,000   Disposals   30,000
+Disposals(partexchangevalue   41,000   Balance cld   60,000
+CU(60.000-41,000))
+19,000
+Balance b/d   90,000   90,000
+60,000
+Thenew asset isrecorded in the non-currentasset accountat cost CU (41,000+19.000)
+CU60.000.
+MACHINERYACCUMULATEDDEPRECIATION
+CU
+Disposals(20%ofCU30,000
+for2years)   12,000   Balance   12,000
+DISPOSALS
+CU
+Cost   30.000   Accumulated depreciation   12.000
+Statementofprofit.orloss(profiton
+disposal)   1,000   Cost-part-exchange value   19,000
+31,000   31,000
+Alternative working:
+CU
+Oldasset atcost   30,000
+Accumulateddepreciation:attimeofsale (30,000/5×2)   (12,000)
+Carrying amount attime of sale   18,000
+Part-exchangevalue(60,000-41,000)   19,000
+Profiton disposal   1000
+338   Accounting   ICAB2026

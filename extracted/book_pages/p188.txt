@@ -1,0 +1,41 @@
+However, it is silluseful forabusiness that uses a computerised accounting systemtoverify
+that therecords itkeeps are complete and accurateby reconciling certain informationto
+external documents.You should be aware ofthefollowingreconciliations and howtheyare
+usedbybusinesses:
+Bankreconciliations-as discussed in Chapter3,electronicbankingnowmeans that
+businesses are able to access theirbank information and downloadtransaction reports at
+anypoint in time.Thetermsbanktransaction report andbank statementwill beused
+throughout the Workbook toreferto thetransactions and balances recorded by the bank
+The bank statements areused(1)as a sourcedocument for entries into theaccounting
+system;and(2)asanextemal recordagainst whichtheaccountingrecords ofabusiness
+can be checked.The lines have blurred between using the bank statementforrecording
+transactionsandforcheckingtheaccuracyoftheaccountingrecords.
+Supplierstatementreconciliations-supplier statements are preparedby credit suppliers
+and senttotheir customers on a regularbasis,usually atthe end of each month oreach
+quarter,and listalltransactions (invoices,returns,discountsandpayments)thathave
+statement will reconcilethe transactions and closing balance onthe statementto the
+payables ledger and any omissions or errors identified in the accounting records can then
+be corrected.
+Contextexample:Supplierstatementreconciliation
+Supplierstatementreconciliation
+Violet has receiveda supplierstatement from Jadewhichshows all transactionsbetween Violet
+and JadelorthemonthofMarch20x8.
+Jade
+SupplierstatementforVioletforthemonthended31March20X8
+Balance (CU)
+Date   Details   Debit (CU)   Credit   Debiti
+(CU)   eda)
+Balance brought
+1/3/X8   forward   492.22
+5/3/X8   Invoice13287   129.40   621.62
+7/3/X8   Invoice13299   22.72   64434
+10/3/X8   Paymentreceived   615.17   29.17
+18/3/X8   Invoice14101   394.95   424.12
+Balance carried
+31/3/X8   forward   424.12
+The supplier statement is prepared from the point of view of the supplier.Balances owed by
+Violet,to Jade, are shown as debit balances on the statement because they are receivables
+balancesfrom Jade'spointofview.
+Violet has extracted a report from the computerised accounting system which shows Jade's
+personal accountin the payables ledger.
+Accounting   ICA82026

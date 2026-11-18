@@ -1,0 +1,15 @@
+Summary
+Accounting for inventories
+Opening inventory.   Purchases:   Closing inventory.
+DR Costofsales(statement   DR   Costofsales(statement   DR   Inventory(statementof
+ofptofitorloss)   offinancialposition)   financial position)
+Inventory(statementof   CR   Purchases   CR   Costofsales(staterment
+financial position)   ofprofitorloss)
+Accounting forinventories
+Opening inventory.   Purchases:   Closing inventory:
+Costofsales(statement   DR   Costofsales(statement   DR   Inventary(statementof
+ofprofitorloss)   offinancialposition)   financial position)
+CR   Inventory(statementof   CR   Purchases   CR   Costof sales (statement
+financial position)   ofprofitorloss)
+CHAPTER
+ICAB2026   Cost af sales and inventories   233

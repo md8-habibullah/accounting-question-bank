@@ -1,0 +1,40 @@
+(e)
+Assets   Capital   Liabilities
+CU   CU
+Stall   1800
+Flowers
+Cash(950-180)   770
+2,570   2.570
+(b)Alternatively
+Netassets -Capital
+CU(2.570-0)=CU2,570
+The increaseinnetassets sincetradingoperationsbeganisnowonlyCU(2,570-2,500)=
+CU7o,which isthe amountoftheretainedprofits.
+CHAPTER
+Contextexample:Assets=capital
+On10 JulyCharliepurchases flowersforcash,ata costofCU740.Charliedecidestoemploy
+theircousin forawageof CU40fortheday.
+Afterthepurchaseof thegoodsforCU740theaccountingequation is:
+Assets   Capital   Liabilities
+CU
+Stall   1:800
+Flowers   740
+Cash(770-740)   30
+2.570   2,570
+On10July,all theflowersweresoldforCU1100cash,andCharlie'scousinispaidCU40.The
+profit for theday is calculated as follows:
+CU   CU
+Sales   1,100
+Less cost.of.sales   740
+Wages   40
+(780)
+Profit   320
+Assets   Capital   +Liabilities
+CU   CU   CU
+Stall   1,800   Atbeginningof 10 July   2,570
+Flowers   Profitsearnedon10July   320
+Cash(30+1100-40)   1090
+2.890   2.890
+Charlie has also decided to withdraw CU200 in cash, therefore retained profits will be only
+CU(320-200)=CU120.
+ICAB2026   The accounting equation   $3

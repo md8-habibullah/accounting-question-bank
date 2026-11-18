@@ -1,0 +1,49 @@
+governmentorotherpublicsector entity.This information will inform assessmentsofmatters
+such as whether the entity has acquired resources economically and used them efficiently and
+effectivelytoachieveitsservicedeliveryobjectives.
+3.9.4ReportingEntity
+Key definitions:
+Publicsectorreportingentity
+Apublicsectorreportingentityisagovernmentorotherpublicsectororganisation,
+programme or identifiable activity that prepares general purpose financial reports.
+Publicsectorgroupreportingentity
+GPFRns iftheyareasingleentity.
+Identifyingreporting entitiesis notas simple as identifying organizations with a separatelegal
+ldentity.Whilstmanypublic sectorentities dohave separatelegal identitios(forexample
+publiccorporationswhichareGBEsandarethereforenotcoveredbyIPSASs).manypublic
+sectororganisations,programmes andactivitiesmayalsoraiseanddeploymonies,acqulre
+and managepublicassets,incurliabilities etc.withouthavinga separatelegalidentity.Service
+recipients andresource providers maydependonthe GPFRfordecision.making purposesand
+hencea public sectororganisation programme oractivity can beareporting entitywithout
+havinga separate legal entity.
+Usuallylegislation,regulationorotherauthoritywill requireapublicsector
+organisation/activitytoprepareGPFRbut insomecases GPFRmaybepreparedonavoluntary
+basis.Foraccountabilityanddecision-makingpurposes,servicerecipients andresource
+providers will often'require information a group ofentities.This could include:
+agroup ofseparate entitiesthatmakeupthegovernmentas awhole,or:
+agroupofseparate entities thatcomprisea governmentministryorotherwisework
+togetherto deliver aparticular govermmentprogram.
+Therefore,akeycharacteristic ofagroupreportingentityis theexistence ofservicereciplents
+andresourceproviders whoaredependent onGPFR prepared inrespectof thegroup forthe
+informationtheyneedforaccountabilityanddecision-makingpurposes.
+Theunderlying principle inrelationto preparing GPFRforgroups isthat information needs to
+bedisclosedabouttheresources,obligations and service delivery or otheractivities thata
+governmentas a whole (orotherpublicsectorentity)has the authorityand capacityto direct
+This includes those it can directthroughotherentities,Such information is necessaryfor
+accountability anddecision-making purposes when the results of such direction.can generate
+benefits forthegovernment(orotherpublic sectorentity)orexpose it to a financial burdenor
+loss.
+3.10   IntegratedFinancial ManagementInformationSystems (IFMiS)
+Awell-functioningaccounting andfinancialmanagement system is the foundation ofa
+govemment's capacityto allocate and use resources efficiently and effectively.In the absence
+ofautomation,countriesrelyonmanualsystemstoprocess,record,manage,andreportthe
+government'sfinancial transactions,Manual processes and systems can work well iftheyare
+supportedbytrainedanddisciplined staff.Automationholdsthepromiseof improved
+recording.reportingandmanagementofpublicfinances(hencethewide interestinFMiS):
+however,italone does notguarantee morecomprehensive,transparent, accountableand
+legitimatepublicfinances.Automationis ameanstoanend,notanend in itself.Whileoften
+consideredto be no more than.a technical solutiondesignedto increasethereliabilityand
+securityofagovenment'saccounting,financial reportingand internal control procedures,an
+FMiS also exerts substantial leveragebyfacilitatingtheintroduction of PublicFinancial
+Management(PFM)refoms inmanyotherareas,programbudgeting ormedium-term
+$10   Accounting   ICAB2026

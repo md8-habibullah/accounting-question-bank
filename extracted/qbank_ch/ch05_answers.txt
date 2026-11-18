@@ -1,0 +1,102 @@
+    Chapter 5: Preparing basic ﬁnancial
+    statements
+1   Correct answer(s):
+    B     Anchor Ltd has reported a proﬁt for the year of £4,000.
+    C     To begin to calculate the closing capital account balance, Anchor Ltd should credit the capital
+          account and debit the proﬁt and loss ledger account with £4,000.
+    Total credits exceed total debits, which means there is a credit balance in the account – this
+    represents a proﬁt for the period. The correct entry to transfer the proﬁt for the year to the capital
+    account is debit proﬁt and loss ledger account, credit capital account. This step is required in order
+    to start to calculate the closing balance on the capital account which is included in the statement of
+    ﬁnancial position. Option D is incorrect as the balance on the proﬁt and loss ledger account is
+    cleared to the capital account, it is not brought down to the next period. Option E is incorrect, the
+    closing balance on the proﬁt and loss ledger account is the proﬁt for the year.
+
+
+2   Correct answer(s):
+    C     Land
+    Land is a non-current asset as it will be expected to generate beneﬁts for the business over more
+    than one accounting period.
+
+
+3   Correct answer(s):
+    C     £3,422 credit
+    Sales exclude VAT and therefore VAT must be calculated as £89,436 × 20% = £17,887. Purchases
+    include VAT and therefore VAT must be calculated as £86,790 × 20/120 = £14,465. The net amount is
+    £3,422 credit as this is the amount owed to HMRC.
+
+
+4   Correct answer(s):
+    D     Loss for the year is a credit entry in the statement of proﬁt or loss ledger account.
+    A loss decreases capital and is therefore debited to the capital account in the statement of ﬁnancial
+    position. The other side of the entry is to credit it to the statement of proﬁt or loss ledger account.
+
+
+5   Correct answer(s):
+    B     £3,900
+                                              TRADE RECEIVABLES
+
+                                                       £                                                     £
+        Opening balance                           2,700     Cash received                              15,300
+        Credit sales                             16,500     Closing balance (β)                         3,900
+                                                 19,200                                                19,200
+
+
+
+6   Correct answer(s):
+    A     Bank overdraft
+    Drawings decrease capital so they are a debit (B); purchases and delivery outwards are expenses so
+    they too are debits (C) and (D). A bank overdraft is a liability so it is a credit (A).
+
+
+
+
+    ICAEW 2024                                                      5: Preparing basic ﬁnancial statements   173
+7   Correct answer(s):
+    C     £31,400
+
+                                                                                                     £
+     Revenue                                                                                89,400
+     Purchases (69,600 × 100/120)                                                          (58,000)
+     Gross proﬁt                                                                            31,400       (C)
+
+    Option A incorrectly uses the purchases ﬁgure without deducting VAT. Option B incorrectly deducts
+    VAT from the sales ﬁgure and does not deduct VAT from purchases. Option D uses the correct VAT
+    exclusive purchases ﬁgure, but incorrectly deducts VAT from the sales ﬁgure.
+
+
+8   Correct answer(s):
+    A     £4,350
+                                             TRADE PAYABLES
+
+                                                    £                                                    £
+        Cash at bank account                   4,200    Opening balance                              3,450
+        Closing balance (β)                    4,350    Purchases                                    5,100
+                                               8,550                                                 8,550
+
+    Option B uses sales to credit customers and receipts from credit customers. Option C includes the
+    cash purchases of £400 and option D debits purchases and credits payments made.
+
+
+9   Correct answer(s):
+    C     £62,000
+    £98,000 – £36,000 = £62,000 (the capital account is the balancing ﬁgure for the trial balance)
+
+                                                                               Debit         Credit
+                                                                                   £                 £
+    Non-current assets                                                        85,000
+    Trade receivables                                                          7,000
+    Trade payables                                                                           3,000
+    Bank loan                                                                               15,000
+    Accumulated depreciation, non-current assets                                            15,000
+    Inventory                                                                  4,000
+    Accruals                                                                                 1,000
+    Prepayments                                                                2,000
+    Bank overdraft                                                                           2,000
+    Capital (balancing ﬁgure)                                                 –––––         62,000       (β)
+                                                                              98,000        98,000
+
+
+
+
+    174     Accounting                                                                        ICAEW 2024

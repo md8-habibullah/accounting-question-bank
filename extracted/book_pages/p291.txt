@@ -1,0 +1,28 @@
+Prepayments(prepaidexpenses)
+Section overview
+CHAPTER
+Tosetupa prepayment
+DEBIT   Prepayment (currentassetinthe statementoffinancial position)   CUX
+CREDIT   Expense(statementofprofitorloss)   CUX
+Workedexample:Prepayments1
+A business opens on1 January 20X4.It pays a fee for its adverts to be a promoted post on
+searchengines ata costofCU20,000 peryear,payablequarterly in advance at.thebeginning
+ofeachthreemonthperiod.Payments.weremadeasfollows:
+1January20X4   5,000
+31March20X4   5,000
+30June20x4   5,000
+30September20X4   5,000
+31December20X4   5,000
+Requirement
+What is the advertising expense forthe year ended 31December 20X4?
+Solution
+Thetotal amountpaid in the yearisCU25,000.Theyearly rental,however,isonlyCU20,000.
+The last payment is a prepayment as it is a payrment in advanceforthefirst three monthsof
+20X5.Thechargefor20X4istherefore:
+Paid in year   25,000
+Prepayment   (5,000)
+20,000
+Thedouble entryforthis prepayment is:
+Prepayments (current asset)   CU5,000
+CREDIT   Advertising   CU5,000
+ICAB2026   Accrualsandprepayments   281

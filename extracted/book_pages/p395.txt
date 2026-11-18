@@ -1,0 +1,46 @@
+Definition
+Revenue:Income arising in the courseofan entity'sordinaryactivities(IFRS15:Appendix A).
+which includes:
+sales
+turnover
+royalties
+Revenue includes both credit and cash sales,net oftrade and early settlement discounts,
+refundsand VAT.
+Notes
+1 Note that gains,suchas the profit made onthedisposal oftangiblenon-currentasset (see
+Chapter1),arenotincluded inthedefinitionofrevenue.Theprofit on disposaloftangible
+non-cutrentassetsmayinsteadformpartofotherincomewhichis presentedaftergross
+profit,orbe nettedoffagainst therelevantexpense category whenpreparing the statement
+ofprofitorloss.The longformquestion intheAccountingexam will indicate where such
+profitsondisposal shouldbepresented.
+2Interestreceived,forexampleonbankbalances,anddividendsreceivedfrom investments
+arebothforms of incomebutare notpresented inrevenue.Theyare presentedas finance
+income (sometimesreferredtoasinvestmentincome')inthestatementofprofitorloss.
+9.1   IFRS15,RevenuefromContractswithCustomers
+IFRS15prescribes theaccountingtreatmentofrevenue.Generallyrevenue Is recognised
+whentheentityhastransferredpromisedgoodsorservicestothecustomer (iFRS15:para.2)
+IFRS15sets outthe followingprocesstodetermining therecognition of revenue.
+Identifythecontractwiththecustomer
+This is required in order to understand what has been agreed between the entity and the
+customer.In Accounting,thiswill bea simple saleofgoodsorprovision.ofservices,
+HARTER
+Identifythe separate performanceobligations
+Acontract includespromisestoprovidegoodsorservicestoa customer.Thosepromisesare
+calledperformanceobligations.We.will alwaysassumethatperformanceobligations are
+distinctand thatthe contract is forthedelivery of one specified good orservice.You can
+assume that performance obligations are satisfied when goods are delivered to a customeror
+aservicelsprovidedtoacustomer.
+Determinethetransactionprice
+Thetransaction price is the amount ofconsiderationa company expects to be entitledto
+receivefromthecustomerinexchangefortransferringthepromisedgoodorservice,
+Consideration is normally cash ora promise from the customerto settle in cash ata laterdate
+ina.credittransaction.
+Allocatethetransaction pricetotheperformanceobligations
+Ifa contract contains morethan oneperformance obligation,thetransaction pricemustbe
+allocatedtoeach performanceobligation.ForAccounting we will always assume a single
+performance obligation with the whole transaction price allocated to that single performance
+obligation,soyouwill notneedtoallocatethetransactionprice.
+Recogniserevenuewhen (oras)a performance obligationis satisfied
+The entity satisfiesa performanceobligation bytransferring control ofa promised good or
+servicetothe customer.Aperformance obligation can besatisfied atapointintime,suchas
+ICAB 2026   Companyfinancial statements   385

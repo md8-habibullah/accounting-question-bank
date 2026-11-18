@@ -1,0 +1,33 @@
+Anyveprovisonfromthepreiouportingerodreducethaxenfothe
+subsequent reporting period.
+Anyunderprovisionfromthepreviousreportingperiod increasesthetaxexpenseforthe
+subsequentreporting period.
+Context example:Tax2
+Intheyearto31December20x2,Hardworkplchasacreditbalancebroughtdownon its tax
+CU87,000,whichitpaysinFebruary20x2(2).ltsover-provisionfor20X1isthereforeCU3,000
+(3).ltestimatesthatitstaxdueon20X2'sprofitsshouldbeCU100,000(4)
+Hardworkplc'snettaxexpenseinthestatementofprofitorlossfortheyearto31December
+20x2wllbeCU100000(4)lesstheverprovisionofCU3000(1)inthprevioueporting
+period,ie,Cu97.000.tstatementoffinancialpositioncurrent liability isCU100,000 (5).The
+ledgeraccountisasfollows:
+TAXPAYABLEACCOUNT
+CU
+20X2   20X2
+Cash (2)   87.000   Balanceb/d(1)   90,000
+Statementofprofitorloss:   Statementofprofitorloss:
+over-provision20x1(3)   3,000   chargefor20x2 (4)   100,000
+Balancedd(5)   100,000
+190,000   190,000
+20X3
+Balanceb/d:Tax payable   100.000
+Note:AnybalanceowedtotheCormmissionerof Taxes inrespectofVATorTDS(Tax
+Deductedat Source)is disclosed as otherpayables,notastax payable.
+Revenue(IFRS15)
+Sectionoverview
+Revenue is income arising inthe ordinary course of an entity's activities.
+Revenueincludescreditandcashsales,netofdiscounts,refundsandVAT
+Revenue should berecognised whencontrol ofthe goods and services istransfered from
+thesuppliertothecustomer.
+IncomeisdefinedintheConceptualFrameworkas'increasesinassetsordecreases in
+holders ofequityclaims (ConceptualFramework:para.4.68).
+384   Accounting   ICAB2026

@@ -1,0 +1,37 @@
+Transaction   DR   CR   Description
+Prepayment   Asset(prepayment)   (Reduction in)   Expensepaid/recorded
+expense   in period,notincurred
+until next period   CHAPTER
+4.1   Reversing accruals and prepayments in newperiod
+Prepayments andaccrualsmustbe reversedbyan opening journal inthenew period,
+otherwisetheentitywillchargeitselftwiceforthesameexpense(accruals)orwillnever
+chargeitself(prepayments).
+Transaction   DR   CR   Description
+Reverseaccrual   Accrual (opening credit   Expense(new   Reversing accrual of
+balance   on   liability   period)   expense setupin
+account)   previous period
+Reverse   Expense(newperiod)   Prepayment   Reversing
+prepayment   (opening debit   prepaymentof
+balance on asset   expense setup in
+account)   previous period
+Once these opening journals are processed,thebalance on the accruals and prepayments
+accounts will bezero Theywill notbeusedagainuntil theend of thenewperiod.
+4.1.1   Reversing.accruals
+We shall use the electricityaccountfrom Interactivequestion 1above,plus a newaccrual
+ledgeraccount,and seehowtheaccrual isreversedatthebeginningofthenewperiod,then
+howanewaccrual issetupattheendofthenewperiod.
+ACCRUAL
+CU   CU
+20X2
+31DecBalancecld   327.68   327.68
+327.68   327.68
+20X3
+1JanElectricity(accrualreversed)   327.68   327.68
+ELECTRICITY
+CU
+20X2   20X2
+Statementof
+30Apr   Cash.atbank   279.47   31Dec   profit orloss   1,388.23
+31Jul   Cash at bank   663.80
+31Oct   Cash at bank   117.28
+ICAB2026   Accrualsandprepayments   283

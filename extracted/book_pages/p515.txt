@@ -1,0 +1,48 @@
+General Ledger
+Debit(BDT)   Credit(BDT)
+General Fund
+2a.Expenditures-CapitalOutlay   3,000,000
+Cash   3,000,000
+GovemmentalActivities,Govenment-wide
+2b.Equipment   3,000,000
+Cash   3,000,000
+Entry2ashowsthat long-livedassets,firetrucks in thisexample,arenotaccountedforinthe
+GeneralFundbecausegovernmental fundsareusedonlytoaccountforthe infiows and
+outlows (ie., expenditures)of currentfinancial resources usedtoprovideservices orpurchase
+equipment and supplies that have been approved in the budget. In the Governmental
+Activities column ofthe government-wide statementof net assets, the long-term effects of
+transactionsmustbereported,including general capital assets suchas firetrucksthatwill
+provide service benefits inthefuture.Entry 2b accomplishes this objective by recording the
+purchase of the fire trucks in the same mannerthata business entity would account for the
+purchase.
+Fundaccounting practicein Bangladesh
+Sections B0 to92of the Constitution of the People's Republicof Bangladesh have narrated the
+accountingpracticesforthegovemment.As perthe Constitution,theBangladeshgovemment
+hasto maintaintwofundstegarding thefund accounting:1)theConsolidated Fund and 2)the
+PublicAccountsoftheRepublic.
+As perthe Constitution,intheGovernmentof Bangladesh,two importantannual financial
+reports areprepared:FinanceAccounts andAppropriation Accounts.
+Finance Accounts are theannual financial statements of the government.Finance Accounts
+show the total receipts and disbursements (payments)of the governmentduring a financial   UHAPTER
+year.In contrast,AppropriationAccountsfocusongovernmentexpenditure comparedwith
+the approved budget
+It shouldbe noted thatthe Constitutional requirements andtherequirements of iPSAS are
+differentforaccounting practices.While the ongoing reforms focus on the cashbasis IPSAs,
+questions arise regarding the constitutional requirements.Therefore,the President ofthe
+countryissuedanorderin2021(Memono:07.00.0000.082.35.001.21-439)topreparethe
+financial statementofthegovernmentas pertherequirements ofreformedaccounting   15
+systems (IPSAS)alongwiththeconstitutionalrequirements.
+3.5   PublicSectorAccountingStandard
+Public Sector accounting standards have been developed nationally and internationally.In
+USA,GovernmentAccountingStandardBoard(GASB)is developingGenerallyAccepted
+AccountingPrinciplesforthe stateand local governments,Internationally,Intemational Public
+SectorAccounting StandardBoard (IPSASB)isdevelopingstandards.
+IPSASBinitiatedtheirproject'InternationalPublicSectorAccountingStandard(IPSASyinlate
+1996.IPSASBisaspecializedorganizationthatestablishedinMay.1986asanindependent
+standard settingbody under thebacking of IFAC The objective of IPSASB isto develophigh
+quality accounting standards forthe use by the public sector entities around the world in the
+preparation ofgeneral purpose financial statements and tofacilitate the convergence of
+internal and national standards to ensure uniform financial reportthroughoutthe world (lFAC,
+2009).The standards of IPSASB arereviewedbyagroup,namely,Financial StabilityBoard
+(FSB),IOSCO,and INTOSAl.Thereviewgroup ischairedbyrepresentatives ofthe
+ICAB2026   Introductionto PublicFinancial Management

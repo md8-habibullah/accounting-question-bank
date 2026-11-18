@@ -1,0 +1,37 @@
+6 Correctanswer(s):
+ACU4,100
+CU
+Profit before rrecoverabledebts (balancing figure)
+4,100
+AddDecrease inallowance
+600
+AddIrrecoverablerecovered   300
+Profitafterirrecoverabledebts   5,000
+Correctanswers):
+CChargeofCU2,500
+ALLOWANCEFORRECENABLES
+CU   CU
+b/d   5,000
+c/d(10%×70,000)   7,000   Irrecoverabledebts   2,000
+expense
+7,000   7,000
+IRRECOVERABLEDEBTSEXPENSE
+CU   CU
+bid   500   Statementof profitor   2,500
+loss
+Allowanceforreceivables   2,000
+2,500   2,500
+Alternative working:
+Impactonprofitorloss(expense)/income
+CU
+IrrecoverabledebtexpenseperTB   (500)
+Increaseinallowanceforreceivables((10%×70,000)-5,000)   (2,000)
+Totalexpenseinprofitorloss (ie,acharge)   (2,500)
+8Correctanswer(s):
+CCU2,500   CHAPTER
+IRRECOVERABLEDEBTSEXPENSE
+CU   CU
+Allowanceforreceivables   500   Statementof profitor loss   2,500
+Receivables   2,000
+2,500   2.500
+CAB2026   Irrecoverabledebts and theallowanceforreceivables   271

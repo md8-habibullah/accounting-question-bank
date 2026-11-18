@@ -1,0 +1,15 @@
+Summary
+Accrualsprinciple
+Matchexpenseswithincome
+Accruedexpense at end ofprevious period   Prepaid expenseat end of previous poriod
+DR Expense (statementof profitorloss)   DR   Prepayment(asset in statementof
+CR Accrual (liabifity in statementof   financial position)
+financialposition)   CR   Expense(statementafprofitorloss)
+Reverseentries fnnewperiod
+Accruedincomeatendofyear
+DR Accrued income (asset instatementof   Deferred fncome at end of year
+financial position)   DR   Revenue or other income (statementof profit
+or(oss)
+CR Otherincome(statementofprofitorloss)   CR   Deferred fncome(liabilityIn statement of
+financialposition)
+296   Accounting   ICAB2026

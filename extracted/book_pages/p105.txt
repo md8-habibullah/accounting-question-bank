@@ -1,0 +1,40 @@
+3.2   Cashatbankaccount
+Intheaccountingsystem,thecash.atbankaccountisusedtorecord all recoipts andpayments
+made throughthebusiness bankaccount.We wilassumethat mostbusiness transactions take
+placethroughtheelectronictransferoffunds-eitherbypaymentcard,digital walletpayment,
+directbanktransfer,standingorderordirectdebit.Bank interestand charges made directlyby
+thebankarealsomade electronically.Thesetransactions will all beshown in thebank
+transaction reportandarerecorded in theaccountingrecords (inthecashatbankaccount)as
+described intheabovesection.
+Businessesmayalso handlephysical cash and cheques whichmustalsoberecorded inthe
+cash atbank account.Thetotalamounts of cashwithdrawn orpaid into thebank will be shown
+on thetransaction repon downloadedfrom the electronic banking system andare tikely tobe
+identified as unmatchedexceptionsbytheaccounting system.Once investigatedand
+identified,thesepayments ordeposits wilbeentered intothe accounting system,in the cash
+atbankaccount,as described above.
+3.3   Cheques
+Definition
+Cheques:A written order from an accountholderto their bank directing the bank to paya
+specifiedsumtoaparticularindividual ororganisation,
+Ifabusinessreceivesa chequefrom a customerit should record the amountreceived in the
+accounting system.The business will then take the physical document to the bank for
+processingor,iftheirontinebanking system allows,submitthechequeto itsbank
+electronicallybyscanningorsubmittinga photoofthe cheque.
+Oncethebankhasreceived the cheque,it'cashes thecheque and thefunds wouldshowas
+received into thebusiness bank account This process can take several days.
+Cheques are still used by some smaller businesses and individuals, but theyare becoming less   CIAPTER
+commonwiththeincreasinguseofonlinebanking.
+3.4   Pettycash
+Some cash,innotesandcoins,mightbekepton thebusinesspremises inordertomake
+occasionalpaymentsfor.odd itemsofexpense.This cashisusuallyaccountedforseparatelyiha
+petty cashbook. Petty cash is not considered furtheron this course.
+Thepayroll
+Section overview
+The payrollis the record ofemployee wagesand salaries and is thesourcedocument for
+expensesrelating to employees.
+The amountactually paidto employees is called net pay;this is less thangross pay since
+the employerpays over whatthe employee owes directly to IncomeTax Authority (for
+incometaxunder)andthepension plan (foranyemployeepensian contribution).
+Grosspayrollcostisoften.morethanemployeesgrosspaysince.theemployerhastopay
+additional employerpension contributionstothepensionplan.
+ICAB2026   Recordingfinancialtransactions   56

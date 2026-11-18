@@ -1,0 +1,36 @@
+4.4   Adjustment of profitsfor errors
+Correcting errors can affect either the statement of financial position orthe statement of profit
+orloss,orsometimes both.Anerrorofomission corrected bydebiting sales andcrediting
+tradereceivableswithCU9omeantthatsalesdecreased,sogrossprofit wasreducedbyCU90
+asa resultoftheerrorbeingcorrected.
+If errorsarediscoveredafterthefinaltrialbalanceanddraft statementofprofit or loss and
+statementoffinancialpositionhavebeenprepared,then corrections willalterthosedraft
+financialstatements.
+You may.need to demonstrate howdraft financial statements are affected by errorcorrections
+by calculating:
+howmuchgrossornetprofitis increasedorreducedas aresultoferrorcotrection;and
+.the final gross ornetprofit aftertheerrorcorrection.
+Professional skills focus:Applying judgement
+An accountantshouldapplyprofessionalscepticismiftheyfindanumberofadjustmentstothe   HAPTER
+financialstatenents thatimpactonprofitas itmay indicatethattheerrorsoromissions were
+intentional andthatthefinancial statementshavebeensubjecttomanipulation,perhapsto
+achievea certain revenueorprofittarget.
+Interactive question4:Errors
+Down&Cohasthefollowingerrorsandomissions in itsaccountingrecords:
+(1)AsaleofgoodsoncreditforCUi,ooohasnotbeen recorded.
+(2)Delivery costs ofCU240ona new item of planthas beenrecordedasrevenueexpenditure
+inthedistributioncostsaccount.
+(3)CashdiscountofCU150 hadbeentakenon payinga supplier,JW,even thoughthe
+payment.was made outside the time limit. JW is insisting that CU150 is still payable.
+(4)ArawmaterialspurchaseofCU350 (oncredit)hasbeenrecordedasCU850.
+Requirements
+4.1 Prepare journal entries to correct each of the above errors. Narratives are not required.
+4.2Beforethe errorswerecorrected,Down&Co'sgrossprofitwas calculatedatCU35,750
+andthenetprofitfortheyearatCU18,500.Calculatetherevisedgrossand netprofit
+figuresafter correctionofthe errors.
+SeeAnswerattheendofthis chapter.
+Adjusting the initial trial balance for errors
+Sectionoverview
+The initial trial balance can be adjustedforerrors (and periodend adjustments)that come
+to lightafterthe initialtrial balancehasbeenextracted.
+ICAB2026   Errors and correctionsto accounting recordsand financialstatements   189

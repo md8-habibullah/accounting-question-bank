@@ -1,0 +1,39 @@
+Ledgers
+Section overview
+an accounting system.
+Records shouldbekept inledgers in chronologicalorder,withcumulativetotalsbuilt up.
+Use of ledgers
+Abusiness continuallyenters intotransactionssuchasbuying and sellinggoods,payingcredit
+suppliers andcollecting cashfromcreditcustomers.Topreparefinancialstatements onthe
+completionof every individual transaction would beatime consumingand cumbersome
+administrativetask.
+Instead,businessesuseledgerstorecord and analysethetransactions undertaken.Whenthe
+time comesto prepare thefinancial statements,the relevant information canbeextracted
+easilyfromtheledgers.
+Ledger'isahistoricaltermwhichsimplymeansbook.Traditionally.inamanualsystemof
+accounting,thebusiness'stransactionswere recorded in threemain books-thenominal ledge,
+thereceivables ledgerand thepayablesledger,Thenominal ledgercontainedaseparate
+ledgeraccountforeachtypeofincome,expense,assetand liabilityandforcapital.The
+receivablesledgercontainedaseparateledgeraccountforeachcreditcustomerandthe
+payables ledgercontaineda separateledgeraccount for each credit supplier.We still use this
+terminologyinacomputerisedaccounting systembecausetheunderlyingbookkeeping
+principles are the same.We will refertothe nominal ledger,the receivables ledgerand the
+payablesledgerthroughoutthisWorkbook
+Thetransactions in ledgeraccounts shouldbe recorded:
+In chronologicalorderanddated so thattransactions canberelatedtoa particularperiod
+of time.
+Builtupincumulativetotals
+daybyday (eg,total saleson Monday,total saleson Tuesday)
+week byweek
+monthbymonth
+yearbyyear
+The nominal ledger
+Section overview
+Thenominal ledger is themain accounting record in which financialtransactionsare
+recorded.
+Thenominal ledgercontains several ledger accounts thatrepresenteach ofthe categories
+ofasset,liability.capital,incomeandexpenseofabusiness.
+A'T-account'is one wayofrecording which ledger accounts are affected bytransactions.
+In aT-account,thelefthand side isthedebitside,andtherighthand sideisthe credit
+side.
+108   Accounting   ICAB2026

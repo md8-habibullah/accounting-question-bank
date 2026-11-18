@@ -1,0 +1,34 @@
+CAPITALAND LIABILITIES
+Capital
+Atstartof period   2,000
+Profitforperiod   2,600
+Atendof period   4,600
+Current liabilities
+Bank overdraft   2,800
+Trade payables   700
+3,500
+Total capitaland liabifities   8,100
+TheclosingdebitbalanceontheinventoryaccountisC1,8o0,whichisshown inthe
+statementof financial position as a currentasset.
+We can nowtransfertheprofit from the statementof profit orlosstothe capital accountas
+shownbelow.Thisyears carried downcapital becomes nextyear'sbrought down capital.
+CAPITAL
+Balance cld   4,600   Inventory   2,000
+Statementofprofitorloss   2,600
+4,600   4,600
+Balanceb/d   4,600
+CHAPTER
+Interactivequestion4:Journalsfor inventory
+In its nominal ledgerWickhamplc hadabalanceon its inventoryaccountat1July20x2of
+CU23,490.Attheendofthereportingperiod,30 June20X3,it had inventoryofCU40,285.
+Requirement
+Preparethe journal entries to record thesituation as atthe end of the reporting period in the
+nominalledgerofWickhample.
+SeeAnswerattheendof this chapter.
+Adjusting the initial trial balance
+Sectionoverview
+The closing inventory is oftenaccountedforafterthe initial trial balance has been
+prepared.
+Ajoumal entry isrequired to adjustthe initial trialbalancetotransferopening inventories
+and purchasesto costof sales and record ciosing inventory.
+ICAB2026   Cost of sales and inventories   221

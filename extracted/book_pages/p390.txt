@@ -1,0 +1,35 @@
+Non-current liabilities
+Section overview
+NoncurrentliabilitiesyoumaybeexpectedtoaccountforintheAccounting syllabus
+includedebtsecurities(debentures,loanstockandbonds).plusbankloansand
+redeemablepreferenceshares.
+Interestonnon-currentfiabilitiesisacontractualobligationandmustbeaccruedinthe
+calculationofprofitbeforetax.
+Anyamountsthatarerepayableinlessthan12monthsmustbeclassifiedascurrent
+liabilitiesTheremainingbalanceistreatedasnon-currentliabilities:long-term
+borrowings.
+Acompanymayborrowdirectlyfromabankoritmayborrowinthefarmofdebtsecurities
+(loanstock,dbentureloansorbonds)Thesesecuritiesarenomallyissuedascertificates
+eachwithaparvalue,inreturnforcash(theloanprincipal).Thecerificate'sownerislegally
+entitledto interestonits parvalue,and isentitledtorepaymentoftheprincipalatmaturityie
+whenthe loanperiodreaches itsend ata specifiablefuturedate.This isknownasredemption.
+The companyhasa contractualobligationtopay interestondebtsecurities.Interestduefor
+the periodwill be included as afinance costwithinthestatementofprofitorloss and any
+unpaid interestatthe yearendmustbe included inthe statementof financial positionwithin
+accruals andotherpayables.Debtsecurities are similar in conceptto anyothertypeof loan.
+Unless theyaredueto reachmaturitywithin12months,theyare included innon-current
+liabilities inthe statementoffinancial position.Anyamountdueforredemptionwithin12
+months is shownundercurrentliabilities.
+6.1   Accountingfornon-current liabilities
+Onissueofdebt:
+DEBIT   Cash   CUX
+CREDIT   Non-current liabilities   CUX
+Onrepaymentofdebt:
+DEBIT   Non-current liabilities   CUX
+CREDIT   Cash   CUX
+Remember that:
+Anyredeemablepreference shares in issuewillalsobetreatedas liabilities (eithercurrent
+ornon-current)ratherthanequity.
+Anydebtthat is dueforrepayment in lessthan12.months afterthestatementoffinancial
+positiondateis reclassifiedfrom rion-currentto current liabilities.
+380   Accounting   ICAB2026

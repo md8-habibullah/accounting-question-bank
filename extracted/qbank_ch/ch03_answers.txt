@@ -1,0 +1,96 @@
+    Chapter 3: Recording ﬁnancial transactions
+1   Correct answer(s):
+    C   £16,280
+    The PAYE and employees’ NI would have been deducted from gross salary before paying net wages
+    to the employees. We must therefore add these back to net wages to calculate gross wages:
+    £12,450 + 2,480 + 1,350 = £16,280.
+
+
+2   Correct answer(s):
+    B   Credit note
+    A credit note is a source document that requires recording in the cloud-based accounting software.
+    The others are all documents used by businesses but are not source documents.
+
+
+3   Correct answer(s):
+    B   The exact amount of petty cash expenditure is reimbursed at intervals to maintain a ﬁxed ﬂoat.
+    The imprest system of petty cash requires that the exact amount of petty cash expenditure is
+    reimbursed at intervals to maintain a ﬁxed ﬂoat. A business will decide to hold, for example, £200 of
+    petty cash, which will be used for incidental expenses and will regularly have to top the petty cash in
+    hand back up to that level to maintain the petty cash balance.
+
+
+4   Correct answer(s):
+    B   £46
+    Total expenses paid out of petty cash total £50 and receipts total £4. The net expenditure is therefore
+    £46. This amount should be withdrawn from the bank account and added to petty cash to maintain
+    the imprest amount of £100.
+
+
+5   Correct answer(s):
+    D   £80,500
+    The wages and salaries expense is the employees’ gross salary (which is calculated by adding PAYE
+    and employees’ NI back to the cash paid to employees) plus the employer’s NI = £(50,000 + 17,000
+    + 6,000) + 7,500 = £80,500.
+
+
+6   Correct answer(s):
+    B   Purchase order
+    D   Goods received note
+    An invoice should be agreed to a purchase order and goods received note before it is entered into
+    the accounting software.
+
+
+7   Correct answer(s):
+    C   Credit note
+    A credit note is issued by a supplier when a customer returns goods to them (C). Invoices (A) are
+    issued when goods are originally sold, on the basis of a delivery note (D) which shows what exactly
+    has been sold. A remittance advice (B) is sent in by the customer to the supplier with payment.
+
+
+
+
+    ICAEW 2024                                                        3: Recording ﬁnancial transactions   169
+8   Correct answer(s):
+    A     the purchase of a new laptop for £412
+    The cash payment represents expenditure. The purchase of a laptop is not a regular transaction, and
+    it is therefore likely that this wouldn’t be automatically matched by the accounting system. The
+    payment of a regular supplier for the exact amount of the invoice (B) and the payment of wages
+    matching the payroll (D) are highly likely to have been matched by the accounting system. Option C
+    is a receipt, not a payment.
+
+
+9   Correct answer(s):
+    D     £86,840
+    The net pay to employees is after deducting income tax and employees’ national insurance from
+    gross pay. Employer’s national insurance is an expense of the business and does not impact on the
+    net amount paid to employees.
+    £112,450 – 15,800 – 9,810 = £86,840
+
+
+10 Correct answer(s):
+    A     A petty cash voucher for £10 is missing.
+    There is £10 less in the petty cash box than would be expected given vouchers of £136. This
+    suggests that a petty cash voucher for £10 is missing from the petty cash box.
+
+
+11 Correct answer(s):
+    B     £42,100
+    The wages cost to a business is the employees’ gross pay plus the employer’s national insurance.
+    £38,600 + 3,500 = £42,100
+
+
+12 Correct answer(s):
+    B     Invoice to a customer
+    D     Cheque payment to a supplier
+    The invoice to a customer and the cheque payment to a supplier are both source documents that
+    require information to be entered into a business’s accounting system. The purchase order and
+    goods received note act as supporting documentation when an invoice arrives from a supplier, but
+    do not themselves contain information that is recorded in the system. Similarly, the delivery note acts
+    as supporting documentation when preparing an invoice to a customer but is not separately
+    recorded.
+
+
+
+
+    170    Accounting                                                                          ICAEW 2024

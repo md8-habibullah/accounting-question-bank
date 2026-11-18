@@ -1,0 +1,88 @@
+    Chapter 14: Company ﬁnancial statements
+    under UK GAAP
+1   In the UK which of the following are responsible for the preparation of company annual ﬁnancial
+    statements?
+    A   The shareholders
+    B   The board of directors
+    C   The auditors
+    D   The members
+                                                                                                        LO 1a
+
+
+2   Indicate whether the following statements are true or false.
+    Requirements
+    Creditors falling due after more than one year are equivalent to current liabilities.
+    A   True
+    B   False
+    Non-current assets are equivalent to ﬁxed assets.
+    C   True
+    D   False
+                                                                                                        LO 3c
+
+
+3   Teacup Ltd uses the ﬁrst-in, ﬁrst-out (FIFO) method to value its stocks of ﬁnished goods. At 1 January
+    there were stocks of 25 units that had cost £54 each. During January the following transactions
+    occurred:
+
+     8 January                       10 units were sold for £62 each
+
+     15 January                      10 units were purchased for £55 each
+
+     22 January                      10 units were sold for £62 each
+
+    Requirement
+    What was the value of Teacup Ltd’s closing stock at 31 January?
+    A   £815
+    B   £810
+    C   £825
+    D   £820
+                                                                                                        LO 1d
+
+
+
+
+4   Diamond Ltd issues 250,000 equity shares with a nominal value of £2 each at a price of £3.55 each
+    for cash.
+    Requirement
+    Which of the following sets of entries would be made to record this transaction?
+    A   Credit Bank £887,500; Debit Share capital £500,000; Debit Share premium £387,500
+    B   Debit Bank £887,500; Credit Share capital £250,000; Credit Share premium £637,500
+
+
+
+    ICAEW 2024                                          14: Company ﬁnancial statements under UK GAAP     143
+    C     Debit Bank £887,500; Credit Share capital £500,000; Credit Share premium £387,500
+    D     Credit Bank £887,500; Debit Share capital £250,00; Debit Share premium £637,500
+                                                                                         LO 1d, 1e, 2d
+
+
+5   The following balances have been extracted from Saracen Ltd’s trial balance at 31 December 20X8:
+
+                                                                               Debit               Credit
+                                                                                   £                   £
+    Retained proﬁts at 1 January 20X8                                                         4,695,600
+    10% debentures issued in 20X5                                                             1,300,000
+    Debenture interest paid                                                  65,000
+
+    Operating proﬁt for the year ended 31 December 20X8 is £520,000. Corporation tax for the year has
+    been estimated at £156,000.
+    Requirement
+    What is the ﬁgure for retained proﬁts in Saracen Ltd’s balance sheet as at 31 December 20X8?
+    A     £4,929,600
+    B     £4,994,600
+    C     £5,059,600
+    D     £5,215,600
+                                                                                                LO 1d, 3c
+
+
+6   Which of the following transactions are not recorded in a company’s cash at bank account?
+    A     Bonus issue of shares
+    B     Sale of goods for cash to a customer
+    C     Receipt of loan from a bank
+    D     Purchase for cash of shares in another company
+                                                                                                LO 1c, 1d
+
+
+
+
+    144    Accounting                                                                       ICAEW 2024

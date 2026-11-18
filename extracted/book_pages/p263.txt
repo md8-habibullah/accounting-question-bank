@@ -1,0 +1,36 @@
+When an allowanceforreceivablesalreadyexists butis subsequentlyreduced,the
+amountof the decrease in allowance is credited to irrecoverable debts expense and
+debited totheallowanceforreceivables.
+Theallowanceforreceivables isnotpresentedasa separateaccount in the statementof
+financialposition,Instead,itisnetoffagainsttradereceivables.
+Contextexample:Allowanceforreceivables1
+Abusinesscommencesoperationson1July20X4,and inthetwelvemonthsto30June20x5
+makescreditsalesofCU300,000andwritesoff irrecoverabledebtsofCU6,000.Cash
+received fromcredit customersduringthe reportingperiod isCU244,000.
+CU
+Credit salesduringthe reporting period   300,000
+Addreceivablesat1July20X4
+Total debts owedto the business   300,000
+CU
+Less cashreceived fromcreditcustomers   (244,000)
+56.000
+Less irrecoverabledebts writtenoff   (6.000)
+Tradereceivables outstanding at 30June 20x5   50.000
+Oftheseoutstandingtradereceivables,anallowanceaf10%isrequiredtoreflectthe riskof
+non-paymentofdebts.
+Thebusiness accounts for its irrecoverable debts and allowanceforreceivablesas follows:
+CU   CU
+DEBIT   Irrecoverabledebts expense (CU6,000   11,000
++CU5,000)
+CREDIT   Allowanceforreceivables   5,000
+Tradereceivables   6,000
+In thestatementoffinancial position,thevalue oftradereceivables (afterthedebt write-off,
+CU50,000)mustbeshownwiththeallowanceforreceivables nettedoff.
+Total recelvables at 30 June20X5   50,000
+CHAPTER
+Less,allowanceforreceivables   (5.000)
+Carryingamountinthestatementoffinancial position   45,000
+Worked example:Allowanceforreceivables2
+Corin Driver owns and runs the Aerobic HealthFoods Shop which commenced trading on1
+January2x1ellinghealthfoodocustomrsmostfwhommakeuseofacreditfacility
+ICAB2026   Irrecoverabledebts andtheallowanceforreceivables   253

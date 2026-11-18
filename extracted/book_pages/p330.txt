@@ -1,0 +1,28 @@
+Professional skillsfocus:Applyingjudgement
+Decidingwhichmethodofdepreciationtouseisanareainwhichtheaccountantmustapply
+judgementThemethodused willdeterminethepatternofdepreciationchargedoverthe
+asset's useful lifeandthereforeaffects profits and the carrying amountofthe asseteach year.
+3.2   Thestraight linemethodofdepreciation
+Definition
+Straight linedepreciation:The depreciable amount(cost less residual value)is charged in
+equal instalmentstoeachreportingperiodovertheuseful lifeoftheasset.(inthisway,the
+carying amountofthenon-currentassetdeclines ata steadyrate,or ina'straight line'over
+time.)
+The annual depreciation charge is:
+Costofasset-residualvalue
+Useful life of the asset in years
+Themonthlydepreciation.charge is:
+Cost ofasset-residual value
+Useful life in years×12
+Note: Since straight line depreciation is charged monthlyyou should make the second,
+monthly,calculationinanexam.
+Contextexample:Straightlinemethod
+(a)Anon-currentassetcosting CU24,000 withauseful lifeof 10 yearsandnoresidual value
+would be depreciated atthe rateof:
+CU24,000
+CU200permonth,orCU2400perannum.
+10×12
+(b)Anon-currentassetcosting CU60,o0ohasa useful life ofiveyears andaresidualvalueof
+CU6,o00.Themonthlydepreciation chargeusingthe straight linemethod is:
+5×12
+320   Accounting   ICAB2026

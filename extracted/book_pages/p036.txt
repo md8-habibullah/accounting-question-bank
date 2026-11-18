@@ -1,0 +1,44 @@
+7.5   Materialityandaggregation(IAS1andthe ConceptualFramework)
+Definition
+Material:Information ismaterialifomtting,misstatingorobscuring itcould,individuallyr   CHAPTER
+collectively,reasonablybeexpectedtoinfiuencetheeconomicdecisionsofuserstakenonthe
+basis of the financial statements.Materiality depends on the size and nature of the omission or
+misstatement judged in the surrounding circumstances.The size orthe nature ofan item,ora
+combinationofboth,couldbethedeterminingfactor.(iAS1:para.7)
+Eachmaterial class of similar items shall be presented separatelyin thefinancial statements.
+Items ofa dissimilar natureorfunction shall bepresentedseparatelyunless theyare
+immaterial.
+Aspecificdisclosurerequirement inan IFRSAccounting Standardneednotbesatisfied if the
+informationisimmaterial.
+The Conceptual Framework linksmaterialityparticularly to the qualitative characteristic of
+relevance.
+Financial statements result from processing large numbers oftransactions or otherevents that
+are then aggregated into classes according to theirnature orfunction, such as revenue.
+'purchases,"trade receivables and'tradepayables.Thefinalstage in the process of
+aggregation and classification is the presentation of condensed and classified items on the
+faceofthestatementoffinancial positionorstatementof profitorloss.Ifan item isnot
+individuallymaterial it isaggregated with other items onthe face offinancial statements,
+though itmaybe separately dlassified in the notes.
+Thereis no absolute measure ofmateriality.lnrelation tomaterialityby size it is common to
+applya convenientrule of thumb (forexamplematerial items arethose withavaluegreater
+than5%ofnetprofits).However,some items are regarded as particularlysensitiveand
+therefore as being material by nature.Even a very small misstatement of such an item is taken
+as a material error an example is the amount of remuneration paid to directors ofa company.
+7.6   Offsetting (IAS1)
+Assetsand liabilities,and income and expenditure mustbe presonted separatelyinthe
+financial statements.lAs 1does notallowthese itemstobe offsetagainsteach otherunless
+suchatreatment is required or permitted by anotherIFRS Accounting Standard.
+Income and expenses can be offsetonlywhen:
+an IFRSAccountingStandardrequiresorpermitsit, or
+gains, losses and related expenses arisingfrornthe same/similartransactions arenot
+material (in aggregate).
+7.7   Thebusinessentityconcept
+This conicepthas alreadybeen discussed in the context ofthe separateentity principle:that
+accountants regarda business as a separate entity.distinct from its owners ormanagers.The
+conceptapplies whetherthebusiness isa limited liability company(and so recognised in law
+asa separateentity).ora sole trader (inwhich casethebusiness isnotlegallyrecognised as
+separatefromitsowners),
+7.8   Thehistorical costconvention
+Abasic principle ofaccounting is thatthemonetaryamount:atwhich items are oftenmeasured
+infinancial statements is at historicalcost,ie,attheamount whichthebusiness paidto acquire
+ICAB2026   Introductionto accounting

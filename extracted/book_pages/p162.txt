@@ -1,0 +1,41 @@
+Balancingoffledgeraccounts
+Sectionoverview
+Atthe end ofareportingperiad,onceall adjustments havebeen posted,the accounts in
+thenominalledgerarebalancedoff.
+Thebalances on asset,liability and capital accounts are carried down at the end of the
+current accounting periodand broughtdown to the startof thefollowing accounting
+period.
+The balances on the incomeand expenseaccounts aretaken to the statementof profitor
+loss andarenotcarrieddown tothefollowingaccountingperiod.
+Inacomputerisedaccountingsystem,the ledgeraccountscanbebalancedoffautomaticaly
+andastatementof profit or loss and statement offinancial position prepared at anydate
+The process is likely to be done automatically at the end of the yearbut may also be done
+at othertimes.
+At theendofa reporting period,when alladjustment journalshavebeen posted, each
+nominal ledgeraccountmustbebalancedoff.Althoughcomputerised accounting systems
+can automaticallybalance off theledgeraccounts,it is importantthat you understand the
+process,
+Forincome orexpense accounts,thebalance istransferred to thestatementof profitor loss,
+leavinganil balanceintheincomeorexpenseaccount.This iscovered insection3below.
+For asset, liability or capital accounts,thebalance on the account is carried down and
+broughtdown to give the opening balanceforthe nextaccounting period.This is covered
+in:section4below.
+ConsiderRyder's cashatbankaccountwhichwe completed in Interactivequestion3in
+Chapter 4:
+CASHATBANKACCOUNT
+CU   CU
+Capital   7,000   Rent   3,500
+Bankloan   1,000   Shop fittings   2,000
+Sales   10,000   Trade payables   5,000
+Tradereceivables   2.500   Bankloaninterest   100
+Otherexpenses   1900
+Drawings   1,500
+14,000
+Balancing figure (the amount
+ofcash leftoverafter
+paymentshavebeenmade)-
+6,500
+PP
+20,500   20,500
+Debit balanceb/d   6,500
+152   Accounting   ICAB2026

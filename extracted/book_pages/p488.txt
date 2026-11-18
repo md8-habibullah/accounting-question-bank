@@ -1,0 +1,28 @@
+1Soletraderfinancialstatements
+Sectionoverview
+Sole traderfinancial statements are similar interminologyand formatothoseofcompany
+financial statements preparedunderlocal GAAP,butthereareimportantdifferences.
+Taxisnotincludedinsoletraderaccounts.
+iThereare noformal requirements asto headings in the profit and loss account.
+The ownershipinteresthalf ofthebalance sheet showsopening capital pluscapital
+introduced,lessdrawings,plus profits,less lossesto arrive atthe closing netassetsfigure
+at the balance sheet date.There is no requirement fora sole traderto produce a statement
+of changes in equity.
+The approachto preparing sole traderfinancial statements andtheterminologyused inthem
+arevery similarto a profit and lass accountand balancesheetfora limitedcompany.Where
+theydifferis inrelationto:
+tax:abusiness operatedbyasoletraderhas nolegal identityseparatefrom its owner,so
+the liabilityto pay tax on profits isthe owner's and notthebusiness's,This meansthat there
+isnotaxexpensein.theprofitandlossaccount,andno.tax.creditorinthebalance sheet
+theformatofthe profitandloss account:there is no need to aggregate expenses under
+setheadinigs.
+the ownership interest half of the balance sheet: sole traders do not have share capital or
+reserves.Instead theyshowthefollowing (this should look similartothecapital partof the
+accountingequation):
+CU
+Openingcapital=netassets atstartofperiod
+Capital introducedinthe period
+Netprofit/netlossoftheperiod   (XIX
+Drawings (ofcash,orof stockatcost)
+Closing capitalnetassets atendofperiod
+478   Accounting   ICAB2026

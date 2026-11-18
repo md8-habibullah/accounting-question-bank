@@ -1,0 +1,33 @@
+value.
+Requlrement
+Calculatotherevised annualdepreciationcharge.SeeAnsweratthe.endofthis chapter.
+3.6   Reviewing and changinguseful lifeor residual value
+Theresidual valueand estimatedusefulifeofanon.currentassetshouldbereviewedand
+changed ifthey are no longer appropriate,
+Contextexample:Change inuseful life
+Abusinesspurchasedanon-current assetcosting CU12.000 withan estimatedusefuf lifeof
+fouryears andnoresidualvalue.f itusedthestralghtlinemethodofdepreciation,itwould
+makeanannualdepreciation chargeofCU12.000/4years=CU3.000.
+The business decides after.two years that theuseful lifeofthe asset hasbeen underestimated,
+and it still has fivemoreyears inuse to come,making its total useful lifeseven years.
+ForthfirstwoarstheaseisdprciatedbyU300anumothatitscarryin
+amountaftertwoyears isCU(12.000-6,000)-CU6,000.Iftheremaininguseful lifeofthe
+asset isnow.revisedtofivemore years,theremainingamounttobedepreciated (CU6,oo0)is
+spreadovertheremaininguselfulifegivinganannualdepreciationchargeforthefinalfive
+years of:
+Carrying amount at time of change   CU6,000
+CU1,200 per year
+Reviseduseful tife   5years
+Interactivequestion 4:Changein residual value
+AnassethadacostofCU1000,anestimatedusefulifeof10yearsandaresidualvalueof
+CU200.Athe startofYear3,areview shows its remaining useful life was unchanged butthe
+residual valuewas'reduced tonil.
+Requirement
+CalculatethedepreciationchargeforeachofYearsto3onthestraightlinebasisS
+Answer at the end of this chapter.
+Accountingfordepreciation
+Section overview
+Accountingfordepreciation:
+DEBIT   Depreciation.expense (statementofprofitorloss)   CUX
+CREDIT   Accumulateddepreciation (statementof financial position)   CUX
+324   Accounting   ICAB2026

@@ -1,0 +1,37 @@
+144,500
+LessProceeds   (54.800)
+Loss on sale   89.700
+6Correctanswer(s):
+DCU5,140CR
+CU
+Debitwithtrade-inallowance (togettototalcostofnewvehicleofCu9.600)   6.860DR
+Creditwithcostofoldvehicle (toremovecostofoldvehicle)   (12.000)CR
+Netadjustment   (5,140)CR
+7 Correctanswer(s):
+BCU72.500
+CU
+Cost1October20X5   117,000
+Depreciationto30September20x6   (23,400)   OIARFMR
+93.600
+Depreciationto30September20X7   (18,720)
+Carryingamountat30September20x7   74.880
+Recoverableamountat30September20x7   72.500
+10
+Revisedcaryingamount (loweroforiginal carrying amountand recoverable amount)
+at30September20X7   72.500
+8 Correct answer(s):
+BCU1,250
+Cost   10,000
+Depreciatian20x1(10%×10,000)   (1,000)
+9,000
+20X2(10%×10.000)   (1.000)
+Carrying amount at end 20x2   8.000
+Depreciation chargefor20X3   1,250
+9Correctanswer(s):
+CCU180000
+Machine1   Machine2   Total
+CU   CU
+Disposal proceeds   90,000   80.000
+Carrying amount   (60.000)   (120.000)   (180,000)
+Profit/(loss) on dispasal   30.000   (40.000)
+NCAB2026   Non-curtent assets,depreciation and impairment   359

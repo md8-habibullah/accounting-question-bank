@@ -1,0 +1,31 @@
+Bank error   (110)
+Balancepercashatbankaccount   226
+AnswertoInteractivequestion2
+Bankreconciliation
+CU   CU
+Balancepercashatbankaccount   (610)
+Itemsonstatement,not incashatbankaccount:
+Direct debits   (715)
+Investmentincome   353
+(362)
+Correctedbalancepercashatbankaccount   (972)
+Itemincashatbankaccountnotonstatement:
+Receiptwhichhasnotyetclearedthebank   (875)
+Balanceperbankstatement   (1,847)
+Answerto Interactivequestion3
+3.1
+Purchases   CU
+250
+CREDIT   Trade payables   CU250
+Atransactionpreviouslyomitted
+32
+Repairsaccount   CU150
+CREDIT   Non-current asset (machinery)account   CU150
+Thecorrectionofanerrorofprinciple:repairscostsincorrectlyaddedtonon-current
+assetcosts
+3.3
+DEBIT   Drawings   CU280
+CREDIT   Sales   CU280
+Anerrorfprinciple,inwhichsaleswerereducedtocompensateforcashdrawingsnot
+accountedfor
+198   Accounting   ICAB2026

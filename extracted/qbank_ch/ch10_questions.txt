@@ -1,0 +1,742 @@
+    Chapter 10: Non-current assets and
+    depreciation
+1   Cataract plc purchases a new energy-efﬁcient machine for which the supplier’s list price is £28,000.
+    Cataract plc pays £23,000 in cash and trades in an old machine, which has a carrying amount of
+    £8,000. It is the company’s policy to depreciate machines at the rate of 10% per annum on cost.
+    Requirement
+    What is the carrying amount of the machine after one year?
+    A   £18,000
+    B   £25,200
+    C   £20,700
+    D   £22,200
+                                                                                                         LO 1d
+
+
+2   Demolition plc purchases a machine for £15,000 on 1 January 20X1. After incurring transportation
+    costs of £1,300 and spending £2,500 on installing the machine it breaks down and costs £600 to
+    repair. Depreciation is charged at 10% per annum.
+    Requirement
+    At what carrying amount will the machine be presented in Demolition plc’s statement of ﬁnancial
+    position at 31 December 20X1?
+    A   £13,500
+    B   £14,670
+    C   £16,920
+    D   £18,800
+                                                                                                         LO 3c
+
+
+3   A company buys a machine on 31 August 20X0 for £22,000. It has a useful life of seven years and a
+    residual value of £1,000. On 30 June 20X4 the machine is sold for £9,000 cash which has been
+    recorded correctly in the cash at bank account, however the accounting system could not
+    automatically match the transaction and a suspense account was opened to record the other side of
+    the transaction. The company’s accounting policy is to charge depreciation monthly using the
+    straight-line method, with depreciation charged in the month of purchase but not the month of
+    disposal.
+    Requirement
+    What journal entry is required to correctly record the disposal of the machine and to remove the
+    suspense account?
+    A   Debit Suspense account £9,000, Debit Accumulated depreciation £11,500, Debit Loss on
+        disposal £1,500, Credit Machine cost £22,000
+    B   Debit Suspense account £9,000, Debit Accumulated depreciation £11,750, Debit Loss on
+        disposal £1,250, Credit Machine cost £22,000
+    C   Debit Machine cost £22,000, Credit Suspense account £9,000, Credit Accumulated depreciation
+        £11,500, Credit Proﬁt on disposal £1,500
+    D   Debit Machine cost £22,000, Credit Suspense account £9,000, Credit Accumulated depreciation
+        £11,750, Credit Proﬁt on disposal £1,250
+                                                                                             LO 1d
+
+
+
+
+    ICAEW 2024                                                 10: Non-current assets and depreciation      67
+4   Deek plc purchased an electric delivery van on 1 October 20X0 for a total cost of £22,000 by paying
+    £17,500 cash and trading in an old van. The old van had cost £20,000 and the related accumulated
+    depreciation was £14,200.
+    Requirement
+    The loss on disposal of the old van in Deek plc’s statement of proﬁt or loss for the year ended 31
+    December 20X0 is:
+    A    £1,300
+    B    £2,000
+    C    £2,500
+    D    £5,800
+                                                                                                         LO 3c
+
+
+5   Vernon plc purchased new equipment on 1 April 20X1 for £6,000. The scrap value of the new
+    equipment in ﬁve years’ time has been assessed as £300. Vernon plc charges depreciation monthly
+    on the straight-line basis.
+    Requirement
+    What is the journal entry to record the depreciation charge for the equipment in the year to 30
+    September 20X1?
+    A    Debit Depreciation expense £570, Credit Accumulated depreciation £570
+    B    Debit Accumulated depreciation £570, Credit Depreciation expense £570
+    C    Debit Depreciation expense £600, Credit Accumulated depreciation £600
+    D    Debit Accumulated depreciation £600, Credit Depreciation expense £600
+                                                                                                         LO 3c
+
+
+6   An electric car has a list price of £23,500 but the garage gives Ride plc a 10% trade discount. In
+    settlement the garage accepts payment of £18,000, together with an old company car.
+    Requirement
+    What is the amount to be capitalised by Ride plc in respect of the new car?
+    A    £16,200
+    B    £18,000
+    C    £21,150
+    D    £23,500
+                                                                                                         LO 1d
+
+
+7   A company purchased a car for £18,000 on 1 January 20X0. The car was traded in on 1 January 20X2
+    for a new hybrid car. The new hybrid car has a list price of £30,000 and the garage offered a part-
+    exchange allowance of £5,000. The company provides depreciation on cars using the reducing
+    balance method at a rate of 25% per annum.
+    Requirement
+    What is the amount of the loss on disposal that will be recognised in the statement of proﬁt or loss
+    for the year ended 31 December 20X2?
+    A    £5,125
+    B    £8,500
+    C    £10,125
+    D    £11,175
+                                                                                                         LO 3c
+
+
+
+
+    68    Accounting                                                                            ICAEW 2024
+8   What is the reasoning behind charging depreciation in historical cost accounting?
+    A   To ensure funds are available for the eventual replacement of the asset
+    B   To comply with the consistency concept
+    C   To ensure the asset is included in the statement of ﬁnancial position at the lower of cost and net
+        realisable value
+    D   To match the cost of the non-current asset with the revenue that the asset generates
+                                                                                                          LO 1d
+
+
+9   Which of the following is excluded from the initial cost of a tangible non-current asset?
+    A   Site preparation costs
+    B   Legal fees
+    C   Costs of a design error
+    D   Installation costs
+                                                                                                          LO 1d
+
+
+10 Which of the following statements about intangible assets in public company ﬁnancial statements are
+   correct?
+    (1) Internally generated goodwill should not be capitalised.
+    (2) Goodwill arising on acquisition of a business should be capitalised and subsequently amortised
+        through the statement of proﬁt or loss.
+    (3) Development expenditure must be capitalised if certain conditions are met.
+    A   1 and 3 only
+    B   1 and 2 only
+    C   2 and 3 only
+    D   1, 2 and 3
+                                                                                                   LO 1d, 3c
+
+
+11 Wove Ltd purchased a machine for £5,000 on 1 January 20X1, when it had a useful life of four years
+   and a residual value of £1,000. Straight-line depreciation is to be applied on a monthly basis. On
+   31 December 20X3, the machine was sold for £1,600.
+    Requirement
+    The amount of proﬁt or loss on disposal is:
+    A   proﬁt of £600
+    B   loss of £600
+    C   proﬁt of £350
+    D   loss of £400
+                                                                                                          LO 3c
+
+
+
+
+    ICAEW 2024                                                  10: Non-current assets and depreciation      69
+12 Prance plc purchased both a small ﬂeet of buses and a licence to allow it to operate those buses for a
+   six-year period from 1 January 20X1. The costs were as follows:
+
+                                                                                                        £
+        Cost                                                                                  1,000,000
+        Licence fee                                                                             150,000
+        Total                                                                                 1,150,000
+
+    The business prepares its ﬁnancial statements to 31 December each year. The buses were traded in
+    for replacement bio-fuel buses on 1 January 20X4 at an agreed value of £500,000. They have been
+    depreciated at 25% per annum on the reducing-balance method. The licence allows Prance plc to
+    change the type of buses that it operates.
+    Requirement
+    What is the proﬁt or loss on disposal of the buses for the year ended December 20X4?
+    A      £25,000 proﬁt
+    B      £78,125 proﬁt
+    C      £62,500 loss
+    D      £250,000 loss
+                                                                                                     LO 3c
+
+
+13 The asset register showed a total carrying amount of £67,460. A non-current asset costing £15,000
+   had been sold for £4,000, making a loss on disposal of £1,250.
+    Requirement
+    The balance on the asset register after accounting for the disposal is:
+    A      £42,710
+    B      £51,210
+    C      £53,710
+    D      £62,210
+                                                                                                     LO 2b
+
+
+14 On 1 January 20X5 a company purchased some plant. The invoice showed:
+
+                                                                                                        £
+        Cost of plant                                                                            48,000
+        Delivery to factory                                                                           400
+        One-year warranty covering breakdown during 20X5                                              800
+                                                                                                 49,200
+
+    Modiﬁcations to the factory costing £2,200 were necessary to enable the plant to be installed.
+    Requirement
+    What amount should be capitalised for the plant in the company’s accounting records?
+    A      £51,400
+    B      £48,000
+    C      £50,600
+
+
+
+
+    70         Accounting                                                                     ICAEW 2024
+    D     £48,400
+                                                                                                          LO 1d
+
+
+15 A company’s plant and machinery ledger account for the year ended 30 September 20X2 was as
+   follows:
+                                          PLANT AND MACHINERY
+
+                                                    £                                                       £
+                                                                        Disposal account –
+        1 Oct                                            1 Jun             cost of asset
+           20X1      Balance                 381,200        20X2           sold                     36,000
+        1 Dec        Cash – addition at                  30 Sep
+           20X1        cost                    18,000       20X2        Balance                    363,200
+
+                                             399,200                                               399,200
+
+    The company’s policy is to charge depreciation at 20% per year on the straight-line basis.
+    Requirement
+    What is the journal entry to record the depreciation charge in the statement of proﬁt or loss for the
+    year ended 30 September 20X2?
+    A     Debit Accumulated depreciation £84,040, Credit Depreciation expense £84,040
+    B     Debit Depreciation expense £84,040, Credit Accumulated depreciation £84,040
+    C     Debit Accumulated depreciation £76,840, Credit Depreciation expense £76,840
+    D     Debit Depreciation expense £76,840, Credit Accumulated depreciation £76,840
+                                                                                                   LO 1d, 3c
+
+
+16 The carrying amount of a company’s non-current assets was £200,000 at 1 August 20X0. During the
+   year ended 31 July 20X1, the company sold non-current assets for £25,000 on which it made a loss
+   of £5,000. The depreciation charge for the year was £20,000.
+    Requirement
+    The carrying amount of non-current assets at 31 July 20X1 is:
+    A     £150,000
+    B     £175,000
+    C     £180,000
+    D     £195,000
+                                                                                                          LO 3c
+
+
+
+
+17 A plant account is shown below:
+                                                    PLANT
+
+                                                    £                                                       £
+                     Balance (plant                                     Disposal account –
+                        purchased                        1 Oct             cost of plant
+        1 Jan 20X2      20X0)                380,000        20X2           sold                     30,000
+        1 Apr        Cash – plant                        31 Dec
+           20X2        purchased               51,000       20X2        Balance                    401,000
+
+                                             431,000                                               431,000
+
+
+
+    ICAEW 2024                                                  10: Non-current assets and depreciation      71
+    The company’s policy is to charge depreciation on plant monthly at 20% per year on the straight-line
+    basis.
+    Requirement
+    What should the company’s plant depreciation charge be in the statement of proﬁt or loss for the
+    year ended 31 December 20X2?
+    A     £82,150
+    B     £79,150
+    C     £77,050
+    D     £74,050
+                                                                                                   LO 1d, 3c
+
+
+18 A company’s policy for depreciation of its plant and machinery is to charge depreciation monthly at
+   20% per year on cost. The company’s plant and machinery account for the year ended 30 September
+   20X4 is shown below:
+                                           PLANT AND MACHINERY
+
+                                                     £                                                    £
+                    Balance (all plant
+        1 Oct          purchased after                    30 Jun
+           20X3        20X0)                  200,000        20X4        Disposal account           40,000
+                                                          30 Sep
+                                                             20X4        Balance                   210,000
+        1 Apr       Cash purchase of
+           20X4       plant                    50,000                                              ––––––
+
+                                              250,000                                              250,000
+
+    Requirement
+    What should be the depreciation charge in the statement of proﬁt or loss for plant and machinery
+    (excluding any proﬁt or loss on the disposal) for the year ended 30 September 20X4?
+    A     £43,000
+    B     £51,000
+    C     £42,000
+    D     £45,000
+                                                                                                   LO 1d, 3c
+
+
+19 Beta plc purchased plant and equipment on 1 July 20X1 for £40,000. The scrap value of the plant at
+   the end of its ten-year useful life is £4,000. Beta plc’s policy is to charge depreciation monthly on the
+   straight-line basis.
+    Requirement
+    The journal entry to record the depreciation charge on the plant in Beta’s statement of proﬁt or loss
+    for year ending 30 September 20X1 should be:
+    A     Debit Depreciation expense £900; Credit Accumulated depreciation £900
+    B     Debit Accumulated depreciation £900; Credit Depreciation expense £900
+    C     Debit Depreciation expense £1,000; Credit Accumulated depreciation £1,000
+    D     Debit Accumulated depreciation £1,000; Credit Depreciation expense £1,000
+                                                                                                   LO 1d, 3c
+
+
+
+
+    72     Accounting                                                                            ICAEW 2024
+20 Exe plc, which has a year end of 31 December, purchased a machine on 1 January 20X1 for £35,000.
+   It was depreciated at 40% per annum on the reducing balance basis. On 1 January 20X4 Exe plc
+   part-exchanged this machine for a more advanced model. It paid £30,000 and realised a proﬁt on
+   disposal of £2,440.
+    Requirement
+    The price of the new machine was:
+    A   £10,000
+    B   £34,680
+    C   £35,120
+    D   £40,000
+                                                                                                          LO 1d
+
+
+21 Automat plc purchases a machine for which the supplier’s list price is £18,000. Automat plc pays
+   £13,000 in cash and trades in an old machine which has a carrying amount of £8,000. It is the
+   company’s policy to depreciate such machinery monthly at the rate of 10% per annum on cost.
+    Requirement
+    The carrying amount of the new machine after one year is:
+    A   £16,200
+    B   £18,000
+    C   £18,900
+    D   £21,000
+                                                                                                   LO 1d, 3c
+
+
+22 Beehive plc bought a car on 1 January 20X7 for £10,000 and decided to depreciate it at 30% per
+   annum on a reducing balance basis. It was disposed of on 1 January 20X9 for £6,000.
+    Requirement
+    The net effect on the statement of proﬁt or loss for the year ended 31 December 20X9 is a credit of:
+    A   £1,100
+    B   £3,000
+    C   £4,000
+    D   £5,100
+                                                                                                   LO 1d, 3c
+
+
+23 Ben plc has a draft net proﬁt for the year ended 31 December 20X8 of £56,780 before accounting
+   for the depreciation on a new machine. Ben plc purchased the machine for £120,000 on 1 October
+   20X8. The useful life is four years with a residual value of £4,000. Ben plc uses the straight-line
+   method for depreciation and charges depreciation on a monthly basis.
+    Requirement
+    The net proﬁt after charging depreciation on the machine for the year ended 31 December 20X8 is:
+    A   £51,947
+    B   £49,530
+    C   £49,280
+    D   £27,780
+                                                                                                   LO 1d, 3c
+
+
+
+
+    ICAEW 2024                                                  10: Non-current assets and depreciation      73
+24 Sam plc’s statement of proﬁt or loss for the year ended 31 December 20X4 showed a proﬁt for the
+   year of £83,600. It was later found that £18,000 paid for the purchase of a van on 1 January 20X4 had
+   been debited to the motor expenses account. It is the company’s policy to depreciate vans at 25%
+   per year on the straight-line basis.
+    Requirement
+    What is the proﬁt for the year ended 31 December 20X4 after adjusting for this error?
+    A    £106,100
+    B    £70,100
+    C    £97,100
+    D    £101,600
+                                                                                                       LO 2a
+
+
+25 On 1 January 20X4 Joffa plc purchased a new machine at a cost of £96,720. Delivery costs were
+   £3,660 and internal administration costs of £9,450 were incurred. At that time Joffa plc planned to
+   replace the machine in ﬁve years, when it would have no value, and to depreciate the machine on a
+   straight-line basis.
+    Joffa plc decides on 1 January 20X6 that the machine only has one remaining year of useful life.
+    There is no change to the residual value at the end of its life.
+    Requirement
+    How much depreciation will be charged in respect of this machine in Joffa plc’s statement of proﬁt or
+    loss for the year ended 31 December 20X6?
+    A    £58,032
+    B    £60,228
+    C    £65,898
+    D    £33,460
+                                                                                                   LO 1d, 3c
+
+
+
+
+26 Stripes plc purchased new machinery on 1 August 20X4 for £38,000. The scrap value of the
+   machinery at the end of its six-year useful life has been assessed as £2,000. Stripes plc’s policy is to
+   calculate depreciation monthly on the straight-line basis.
+    Requirement
+    The depreciation charge in Stripes plc’s statement of proﬁt or loss for year ended 31 March 20X5
+    should be:
+    A    £4,000
+    B    £3,500
+    C    £6,000
+    D    £4,500
+                                                                                                   LO 1d, 3c
+
+
+27 On 1 June 20X3 Spam plc purchased some plant at a price of £43,000. It cost £1,500 to transport the
+   plant to Spam plc’s premises and set it up, plus £900 for a licence to operate it. The plant had a
+   useful life of eight years and a residual value of £3,500. On 1 June 20X5 the directors of Spam plc
+   decided to change the depreciation method to reducing balance, at 40%.
+    Requirement
+    What is the carrying amount of Spam plc’s plant in its statement of ﬁnancial position at 31 May 20X6?
+    A    £20,025
+
+
+
+    74     Accounting                                                                            ICAEW 2024
+    B   £20,280
+    C   £20,550
+    D   £20,955
+                                                                                                         LO 3c
+
+
+28 On 1 April 20X5 Herepath plc bought a Foxy car for £23,500. The company’s depreciation policy for
+   cars is 30% per annum using the reducing balance method. On 1 April 20X7 the Foxy was part
+   exchanged for a Vizgo car, which had a purchase price of £28,200. Herepath plc made a payment to
+   the seller for £19,350, in ﬁnal settlement.
+    Requirement
+    What was Herepath plc’s proﬁt or loss on the disposal of the Foxy?
+    A   £5,150 loss
+    B   £7,835 proﬁt
+    C   £2,665 loss
+    D   £6,250 loss
+                                                                                                         LO 1d
+
+
+
+
+29 Muncher plc includes proﬁts and losses on disposal of non-current assets in administrative expenses
+   in its statement of proﬁt or loss. Depreciation is charged on ﬁxtures and ﬁttings at 20% using the
+   reducing balance method. On 1 July 20X6 some ﬁxtures that cost £4,000 on 1 July 20X3 were sold
+   for £150.
+    Requirement
+    In the administrative expenses account Muncher plc must:
+    A   debit £1,450
+    B   credit £1,450
+    C   debit £1,898
+    D   credit £1,898
+                                                                                                         LO 1d
+
+
+30 Redruth plc began trading on 1 April 20X3. The carrying amount of plant and equipment in Redruth
+   plc’s ﬁnancial statements as at 31 March 20X5 was £399,960. The cost of these assets was £614,500.
+   On 31 March 20X6 an asset costing £11,500 was acquired. Depreciation is charged on plant and
+   equipment monthly at an annual rate of 25% straight-line. There are no residual values.
+    Requirement
+    The carrying amount of Redruth plc’s plant and equipment in its statement of ﬁnancial position at
+    31 March 20X6 is:
+    A   £254,960
+    B   £257,835
+    C   £299,970
+    D   £308,595
+                                                                                                         LO 3c
+
+
+31 Morse plc has the following note to its statement of ﬁnancial position relating to plant and machinery
+   as at 31 May.
+
+
+
+
+    ICAEW 2024                                                 10: Non-current assets and depreciation      75
+                                                                        20X7                         20X6
+                                                                            £                             £
+     Cost                                                            110,000                        92,000
+     Accumulated depreciation                                          72,000                       51,000
+     Carrying amount                                                   38,000                       41,000
+
+    During the year to 31 May 20X7, the following transactions occurred in relation to plant and
+    machinery:
+    Additions: £39,000; Loss on disposals: £2,000; Depreciation charge: £27,000
+    Requirement
+    What were the proceeds from disposals of plant and machinery received by Morse plc in the year to
+    31 May 20X7?
+    A    £7,000
+    B    £8,000
+    C    £13,000
+    D    £17,000
+                                                                                                   LO 1d, 3a
+
+
+32 Anaconda plc acquired a machine on 31 March 20X4, its year end, for £196,600. It made a bank
+   transfer to the seller totalling £110,000 and traded in an old machine with a carrying amount at that
+   date of £34,400. This machine had cost £60,000. A further sum of £42,000 was then due to the
+   supplier of the machine as the ﬁnal payment.
+    The entry made in the accounting records in respect of this transaction was to debit the suspense
+    account with £152,000, credit cash £110,000 and credit other payables £42,000.
+    Requirement
+    Which of the following journal entries is required to correctly reﬂect the purchase and disposal in
+    Anaconda plc’s accounting records?
+    A    Debit Machine – cost £196,600, Debit Machine – accumulated depreciation £34,400, Credit
+         Disposal £79,000, Credit – suspense £152,000
+    B    Debit Machine – cost £136,600, Debit Machine – accumulated depreciation £34,400, Credit
+         Disposal £19,000, Credit – suspense £152,000
+    C    Debit Machine – cost £196,600, Debit Machine – accumulated depreciation £25,600, Credit
+         Disposal £70,200, Credit – suspense £152,000
+    D    Debit Machine – cost £136,600, Debit Machine – accumulated depreciation £25,600, Credit
+         Disposal £10,200, Credit – suspense £152,000
+                                                                                            LO 2b, 2c
+
+
+33 Gilbert plc acquired a new truck on 1 July 20X4 for £99,900 including VAT at 20%. The company
+   applies straight-line depreciation to all vehicles at 20% per annum on a monthly basis.
+    Requirement
+    What is the carrying amount of Gilbert plc’s truck at 31 December 20X4?
+    A    £89,910
+    B    £83,250
+    C    £66,600
+    D    £74,925
+                                                                                                      LO 3c
+
+
+
+
+    76      Accounting                                                                         ICAEW 2024
+34 Crocker plc, a retailer, depreciates all vehicles on the straight-line basis monthly over ﬁve years. On
+   31 October 20X9 Crocker plc bought a car at a cost of £17,625 plus VAT, trading in an old car that
+   had cost £16,800 including VAT on 1 July 20X7. A payment of £13,500 was also made. VAT is at a
+   rate of 20%.
+    Requirement
+    In respect of this disposal in its statement of proﬁt or loss for the year ended 31 December 20X9,
+    Crocker plc will show a loss of:
+    A    £2,430
+    B    £4,835
+    C    £5,955
+    D    £1,310
+                                                                                                    LO 1d, 3c
+
+
+35 Plummet plc is preparing its statement of proﬁt or loss for the year ended 31 December 20X4. On
+   the initial trial balance at that date administrative expenses have a debit balance of £684,000 before
+   accounting for depreciation and proﬁts/losses on disposal in respect of the company’s computer
+   equipment. At 31 December 20X3 Plummet plc had computer equipment that cost £1,004,408, all of
+   which had been purchased on 1 January 20X2, and it had accumulated depreciation of £697,600. A
+   computer system costing £6,800 was sold on 1 January 20X4 for £1,800. Computer equipment is
+   depreciated monthly on a straight-line basis over four years.
+    Requirement
+    The amount to be disclosed as administrative expenses in Plummet plc’s statement of proﬁt or loss
+    for the year ended 31 December 20X4 is:
+    A    £933,402
+    B    £935,002
+    C    £936,702
+    D    £963,702
+                                                                                                    LO 1d, 3c
+
+
+36 Dukakis plc provides data analysis for medical research purposes. Dukakis plc has a server farm
+   which has a carrying amount at 1 April 20X2 of £150,000. On that date, it upgraded some of its
+   servers which had cost £24,000 on 1 April 20X0 for new, faster servers which cost £34,600. Dukakis
+   plc traded in the old servers, transferring £18,000 to the seller’s bank account in full settlement of the
+   purchase. Dukakis plc depreciates computers at 40% per annum on the reducing balance.
+    Requirement
+    What is the journal entry to record depreciation for the year ended 31 March 20X3 in respect of
+    computers?
+    A    Debit Accumulated depreciation £56,544, Credit Depreciation expense £56,544
+    B    Debit Accumulated depreciation £70,384, Credit Depreciation expense £70,384
+    C    Debit Depreciation expense £56,544, Credit Accumulated depreciation £56,544
+    D    Debit Depreciation expense £70,384, Credit Accumulated depreciation £70,384
+                                                                                                    LO 1d, 3c
+
+
+37 The carrying amount of machinery has reduced by £10,000 following the disposal of one item of
+   machinery.
+    Requirement
+    Which of the following statements relating to the disposal are correct?
+    A    Disposal proceeds were £15,000 and the proﬁt on disposal was £5,000
+
+
+
+    ICAEW 2024                                                   10: Non-current assets and depreciation     77
+    B    Disposal proceeds were £15,000 and the carrying amount of the machinery disposed of was
+         £5,000
+    C    Disposal proceeds were £15,000 and the loss on disposal was £5,000
+    D    Disposal proceeds were £5,000 and the carrying amount of the machinery disposed of was
+         £5,000
+                                                                                               LO 1d
+
+
+38 Yvette purchased a plant on 1 January 20X0 for £38,000. The payment for the plant was correctly
+   entered in the cash at bank account but was incorrectly entered on the debit side of the plant repairs
+   account.
+    Yvette charges depreciation monthly on the straight-line basis over ﬁve years and assumes no scrap
+    value at the end of the life of the asset.
+    Requirement
+    How will Yvette’s proﬁt for the year ended 31 March 20X0 be affected by the error?
+    A    Understated by £30,400
+    B    Understated by £36,100
+    C    Understated by £38,000
+    D    Overstated by £1,900
+                                                                                                   LO 2a
+
+
+39 Asha Ltd, a manufacturing company, receives an invoice on 29 February 20X2 for work done on one
+   of its machines. £25,500 of the cost is actually for a machine upgrade, which will improve efﬁciency.
+   The accounts department do not notice and charge the whole amount of the invoice to maintenance
+   costs. Machinery is depreciated at 25% per annum on a straight-line basis, with a proportional charge
+   in the years of acquisition and disposal.
+    Requirement
+    By what amount will Asha Ltd’s proﬁt for the year to 30 June 20X2 be understated?
+    A    £19,125
+    B    £25,500
+    C    £23,375
+    D    £21,250
+                                                                                                   LO 2a
+
+
+40 Whipper has a machine which cost £40,000 and has a carrying amount of £32,000 on 1 April 20X7. It
+   is being depreciated at 20% per annum on the reducing balance basis. On 31 March 20X8, Whipper
+   performed an impairment review and determined that the fair value less disposal costs of the
+   machine was £22,400 and the value in use was £21,000.
+    Requirement
+    What is the impairment loss in respect of the machine at 31 March 20X8?
+    A    £17,600
+    B    £1,600
+    C    £4,600
+    D    £3,200
+                                                                                                   LO 1d
+
+
+41 Dash has a property which cost £420,000 on 1 April 20X4. It is being depreciated on the straight-line
+   basis over 20 years to its residual value of £40,000. On 31 March 20X9, Dash carried out an
+
+
+
+    78    Accounting                                                                          ICAEW 2024
+    impairment review and has assessed that the property had a fair value less disposal costs of
+    £280,000 and a value in use of £300,000.
+    Requirement
+    What is the impairment loss in respect of the property at 31 March 20X9?
+    A   £15,000
+    B   £25,000
+    C   £45,000
+    D   £80,000
+                                                                                                           LO 1d
+
+
+42 The directors of Ellen Ltd are considering whether any impairment has arisen in respect of its plant
+   and machinery in the year ended 31 March 20X2.
+    Requirement
+    Which of the following are indicators that an impairment of plant and machinery may have occurred:
+    (1) There have been technological advances which means the plant and machinery is not as efﬁcient
+        as that currently available
+    (2) The market capitalisation of Ellen Ltd is above the value of its non-current assets
+    (3) The plant and machinery are being used to produce a new product which is generating more
+        sales than the previous product
+    A   1 only
+    B   1 and 2 only
+    C   2 and 3 only
+    D   1, 2 and 3
+                                                                                                           LO 1d
+
+
+43 Pattern Ltd is a website development company. It was established on 1 January 20X5 and incurred
+   costs relating to non-current assets in its ﬁrst year.
+    Requirement
+    Which of the following should be capitalised as an intangible asset in the year ended 31 December
+    20X5?
+    A   £22,000 relating to computer hardware for its developers
+    B   £5,000 relating to ofﬁce equipment
+    C   £12,000 on cables and servers
+    D   £9,000 for a licence to use specialist design software
+                                                                                                           LO 1d
+
+
+44 Manga Ltd purchased a licence on 1 July 20X2 to allow it to ﬁsh in protected waters. Manga Ltd paid
+   £180,000 for the licence and incurred legal fees of £2,000 to secure the licence. General
+   administrative costs of £3,800 were incurred by Manga Ltd during the process of securing the
+   licence. The licence allows Manga Ltd to ﬁsh for a period of six years however, the directors only
+   expect to ﬁsh in the waters for ﬁve years.
+    Requirement
+    What is the carrying amount of the licence at 30 June 20X3?
+    A   £151,667
+    B   £154,833
+    C   £145,600
+
+
+
+    ICAEW 2024                                                   10: Non-current assets and depreciation      79
+    D    £148,640
+                                                                                                         LO 1d
+
+
+45 Cyan Ltd has capitalised development costs which were initially measured at their cost of £200,000
+   on 1 June 20X3. The capitalised development costs were originally expected to generate beneﬁts for
+   Cyan Ltd over four years. On 1 June 20X5, the directors of Cyan Ltd assessed that the market was still
+   positive and expected the capitalised development costs to continue to generate beneﬁts for a
+   further four years from that date.
+    Requirement
+    What is the carrying amount of the capitalised development costs at 31 May 20X6?
+    A    £50,000
+    B    £75,000
+    C    £100,000
+    D    £112,500
+                                                                                                         LO 1d
+
+
+46 A company acquires non-current assets for use in the business.
+    Requirement
+    Which of the following statements is true regarding such assets?
+    A    All items of property, plant and equipment are depreciated
+    B    Right-of-use assets are not depreciated
+    C    When testing for impairment the recoverable amount is the lower of the fair value less costs of
+         disposal and value in use
+    D    Development costs must be capitalised in the statement of ﬁnancial position
+
+
+47 A company acquires non-current assets for use in the business.
+    Requirement
+    Which of the following statements is true?
+    A    A company can choose to test an asset for impairment rather than depreciate it
+    B    If a company leases an asset they will recognise a right-of-use asset and lease liability
+    C    The depreciation method is decided when the asset is purchased and is never changed
+    D    On disposal of a non-current asset any gain is recognised in revenue in the statement of proﬁt or
+         loss
+
+
+48 A company leases a ﬂoor of an ofﬁce building for four years from 1 July 20X7. They correctly
+   calculate a right-of-use asset at a cost of £65,000.
+    Requirement
+    Which of the following statements is true in the ﬁnancial statements as at 31 December 20X8?
+    A    No depreciation is charged as this is a leased asset
+    B    Deprecation of £16,250 is recognised as an expense in the statement of proﬁt or loss
+    C    The right-of-use asset is split between current and non-current assets based on when the lease
+         payments are made
+    D    The carrying amount of the right-of-use asset is £32,500 in the statement of ﬁnancial position
+
+
+
+
+    80    Accounting                                                                                 ICAEW 2024

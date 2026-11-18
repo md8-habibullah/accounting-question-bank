@@ -1,0 +1,726 @@
+    Chapter 11: Company ﬁnancial statements
+1   A company’s share capital consists of 20,000 25p equity shares, all of which were issued at a
+    premium of 20%. The market value of the shares is currently 70p each.
+    Requirement
+    What is the balance on the company’s equity share capital account?
+    A   £5,000
+    B   £6,000
+    C   £14,000
+    D   £24,000
+                                                                                                  LO 1d, 1e
+
+
+2   Which of the following may appear as current liabilities in a company’s statement of ﬁnancial
+    position?
+    (1) Loan due for repayment within one year
+    (2) Taxation
+    (3) Warranty provision
+    A   1, 2 and 3
+    B   1 and 2 only
+    C   1 and 3 only
+    D   2 and 3 only
+                                                                                                         LO 3c
+
+
+3   At 30 June 20X5 Meredith plc had the following balances:
+
+                                                                                                          £m
+    Equity shares of £1 each                                                                             100
+    Share premium                                                                                         80
+
+    During the year ended 30 June 20X6, the following transactions took place:
+    1 September 20X5: A 1 for 2 bonus issue of equity shares, using the share premium.
+    1 January 20X6: A 2 for 5 rights issue at £1.50 per share, taken up fully paid.
+
+
+    Requirement
+    What are the balances on each account at 30 June 20X6?
+    A   Share capital £210 million, Share premium £110 million
+    B   Share capital £210 million, Share premium £60 million
+    C   Share capital £240 million, Share premium £30 million
+    D   Share capital £240 million, Share premium £80 million
+                                                                                              LO 1d, 1e, 3c
+
+
+
+
+                                                                                  91,000
+
+
+
+
+    ICAEW 2024                                                         11: Company ﬁnancial statements      81
+4   Klaxon plc issued, for cash, 1,000,000 50p shares at a premium of 30p per share.
+    Requirement
+    Which of the following journals correctly records the share issue?
+    A    Debit Share capital £500,000, Debit Share premium £300,000, Credit Cash at bank £800,000
+    B    Debit Cash at bank £800,000, Credit Share capital £500,000, Credit Share premium £300,000
+    C    Debit Cash at bank £1,300,000, Credit Share capital £1,000,000, Credit Share premium
+         £300,000
+    D    Debit Share capital £1,000,000, Debit Share premium £300,000, Credit Cash at bank £1,300,000
+                                                                                         LO 1d, 1e, 2c
+
+
+5   Sanders plc issued 50,000 equity shares of 25p each at a premium of 50p per share. The cash
+    received was correctly recorded but the full amount was credited to the share capital account.
+    Requirement
+    Which of the following journals corrects this error?
+    A    Debit Share premium £25,000, Credit Share capital £25,000
+    B    Debit Share capital £25,000, Credit Share premium £25,000
+    C    Debit Share capital £37,500, Credit Share premium £37,500
+    D    Debit Share capital £25,000, Credit Cash at bank £25,000
+                                                                                            LO 1d, 1e, 2c
+
+
+6   Which of the following journals could be used to correctly record a bonus issue of shares?
+    A    Debit Cash at bank, Credit Share capital
+    B    Debit Share capital, Credit Share premium
+    C    Debit Share premium, Credit Share capital
+    D    Debit Investments, Credit Cash at bank
+                                                                                                 LO 1e, 2c
+
+
+7   At 31 December 20X1 the capital structure of a company was as follows:
+
+                                                                                                       £
+    100,000 equity shares of 50p each                                                             50,000
+    Share premium                                                                                180,000
+
+    During 20X2 the company made a 1 for 2 bonus issue, using the share premium for the purpose, and
+    later issued for cash another 60,000 shares at 80p per share.
+    Requirement
+    What is the company’s capital structure at 31 December 20X2?
+    A    Equity share capital £130,000, Share premium £173,000
+    B    Equity share capital £105,000, Share premium £173,000
+    C    Equity share capital £130,000, Share premium £137,000
+    D    Equity share capital £105,000, Share premium £137,000
+                                                                                                 LO 1d, 1e
+
+
+
+
+    82    Accounting                                                                         ICAEW 2024
+8   Evon plc issued 1,000,000 equity shares of 25p each at a price of £1.10 per share, all received in
+    cash.
+    Requirement
+    Which of the following journals records the share issue?
+    A   Debit Cash at bank £1,100,000, Credit Share capital £250,000, Credit Share premium £850,000
+    B   Debit Share capital £250,000, Debit Share premium £850,000, Credit Cash at bank £1,100,000
+    C   Debit Cash at bank £1,100,000, Credit Share capital £1,100,000
+    D   Debit Cash at bank £1,100,000, Credit Share capital £250,000, Credit Retained earnings
+        £850,000
+                                                                                          LO 1d, 1e, 2c
+
+
+9   In the year to 31 March 20X2 Kable plc had the following capital structure:
+
+                                                                                                          £
+     200,000 equity shares of 25p each                                                             50,000
+     Share premium                                                                                 70,000
+
+    On 15 March Kable plc paid an equity dividend of 15p per share.
+    Requirement
+    What is the total dividend paid by Kable plc?
+    A   £7,500
+    B   £30,000
+    C   £50,000
+    D   £72,000
+                                                                                                       LO 1d
+
+
+10 Afua plc sells small electrical items. It has a year-end date of 31 December 20X7. On 28 December it
+   accepted an order from a credit customer for 100 toasters at a price of £35 per toaster. On 30
+   December, Afua plc dispatched 60 toasters to the customer but, they were not received by the
+   customer until 1 January 20X8. Afua plc remains responsible for the goods until they are delivered to
+   the customer. The remaining 40 toasters were dispatched on 2 January 20X8 and were received by
+   the customer on 4 January 20X8.
+    Requirement
+    How much revenue should Afua plc recognise in respect of the sale of toasters in the year ended
+    31 December 20X7?
+    A   £3,500
+    B   £2,100
+    C   £1,400
+    D   Nil
+                                                                                                       LO 3c
+
+
+
+
+    ICAEW 2024                                                       11: Company ﬁnancial statements      83
+11 At 30 June 20X2 Brandon plc’s capital structure was as follows:
+
+                                                                                                       £
+     500,000 equity shares of 25p each                                                        125,000
+     Share premium                                                                            100,000
+
+    In the year ended 30 June 20X3 the company made a 1 for 2 rights issue at £1 per share and this was
+    taken up in full. Later in the year the company made a 1 for 5 bonus issue, using the share premium
+    for the purpose.
+    Requirement
+    What was Brandon plc’s capital structure at 30 June 20X3?
+    A    Equity share capital £450,000, Share premium £25,000
+    B    Equity share capital £225,000, Share premium £250,000
+    C    Equity share capital £225,000, Share premium £325,000
+    D    Equity share capital £212,500, Share premium £262,500
+                                                                                              LO 1d, 3c
+
+
+12 The retained earnings of Posti plc at 1 July 20X5 were £900,000. The retained earnings at 30 June
+   20X6 are £1,080,000. The proﬁt for the year is £455,000.
+    Requirement
+    What was the total dividend paid by Posti plc during the year?
+    A    £180,000
+    B    £275,000
+    C    £445,000
+    D    £635,000
+                                                                                                 LO 1d
+
+
+13 At 1 July 20X4 Xando plc’s capital structure was as follows:
+
+                                                                                                       £
+     Share capital 1,000,000 shares of 50p each                                               500,000
+     Share premium                                                                            400,000
+
+    In the year ended 30 June 20X5 Xando plc made the following share issues:
+    1 January 20X5: A 1 for 4 bonus issue.
+    1 April 20X5: A 1 for 10 rights issue at £1.50 per share.
+    Requirement
+    What will be the balances on the company’s share capital and share premium at 30 June 20X5 as a
+    result of these issues?
+    A    Share capital £687,500, Share premium £650,000
+    B    Share capital £675,000, Share premium £375,000
+    C    Share capital £687,500, Share premium £150,000
+    D    Share capital £687,500, Share premium £400,000
+                                                                                              LO 1d, 3c
+
+
+
+
+    84    Accounting                                                                        ICAEW 2024
+14 A company has the following capital structure:
+
+                                                                                                           £
+     200,000 shares of 25p                                                                           50,000
+     Share premium                                                                                   75,000
+
+    It makes a 1 for 5 rights issue at £1.25, which is fully taken up by the shareholders.
+
+
+    Requirement
+    What is the balance on the share premium account following the rights issue?
+    A   £35,000
+    B   £75,000
+    C   £85,000
+    D   £115,000
+                                                                                                   LO 1d, 3c
+
+
+15 The equity section of the statement of ﬁnancial position for Bowden Ltd as at 31 December 20X6 is
+   as follows:
+
+                                                                                                      £’000
+     Equity
+     Share capital: equity shares of 50p each                                                         5,000
+     Share premium                                                                                        900
+     Retained earnings                                                                                6,300
+     Total equity                                                                                    12,200
+
+    The company decides to make a 1 for 5 bonus issue of shares on 30 June 20X7.
+    Requirement
+    What will be the balances on the company’s share capital and share premium at 30 June 20X7 as a
+    result of these issues?
+    A   Share capital £5,900,000, Share premium £nil
+    B   Share capital £6,000,000, Share premium £nil
+    C   Share capital £5,900,000, Share premium £900,000
+    D   Share capital £4,100,000, Share premium £900,000
+                                                                                                   LO 1d, 1e
+
+
+
+
+16 At 1 April 20X8 the share capital and share premium of a company were as follows:
+
+                                                                                                           £
+     Share capital – 300,000 equity shares of 25p each                                               75,000
+     Share premium                                                                                 200,000
+
+    During the year ended 31 March 20X9 the following events took place:
+    (1) On 1 October 20X8 the company made a 1 for 5 rights issue at £1.20 per share.
+    (2) On 1 January 20X9 the company made a 1 for 3 bonus issue using the share premium to do so.
+
+
+
+
+    ICAEW 2024                                                          11: Company ﬁnancial statements    85
+    Requirement
+    What is the correct balance on the share capital account at 31 March 20X9?
+    A    £90,000
+    B    £120,000
+    C    £360,000
+    D    £480,000
+                                                                                                   LO 1d, 3c
+
+
+17 Layla plc is preparing its ﬁnancial statements for the year ended 31 August 20X6. The initial trial
+   balance shows the following balances:
+
+                                                                                                         £
+     Prepayments at 1 September 20X5                                                                 1,012
+     Insurance expense                                                                               3,400
+
+    Of the prepayments at 1 September 20X5, £450 related to insurance. At 31 August 20X6
+    prepayments will include £515 related to insurance.
+    Requirement
+    What amount will be included in Layla plc’s statement of proﬁt or loss for the year ended 31 August
+    20X6 in respect of insurance expenses?
+    A    £3,495
+    B    £3,897
+    C    £2,903
+    D    £3,335
+                                                                                                   LO 1d, 3c
+
+
+18 The retained earnings of Zippy plc at 1 January 20X8 were £926,450. The retained earnings at
+   31 December 20X8 are £1,426,980. During the year, Zippy plc paid a dividend of £312,000 and
+   made a bonus issue of 500,000 25p ordinary shares from retained earnings.
+    Requirement
+    What is Zippy plc’s proﬁt for the year ended 31 December 20X8?
+    A    £63,530
+    B    £1,312,530
+    C    £937,530
+    D    £313,530
+                                                                                                      LO 1d
+
+
+19 Which of the following journal entries may be accepted as being correct according to their
+   narratives?
+
+     Option                                                                       Debit        Credit
+
+                                                                                  £            £
+
+     1         Wages account                                                      38,000
+
+               Purchases account                                                  49,000
+
+               Buildings account                                                               87,000
+
+
+
+
+    86    Accounting                                                                            ICAEW 2024
+     Option                                                                    Debit        Credit
+
+                                                                               £            £
+
+               Labour and materials used in construction of extension to
+               factory
+
+     2         Director A personal account                                     30,000
+
+               Director B personal account                                     40,000
+
+               Director’s renumeration                                                      70,000
+
+               Directors’ bonuses transferred to their account
+
+     3         Sales                                                           10,000
+
+               Trade receivables                                                            10,000
+
+               Correction of £10,000 received from credit customer recorded
+               as cash sale
+
+     4         Trade receivables                                               2,000
+
+               Suspense account                                                             2,000
+
+               Correction of misposting of discount received from supplier
+
+    A    Option 1
+    B    Option 2
+    C    Option 3
+    D    Option 4
+                                                                                                LO 1d, 2c
+
+
+20 At 30 June 20X2 a company had £1 million 8% loan notes in issue, interest being paid half-yearly on
+   30 June and 31 December.
+    On 30 September 20X2 the company redeemed £250,000 of these loan notes at par, paying interest
+    due to that date.
+    On 1 April 20X3 the company issued £500,000 7% loan notes at par, interest payable half-yearly on
+    31 March and 30 September.
+    Requirement
+    What ﬁgure should appear in the company’s statement of proﬁt or loss for ﬁnance costs in the year
+    ended 30 June 20X3?
+    A    £88,750
+    B    £82,500
+    C    £65,000
+    D    £73,750
+                                                                                                     LO 3c
+
+
+
+
+    ICAEW 2024                                                     11: Company ﬁnancial statements      87
+21 A company has a balance of £3,200 (debit) on its income tax payable account at 31 December 20X7
+   relating to the income tax payable on the 20X6 proﬁts. The company’s estimated income tax liability
+   for the year to 31 December 20X7 is £24,500.
+    Requirement
+    What is the income tax charge in the statement of proﬁt or loss for the year ended 31 December
+    20X7?
+    A    £21,300
+    B    £24,500
+    C    £27,700
+    D    £30,900
+                                                                                                    LO 3c
+
+
+22 A company is preparing its ﬁnancial statements for the year ending 31 March 20X7. The initial trial
+   balance has the following ﬁgures relating to tax:
+
+                                                                                                          £
+     Income tax payable at 1 April 20X6                                                           14,300
+     Income tax paid during the year ended 31 March 20X7                                          12,700
+
+    The estimated income tax liability for the year ended 31 March 20X7 is £15,600.
+    Requirement
+    What is the income tax ﬁgure for inclusion in the company’s statement of proﬁt or6,000
+                                                                                      loss for the year
+    ended 31 March 20X7?
+    A    £12,700
+    B    £14,000
+    C    £17,200
+    D    £28,300
+                                                                                                    LO 3c
+
+
+23 Cheetah plc had a provision of £10,000 in its ﬁnancial statements for the year ended 31 March 20X3
+   in respect of a legal claim. In July 20X3 the claim was settled at a cost of £13,000.
+    Requirement
+    What is the expense in respect of the legal claim included in Cheetah plc’s statement of proﬁt or loss
+    for the year ended 31 March 20X4?
+    A    £10,000
+    B    £13,000
+    C    £3,000
+    D    Nil
+                                                                                                    LO 3c
+
+
+
+
+    88    Accounting                                                                           ICAEW 2024
+24 Camelia plc is preparing its ﬁnancial statements for the year ended 30 June 20X9. Its initial trial
+   balance shows the following balances:
+
+                                                                                                            £
+        Accruals at 1 July 20X8                                                                          948
+        Distribution costs paid                                                                    130,647
+
+    Of the accruals at 1 July 20X8, £586 related to distribution costs. At 30 June 20X9 the equivalent
+    ﬁgure is £654 for distribution costs.
+    Requirement
+    What amount for distribution costs should be shown in Camelia plc’s statement of proﬁt or loss for
+    the year ended 30 June 20X9?
+    A     £129,407
+    B     £130,579
+    C     £130,715
+    D     £131,887
+                                                                                                  LO 1d, 3c
+
+
+25 On 1 January 20X6 Pigeon plc has £300,000 of 50p equity shares in issue, and a balance on share
+   premium of £750,000. On 1 April 20X6 the company makes a 1 for 3 bonus issue.
+    Requirement
+    What is the balance on Pigeon plc’s share premium account at 31 December 20X6?
+    A     £450,000
+    B     £550,000
+    C     £650,000
+    D     £850,000
+                                                                                                  LO 1d, 1e
+
+
+26 At 1 July 20X7 Leak plc owed £524,925 to credit suppliers. In the year to 30 June 20X8 it paid credit
+   suppliers £1,249,506 and posted £1,987,345 to trade payables in respect of goods purchased on
+   credit. Leak plc took £12,824 in settlement discounts (which it had not expected to take) from credit
+   suppliers. At the end of the period it processed a contra with trade receivables of £8,236.
+    Requirement
+    What amount for trade payables should be included in the statement of ﬁnancial position of Leak plc
+    as at 30 June 20X8?
+    A     £1,267,352
+    B     £1,241,704
+    C     £1,258,176
+    D     £1,283,824
+                                                                                                         LO 3c
+
+
+
+
+    ICAEW 2024                                                        11: Company ﬁnancial statements       89
+27 Monksford plc is preparing its ﬁnancial statements for the year ended 31 December 20X1. Its initial
+   trial balance shows the following balances:
+
+                                                                                                         £
+     Income tax payable at 1 January 20X1                                                          2,091
+     20X0 income tax paid in 20X1 (as ﬁnally agreed with HMRC)                                     1,762
+
+    The estimated income tax due for the year ended 31 December 20X1 is £2,584.
+    Requirement
+    What is the income tax expense to be included in Monksford plc’s statement of proﬁt or loss for the
+    year ended 31 December 20X1?
+    A    £1,269
+    B    £2,255
+    C    £2,584
+    D    £2,913
+                                                                                                LO 1d, 3c
+
+
+28 Zenia plc is preparing its ﬁnancial statements for the 12 month reporting period ended 31 August
+   20X6, having prepared an initial trial balance which includes the following balances:
+
+                                                                                                         £
+     Accruals at 1 September 20X5                                                                      948
+     Interest paid                                                                                 2,733
+
+    Of the accruals at 1 September 20X5, £362 related to interest payable. At 31 August 20X6 accruals
+    will include £419 related to interest payable.
+    Requirement
+    What will be the ﬁnance cost included in Zenia plc’s statement of proﬁt or loss for the 12-month
+    reporting period ended 31 August 20X6?
+    A    £2,204
+    B    £2,676
+    C    £2,733
+    D    £2,790
+                                                                                                LO 1d, 3c
+
+
+
+
+29 Wonka plc has the following ledger account balances as at 1 September 20X5:
+    Share capital (£0.50 equity shares): £200,000
+    Share premium: £20,000
+    Retained earnings: £793,442
+    On 1 November 20X5 Wonka plc made a 1 for 4 rights issue at £4.50 per share. On 31 August 20X6
+    it made a 2 for 1 bonus issue. Proﬁt for the year to 31 August 20X6 was £100,000.
+    Requirement
+    What are the balances on the share capital, share premium and retained earnings ledger accounts as
+    at 31 August 20X6?
+
+
+
+
+    90    Accounting                                                                          ICAEW 2024
+    A    Share capital £1,500,000, Share premium £Nil, Retained earnings £813,442
+    B    Share capital £750,000, Share premium £Nil, Retained earnings £813,442
+    C    Share capital £750,000, Share premium £420,000, Retained earnings £393,442
+    D    Share capital £1,500,000, Share premium £Nil, Retained earnings £393,442
+                                                                                                  LO 1d, 1e
+
+
+30 Grease plc is a large company with a share capital of 3 million 20p equity shares. To raise funds, it has
+   made a 1 for 4 rights issue of its equity shares at £3.60 per share. The rights issue was fully taken up
+   but only £1.9 million had been paid up at the year end 30 September 20X2. Grease plc correctly
+   debited cash at bank with £1.9 million and recorded the other side of the transaction in the suspense
+   account.
+    Requirement
+    Which adjustment should Grease plc make to correctly record the rights issue?
+    A    Debit Other receivables £2,700,000, Credit Share capital £150,000, Credit Share premium
+         £2,550,000
+    B    Debit Suspense £1,900,000, Debit Other receivables £800,000, Credit Share capital £750,000,
+         Credit Share premium £1,950,000
+    C    Debit Other receivables £800,000, Credit Share capital £150,000, Credit Share premium
+         £650,000
+    D    Debit Suspense £1,900,000, Debit Other receivables £800,000, Credit Share capital £150,000,
+         Credit Share premium £2,550,000
+                                                                                             LO 1e, 2c
+
+
+31 Lake plc makes purchases on credit for £9,801 and purchases for cash of £107 in the year ended
+   31 January 20X4. The company’s accruals relating to purchases need to be £75 less than at the
+   previous year end and prepayments relating to purchases need to be £60 less.
+    Requirement
+    What is the ﬁgure for purchases included in cost of sales in Lake plc’s statement of proﬁt or loss for
+    the year ended 31 January 20X4?
+    A    £9,893
+    B    £9,923
+    C    £9,786
+    D    £9,908
+                                                                                                   LO 1d, 3c
+
+
+32 Wombat plc is a retailer that owns no properties and only has ﬁxtures and ﬁttings, purchased within
+   the last six months, as non-current assets. The company has been experiencing trading problems for
+   some time. The directors have concluded that the company is no longer a going concern and have
+   changed the basis of preparing the ﬁnancial statements to the break-up basis.
+    Requirement
+    Which two of the following will be the immediate effects of changing to the break-up basis?
+    A   All ﬁxtures and ﬁttings are transferred from non-current to current assets.
+    B    Fixtures and ﬁttings are valued at their resale value.
+    C   The company ceases to trade.
+    D   A liquidator is appointed.
+                                                                                                        LO 3b
+
+
+
+
+    ICAEW 2024                                                        11: Company ﬁnancial statements        91
+33 Drange plc has share capital of 300,000 £1 shares at 1 March 20X7. These were issued at £1.50 per
+   share. On 28 February 20X8 Drange plc made a 2 for 3 bonus issue. Before accounting for this, the
+   balance on retained earnings at 28 February 20X8 was £717,000.
+    Requirement
+    What is the balance of retained earnings to be included in Drange plc’s statement of ﬁnancial
+    position at 28 February 20X8?
+    A    £517,000
+    B    £567,000
+    C    £667,000
+    D    £717,000
+                                                                                               LO 1d, 1e, 3c
+
+
+34 The trial balance of Albion plc, a manufacturer, as at the year-end 30 April 20X4 included the
+   following items:
+    (1) Depreciation of delivery vehicles
+    (2) Delivery inwards
+    Requirements
+    In the statement of proﬁt or loss depreciation of delivery vehicles should be included in the heading:
+    A    Cost of sales
+    B    Administrative expenses
+    C    Distribution costs
+    D    Finance costs
+                                                                                                         LO 3c
+    In the statement of proﬁt or loss delivery inwards from suppliers should be included in the heading:
+    E    Cost of sales
+    F    Administrative expenses
+    G    Distribution costs
+    H    Finance costs
+                                                                                                         LO 3c
+
+
+35 Rembrandt plc is ﬁnalising certain ﬁgures that will appear in its ﬁnancial statements as at 30
+   September 20X7. In its initial trial balance at that date Rembrandt plc has a ﬁgure for income tax
+   payable as at 1 October 20X6 of £114,520. The total income tax charge in the statement of proﬁt or
+   loss for the year to 30 September 20X7 is £145,670, and income tax paid in the year was £123,090.
+    Requirement
+    What is the income tax payable balance that will appear in Rembrandt plc’s statement of ﬁnancial
+    position as at 30 September 20X7?
+    A    £91,940
+    B    £114,520
+    C    £137,100
+    D    £382,000
+                                                                                                         LO 3c
+
+
+36 Touch plc is ﬁnalising certain ﬁgures for inclusion in its ﬁnancial statements as at 30 April 20X7.
+   Relevant initial trial balance ﬁgures are as follows:
+
+
+
+
+    92    Accounting                                                                             ICAEW 2024
+                                                                                                           £
+     Trade and other payables (excluding interest payable)                                       246,800
+     6% debentures as at 1 May 20X6                                                              400,000
+
+    Touch plc issued 6% debentures of £120,000 at par on 1 February 20X7, repayable at par in 10 years’
+    time. No interest was outstanding at 1 May 20X6, and the company paid interest in respect of
+    debentures of £24,000 in the period to 30 April 20X7.
+    Requirement
+    What amount for trade and other payables (including interest payable) should be shown in Touch
+    plc’s statement of ﬁnancial position as at 30 April 20X7?
+    A   £222,800
+    B   £246,800
+    C   £248,600
+    D   £272,600
+                                                                                                        LO 3c
+
+
+37 As at 1 June 20X4 Brazil plc had 400,000 10p equity shares, which it issued in 20X1 at £2.20 each,
+   fully paid. It also had 200,000 £1 8% irredeemable preference shares issued at par in 20X2. On        31
+   January 20X5 Brazil plc made a further issue of 45,000 of the £1 irredeemable 8% preference shares
+   at £1.50 fully paid. On the same date Brazil plc made a 1 for 4 bonus issue of equity shares. Brazil plc
+   wishes to use the share premium in respect of the bonus issue.
+    Requirement
+    What is the balance on the share premium account that Brazil plc will present in its statement of
+    ﬁnancial position as at 31 May 20X5?
+    A   £452,500
+    B   £762,500
+    C   £830,000
+    D   £852,500
+                                                                                             LO 1d, 1e, 3c
+
+
+38 The retained earnings of Camel plc at 1 January 20X7 were £1,055,000. The retained earnings at
+   31 December 20X7 are £1,210,000. The proﬁt for the year is £387,000.
+    During the year Camel made a 1 for 2 bonus issue, with £65,000 paid from retained earnings.
+    Requirement
+    What was the total dividend paid during the year?
+    A   £Nil
+    B   £167,000
+    C   £232,000
+    D   £297,000
+                                                                                                       LO 1d
+
+
+39 At 30 June Temso plc’s equity was as follows:
+
+                                                                            20X8                    20X9
+                                                                                £                          £
+     Equity shares of 25p each                                           100,000                 125,000
+
+
+
+
+    ICAEW 2024                                                       11: Company ﬁnancial statements       93
+                                                                         20X8                    20X9
+                                                                             £                         £
+     Share premium                                                    100,000                  75,000
+     Retained earnings                                                267,000                 299,000
+
+    In the year ended 30 June 20X9 Temso plc made a 1 for 4 bonus issue. Proﬁts for the year were
+    £44,000.
+    Requirement
+    What was the total dividend paid in the year?
+    A    £12,000
+    B    £13,000
+    C    £37,000
+    D    £76,000
+                                                                                                    LO 1d
+
+
+40 At 30 September 20X6 Bake plc’s equity was as follows:
+
+                                                                                                       £
+     Equity shares of 50p each                                                                450,000
+     Share premium                                                                             80,000
+     Retained earnings                                                                        676,000
+
+    In the year ended 30 September 20X7 Bake plc made a 1 for 3 bonus issue which was partly paid out
+    of share premium. Retained earnings were £754,000 at 30 September 20X7 after Bake made a proﬁt
+    of £213,000.
+    Requirement
+    What was the total dividend paid in the year ended 30 September 20X7?
+    A    £15,000
+    B    £65,000
+    C    £205,000
+    D    £361,000
+                                                                                                    LO 1d
+
+
+41 Panther Co sells goods with a one-year standard warranty and had a provision for warranty claims of
+   £64,000 at 31 December 20X0. During the year ended 31 December 20X1, £25,000 in claims were
+   paid to customers. On 31 December 20X1, Panther Co estimated that 5% of warranties would be
+   invoked at a cost of £58,000.
+    Requirement
+    What amount should Panther Co charge or credit to the statement of proﬁt or loss for the year ended
+    31 December 20X1 in respect of the warranty provision?
+    A    £58,000 charge
+    B    £33,000 charge
+    C    £19,000 charge
+    D    £6,000 credit
+                                                                                                    LO 3c
+
+
+
+
+    94    Accounting                                                                        ICAEW 2024

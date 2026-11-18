@@ -1,0 +1,35 @@
+Initial trial balance   Adjustments   Final trial balance
+Debit   Credit   Debit   Credit   Debit   Credit
+000.   000.   1000   000,   '000   000.
+Trade payables   1,866   30   1,896
+Bank   80   80
+Inventory   1,950   2,020   1,950   2,020
+6%loannotes   1.000   1,000
+Sales   9,500   9,500
+Rental income   200   200
+Debanture interest   30   30   60
+Administrativeexpenses   650   *570   1,220
+Administrationsalaries   275   275
+Distribution expenses   616   275   891
+Purchases   5,125   5,125
+Manufacturing salaries   300   300
+Delivery inwards   100   100
+Propertycosts   300   300
+Retalnedearmings   1,100   100   1,000
+Freehold land-cost   2,120   2.120
+Fixturesandfttings-cost   2,000   2,000
+F&F-accumulated
+depreciation   900   400   1,300
+Allowanceforreceivables   100   100   200
+Developmentcosts   300   300
+Developmentcosts-
+amortisation   30   30
+1.950
+Cost ofsales   +5125   2,020   5.055
+Incometaxpayable   750   750
+Inconetaxexpense   750   750
+15.666   15,666   10.720   10,720   16.946   16,946   CHAPTER
++200(Jnl2)+30(Jnl3)+115(Jnl4)+225(Jnl6)=570
+*200(Jnl2)+75(Jnl.6)=275
+12
+ICAB2026   Campanyfinancialstatements under IFRS Accounting Standards

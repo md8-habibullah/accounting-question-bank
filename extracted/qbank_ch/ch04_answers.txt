@@ -1,0 +1,83 @@
+    Chapter 4: Ledger accounting and double
+    entry
+1   Correct answer(s):
+    C     Debit Receivables £5,760, Credit Sales £4,800, Credit VAT £960
+    The sale should be recorded net of VAT, VAT is separately recorded in the VAT account and the gross
+    amount is recorded as a receivable.
+
+
+2   Correct answer(s):
+    C     The receipt of an invoice for rent payable by the business
+    Options A and B are ruled out because they relate to rental income, which would be a credit (not a
+    debit) in a rent account. Option D is ruled out because there is no entry made in the bank account
+    and therefore no payment can yet have been made.
+
+
+3   Correct answer(s):
+    B     Debit entries decrease income and increase assets.
+    Debit entries increase assets and expenses and decrease income, equity and liabilities. Credit entries
+    increase income, liabilities and equity and decrease assets and expenses.
+
+
+4   Correct answer(s):
+    B     False
+    A Ltd owes to B Ltd.
+
+
+5   Correct answer(s):
+    A     Debit Payables, Credit Purchases, Credit Cash at bank account
+    As the settlement discount was not expected to be taken at the date the invoice was received and
+    recorded, it must now be deducted from purchases.
+
+
+6   Correct answer(s):
+    A     £212,130
+                                               TRADE PAYABLES
+
+                                                     £                                                   £
+        Payments (bal ﬁg)                     212,130     Bal b/d                                  24,183
+        Bal c/d                                 34,655    Purchases (254,192 – 31,590)            222,602
+                                              246,785                                             246,785
+                                                           Bal b/d                                 34,655
+
+
+
+7   Correct answer(s):
+    C     Debit Receivables, Credit Revenue
+    An invoice issued to a customer is recorded as Debit Receivables, Credit Revenue regardless of
+    whether an early settlement discount is expected to be taken or not.
+
+
+
+
+    ICAEW 2024                                                   4: Ledger accounting and double entry   171
+8   Correct answer(s):
+    C     Payments made to suppliers
+    Payments made to suppliers would be debited to payables and credited to cash (C). Output VAT (A)
+    is related to sales, not purchases, and therefore would be recorded in the receivables ledger, and the
+    cash purchases total (B) would not appear at all in the payables account. Early settlement discounts
+    given to customers (D) affect receivables, not payables.
+
+
+9   Correct answer(s):
+    A     Debit Cash at bank, Credit Receivables, Credit Revenue
+    The customer was expected to take advantage of the early settlement discount, so at the point of
+    invoice the revenue would have been recorded net of the discount. As the customer did not
+    subsequently pay on time, the discount must be added back to revenue (by crediting revenue). The
+    payment received will increase the cash at bank account (debit) and decrease receivables (credit).
+
+
+10 Correct answer(s):
+    B     £190
+    The supplier may deal with the scenario in one of two ways:
+    The ﬁrst is to ignore the settlement discount and simply issue an invoice with a VAT amount of £190
+    (£950 × 20% = £190). If the settlement discount is claimed, the supplier will issue a credit note to
+    evidence the reduction in the invoice and VAT amount.
+    Alternatively, if the supplier does not wish to issue a credit note, they must issue an invoice which
+    contains the terms of the settlement discount, and a statement that the customer can only recover as
+    input tax the actual VAT paid to the supplier.
+
+
+
+
+    172    Accounting                                                                         ICAEW 2024

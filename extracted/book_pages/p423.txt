@@ -1,0 +1,37 @@
+ApplyingtheIAS1formats
+Section overview
+ToapplytheiAS1formats:
+extractan initialtrial balance
+prepare the adjustment journals
+process theadjustments and calculate thefinal trial balance
+identifythe ledgeraccounts tobe included in the statementof profit or loss in respect
+of.costofsales,administrativeexpenses.anddistribution costheadings
+complete thefomatsforstatementofprofitorlass,statementoffinancial position and
+statementofchanges inequity
+Theformats we use here areadapted from IAS 1,which sets outa mninimumrequirement for
+what shouldappear on theface of the statementoffinancial position,althoughadditional
+itemsareallowedto makethe informationmorerelevant Nosetorderof items is presented in
+IAs 1,entities are encouragedtoadapttheorderandthedescriptionsto enhancerelevance,
+though in practicecomparabilityencourages similarentitiesto adoptsimilarpresentations.
+Wherea singlefigure or tline item'appears in the statementoffinancial position,the company
+must dlisclosefurther sub-classifications in thenotes in a mannerthat is appropriate to its
+operations.
+Workedexample:PreparingIAS1formatfinancial statements
+Todrawtogether everything wehave covered sofar,weshall work throughafull exampleof
+how to use thefinal trial balanceto prepare an IAs 1format statement of profit orloss,
+statement offinancial position and statement of changes in equity.
+Thechiefaccountant ofFormat plchas extractedthefollowing initialthialbalance fromthe
+accounting softwarepackage as at31December20x2.
+Format plc
+Trialbalanceasat31December20x2
+CU'000   CU'000
+Dr
+IssuedequitysharesofCU1   800
+10%irredeemablepreferencesharesofCU1each   200   CHAPTER
+Trade receivables and trade payables   1.820   1866
+Bank   80
+Inventoryat1.1.X2   1.950
+6%loannotes   1,000
+12
+Sales   9,500
+ICAB2026   Company financial statementsunder IFRS Accounting Standards   413

@@ -1,0 +1,37 @@
+The carrying amount of the non-current asset would be as follows:
+After1year After2years   After3years   After4yearsAfter5years
+CU   CU
+Cost of theasset.   60,000   60,000   60.000   60,000   60,000
+Accumulateddepreciation(10,800)   21,600)   (32,400)   43200)   (54,000)
+Carryingamount   49.200   38,400   27,600   16,800   *6,000
+*ieitsestimatedresidual value.
+Since the straight line depreciation charge per annum is the same amount every 12month
+perannumon theasset's depreciable amount Intheexamplein(1)above,thedepreciation
+chargeperannumis10%ofcost(ie,10%ofCU24.000=CU2.400).In(2).itis20%ofthe
+depreciableamount(20%×(60,000-6,000)=f10,800).Thestraight linemethodallocatesthe
+total depreciableamount inequalamounts betweendifferent reportingperiods.   CHAPTER
+Worked example:Monthly depreciation on the straight line basis
+Abusiness has a reportingperiod from1Januaryto31Decemberandpurchasesanon-
+Currentasseton1April 20X1,at acost ofCU24,000.Theuseful life oftheasset is fouryears,
+and its residual valueis nil.   10
+Requirement
+What is thedepreciation chargeforthereportingperiodto31December20X1?
+Solution
+The monthly depreciation charge will be:
+24.000
+f500permonth
+4×12
+Since the asset was acquiredon 1April 20x1,thebusiness has onlybenefited from the use of
+theassetfor9months insteadofafull12months.Wethereforechargedepreciation in20X1
+of:9×CU500=CU4.500
+3.3   Thereducingbalancemethodofdepreciation
+Definition
+Reducing balance depreciation:The annual depreciation charge is a fixed percentage ofthe
+broughtforward carrying amount of the asset.
+The reducing balance method might be used to allocate a greater proportion of the total
+depreciable amounttotheasset's earlieryears anda lowerproportionto its lateryears,as the
+benefits obtained bythe business from using the asset decline over time.
+Note:When calculating teducing balancedepreciation in an exam youwill NOTbeconcerned
+with the asset's residual value nor howto calculate the percentage: just the carrying amount
+and thereducingbalancepercentagegiven to you.
+ICAB2026   Non-currentassets,depreciationandimpairment   321

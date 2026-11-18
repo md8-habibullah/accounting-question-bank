@@ -1,0 +1,1650 @@
+  Chapter 12: Company ﬁnancial statements
+  under IFRS Accounting Standards
+1 Hexham plc
+
+   Marking guide                                                                              Marks
+
+  Statement of proﬁt or loss
+  Revenue                                                                                      .5
+  Cost of sales                                                                                 1
+  Distribution costs                                                                            1
+  Administrative expenses                                                                       1
+  Other operating expenses                                                                      1
+  Finance costs                                                                                 1
+  Income tax expense                                                                           .5
+  Statement of ﬁnancial position
+  Land and buildings                                                                            1
+  Plant and equipment                                                                          .5
+  Inventories                                                                                  .5
+  Trade receivables                                                                             1
+  Prepayments                                                                                  .5
+  Equity share capital                                                                         .5
+  Share premium                                                                                .5
+  Retained earnings                                                                             1
+  Borrowings                                                                                   .5
+  Bank overdraft                                                                                1
+  Trade payables                                                                               .5
+  Accruals                                                                                      1
+  Deferred income                                                                              .5
+  Provision                                                                                    .5
+  Income tax payable                                                                           .5
+  Maximum                                                                                             16
+  Total                                                                                               16
+
+
+  Statement of proﬁt or loss for the year ended 31 March 20X8
+
+                                                                                         £
+  Revenue                                                                       1,150,000
+  Cost of sales (W1)                                                             (483,000)
+  Gross proﬁt                                                                     667,000
+  Distribution costs (W1)                                                        (220,000)
+  Administrative expenses (W1)                                                   (316,000)
+  Other operating expenses (W2)                                                    (53,560)
+  Operating proﬁt/(loss)                                                           77,440
+  Finance costs (W3)                                                               (12,000)
+
+
+
+
+  ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards    231
+                                                           £
+Proﬁt/(loss) before tax                               65,440
+Income tax expense                                   (10,000)
+Proﬁt/(loss) for year                                 55,440
+
+Statement of ﬁnancial position as at 31 March 20X8
+
+                                                           £
+Non-current assets
+Property, plant, and equipment
+Land and buildings (W4)                              496,000
+Plant and equipment (W4)                             243,000
+                                                     739,000
+Current assets
+Inventories (W1)                                      91,000
+Trade receivables (W2)                                52,440
+Prepayments (W1)                                      32,000
+                                                     175,440
+Total assets                                         914,440
+
+
+Equity
+Equity share capital                                 400,000
+Share premium                                        100,000
+Retained earnings (W5)                               101,440
+                                                     601,440
+Non-current liabilities
+Borrowings                                           200,000
+
+
+Current liabilities
+Bank overdraft                                        24,000
+Trade payables                                        54,000
+Accruals (W3)                                          4,000
+Deferred income                                        6,000
+Provision                                             15,000
+Income tax payable                                    10,000
+                                                     113,000
+Total equity and liabilities                         914,440
+
+
+
+
+232   Accounting                                                ICAEW 2024
+WORKINGS
+(1) Allocation of costs
+
+                                                 Administrative          Distribution
+                                                     expenses                   costs       Cost of sales
+                                                               £                   £                   £
+     Opening inventories                                                                         75,000
+     Per TB                                             340,000             220,000             465,000
+     Depreciation (W4)                                     8,000                                 34,000
+     Insurance prepayment (16,800 × 5/12)                 (7,000)
+     Rent prepayment                                     (25,000)
+     Closing inventory (15,000 + 76,000)                ––––––             –––––––               (91,000)
+                                                        316,000             220,000             483,000
+
+    Note: Read the question carefully to make sure you allocate the depreciation to the right line of
+    expenditure. There is no depreciation on land because it has an unlimited useful life.
+(2) Irrecoverable debts, warranty provision and trade receivables
+
+                                                                    Other operating                Trade
+                                                                          expenses           receivables
+                                                                                        £              £
+     Per TB                                                                    36,000            60,000
+     Irrecoverable debt written off                                             4,800             (4,800)
+                                                                                                 55,200
+     Warranty provision                                                        15,000
+     Allowance for receivables adjustment                                      *(2,240)           (2,760)
+                                                                               53,560            52,440
+
+    * 2,760 – 5,000
+(3) Finance costs
+
+                                                                                                       £
+     Loan interest paid per TB                                                                     8,000
+     Accrued interest                                                                              4,000
+     Current period interest expense (9 months: 9/12 × 8% × 200,000)                             12,000
+
+(4) Property, plant and equipment
+
+                                                                             Plant and
+                                                 Land       Buildings       equipment               Total
+                                                    £               £                   £              £
+     Cost or valuation                       200,000         400,000           340,000
+     Accumulated dep’n                      –––––––           (96,000)         (63,000)
+     Carrying amount per TB                  200,000         304,000           277,000
+     Depreciation charge                    –––––––            (8,000)         (34,000)
+
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards     233
+                                                                            Plant and
+                                                    Land       Buildings   equipment           Total
+                                                        £             £            £              £
+        Carrying amount 31 March
+           20X8                                  200,000        296,000      243,000      739,000
+
+  (5) Retained earnings
+
+                                                                                                  £
+        Opening retained earnings                                                          61,000
+        Proﬁt for the year (from statement of proﬁt or loss)                               55,440
+        Dividends paid                                                                    (15,000)
+        Closing retained earnings                                                         101,440
+
+
+
+2 Ford plc
+
+   Marking guide                                                                        Marks
+
+  Revenue                                                                                 1
+  Cost of sales                                                                            1
+  Distribution costs                                                                       1
+  Administrative expenses                                                                  1
+  Finance costs                                                                           .5
+  Income tax expense                                                                      .5
+  Freehold land and buildings                                                              1
+  Equipment and ﬁxtures                                                                    1
+  Inventories                                                                             .5
+  Receivables                                                                              1
+  Prepayments                                                                             .5
+  Cash                                                                                    .5
+  Equity share capital                                                                    .5
+  Irredeemable preference share capital                                                   .5
+  Retained earnings                                                                        1
+  Non-current borrowings                                                                  .5
+  Current borrowings                                                                       1
+  Accruals                                                                                 1
+  Payables                                                                                 1
+  Provision                                                                               .5
+  Income tax payable                                                                      .5
+  Maximum                                                                                       16
+  Total                                                                                         16
+
+
+  Statement of proﬁt or loss for the year ended 31 March 20X6
+
+                                                                                                  £
+   Revenue (W5)                                                                         6,450,000
+   Cost of sales (W1)                                                                   (4,515,400)
+
+
+
+
+  234     Accounting                                                                    ICAEW 2024
+                                                                                                  £
+Gross proﬁt                                                                               1,934,600
+Distribution costs (W1)                                                                    (375,000)
+Administrative expenses (W1)                                                               (540,500)
+Operating proﬁt/(loss)                                                                    1,019,100
+Finance costs (W1)                                                                          (39,000)
+Proﬁt/(loss) before tax                                                                    980,100
+Income tax expense                                                                         (350,000)
+Proﬁt/(loss) for year                                                                      630,100
+
+Statement of ﬁnancial position as at 31 March 20X6
+
+                                                                                                  £
+ASSETS
+Non-current assets
+Property, plant and equipment
+Freehold land and buildings (W2)                                                          2,050,000
+Equipment and ﬁxtures (W2)                                                                 221,000
+                                                                                          2,271,000
+Current assets
+Inventories (W1)                                                                           110,000
+Trade receivables (37,500 – 10,000)                                                          27,500
+Prepayments                                                                                  20,000
+Cash and cash equivalents                                                                    43,500
+                                                                                           201,000
+Total assets                                                                              2,472,000
+EQUITY AND LIABILITIES
+Capital and reserves
+Equity share capital (W6)                                                                  500,000
+Preference share capital (irredeemable)                                                    200,000
+Retained earnings (W4)                                                                     812,600
+                                                                                          1,512,600
+Non-current liabilities
+Redeemable 4% preference shares                                                            100,000
+Borrowings (100,000 × 4/5)                                                                   80,000
+                                                                                           180,000
+Current liabilities
+Borrowings (100,000 × 1/5)                                                  20,000
+Accruals (W1)                                                               20,000
+Irredeemable 5% preference dividend payable (W4)                            10,000
+Redeemable 4% preference dividend payable (W1)                               4,000
+
+
+
+ICAEW 2024                      12: Company ﬁnancial statements under IFRS Accounting Standards   235
+                                                                                                    £
+Trade payables                                                              25,400
+Deferred income (W3)                                                       250,000
+Provision                                                                  100,000
+Income tax payable                                                         350,000
+                                                                                              779,400
+Total equity and liabilities                                                                2,472,000
+
+WORKINGS
+(1) Allocation of costs
+
+                                   Cost of sales   Administrative     Distribution       Finance costs
+                                              £                  £               £                  £
+      Per trial balance               4,450,000           410,500         375,000              35,000
+      Opening inventories               113,400
+      Depreciation (W2)                  62,000            20,000
+      Provision                                           100,000
+      Irrecoverable debt                                   10,000
+      Prepayments (rent)                                   (20,000)
+      Accruals (consultancy
+        fees 60,000 2/6)                                   20,000
+      Closing inventories
+         (120,000 – 10,000)            (110,000)
+      Redeemable 4%
+        preference dividend
+        (100,000 × 4%)
+        accrued                       –––––––             –––––––         –––––––               4,000
+
+                                      4,515,400           540,500         375,000              39,000
+
+(2) Property, plant and equipment
+
+                                                              Freehold
+                                                              land and     Equipment
+                                                              buildings   and ﬁxtures            Total
+                                                                      £              £              £
+      Cost
+      b/f                                                     2,550,000      620,000
+      c/f                                                     2,550,000      620,000
+      Acc dep
+      b/f                                                       480,000      337,000
+      For year ((2,550,000 – 1,750,000)/40), (620,000 ×
+         10%)                                                    20,000       62,000
+
+      c/f                                                       500,000      399,000
+
+
+
+
+236    Accounting                                                                          ICAEW 2024
+                                                               Freehold
+                                                               land and     Equipment
+                                                               buildings   and ﬁxtures             Total
+                                                                      £             £                 £
+      Carrying amount c/f                                   2,050,000         221,000     2,271,000
+
+(3) Deferred income
+
+                                                                                                      £
+      Fees in advance (W5)                                                                  150,000
+      Advances (W5)                                                                         100,000
+                                                                                            250,000
+
+(4) Retained earnings
+
+                                                                                                      £
+      b/f                                                                                   212,500
+      Equity dividend paid                                                                   (20,000)
+      Irredeemable 5% preference share dividend (200,000 × 5%)                               (10,000)
+      Proﬁt for year                                                                        630,100
+                                                                                            812,600
+
+(5) Revenue
+
+                                                                                                      £
+      Per TB                                                                              6,700,000
+      Less: Fees in advance (300,000 × 5/10)                                                (150,000)
+      Advances                                                                              (100,000)
+                                                                                          6,450,000
+
+(6)
+                                       EQUITY SHARE CAPITAL
+
+                                                 £                                                    £
+                                                      Per TB                                400,000
+      c/fwd                               500,000     Bonus issue (share premium)           100,000
+                                          500,000                                           500,000
+
+(7)
+                                         SHARE PREMIUM
+
+                                                 £                                                    £
+      Bonus issue (equity share cap)      100,000     Per TB                                100,000
+                                          100,000                                           100,000
+
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards     237
+3 Juniper plc
+
+   Marking guide                                                   Marks
+
+   Revenue                                                          .5
+   Cost of sales                                                     1
+   Distribution costs                                                1
+   Administrative expenses                                           1
+   Finance costs                                                    .5
+   Income tax expense                                                1
+   Land                                                             .5
+   Other non-current assets                                        1.5
+   Inventories                                                      .5
+   Receivables                                                       1
+   Prepayments                                                      .5
+   Cash                                                              1
+   Equity share capital                                             .5
+   Preference share capital                                         .5
+   Share premium                                                     1
+   Retained earnings                                                 1
+   Non-current borrowings                                           .5
+   Payables                                                         .5
+   Provision                                                        .5
+   Accruals                                                          1
+   Income tax payable                                               .5
+   Maximum                                                                  16
+   Total                                                                    16
+
+
+  Statement of proﬁt or loss for the year ended 31 December 20X2
+
+                                                                             £
+   Revenue                                                          726,370
+   Cost of sales (W1)                                               (433,798)
+   Gross proﬁt                                                      292,572
+   Distribution costs (W1)                                           (67,011)
+   Administrative expenses (W1)                                     (208,678)
+   Operating proﬁt/(loss)                                             16,883
+   Finance costs                                                         (3,300)
+   Proﬁt/(loss) before tax                                            13,583
+   Income tax expense (W4)                                           (12,400)
+   Proﬁt/(loss) for year                                                 1,183
+
+  Statement of ﬁnancial position as at 31 December 20X2
+
+                                                                             £
+   Non-current assets
+   Property, plant and equipment
+
+
+
+  238      Accounting                                              ICAEW 2024
+                                                                                                     £
+Land                                                                                           25,000
+Other non-current assets (130,680 (W2) – 57,920 (W3))                                          72,760
+                                                                                               97,760
+Current assets
+Inventories                                                                                    39,323
+Trade receivables (12,691 – 820 (W6))                                                          11,871
+Prepayments (W1)                                                                                    375
+Cash and cash equivalents (15,477 + 9,000)                                                     24,477
+                                                                                               76,046
+Total assets                                                                                 173,806
+
+
+Equity
+Equity share capital (11,000 + 11,000/5)                                                       13,200
+Preference share capital                                                                        6,000
+Share premium (7,500 – 11,000/5)                                                                5,300
+Retained earnings (W5)                                                                         19,597
+                                                                                               44,097
+Non-current liabilities
+Borrowings                                                                                     33,000
+
+
+Current liabilities
+Borrowings                                                                                            0
+Bank overdraft                                                                                        0
+Trade payables (49,809 + 9,000)                                                                58,809
+Provision for legal claim                                                                      20,000
+Accruals (2,500 + 3,300 (ﬁnance cost) + 100 (insurance))                                        5,900
+Deferred income                                                                                       0
+Income tax payable (W4)                                                                        12,000
+                                                                                               96,709
+Total equity and liabilities                                                                 173,806
+
+WORKINGS
+(1) Allocation of costs
+
+                                                        Administrative      Distribution      Cost of
+                                                            expenses               costs        sales
+                                                                      £                £             £
+     Per TB                                                    198,076           61,554      426,772
+     Income tax                                                 (15,400)
+     Prepayment (rates 1,500 × 3/12)                               (375)
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards    239
+                                                        Administrative        Distribution     Cost of
+                                                            expenses                 costs       sales
+                                                                        £                £           £
+      Accrual (insurance 1,200 × 1/12)                              100
+      Depreciation (18,190 (W3) 30:30:40)                          5,457            5,457        7,276
+      Proﬁt on disposal (1,350 – 1,100)                                                           (250)
+      Provision for legal claim                                 20,000
+      Irrecoverable debts and allowance for
+          receivables (W6)                                          820          ––––––      –––––––
+
+                                                               208,678             67,011     433,798
+
+(2)
+                                                 PPE
+
+                                                  £                                                 £
+      b/fwd (157,680 – 25,000)              132,680    Disposals                                2,000
+                                           –––––––     c/fwd (bal ﬁg)                         130,680
+                                            132,680                                           132,680
+
+(3)
+                                  PPE – ACCUMULATED DEPRECIATION
+
+                                                  £                                                 £
+      Disposals (2,000 – 1,100)                 900    b/fwd                                   40,630
+                                                       Depn (130,680 (W2) – (40,630 –
+      c/fwd                                   57,920     900)) × 20%                           18,190
+
+                                              58,820                                           58,820
+
+(4)
+                                              TAX PAYABLE
+
+                                                  £                                                 £
+      Tax paid                                15,400   b/fwd                                   15,000
+                                                       Statement of proﬁt or loss (bal
+      c/fwd                                   12,000      ﬁg)                                  12,400
+                                              –––––                                           ––––––
+                                              27,400                                           27,400
+
+(5)
+                                          RETAINED EARNINGS
+
+                                                  £                                                 £
+      Dividend paid on equity shares           4,000   b/fwd                                   26,014
+      Dividend paid on preference
+         shares paid                           3,600   Proﬁt for the period                     1,183
+      c/fwd                                   19,597                                          ––––––
+
+
+
+
+240   Accounting                                                                             ICAEW 2024
+                                                       £                                                   £
+                                                 27,197                                            27,197
+
+  (6)
+
+                                                                                                            £
+        Receivables                                                                                 12,691
+        Less Maguire Ltd written off                                                                     (453)
+                                                                                                    12,238
+        3% allowance                                                                                     367
+
+        Total irrecoverable debts expense 453 + 367 = 820.
+
+
+4 Skylar plc
+
+   Marking guide                                                                                Marks
+
+   Revenue                                                                                       0.5
+   Cost of sales                                                                                 1.5
+   Distribution costs                                                                              1
+   Administrative expenses                                                                         1
+   Finance costs                                                                                 0.5
+   Income tax expense                                                                            0.5
+   Land and buildings                                                                              1
+   Plant and equipment                                                                             1
+   Inventories                                                                                     1
+   Prepayments                                                                                     1
+   Trade receivables                                                                               1
+   Cash and cash equivalents                                                                       1
+   Share capital                                                                                 0.5
+   Retained earnings                                                                               1
+   Lease liability due in less than one year                                                     0.5
+   Lease liability due in more than one year                                                     0.5
+   Trade payables                                                                                 .5
+   Accruals                                                                                        1
+   Income tax payable                                                                             .5
+   Provision                                                                                      .5
+   Maximum                                                                                                16
+   Total                                                                                                  16
+
+
+
+
+  Statement of proﬁt or loss for the year ended 31 October 20X7
+
+                                                                                                       £’000
+   Revenue                                                                                          53,761
+   Cost of sales (W1)                                                                              (33,462)
+
+
+
+
+  ICAEW 2024                           12: Company ﬁnancial statements under IFRS Accounting Standards     241
+                                                          £’000
+Gross proﬁt                                               20,299
+Distribution costs (W2)                                   (6,687)
+Administrative expenses (W3)                              (4,400)
+Operating proﬁt/(loss)                                     9,212
+Finance costs                                             (2,372)
+Proﬁt/(loss) before tax                                    6,840
+Income tax expense                                        (1,254)
+Proﬁt/(loss) for the period                                5,586
+
+Statement of ﬁnancial position as at 31 October 20X7
+
+                                                          £’000
+ASSETS
+Non-current assets
+Property, plant, and equipment
+Land and buildings (W4)                                   17,000
+Plant and equipment (W4)                                  13,486
+                                                          30,486
+Current assets
+Inventories (12,232.5 × 100/125)                           9,786
+Prepayments (W3)                                             32
+Trade receivables (W5)                                    10,239
+Cash and cash equivalents (7,997 – 15)                     7,982
+                                                          28,039
+Total assets                                              58,525
+EQUITY AND LIABILITIES
+Equity
+Equity share capital                                      15,000
+Retained earnings (W6)                                    14,531
+Total equity                                              29,531
+Non-current liabilities
+Lease liability                                           19,834
+
+
+
+Current liabilities
+Trade payables                                             3,348
+Accruals (387 + 33) (W2)                                    420
+Income tax payable                                         1,254
+Provision                                                   250
+Lease liability                                            3,888
+
+
+
+
+242   Accounting                                       ICAEW 2024
+                                                                                               £’000
+                                                                                               9,160
+Total liabilities                                                                             28,994
+Total equity and liabilities                                                                  58,525
+
+WORKINGS
+(1) Cost of sales
+
+                                                                                               £’000
+     Opening inventories                                                                       8,456
+     Purchases                                                                                30,946
+     Plant and equipment depreciation charge on leased assets (W3)                             3,846
+     Closing inventories (12,232.5/1.25)                                                      (9,786)
+                                                                                              33,462
+
+(2) Distribution costs
+
+                                                                                               £’000
+     Distribution costs per TB                                                                 6,654
+     Accruals (Haulage contract 200 × 2/12)                                                          33
+                                                                                               6,687
+
+(3) Administrative expenses
+
+                                                                                               £’000
+     Administrative expenses per TB                                                            3,652
+     Freehold buildings depreciation charge (W4)                                                    500
+     Irrecoverable debt                                                                              30
+     Warranty provision                                                                             250
+     Prepayments (48 × 8/12)                                                                        (32)
+                                                                                               4,400
+
+(4) Property, plant and equipment
+
+                                                            Freehold
+                                                            land and          Leased
+                                                            buildings           plant              Total
+                                                                £’000          £’000           £’000
+     Cost                                                      20,000         38,460
+     Acc depn b/d                                               (2,500)      (21,128)
+     For year (20,000/40), (38,460 × 10%)                         (500)        (3,846)        –––––
+     Carrying amount c/f                                       17,000         13,486          30,486
+
+(5) Trade receivables
+
+                                                                                               £’000
+     Trade receivables                                                                        10,254
+
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards     243
+                                                                                £’000
+        Irrecoverable debt (Unauthorised payment)                                  (15)
+                                                                             10,239
+
+  (6)
+                                       RETAINED EARNINGS
+
+                                             £’000                              £’000
+           Dividends paid                    1,300   b/d                    10,245
+           c/d (bal ﬁg)                     14,531   Proﬁt for the year         5,586
+                                            15,831                          15,831
+
+
+
+5 Corolla plc
+
+   Marking guide                                                          Marks
+
+   Revenue                                                                 .5
+   Cost of sales                                                            1
+   Distribution costs                                                       1
+   Administrative expenses                                                  1
+   Finance costs                                                            1
+   Income tax expense                                                      .5
+   Land and buildings                                                       1
+   Plant and equipment                                                      1
+   Inventories                                                             .5
+   Receivables                                                              1
+   Prepayments                                                              1
+   Cash                                                                    .5
+   Equity share capital                                                   1.5
+   Retained earnings                                                      1.5
+   Loan                                                                    .5
+   Payables                                                                 1
+   Accruals                                                                 1
+   Income tax payable                                                      .5
+   Maximum                                                                         16
+   Total                                                                           16
+
+
+  Statement of proﬁt or loss for the year ended 31 October 20X8
+
+                                                                                £’000
+   Revenue                                                                   58,411
+   Cost of sales (W1)                                                       (43,342)
+   Gross proﬁt                                                               15,069
+   Distribution costs (W2)                                                      (6,026)
+   Administrative expenses (W2)                                                 (5,360)
+
+
+
+
+  244      Accounting                                                     ICAEW 2024
+                                                                                                £’000
+Operating proﬁt/(loss)                                                                          3,683
+Finance costs (8% × 15,000)                                                                    (1,200)
+Proﬁt/(loss) before tax                                                                         2,483
+Income tax expense                                                                                  (970)
+Proﬁt/(loss) for the period                                                                     1,513
+
+
+
+
+Statement of ﬁnancial position as at 31 October 20X8
+
+                                                                                                £’000
+ASSETS
+Non-current assets
+Property, plant and equipment
+Land and buildings (W3)                                                                        27,752
+Plant and equipment (W3)                                                                        4,080
+                                                                                               31,832
+Current assets
+Inventories                                                                                     7,878
+Trade receivables (5,436 – 272)                                                                 5,164
+Prepayments (45,000 × 8/12)                                                                          30
+Cash and cash equivalents                                                                       9,774
+                                                                                               22,846
+Total assets                                                                                   54,678
+EQUITY AND LIABILITIES
+Equity
+Equity share capital (W6)                                                                      25,000
+Retained earnings (W4)                                                                          9,814
+                                                                                               34,814
+Non-current liabilities
+Borrowings                                                                                     15,000
+Current liabilities
+Trade payables (W5)                                                                             2,843
+Accruals (436 + 600 + 15)                                                                       1,051
+Income tax payable                                                                                  970
+                                                                                                4,864
+Total equity and liabilities                                                                   54,678
+
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards    245
+WORKINGS
+(1) Cost of sales
+
+                                                                                                  £’000
+      Opening inventories                                                                         9,032
+      Purchases                                                                                  41,620
+      Depreciation (40% × 1,420 (W3))                                                               568
+      Closing inventories                                                                        (7,878)
+                                                                                                 43,342
+
+(2) Allocation of costs
+
+                                                                        Administrative      Distribution
+                                                                            expenses               costs
+                                                                                £’000             £’000
+      Per TB                                                                    4,789             5,443
+      Accrual (45,000 × 1/3)                                                                         15
+      Depreciation (1,420 × 20%, 1,420 × 40% (W3))                                284               568
+      Insurance (45,000 × 4/12)                                                    15
+      Allowance for receivables (5,436 × 5%)                                      272            –––––
+                                                                                5,360             6,026
+
+(3) Property, plant and equipment
+
+                                                                                Plant and
+                                                         Land    Buildings     equipment           Total
+                                                        £’000        £’000         £’000          £’000
+      Cost at 1 Nov 20X7                               15,152       20,000         12,500
+      Accumulated depreciation at 1 Nov 20X7                         (7,000)       (7,400)
+      Charge (20,000 × 2%); ((12,500 – 7,400) ×
+        20%)                                           ––––––         (400)        (1,020)       –––––
+
+      Carrying amount                                  15,152       12,600          4,080        31,832
+
+(4)
+                                        RETAINED EARNINGS
+
+                                               £’000                                             £’000
+      Dividends paid                           1,500     b/d                                     9,801
+      c/d (bal ﬁg)                             9,814     Proﬁt for the year                      1,513
+                                            11,314                                              11,314
+
+(5) Trade payables
+
+                                                                                                  £’000
+      Trade payables                                                                              2,798
+      Error in treatment of insurance payment *                                                      45
+                                                                                                  2,843
+
+
+
+
+246   Accounting                                                                             ICAEW 2024
+        * In a computerised accounting system, transactions posted to a supplier’s personal account are
+        also automatically included in trade payables, therefore we need to add back the payment
+        deducted from trade payables in error.
+  (6)
+                                         EQUITY SHARE CAPITAL
+
+                                                £’000                                               £’000
+                                                          Per TB                                20,000
+           c/fwd                               25,000     Bonus issue (share premium)               5,000
+                                               25,000                                           25,000
+
+  (7)
+                                            SHARE PREMIUM
+
+                                                £’000                                               £’000
+           Equity share capital                 5,000     Per TB                                    5,000
+                                                5,000                                               5,000
+
+
+
+6 Ariel plc
+
+   Marking guide                                                                             Marks
+
+   Revenue                                                                                     .5
+   Cost of sales                                                                              1.5
+   Distribution costs                                                                         1.5
+   Administrative expenses                                                                    1.5
+   Finance costs                                                                               .5
+   Income tax expense                                                                          .5
+   Land and buildings                                                                           1
+   Plant and equipment                                                                        1.5
+   Inventories                                                                                 .5
+   Receivables                                                                                  1
+   Prepayments                                                                                 .5
+   Cash                                                                                        .5
+   Equity share capital                                                                        .5
+   Retained earnings                                                                          1.5
+   Borrowings                                                                                  .5
+   Payables                                                                                    .5
+   Accruals                                                                                     1
+   Provision                                                                                   .5
+   Income tax payable                                                                          .5
+   Maximum                                                                                            16
+   Total                                                                                              16
+
+
+
+
+  Statement of proﬁt or loss for the year ended 31 March 20X2
+
+
+
+  ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards    247
+                                                        £’000
+Revenue                                                 35,547
+Cost of sales (W1)                                     (28,354)
+Gross proﬁt                                              7,193
+Distribution costs (W2)                                 (1,933)
+Administrative expenses (W2)                            (2,232)
+Operating proﬁt/(loss)                                   3,028
+Finance costs                                             (411)
+Proﬁt/(loss) before tax                                  2,617
+Income tax expense                                        (874)
+Proﬁt/(loss) for the period                              1,743
+
+Statement of ﬁnancial position as at 31 March 20X2
+
+                                                        £’000
+ASSETS
+Non-current assets:
+Buildings (W3)                                           1,354
+Plant and machinery (W3)                                 9,250
+                                                        10,604
+Current assets:
+Inventories                                              4,067
+Trade receivables (2,133 – 95)                           2,038
+Prepayments                                               123
+Cash and cash equivalents                                2,887
+                                                         9,115
+Total assets                                            19,719
+Equity and liabilities:
+Equity
+Equity share capital                                     5,000
+Retained earnings (W4)                                   5,418
+                                                        10,418
+Non-current liabilities:
+Borrowings (Bank loan)                                   6,850
+Current liabilities:
+Trade payables
+Accruals (129 + 76)                                       205
+Provision                                                  25
+Income tax payable                                        874
+                                                         2,451
+
+
+
+
+248   Accounting                                     ICAEW 2024
+                                                                                                   £’000
+   Total equity and liabilities                                                                   19,719
+
+  WORKINGS
+  (1) Cost of sales
+
+                                                                                                   £’000
+        Opening inventories                                                                        3,790
+        Purchases                                                                                 27,481
+        Closing inventories                                                                        (4,067)
+        Impairment loss (12,750 – 3,100 – 8,500)                                                   1,150
+                                                                                                  28,354
+
+  (2) Allocation of costs
+
+                                                                     Administrative          Distribution
+                                                                         expenses                   costs
+                                                                              £’000                £’000
+        Per TB                                                                2,235                1,857
+        Accruals (114 × 2/3)                                                                           76
+        Prepayment (164 × 3/4)                                                  (123)
+        Provision                                                                  25
+        Irrecoverable debt                                                         95          ––––––––
+                                                                              2,232                1,933
+
+  (3) PPE
+
+                                                                      Buildings         Plant & Machinery
+                                                                          £’000                    £’000
+        Cost/Value                                                       17,630                   14,000
+        Accumulated depreciation                                        (16,276)                   (3,600)
+        Impairment loss                                               –––––––                      (1,150)
+                                                                          1,354                    9,250
+
+  (4)
+                                         RETAINED EARNINGS
+
+                                               £’000                                              £’000
+        Dividends paid                             920   b/d                                       4,595
+        c/d (bal ﬁg)                            5,418    Proﬁt for the year                        1,743
+                                                6,338                                              6,338
+
+
+
+7 Enercell plc
+
+   Marking guide                                                                               Marks
+
+
+
+
+  ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards    249
+                                                                  1
+Distribution costs                                                1
+Administrative expenses                                           1
+Finance costs                                                     1
+Income tax expense                                               .5
+Property                                                          1
+Plant and equipment                                               1
+Inventories                                                       1
+Trade receivables                                                .5
+Prepayments                                                       1
+Cash and cash equivalents                                         1
+Share capital                                                     1
+Share premium                                                    .5
+Retained earnings                                                 1
+Borrowings                                                       .5
+Trade payables                                                    1
+Accruals                                                          1
+Income tax payable                                               .5
+Provision                                                        .5
+Maximum                                                                  16
+Total                                                                    16
+
+
+Statement of proﬁt or loss for the year ended 31 October 20X7
+
+                                                                      £’000
+Gross proﬁt (W1)                                                   35,939
+Distribution costs (W2)                                               (9,993)
+Administrative expenses (W2)                                      (12,699)
+Operating proﬁt/(loss)                                             13,247
+Finance costs (5% x 30,000)                                           (1,500)
+Proﬁt/(loss) before tax                                            11,747
+Income tax expense                                                    (1,881)
+Proﬁt/(loss) for the period                                           9,866
+
+Statement of ﬁnancial position as at 31 October 20X7
+
+                                                                      £’000
+ASSETS
+Non-current assets
+Property, plant, and equipment
+Buildings (W3)                                                     25,500
+Plant and equipment (W3)                                           20,229
+                                                                   45,729
+
+
+
+Current assets
+
+
+
+
+250     Accounting                                              ICAEW 2024
+                                                                                               £’000
+Inventories (18,000 × 100/125)                                                                14,400
+Trade receivables                                                                             15,381
+Prepayments (W2)                                                                                    48
+Cash and cash equivalents (11,996 – 9)                                                        11,987
+                                                                                              41,816
+Total assets                                                                                  87,545
+EQUITY AND LIABILITIES
+Equity
+Equity share capital (W4)                                                                     22,000
+Share premium (W5)                                                                                 500
+Retained earnings (W6)                                                                        26,434
+                                                                                              48,934
+Non-current liabilities
+Borrowings (Bank loan)                                                                        30,000
+Current liabilities
+Trade payables (5,022 – 9)                                                                     5,013
+Accruals (580 + 12) + ((30,000 × 5%) × 3/12)                                                       967
+Income tax payable                                                                             1,881
+Provision                                                                                          750
+                                                                                               8,611
+Total equity and liabilities                                                                  87,545
+
+WORKINGS
+(1) Gross proﬁt
+
+                                                                                               £’000
+    Gross proﬁt                                                                               39,539
+    Change in inventory (18,000 – (18,000 × 100/125))                                         (3,600)
+                                                                                              35,939
+
+(2) Administrative expenses
+
+                                                                                               £’000
+    Administrative expenses                                                                    5,478
+    Freehold buildings depreciation charge (W3)                                                    750
+    Plant and equipment depreciation charge (W3)                                               5,769
+    Prepayments – insurance (72 × 8/12)                                                            (48)
+    Provision (see Note 6)                                                                         750
+                                                                                              12,699
+
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards    251
+  (3) Distribution costs
+
+                                                                                                  £’000
+        Distribution costs                                                                        9,981
+        Rent accrual (4 × 3 months)                                                                  12
+                                                                                                  9,993
+
+  (4) Property, plant and equipment
+
+                                                                Freehold
+                                                                buildings          Plant           Total
+                                                                    £’000         £’000           £’000
+        Cost                                                       30,000         57,690
+        Acc depn                                                    (3,750)    (31,692)
+        For year ((30,000)/40); (57,690 × 10%)                       (750)        (5,769)      –––––
+        Carrying amount                                            25,500         20,229       45,729
+
+  (5)
+                                            SHARE CAPITAL
+
+                                                 £’000                                            £’000
+                                                          b/d                                 20,000
+        c/d (bal ﬁg)                             22,000   Bonus (share premium)                   2,000
+                                                 22,000                                       22,000
+
+  (6)
+                                           SHARE PREMIUM
+
+                                                 £’000                                            £’000
+        Bonus issue                               2,000   b/d                                     2,500
+        c/d (bal ﬁg)                               500                                        –––––
+                                                  2,500                                           2,500
+
+  (7)
+                                         RETAINED EARNINGS
+
+                                                 £’000                                            £’000
+        Dividends paid                            1,950   b/d                                 18,518
+        c/d (bal ﬁg)                             26,434   Proﬁt for the year                      9,866
+                                                 28,384                                       28,384
+
+
+
+8 Liquid plc
+
+   Marking guide                                                                            Marks
+
+   Statement of proﬁt or loss
+   Revenue                                                                                   .5
+
+
+
+
+  252   Accounting                                                                          ICAEW 2024
+Cost of sales                                                                                1
+Distribution costs                                                                           1
+Administrative expenses                                                                      1
+Other operating expenses                                                                     1
+Finance costs                                                                               .5
+Income tax expense                                                                          .5
+Statement of ﬁnancial position
+Land and buildings                                                                           1
+Plant and equipment                                                                          1
+Inventories                                                                                 .5
+Trade receivables                                                                            1
+Prepayments                                                                                 .5
+Equity share capital                                                                         1
+Retained earnings                                                                            1
+Borrowings                                                                                  .5
+Bank overdraft                                                                              .5
+Trade payables                                                                               1
+Accruals                                                                                    .5
+Deferred income                                                                             .5
+Provision                                                                                    1
+Income tax payable                                                                          .5
+Maximum                                                                                            16
+Total                                                                                              16
+
+
+
+
+Statement of proﬁt or loss for the year ended 31 December 20X6
+
+                                                                                       £
+Revenue                                                                       1,590,000
+Cost of sales (W1)                                                             (541,700)
+Gross proﬁt                                                                   1,048,300
+Distribution costs (W1)                                                        (231,000)
+Administrative expenses (W1)                                                   (191,500)
+Other operating expenses (W2)                                                    (69,000)
+Operating proﬁt/(loss)                                                          556,800
+Finance costs (W3)                                                                (3,000)
+Proﬁt/(loss) before tax                                                         553,800
+Income tax expense                                                               (45,000)
+Proﬁt/(loss) for the period                                                     508,800
+
+Statement of ﬁnancial position as at 31 December 20X6
+
+                                                                                       £
+Non-current assets
+Property, plant, and equipment
+Land and buildings (W4)                                                         779,500
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards   253
+                                                                            £
+Plant and equipment (W4)                                          145,300
+                                                                  924,800
+Current assets
+Inventories (W1)                                                  120,000
+Trade receivables (W2)                                              16,000
+Prepayments (W1)                                                     5,000
+Cash and cash equivalents                                                   0
+                                                                  141,000
+Total assets                                                    1,065,800
+
+
+Equity
+Equity share capital (W6)                                         350,000
+Preference share capital                                                    0
+Share premium (W6)                                                          0
+Retained earnings (W5)                                            556,800
+                                                                  906,800
+Non-current liabilities
+Redeemable 6% preference shares                                     50,000
+
+
+Current liabilities
+Borrowings                                                                  0
+Bank overdraft                                                       8,000
+Trade payables                                                      20,000
+Accruals                                                             5,000
+Redeemable 6% preference dividend accrued                            2,000
+Deferred income                                                      4,000
+Provision (W2)                                                      25,000
+Income tax payable                                                  45,000
+                                                                  109,000
+Total equity and liabilities                                    1,065,800
+
+WORKINGS
+(1) Allocation of costs
+
+                                            Administrative   Distribution         Cost of
+                                                expenses            costs           sales
+                                                        £              £               £
+      Opening inventories                                                          35,000
+      Per TB                                      169,000       236,000          600,000
+      Depreciation (W4)                            17,500                          26,700
+
+
+
+254   Accounting                                                                ICAEW 2024
+                                                        Administrative        Distribution            Cost of
+                                                            expenses                 costs              sales
+                                                                      £                   £                £
+     Rent prepayment                                                               (5,000)
+     Accrual (Insurance)                                          5,000
+     Closing inventory                                          –––––––         –––––––             (120,000)
+                                                                191,500          231,000             541,700
+
+    Note: Read the question carefully to make sure you allocate the depreciation to the right line of
+    expenditure. There is no depreciation on land because it has an unlimited useful life.
+(2) Irrecoverable debts, warranty provision and trade receivables
+
+                                                                     Other operating                    Trade
+                                                                           expenses               receivables
+                                                                                      £                    £
+     Per TB (Irrecoverable debts/Trade receivables)                             15,000                45,000
+     Irrecoverable debt written off                                             13,000               (13,000)
+     Warranty provision                                                         25,000
+     Allowance for receivables                                                  16,000               (16,000)
+                                                                                69,000                16,000
+
+(3) Finance costs
+
+                                                                                                           £
+     Redeemable 6% preference dividend paid per TB                                                     1,000
+     Accrued preference dividend                                                                       2,000
+     Current period ﬁnance cost (50,000 × 6%)                                                          3,000
+
+(4) Property, plant and equipment
+
+                                                                                 Plant and
+                                                      Land       Buildings      equipment               Total
+                                                            £             £                   £            £
+     Cost or valuation                            100,000         875,000          267,000
+     Accumulated dep’n                           –––––––         (178,000)          (95,000)
+     Carrying amount per TB                       100,000         697,000          172,000
+     Depreciation charge                         –––––––          (17,500)          (26,700)         ––––––
+     Carrying amount 31 December 20X8             100,000         679,500          145,300           924,800
+
+(5) Retained earnings
+
+                                                                                                           £
+     Opening retained earnings                                                                        53,000
+     Proﬁt for the year (from Statement of proﬁt or loss)                                            508,800
+     Dividends paid                                                                                   (5,000)
+     Closing retained earnings                                                                       556,800
+
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards         255
+  (6) Equity
+
+                                                                Equity share
+                                                                     capital   Share premium
+                                                                          £                  £
+           Per TB                                                   300,000           50,000
+           1 for 6 bonus issue (300,000/6)                           50,000          (50,000)
+                                                                    350,000                   0
+
+
+
+9 Colbolt plc
+
+   Marking guide                                                                   Marks
+
+   Gross proﬁt                                                                       1
+   Distribution costs                                                                1
+   Administrative expenses                                                           1
+   Finance costs                                                                     1
+   Income tax expense                                                               .5
+   Property                                                                          1
+   Plant and equipment                                                               1
+   Inventories                                                                       1
+   Trade receivables                                                                 1
+   Prepayments                                                                       1
+   Cash and cash equivalents                                                         1
+   Share capital                                                                     1
+   Share premium                                                                    .5
+   Retained earnings                                                                 1
+   Borrowings                                                                       .5
+   Trade payables                                                                    1
+   Accruals                                                                          1
+   Income tax payable                                                               .5
+   Maximum                                                                                  16
+   Total                                                                                    16
+
+
+  Statement of proﬁt or loss for the year ended 31 March 20X7
+
+                                                                                             £
+   Gross proﬁt (W1)                                                                   30,364
+   Distribution costs (W2)                                                               (4,548)
+   Administrative expenses (W2)                                                      (21,469)
+   Operating proﬁt/(loss)                                                                4,347
+   Finance costs (6% × 25,000)                                                           (1,500)
+   Proﬁt/(loss) before tax                                                               2,847
+   Income tax expense                                                                    (1,566)
+   Proﬁt/(loss) for the period                                                           1,281
+
+
+
+
+  256      Accounting                                                              ICAEW 2024
+Statement of ﬁnancial position as at 31 March 20X7
+
+                                                                                                       £
+ASSETS
+Non-current assets
+Property, plant, and equipment
+Freehold buildings (W3)                                                                        26,829
+Plant and equipment (W3)                                                                       18,385
+                                                                                               45,214
+Current assets
+Inventories (19,000 × 100/120)                                                                 15,833
+Trade receivables (12,039 – 165 – 4,500)                                                        7,374
+Prepayments (W2)                                                                                     20
+Cash and cash equivalents (9,997 + 9)                                                          10,006
+                                                                                               33,233
+Total assets                                                                                   78,447
+EQUITY AND LIABILITIES
+Equity
+Equity share capital (W4)                                                                      19,800
+Share premium (W5)                                                                              2,700
+Retained earnings (W6)                                                                         20,903
+                                                                                               43,403
+Non-current liabilities
+Borrowings (bank loan)                                                                         25,000
+Current liabilities
+Trade payables (7,954 + 9)                                                                      7,963
+Accruals (140 + (1,500 – 1,125)                                                                     515
+Income tax payable                                                                              1,566
+                                                                                               10,044
+Total liabilities                                                                              35,044
+Total equity and liabilities                                                                   78,447
+
+WORKINGS
+(1) Gross proﬁt
+
+                                                                                                       £
+     Gross proﬁt                                                                               33,931
+     Change in inventory (adjust for proﬁt 19,000 x 20/120)                                    (3,167)
+     Impairment (8,000 – 3,100) – 4,500)                                                            (400)
+                                                                                               30,364
+
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards     257
+(2) Distribution costs
+
+                                                                                                    £
+      Distribution costs                                                                         4,548
+
+      Administrative expenses
+
+                                                                                                    £
+      Administrative expenses                                                                    8,800
+      Freehold buildings depreciation charge (W3)                                                 813
+      Plant and equipment depreciation charge (W3)                                               7,211
+      Prepayments – rent (30 × 2/3)                                                                (20)
+      Irrecoverable debts (165 + 4,500)                                                          4,665
+                                                                                                21,469
+
+(3) Property, plant and equipment
+
+                                                                  Freehold
+                                                                  buildings         Plant        Total
+                                                                              £         £           £
+      Cost                                                           32,520       57,688
+      Acc depn                                                       (4,878)      (31,692)
+      For year ((32,520)/40), (57,688 × 12.5%)                         (813)       (7,211)
+      Impairment (8,000 – 3,100) – 4,500)                                     0      (400)
+      Carrying amount                                                26,829       18,385        45,214
+
+(4)
+                                            SHARE CAPITAL
+
+                                                    £                                               £
+                                                         b/d                                   18,000
+       c/d (bal ﬁg)                          19,800      Bonus (share premium)                  1,800
+                                             19,800                                            19,800
+
+(5)
+                                            SHARE PREMIUM
+
+                                                    £                                               £
+       Bonus issue                               1,800   b/d                                    4,500
+       c/d (bal ﬁg)                              2,700                                         –––––
+                                                 4,500                                          4,500
+
+(6)
+                                          RETAINED EARNINGS
+
+                                                    £                                               £
+       Dividends paid                            2,100   b/d                                   21,722
+       c/d (bal ﬁg)                          20,903      Proﬁt for the year                     1,281
+
+
+
+258    Accounting                                                                            ICAEW 2024
+                                                    £                                                   £
+                                              23,003                                            23,003
+
+
+
+10 Waterford plc
+
+    Marking guide                                                                            Marks
+
+   Gross proﬁt                                                                                  1
+   Distribution costs                                                                          .5
+   Administrative expenses                                                                      1
+   Finance costs                                                                                1
+   Income tax expense                                                                          .5
+   Property                                                                                     1
+   Plant and equipment                                                                          1
+   Motor vehicles                                                                             1.5
+   Inventories                                                                                  1
+   Trade receivables                                                                            1
+   Prepayments                                                                                 .5
+   Cash and cash equivalents                                                                   .5
+   Share capital                                                                                1
+   Share premium                                                                               .5
+   Retained earnings                                                                            1
+   Borrowings                                                                                  .5
+   Trade payables                                                                              .5
+   Accruals                                                                                     1
+   Deferred income                                                                             .5
+   Income tax payable                                                                          .5
+   Maximum                                                                                             16
+   Total                                                                                               16
+
+
+   Statement of proﬁt or loss for the year ended 31 May 20X6
+
+                                                                                                        £
+    Gross proﬁt (W1)                                                                             37,151
+    Distribution costs (W2)                                                                     (10,089)
+    Administrative expenses (W2)                                                                (29,989)
+    Operating proﬁt/(loss)                                                                          (2,927)
+    Finance costs (14,000 × 7.5%)                                                                   (1,050)
+    Proﬁt/(loss) before tax                                                                         (3,977)
+    Income tax expense                                                                              (8,000)
+    Proﬁt/(loss) for the period                                                                 (11,977)
+
+   Statement of ﬁnancial position as at 31 May 20X6
+
+                                                                                                        £
+    ASSETS
+
+
+
+
+   ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards    259
+                                           £
+Non-current assets
+Property, plant, and equipment
+Property (W3)                         71,410
+Plant and equipment (W3)              16,162
+Motor vehicles (W3)                    3,383
+                                      90,955
+Current assets
+Inventories (3,757 – 78)               3,679
+Trade receivables (W4)                 7,993
+Prepayments                              55
+Cash and cash equivalents              5,678
+                                      17,405
+Total assets                        108,360
+EQUITY AND LIABILITIES
+Equity
+Equity share capital (W5)             31,250
+Share premium (W6)                     9,000
+Retained earnings (W7)                35,567
+                                      75,817
+Non-current liabilities
+Borrowings (Bank loan)                14,000
+Current liabilities
+Trade payables                          675
+Accruals (567 + 450)                   1,017
+Deferred income                        8,851
+Income tax payable                     8,000
+                                      18,543
+Total equity and liabilities        108,360
+
+WORKINGS
+(1) Gross proﬁt
+
+                                          £
+      Gross proﬁt                     45,998
+      Loss on disposal (W9)           (3,667)
+      Motor vehicle depreciation      (2,250)
+      Change in inventory                (78)
+      Plant depreciation              (2,852)
+                                      37,151
+
+
+
+
+260   Accounting                   ICAEW 2024
+(2) Administrative expenses
+
+                                                                                                              £
+      Administrative expenses                                                                        27,557
+      Insurance prepaid                                                                                     (55)
+      Building depreciation                                                                           1,590
+      Receivables allowance (W4)                                                                           897
+                                                                                                     29,989
+
+      Distribution costs
+
+                                                                                                              £
+      Distribution costs                                                                             10,089
+
+(3) Property, plant and equipment
+
+                                                             Buildings              Plant       Motorvehicles
+
+                                                                    £                  £                      £
+
+      Cost                                                     80,000             26,100              17,000
+
+      Acc depn                                                  7,000              7,086                  5,200
+
+      Carrying amount b/fwd                                    73,000             19,014              11,800
+
+      Depreciation expense ((80,000 – 500)/50),
+         (19,014 × 15%), ((17,000 – 8,000) × 25%)               (1,590)            (2,852)                (2,250)
+
+      Disposal (8,000 – (8,000 × 25% × 11/12)                                                             (6,167)
+
+                                                             ––––––             ––––––              ––––––
+      Carrying amount                                          71,410             16,162                  3,383
+
+
+(4) Receivables and allowances for receivables
+
+                                                                                                              £
+      Trade receivables                                                                               8,890
+      Irrecoverable debt                                                                                  (650)
+                                                                                                      8,240
+      3% allowance for receivables                                                                        (247)
+                                                                                                      7,993
+
+(5)
+                                                    SHARE CAPITAL
+
+                                                         £                                                   £
+                                                              b/d                                   25,000
+                                                         –    Bonus issue (25,000/4)                 6,250
+                                                         0                                          31,250
+
+(6)
+
+
+
+
+ICAEW 2024                              12: Company ﬁnancial statements under IFRS Accounting Standards      261
+                                            SHARE PREMIUM
+
+                                                  £                                       £
+                                                       b/d                            9,000
+                                                                                     –––––
+                                                                                      9,000
+
+    (7)
+                                           RETAINED EARNINGS
+
+                                                  £                                       £
+           Dividends paid                        600   b/d                           48,144
+           Loss for the year                  11,977
+           c/d (bal ﬁg)                       35,567                                ––––––
+                                              48,144                                 48,144
+
+    (8)
+                                               SUSPENSE
+
+                                                  £                                       £
+           Disposal account                    2,500   b/d                           17,601
+           Bonus issue                         6,250
+           Deferred income                     8,851                                ––––––
+                                              17,601                                 17,601
+
+    (9)
+                                           DISPOSAL ACCOUNT
+
+                                                  £                                       £
+                                                       Motor vehicle accumulated
+           Motor vehicle cost                  8,000     depreciation                 1,833
+                                                       Suspense                       2,500
+                                              –––––    Loss on disposal               3,667
+                                               8,000                                  8,000
+
+
+
+11 Correct answer(s):
+    B     £112,800
+
+                                                                                           £
+     Retained earnings at 1 January 20X6                                            151,600
+     Bonus issue                                                                      (5,000)
+     Dividend paid                                                                   (16,000)
+     Loss for the year                                                               (17,800)
+     Retained earnings at 31 December 20X6                                          112,800
+
+
+
+
+    262    Accounting                                                              ICAEW 2024
+    Option (A) incorrectly adds the loss for the year, option (C) incorrectly adds the proceeds on issue of
+    shares and option (D) ignores the bonus issue and the dividend paid.
+
+
+12 Correct answer(s):
+    D   £130,000
+
+                                                                                                         £
+    Share capital at 1 January 20X8                                                               100,000
+    Issue of shares (20,000 × £1)                                                                  20,000
+    Bonus issue                                                                                    10,000
+    Share capital at 31 December 20X8                                                             130,000
+
+    Option (A) include the share premium on issue, option (B) deducts the dividend paid and option (C)
+    includes the share premium on issue and incorrectly deducts the bonus issue.
+
+
+13 Correct answer(s):
+    B   1 and 3 only
+    A bonus issue impacts the share capital and retained earnings column and dividends aid to equity
+    shareholders impacts on retained earnings. A bank loan affects non-current liabilities and cash and is
+    therefore not recorded in the statement of changes in equity.
+
+
+14 Correct answer(s):
+    A   £64,800
+    Only the dividend payable on the redeemable 5% preference shares impacts on proﬁt for the year.
+    Redeemable preference shares are classiﬁed as liabilities and any dividends paid are therefore
+    treated as ﬁnance costs. Dividends on ordinary shares and irredeemable preference shares are
+    deductions from retained earnings presented in the equity section of the statement of ﬁnancial
+    position.
+
+                                                                                                         £
+    Proﬁt for the year                                                                             69,800
+    Finance cost (£100,000 × 5%)                                                                    (5,000)
+    Revised proﬁt for the year                                                                     64,800
+
+
+
+
+    ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards   263

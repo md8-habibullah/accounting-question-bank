@@ -1,0 +1,38 @@
+6.2   Accountingfor non-current asset disposals
+We canrecord thedisposal of non-current assets in a disposals ledgeraccountusing journal
+entries.
+Thefollowing items appear in the disposals account:
+thecostoftheasset
+the accumulated depreciationup to the date of sale
+thedisposalproceeds,ifany
+The profitorloss on disposal is the differencebetween:
+thedisposal proceeds,and
+thecarryingamountoftheassetat thetimeofdisposal.
+The journal entries are as follows:
+DEBIT   Disposalaccount   CUX
+CREDITNon-currentassetcostaccount   CUX
+withthe costof the asset disposed of (the cost oftheasset isremoved from the statement of
+financialposition).
+DEBIT   Accumulateddepreciation account   CUX
+CREDIT Disposal account   CUX
+with the accumulated depreciation on the assetas at thedate of sale (theaccumulated
+depreciation on theasset isremoved fromthe.statementoffinancial position).
+DEBIT   Cashatbankaccount (orreceivables)   CUX
+CREDITDisposalaccount   CUX
+withthedisposal proceeds oftheasset.
+Thebalance on the disposal account is the profit or loss on disposal is recorded in the
+statementofprofitor loss.
+Worked example:Accountingforthedisposal ofnon-current assets
+Abusiness has CU110,000 worthofmachineryatcostts policy isto depreciateat20%per
+annum straight line.Thetotal accumulated depreciation now stands at CU70,000.The
+businesssellsforCU19,000amachinewhich itpurchased exactly twoyears agoforCU30,000.
+Requirement
+Show the relevant ledger entries.
+Solution
+MACHINERY-COST
+CU
+Balanceb/d   110,000   Disposals   30,000
+Balancecld   80,000
+110,000   110,000
+Balance b/d   80,000
+ICAB2026   Non-currentassets,depreciation and impairment   335

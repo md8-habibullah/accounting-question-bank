@@ -1,0 +1,23 @@
+Summary
+Irrecoverable debts
+Write off:
+DR   Irrecoverabledebtsexpense(statementofprofitorloss)
+CR   Tradereceivables(statementof financial position)
+Cashreceived re,debt written off:
+DR   Cashatbank (statementoffinancial position)
+CR   Irrecoverabledebtsexpense(statementofprofitorloss)
+Allowanceforreceivables
+Set upan allowance:
+DR   Irrecoverabledebtsexpense (statementofprofit orloss)
+CR   Allowanceforreceivables(statementoffinancial
+position-netofftradereceivables)
+ALLOWANCEFORRECEIVABLES
+Decrease   Balancebld
+Balancecld   Increase
+Increasean allowance
+DR   Irrecoverabledebts expense (statementofprofitorloss)
+CR   Allowanceforreceivables (statementoffinancial position)
+Decrease an allowance
+DR   Allowanceforreceivables (statementoffinancialposition)
+CR   Irrecoverabledebtsexpense (statementofprofitorloss)
+ICAB2026   Irrecoverabledebts andthe allowanceforteceivables   263

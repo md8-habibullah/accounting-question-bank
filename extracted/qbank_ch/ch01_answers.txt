@@ -1,0 +1,197 @@
+    Chapter 1: Introduction to accounting
+1   Correct answer(s):
+    C   on the acquisition of non-current assets, or improvement in their earning capacity
+    Capital expenditure relates to the acquisition of, or improvement of the earning capacity of, non-
+    current assets.
+
+
+2   Correct answer(s):
+    D   Legal fees incurred on the purchase of a building
+    Professional fees incurred on the acquisition of a non-current asset are capitalised as part of the cost
+    of that asset. The other costs are revenue expenditure and are therefore written off as expenses in the
+    year.
+
+
+3   Correct answer(s):
+    B   £800 spent on purchasing a new laptop to replace the secretary’s old one
+    Item A is drawings, C is the acquisition of a current asset in the form of inventory, and D is a revenue
+    expense.
+
+
+4   Correct answer(s):
+    D   Materiality
+    Information is affected by its materiality. A, B and C are all characteristics contributing to information
+    being a faithful representation of what it claims to represent.
+
+
+5   Correct answer(s):
+    A   Comparability, understandability, timeliness, veriﬁability
+    This is set out in paragraph 2.23-2.36 of the Conceptual Framework for Financial Reporting.
+
+
+6   Correct answer(s):
+    A   Establish levels of tax revenue
+    C   Produce national statistics
+    The government and its agencies require information relating to both tax and national statistics.
+    Whether the business will continue as a going concern (B) is an issue for the sole trader, its suppliers,
+    customers and employees. Probably only the sole trader is interested in their own stewardship (D) of
+    the business’s resources; this is really only an issue for company owners, as is (E).
+    SAMPLE EXAM (amended)
+
+
+7   Correct answer(s):
+    B   the statement of ﬁnancial position
+    The ﬁnancial position of an entity is reﬂected in the resources it controls (assets), ﬁnancial structure
+    (debt and capital), liquidity (cash) and solvency (ability to pay its debts). Most of this information is
+    provided in the statement of ﬁnancial position (B).
+    The statement of proﬁt or loss primarily provides information about an entity’s ﬁnancial performance,
+    while the statement of cash ﬂows reﬂects changes in the cash position in the period. Retained
+    earnings is a ﬁgure in the statement of ﬁnancial position which accumulates retained proﬁts less any
+    retained losses over the entity’s life.
+
+
+
+
+    ICAEW 2024                                                               1: Introduction to accounting   163
+8   Correct answer(s):
+    A     The economic resources it controls
+    D     The claims on an entity’s resource (the entity’s liabilities)
+    The Conceptual Framework for Financial Reporting states that information about the economic
+    resources (A) and claims (D) of an entity can help users to identify the reporting entity’s ﬁnancial
+    strengths and weaknesses. That information can then be used to help users to assess the reporting
+    entity’s liquidity and solvency.
+
+
+9   Correct answer(s):
+    A     To show the results of management’s stewardship of the resources entrusted to it
+    C     To provide information about the ﬁnancial position, ﬁnancial performance and cash ﬂows of an
+          entity that is useful to a wide range of users in making economic decisions
+    IAS 1, Presentation of Financial Statements provides the objective of ﬁnancial statements. It states that
+    the objective of ﬁnancial statements is to provide information about the ﬁnancial position, ﬁnancial
+    performance and cash ﬂows of an entity that is useful to a wide range of users in making economic
+    decisions (C). In addition, it states that the ﬁnancial statements also show the results of
+    management’s stewardship of the resources entrusted to it (A).
+
+
+10 Correct answer(s):
+    C     1 and 4 only
+    Financial information can make a difference to decisions if it has predictive value (it can be used to
+    predict future outcomes), conﬁrmatory value (it provides feedback about previous evaluations) or
+    both.
+
+
+11 Correct answer(s):
+    D     historical cost
+    The historical cost convention will understand asset values as the cost of assets is determined at the
+    date of purchase. This in turn results in higher proﬁts because depreciation is lower.
+
+
+12 Correct answer(s):
+    D     A speciﬁc disclosure requirement of an IFRS Accounting Standard need not be satisﬁed if the
+          information is immaterial.
+    Disclosures are not required if the information they provide is immaterial. While ﬁnancial statements
+    are required to give a true and fair view, these terms are not deﬁned in statute, they tend to be
+    determined in courts of law or on the facts (A). Recognition of items on the basis of monetary
+    amounts is the money measurement concept, not the historical cost concept (B). Items should not be
+    excluded on the basis of being difﬁcult to understand (C).
+
+
+13 Correct answer(s):
+    D     Neither of them
+    (1) Information must be both relevant and faithfully represented to be useful.
+    (2) Materiality concerns whether an item in the ﬁnancial statements can inﬂuence users’ decisions;
+        there is no absolute amount or speciﬁc characteristic that makes an item material.
+
+
+
+
+    164    Accounting                                                                            ICAEW 2024
+14 Correct answer(s):
+    D   The ﬁnancial statements are reliable in that they faithfully reﬂect the effects of transactions, other
+        events and conditions.
+    This statement is consistent with the deﬁnition given in IAS 1, para. 15.
+
+
+15 Correct answer(s):
+    A   The directors do not intend to liquidate the entity or to cease trading in the foreseeable future.
+    According to IAS 1, para. 25, going concern relates to whether the entity will continue in operational
+    existence without liquidating, ceasing trading or being unable to avoid these things (A).
+    SAMPLE EXAM
+
+
+16 Correct answer(s):
+    D   the entity’s ﬁnancial position, ﬁnancial performance and cash ﬂows are presented fairly
+    This is consistent with IAS 1 para. 15.
+    SAMPLE EXAM
+
+
+17 Correct answer(s):
+    C   material
+    Items are material (C) if omitting, misstating or obscuring them could, individually or collectively,
+    inﬂuence the economic decisions of users taken on the basis of the ﬁnancial statements (IAS 1). It is
+    the information in the ﬁnancial statements as a whole that should be neutral ie, free from bias (A).
+    Prudence (B) is the inclusion of a degree of caution when making judgements in relation to
+    estimates. Understandable (D) is an enhancing characteristic mentioned in the Conceptual
+    Framework concerned with classifying, characterising and presenting information clearly and
+    concisely.
+
+
+18 Correct answer(s):
+    B   The ISSB will initially focus on climate-related disclosures.
+    The ISSB will initially focus on climate-related disclosures due to the urgent need for information on
+    climate-related matters.
+    There is currently no legal requirement for UK companies to disclose information relating to
+    sustainability, however many choose to disclose such information. The IFRS Sustainability Disclosure
+    Standards will complement rather than replace IFRS Accounting Standards. Several other
+    organisations have issued guidance relating to the disclosure of sustainability information and the
+    ISSB will build on the work done by some of these organisations.
+
+
+19 Correct answer(s):
+    A   Integrity
+    B   Objectivity
+    D   Conﬁdentiality
+    Independence and Courtesy (options C and E) are not fundamental principles of the IESBA Code of
+    Ethics for Professional Accountants.
+
+
+20 Correct answer(s):
+    C   The ICAEW Code of Ethics applies to its members, employees of member ﬁrms and ICAEW
+        students.
+
+
+
+
+    ICAEW 2024                                                              1: Introduction to accounting   165
+    It also applies to afﬁliates and where applicable, member ﬁrms.
+
+
+21 Correct answer(s):
+    B     Ethical guidance is a framework containing a combination of rules and principles, the application
+          of which is dependent on the professional judgement of the accountant based on the speciﬁc
+          circumstances.
+    Although there are some speciﬁc ‘rules’, the majority of ethical guidance is in the form of principles,
+    the spirit of which should be followed by the accountant.
+
+
+22 Correct answer(s):
+    B     False
+    A code based on principles does not contain speciﬁc rules with which a professional accountant
+    must comply.
+    Correct answer(s):
+    D     False
+    A rules-based code does not require a professional accountant to adhere to a set of principles.
+    Correct answer(s):
+    F     False
+    The ICAEW uses a principles-based approach.
+
+
+23 Correct answer(s):
+    C     To provide information which is directly comparable with other companies disclosures
+    The information provided will be tailored to the company so will not be directly comparable to other
+    companies.
+
+
+
+
+    166    Accounting                                                                            ICAEW 2024

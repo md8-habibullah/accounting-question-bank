@@ -1,0 +1,41 @@
+When asmaller allowanceis neededattheendofa subsequentreportingperiod,the
+entryisreversed:
+DEBIT   Allowance forrecelvables   CUX
+CREDIT   Irrecoverabledebtsexpense   CUX
+AtradereceivableisatypeoffinancialassetIFRS9,Financial lnstruments,requiresfinancial
+assetstobetestedforimpairment.
+Intheexamifouarerquirdocalculateanallowanceforrceivablesouwillbeprovidd
+withthe probabilityofnon-paymentand shouldusethisto calculatetherequired allowance
+forreceivables,
+Definition
+Allowanceforreceivables:An amount in relation tothe probabilityof the non-recoveryof
+debts that reduces thereceivables asset to its prudent valuation inthestatement of financial
+position.Theallowanceisa separateaccountwhich is offsetagainsttradereceivables,which
+areshownatthenetamount
+Anallowanceforreceivablesisaprovisionfortheexpected creditlossesrelatingtotrade
+receivables.Expected credit lossesrefersto the amountoftradereceivables whichmaynot
+be collected in future and arises dueto theriskthatcredit customers will defaulton.their
+debts.The allowance forreceivables is less certain than an irrecoverabledebt write offandan
+accountantsmustuse judgementtodeterminetheexpected futurelosses relatingtotrade
+receivables.
+Anallowanceforreceivables is an exampleofhowprudence is applied in.thefinancial
+statements.Bymakingan allowanceforreceivables,thebusiness will bemore likelytoavoid
+reportingprofits whichsubsequentlyfail tomatenialisebecausesomereceivables turnoutto
+beirrecoverable.
+Creating an allowanceforreceivableshasthedualimpactofreducingthecarying amountof
+a business's assets and increasing its expenses,thusreducing profits. Businesses generally
+wantto reportahighassetvalueand strong profits andthereforethe creation ofanallowance
+is contrarytothis generalaim.Becauseofthe levelofsubjectivityandestimates involvedin
+determiningtheamountoftheallowance,there is increasedscopeforcreative accounting,
+whichwould generally seektounderstate the amount ofthe allowancerequired.
+Whenanallowanceforreceivablesisfirstmade,it ischargedas anexpense
+(irrecoverabledebts expense)inthestatementofprofitorloss,Theothersideof the
+double entryisa credittoaseparate accountinthestatementoffinancialposition,the
+allowanceforreceivables.Thedoubleentryis:
+DEBIT   Irrecoverabledebts expense(statementof profit orloss-
+administrative expense)CUX
+CREDIT   Allowanceforreceivables(statementoffinancialposition)   CUX
+When an allowanceforteceivables alreadyexists but is subsequently increased,the
+amountof the increase in allowance isdebitedto inecoverabledebts expenseand
+creditedto the allowanceforreceivables.
+252   Accounting   ICAB2026

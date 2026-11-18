@@ -1,0 +1,43 @@
+As wearefollowingamanual approachto preparing thefinancialstatements,at this stage we
+shoulddraw up a trial balancetomake surethedouble entry is accurate.
+In acomputerisedsystemthe trial balancewillalwaysbalance.Thecomputerised system
+would producea trial balanceto aid.with.the preparation ofthefinancial statements.
+Debit   Credit
+CU
+Cash at bank   800
+Capital   2,000
+Trade payables   700
+Purchases   4,300
+Non-currentassets   1.500
+Sales   5,800
+Tradereceivables   2,600
+Otherexpenses   900
+9300   9,300
+Thestatement of profit orloss and statementof financial position can then be prepared as
+follaws:
+Statementofprofitorloss
+CU
+Sales   5,800
+Costofsales(purchases)   (4.300)
+Gross profit   1,500
+Expenses   (900)
+Profitfor the year   600
+Statementoffinancialposition
+CU
+Assets
+Non-currentassets   1,500
+Currentassets
+Trade receivables   2.600
+Totalassets   4,100
+Capitaland liabilities
+Capital
+Atstartof period
+2,000
+Profitforperiod   600
+Atendofperiod   2,600
+Current liabilities
+Bank overdraft   800
+Trade payables   700
+1,500
+Total capitalandliabilities   4100
+160   Accounting   ICAB2026

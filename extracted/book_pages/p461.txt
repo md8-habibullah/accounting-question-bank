@@ -1,0 +1,31 @@
+Solution
+The cash receivedbalancing figurecan be obtained byconstructing adisposal of property,
+plantandequipmentaccountasaworking.
+PROPERTY,PLANTANDEQUIPMENT-DISPOSALACCOUNT
+UIARTUR
+Cost   240,000   Accumulated depreciation   180.000
+Lossondisposal   7,000
+Cash received (balancing figure)   53.000   13
+240.000   240,000
+Alternatively.thecashreceived couldbecalculatedasfollows:
+Assetatcost   240.000
+Accumulateddepreciationattimeofsale   (180.000)
+Carrying amountattime of sale   60,000
+Loss ondisposal   (7,000)
+Disposalproceeds(cashreceived)   53,000
+2.8   Cashpaymentsforpurchaseofpropertyplantandequipment
+Purchaseof property.plantand equipment duringa periodcanbe calculatedbymeans ofaT.
+account ora working table.
+PROPERTY,PLANTANDEQUIPMENT(COST)
+Balanceb/d   CU   Disposals   CU
+Additions (balancing figure)   Balance d
+Interactivequestion2:CashpaymentsforPPE
+Acompany'saccountsshow.thatat31December2oxz,ithadproperty.plantandequipment
+atcostofCU6,800,o00.Thecompanyhasacommitmenttobecomingcarbon-neutral andasa
+result,duringthe year,it disposed ofold high-emissions assetsthathada costofCU850,o00.It
+alsopurchasednewenergy-efficientequipmentduringtheyear.At31December20x6,the
+company's property.plant andequipmentatcosthad been CU5,10o,oo0.
+Requirement
+Calculate the cash purchase of property.plantand equipment during the year ended 31
+December20x6.
+ICAB2026   Statementofcashflows   451

@@ -1,0 +1,28 @@
+CAPITAL
+CU
+Balance.c/d   2,000   Inventory   2,000
+2.000   2,000
+Balance b/d   2,000
+TRADEPAYABLES
+CU
+Cashatbankaccount   3,600   Purchases   4,300
+Balance dd   700
+4,300   4.300
+Balance b/d   700
+PURCHASES
+Trade payables   4,300   Costofsales   4,300
+NON-CURRENTASSETS
+CU   CU
+Cashatbankaccount   1,500   Balance cld   1,500
+Balance b/d   1,500
+APTER
+SALES
+Statement of profitorloss   8,000   Tradereceivables   8,000
+TRADERECENABLES
+Sales   8,000   Atbankaccounit   3,200
+Balance dd   4,800
+8,000   8,000
+Balanceb/d   4,800
+OTHEREXPENSES
+Cashatbankaccount   900   Statementofprofitorloss   900
+ICAB2026   Cost af sales and inventories   219

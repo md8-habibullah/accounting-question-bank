@@ -1,0 +1,17 @@
+(5)Property,plantandequipment
+Freehold land   Fixtures andfitings
+CU'000   CU'000
+2,120
+Costpertrial balance   2,000
+Depreciationpertrialbalance   (006)
+Depreciation expense20%×2,000 (note2)   (400)
+2.120
+700
+(6)Retainedeamings
+Retainedearnings
+CU'000
+Per trialbalance   1,100
+Bonus issue (note8)   (100)
+Profitfortheyearperstatementof profit or loss   1,049
+2,049
+428   Accounting   ICAB2026

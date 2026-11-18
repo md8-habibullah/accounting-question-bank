@@ -1,0 +1,31 @@
+Rental income   200
+Loan noteinterest(sixmonthsto30.6.X2)   30
+Administrationandgeneralexpenses,excludingsalaries   650
+Administration salaries   275
+Distributionexpenses   616
+Purchases   5125
+Salaries associatedwith manufacture of goods   300
+Deliveryinwards   100
+Property costs   300
+Retainedearnings   1,100
+Freehold land,atcost   2.120
+Fixturesandfittings,atcost   2.000
+Accumulateddepreciation,fixturesandfittings   900
+Allowanceforreceivables   100
+Developmentcosts   300
+15,666   15,666
+The following items haveyetto be dealt with:
+(1)An inventorycounthasrevealed theclosinginventoryfiguretobeCU2,020,000.
+(2)The companydepreciates fixtures and fittings at20% on the straight linebasis.
+(3)Thecompanyamortisesthedevelopmentcostsat10%onthestraight linebasis.The
+charge should be to administrative expenses.
+(4)The credit controllerhas saidthatadebtof CU15,000shouldbe writtenoff as
+irrecoverable,andthe allowanceforreceivables shouldbe increased toCU200,000.
+(5)The income tax dueon profitsfortheyear is estimated at CU750,000.
+(6) Theallocation ofexpenditurebetween distribution costs andadministrative expenses
+shouldbeas follows (see'allocation ofexpenditure'table).
+(7)The loan notes arerepayableinfullin10 years'time. Interest ispaid in two equal
+instalments perannum,
+(8)A1for8bonus issue relatingto issued equityshares wasmade outofretained earnings on
+31December20x2.Therewere.nonew issuesofpreference.shares.during theyear.
+414   Accounting   ICAB2026

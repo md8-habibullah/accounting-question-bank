@@ -1,0 +1,22 @@
+Answertolnteractivequestion6
+Jasprit
+Statementoffinancialpositionasat31August20X5
+CU
+ASSETS
+Currentassets
+Tradereceivables(1,100-250)   850
+Cash at bank and in hand
+(2.000+8,900-(6,200-700)-300-1,000-900-150-75-900)   2,075
+Totalassets   2,925
+CAPITALANDLIABILITIES
+Capital
+Opening capital
+Profitforthe period   1.125
+Less drawings   (006)
+Closing capital   225
+Non-current liabilities
+Loan   2,000
+Current liabilities
+Trade payables   700
+Totalcapital and liabilities   2.925
+Accounting   ICAB2026

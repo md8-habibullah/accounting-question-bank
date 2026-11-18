@@ -1,0 +1,43 @@
+anyVAT/discounts
+paymentssubsequentlyreceived
+In some sophisticatedaccounting software packages the system willuse Artificial Intelligence
+(Al)tocorrectlyraiseinvoicestocustomers,andinputandprocessinvoicesreceived.Theuse
+ofAlin accounting is increasing withadvances in technology.Recentdevelopments in Al have
+focused on machine leaming techniques which use algorithms to identify pattems in large data
+sets inordertoleamn.toclassify.clusterorpredictthings.
+Whilsttheuseof Alhasreducedtheneedforintervention frombookkeepers,asdiscussed
+above,it is importantforprofessional accountants tounderstand what informationthesystem
+is recording and be ableto confirm theaccuracyof that information.Thefollowing sections
+include more detailed information onthe source documents used bybusinesses and the type
+of information thosedocuments cantain.Chapter4will providefurtherexplanationas.tohow
+therelevantinformation isrecorded.
+Professional skills focus:Assimilating and using information
+You should understand what information is provided in.the sourcedocuments andwhat
+information isrelevantforthecomputerisedaccountingsystemtorecord.Rernemberthatthe
+accountingsystemnis interestedinthefinancialeffectoftransactions.Othersystems,suchas
+inventorymanagment,willbeinterested in,forxamplethequantityfgoodspurchased
+sold.
+2.3   Salessystem
+Considerthefollowingstages thatarise when a businesssellsgoods.on.creditto its customers.
+Figure3.2:Salessystem
+When a customer places an order,a sales order is created detailing
+Customer   thegoods orservices required and the agreed price.While sales
+order   ordersareveryimportantfromapractical pointofview,theyarenot
+treatedassourcedocumentsforrecording financialtransactionsin
+the business accounts,
+When the goods orservices are delivered to the customer,theyare
+usually accompaniedbya delivery noteprepared by the seller.This
+sets outthe goods/services delivered, the quantities delivered, the
+Dispatch   date ofdelivery and the deliveryaddress,Adeliverynoteis nota
+goods   sourcedocument.
+Thedeliverynoteismostoftenpreparedwithreferenceto thesales
+order.Oncethedeliveryis completethedeliverynoteis usedto
+provideinformation for creating thesalesinvoice.The deliverynoteis
+nota sourcedocumentforcredittransactions.
+Thesellerwill then prepareand sendan invoiceto thecustomerto
+Ralse   requestpaymentforthegoodsorservicesdelivered.Invoices are
+invoice   sourcedocuments and needtobe recorded in theaccounting
+system.More detail isgiven in section 2.5below.
+Receive   The customer will then settle the invoice eitherbybank transfer or by
+payment   chequeorcash.Moredetail isgiveninsection3below.
+Accounting   ICAB2026

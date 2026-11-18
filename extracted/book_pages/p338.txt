@@ -1,0 +1,33 @@
+Workedexample:Accounting fordepreciationll
+Jamie devetops and sels medical sofware for use in the diagnosis and management of pain.
+JamieandtheirassistantJordan,requirecarstoallowthemtovisitpotentialclients.Releva
+informationrelatingtotheputchases is asfollows:
+Date of   Estimated
+Purchase   Cost   Estimated tife   residual value
+Jamie car   1June20x6   CU20,000   3 years   CU2,000
+Jordan car   1June20X7   CU15.500   3years   CU2,000
+The straight tinemethodof depreciation istobeused,
+Requirements
+1Prepare themotor'vehicles account and vehicles accumulated depreciation account forthe
+reportingperiodsto28February20x7and20x8.
+2Calculate thecarrying amountof thevehicles as at 28February20x8.
+Solution
+Jamiecar   CU(20,000-2,000)   CUS00pm
+Monthlydepreciation
+3×12
+Depreciation1June20X6-28February20X7(9xCU500)   CU4,500
+1March20x7-28February20X8(12×CU500)   CU6,000
+Jordan car   CU(15,500-2,000)   CU375pm
+Monthlydepreciation
+3×12
+Depreciation1June20X7-28February20X8(9×CU375)   CU3.375
+MOTORVEHICLES
+Date   CU   Date
+1Jun20X6   Payables (orcash)   28Feb20x7Balancec/d   20.000
+(carpurchase)   20,000
+1Mar20X7   Balanceb/d   20,000
+1Jun20X7   Payables (orcash)   28Feb20x8Balanced   35,500
+(carpurchase)   15,500
+35,500   35,500
+1Mar20X8   Balance b/d   35,500
+Accounting   ICAB2026

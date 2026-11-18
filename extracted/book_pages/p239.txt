@@ -1,0 +1,39 @@
+mingledwithitemsalreadythereThesegoodsareconsideredinterchangeableinthatthe
+storekeeperwouldnotdistinguishbetweenitems whenthey issueitemstoproductionorto
+despatch.Theywill simplypulloutthenearest itemtohand,whichmayhavearrived inthe
+latestconsignment/batch,inanearlierconsignment/batchorinseveraldifferent
+consignments/batches.
+Thereare several techniques which areused in practice to attribute a costto interchangeable
+inventory items;rememberthatactualmaterials,components and finishedgoods itemscanbe
+issued in any order irrespective of when each one entered inventory.
+Definitions
+FiFo (firstin,firstout):Items are assumedtobeused inthe orderinwhichtheyare received
+from suppliers,sooldestitems areissuedfirst.Inventoryremainingisthereforethenewe
+items andcostis measuredas such.
+UFo (lastin,firstout):Items issued areassumedtobepartofthemostrecentdeliverywhile
+oldest consignments are assumed toremain inthestores.LIFOisnotallowed underiFRS
+Accounting Standards and it notconsidered furtherin Accounting.
+AVCo (averagecost):Aspurchaseprices can change witheachnewconsignmentreceived,
+theaveragecostofan item isconstantlychanging.Each itematanymonentis assumedto
+havebeenpurchased attheaveragepriceofall theitemstogether,sothecostofinventory
+remaining is therefore calculated at themost recent average price.
+Worked example:FIFO andAVCO
+ToillustratetheFIFOandAVCOmethodsfalculatingthecostofinventory,thefollowing
+transactions will beused.
+TransactionsduringMay20X7
+Quantity   Unit cost   Total cost
+CHAPTER
+Units   CU   CU
+Openingbalance1May   100   2.00   200
+Goods in 3May   400   2.10   840
+Goods out4May**   200
+Goads in9May   300   2.12   636
+Goods out 11 May   400
+Goods in18May   100   2.40   240
+Goods-out 20May   100
+Closingbalance31May   200
+1.916
+"Goods inmeansgaodsarereceivedintostore.
+Goodsoutrepresents the issueofgoodsfromstoreie,thecostofgoods sold.Theproblem
+is with puttinga figure on the following:
+ICAB 2026   Cost ofsalesandinventories   229

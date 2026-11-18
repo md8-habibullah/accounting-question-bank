@@ -1,0 +1,457 @@
+    Chapter 6: Errors and corrections to
+    accounting records and ﬁnancial statements
+                                                                           'suspense account is a hold account'
+1   Which three of the following situations are likely to result in a suspense account being used to record
+    a transaction?
+    A   A receipt of £135 from a customer who unexpectedly, but correctly, has taken a 3% prompt
+        payment discount.
+    B   A payment of £84 made to a supplier in respect of an invoice of £70 plus VAT at 20%.
+    C   A receipt of £3,500 from the disposal of a van with a carrying amount of £2,700.
+    D   A journal entry posted by the bookkeeper to write off an irrecoverable debt of £55 in which the
+        bookkeeper was unsure where to record the credit entry.
+    E   A payment made to a supplier for £90.25 in respect of an invoice for £95 on which a prompt
+        payment discount of 5% was expected to be taken.
+                                                                                                 LO 2b
+
+
+2   Indicate whether the following statements are true or false.
+    Requirements
+    The owner’s drawings are shown on the initial trial balance.
+    A   True
+    B   False
+    The closing inventory balance is included in the ﬁnal trial balance.
+    C   True
+    D   False
+                                                                                                             LO 1e
+
+
+3   When performing a reconciliation between the bank transaction report and the cash at bank account,
+    which two of the following would require an entry in the cash at bank account?
+    A   Deposits credited after date
+    B   Direct debit shown on bank transaction report only
+    C   Bank charges
+    D   Bank error
+    E   Cheque presented after date
+                                                                                                             LO 2b
+
+
+4   Epsilon Ltd’s cash at bank account at 31 December 20X3 shows a balance of £565 overdrawn. On
+    comparing this with the transaction report downloaded from the electronic banking system, the
+    accountant discovers the following:
+    (1) A payment of £57 made by Epsilon Ltd on 31 December 20X3 has not yet cleared its bank.
+    (2) An electronic funds transfer of £92 from a customer, which was paid into the bank on
+        30 December 20X3, has been dishonoured by the customer’s bank on 31 December 20X3.
+    Requirement
+    The correct balance in Epsilon Ltd’s cash at bank account as at 31 December 20X3 is:
+    A   £473 debit
+    B   £714 credit
+    C   £657 credit
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements      23
+    D     £473 credit
+                                                                                                        LO 2b
+
+
+5   Smock Ltd’s draft proﬁt for the year is £324,700. After the draft proﬁt was calculated, the following
+    issues were discovered.
+    •    Debts of £6,800 should have been written off as irrecoverable at the year end, but the journal
+         entry was not posted.
+    •    The accounting software had automatically calculated and recorded depreciation, but the
+         standing data was found to be incorrect. The depreciation rate for cars should have been updated
+         to 20% straight-line at the start of the year but, was left as 25% straight-line in error. The balance
+         on the car cost account at the year-end was £24,000. There were no additions or disposals of cars
+         in the year.
+    Requirement
+    What is Smock Ltd’s corrected proﬁt for the year after accounting for the above issues?
+    A     £323,500
+    B     £319,100
+    C     £313,100
+    D     £316,700
+                                                                                                     LO 2a, 2b
+
+
+6   A company’s initial trial balance includes a balance of £25,000 in a suspense account. On reviewing
+    the exception report, the bookkeeper identiﬁed the amount as a purchase of machinery for £25,000.
+    The amount had been correctly recorded in cash at bank, but the other side of the transaction had
+    not been matched by the accounting system.
+    Requirement
+    Which of the following journal entries would remove the suspense account and correctly record the
+    purchase of machinery?
+    A     DEBIT, Plant and machinery, £25,000; CREDIT, Cash at bank account, £25,000
+    B     DEBIT, Suspense account, £25,000; CREDIT, Plant and machinery £25,000
+    C     DEBIT, Plant and machinery, £25,000; CREDIT, Suspense account £25,000
+    D     DEBIT, Cash at bank account, £25,000; CREDIT, Suspense account £25,000
+                                                                                                         LO 2c
+
+
+7   The following information relates to a bank reconciliation. The balance in the cash at bank account
+    before taking the items below into account was £8,970 overdrawn.
+    (1) Bank charges of £550 on the bank statement have not been entered in the cash at bank account.
+    (2) The bank has credited the account in error with £425 which belongs to another customer.
+    (3) Electronic payments totalling £3,275 made shortly before the year end have been entered in the
+        cash at bank account but have not yet cleared the bank statement.
+    (4) Cash receipts totalling £5,380 have been correctly entered on the debit side of the cash at bank
+        account but have not been paid into the bank.
+    Requirement
+    What was the overdrawn balance as shown by the bank statement?
+    A     £6,990
+    B     £10,650
+    C     £11,200                  ... check black notebook
+    D     £11,625
+
+
+
+    24      Accounting                                                                             ICAEW 2024
+                                                                                                             LO 2b
+
+
+8   Which two of the following statements about bank reconciliations are correct?
+    A   In preparing a bank reconciliation, unpresented cheques must be deducted from the balance
+        shown in the bank statement.
+    B   An electronic payment from a customer, which was dishonoured due to a lack of funds in the
+        customer’s bank account, must be corrected making a debit entry in the cash at bank account.
+    C   An error by the bank must be corrected by an entry in the cash at bank account.
+    D   An overdraft is a debit balance on the bank statement.
+    E   Bank charges that only appear on the bank statement must be debited to the cash at bank
+        account.
+                                                                                                             LO 2b
+
+
+9   Alpha received a statement from its credit supplier Beta, showing a balance to be paid of £8,950.
+    Alpha’s payables ledger for Beta shows a balance due to Beta of £4,140.
+    Investigation reveals the following:
+    (1) A bank transfer made to Beta of £4,080 shortly before year end has not been recorded by Beta.
+    (2) Alpha has not adjusted the payables ledger for a £40 cash discount taken by Alpha but not
+        allowed by Beta as payment was not made on time.
+    (3) Goods costing £380 returned by Alpha have not been recorded by Beta.
+    Requirement
+    What discrepancy remains between Alpha’s and Beta’s records after accounting for these items?
+    A   £9,310
+    B   £390
+    C   £310
+    D   £1,070
+                                                                                                             LO 2a
+
+
+10 Peri’s customer unexpectedly took advantage of an early settlement discount for £300, paying
+   £3,700 on an invoice which totalled £4,000. Peri’s bookkeeper was not sure how to record the
+   discount taken and so posted the following journal entry:
+
+     DEBIT                                           Cash at bank                  3,700
+     DEBIT                                     Suspense account                      300
+     CREDIT                                           Receivables                                        4,000
+
+    Requirement
+    Which of the following journal entries will remove the suspense account and correctly record the
+    discount?
+    A   Debit Receivables £300, Credit Suspense account £300
+    B   Debit Revenue £300, Credit Suspense account £300
+    C   Debit Cash at bank £300, Credit Suspense account £300
+    D   Debit Payables £300, Credit Suspense account £300
+                                                                                                             LO 2c
+
+
+11 Which two of the following differences between a company’s cash at bank account and its bank
+   transaction report balance as at 30 November 20X3 would feature in the bank reconciliation?
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements      25
+    A    Electronic payments which were initiated and recorded in the cash at bank account on 30
+         November 20X3 which have not yet cleared the bank statement
+    B    Omission by the bank of a cash lodgement made by the company on 30 November 20X3 but
+         not recorded by the bank until 1 December 20X3
+    C    Bank charges presented in the bank statement on 28 November 20X3
+    D    A digital wallet payment received from a customer and recorded on 30 November 20X3 but was
+         dishonoured by the customer’s bank
+                                                                                              LO 2b
+
+
+12 An error of principle would occur if plant and machinery purchased:
+    A    was omitted from the accounting records
+    B    was debited to the purchases account
+    C    was debited to the equipment account
+    D    was debited to the correct account but with the wrong amount
+                                                                                                     LO 2a
+
+
+13 Asela’s exception report showed £265 received in the business bank account, and correctly recorded
+   in cash at bank, could not be matched by the accounting system and so had been posted to a
+   suspense account. Asela discovered that the receipt was in respect of a sales invoice for £295 on
+   which the customer had unexpectedly taken a prompt payment discount of £30. The customer had
+   paid within the required timeframe and so was entitled to take the discount.
+    Requirement
+    Which of the following journal entries should Asela post to correctly record the receipt and clear the
+    suspense account?
+    A    Debit Trade receivables £265, Credit Suspense account £265
+    B    Debit Revenue £30, Debit Suspense account £265, Credit Trade receivables £295
+    C    Debit Suspense account £265, Credit Trade receivables £265
+    D    Debit Trade receivables £295, Credit Revenue £30, Credit Suspense account £265
+                                                                                                     LO 2b
+
+
+14 Which of the following statements about bank reconciliations are correct?
+    (1) All differences between the cash at bank account and the bank statement must be corrected by
+        means of a journal entry.
+    (2) In preparing a bank reconciliation, payments received from credit customers before the period
+        end but credited by the bank after the period end should reduce an overdrawn balance in the
+        bank statement.
+    (3) Bank charges not yet entered in the cash at bank account should be dealt with by an adjustment
+        to the balance per the bank statement.
+    (4) If an electronic payment received from a credit customer is subsequently dishonoured by their
+        bank, a credit entry in the cash at bank account is required.
+    A    2 and 4
+    B    1 and 4
+    C    2 and 3
+    D    1 and 3
+                                                                                                     LO 2b
+
+
+
+
+    26    Accounting                                                                           ICAEW 2024
+15 The following trade payables account contains some errors. All goods are purchased on credit.
+                                                 TRADE PAYABLES
+
+                                                       £                                                         £
+        Purchases                               945,800      Opening balance                            384,600
+                                                             Cash at bank account                       988,400
+        Purchases (Discounts received
+           from suppliers)                       12,600
+        Trade receivables (contra)                 4,200
+        Closing balance                         410,400                                               –––––––
+                                              1,373,000                                              1,373,000
+
+
+    Requirement
+    What would be the closing trade payables balance when the errors have been corrected?
+    A     £325,200
+    B     £350,400
+    C     £333,600
+    D     £410,400
+                                                                                                               LO 2b
+
+
+16 An error of commission is one in which:
+    A     a transaction has not been recorded
+    B     one side of a transaction has been recorded in the wrong account, and that account is of a
+          different class to the correct account
+    C     one side of a transaction has been recorded in the wrong account, and that account is of the
+          same class as the correct account
+    D     a transaction has been recorded using the wrong amount
+                                                                                                               LO 2a
+
+
+17 Owais’s trial balance included a suspense account which had been automatically opened by the
+   computerised accounting system. Using the exception report, the bookkeeper identiﬁed that the
+   balance in the suspense account was due to the following unmatched transactions:
+    (1) A payment to a credit supplier for £135 related to an invoice for £120. The business missed the
+        deadline to take the early settlement discount it had expected to take.
+    (2) A receipt of £90 from a credit customer who had unexpectedly (but appropriately) taken an early
+        settlement discount of £10.
+    (3) Interest received in the business bank account of £70.
+    Requirement
+    What is the balance on the suspense account?
+    A     Debit £25
+    B     Credit £25
+    C     Debit £65
+    D     Credit £65
+                                                                                                               LO 2b
+
+
+
+
+    ICAEW 2024                       6: Errors and corrections to accounting records and ﬁnancial statements      27
+18 All of Elmo’s sales and purchases attract VAT at 20%. A customer has just returned goods sold for
+   £230 excluding VAT.
+    Requirement
+    The double entry for this transaction is:
+    A    Debit Trade receivables £276, Credit VAT £46, Credit Revenue £230
+    B    Debit Revenue £276, Credit Trade receivables £276
+    C    Debit Revenue £230, Debit VAT £46, Credit Trade receivables £276
+    D    Debit Trade receivables £230, Debit VAT £46, Credit Revenue £276
+                                                                                                      LO 2c
+
+
+19 Incorrectly recording the purchase of stationery by debiting the computer equipment account would
+   result in:
+    A    an overstatement of proﬁt and an overstatement of non-current assets
+    B    an understatement of proﬁt and an overstatement of non-current assets
+    C    an overstatement of proﬁt and an understatement of non-current assets
+    D    an understatement of proﬁt and an understatement of non-current assets
+                                                                                                      LO 2a
+
+
+20 In the trade payables of Magma Ltd, an invoice of £807 from Ferdinand has been recorded as a
+   credit note.
+    Requirement
+    After correcting this error, the trade payables balance will be:
+    A    reduced by £807
+    B    reduced by £1,614
+    C    increased by £807
+    D    increased by £1,614
+                                                                                                      LO 2b
+
+
+21 Beta Ltd has calculated a draft gross proﬁt of £150,000 and a draft net proﬁt of £83,000 for the year
+   ended 31 December 20X3.
+    Two issues were then discovered:
+    (1) Inventory costing £5,000, with a resale value of £7,500, was received into the warehouse on 2
+        January 20X4 but had been included in the closing inventory amount at 31 December 20X3.
+    (2) £10,000 relating to staff training costs was incorrectly capitalised as part of the purchase cost of
+        a new machine which had been purchased on 1 July 20X3. Beta Ltd depreciates machinery on a
+        straight-line basis at a rate of 20% per annum. Depreciation should be included as an
+        administrative expense in the year.
+    Requirement
+    After correcting these issues, what amounts should Beta Ltd report for gross proﬁt and net proﬁt?
+    A    Gross proﬁt: £142,500; Net proﬁt: £66,500
+    B    Gross proﬁt: £145,000; Net proﬁt: £69,000
+    C    Gross proﬁt: £145,000; Net proﬁt: £74,000
+    D    Gross proﬁt: £142,500; Net proﬁt: £65,500
+                                                                                                      LO 2a
+
+
+
+
+    28    Accounting                                                                             ICAEW 2024
+22 Emery, a sole trader, has taken goods valued at £1,800 for their own use. This has not been recorded
+   in arriving at their draft proﬁt ﬁgure.
+    Requirements
+    To record the drawings, Emery must adjust cost of sales by:
+    A   Debit £1,800
+    B   Credit £1,800
+    As a result, Emery’s reported proﬁt will:
+    C   Increase
+    D   Decrease
+                                                                                                      LO 2a, 2c
+
+
+23 Supplier Rufﬂe Ltd has a debit balance of £26 in Staint plc’s payables ledger.
+    Requirement
+    Which of the following would, alone, explain this balance?
+    A   Staint plc paid an invoice for £26 even though it had recorded a credit note that Rufﬂe Ltd had
+        issued in respect of this amount.
+    B   Staint plc bought and paid for some goods for £26 which it then returned, but Rufﬂe Ltd has not
+        yet issued a credit note.
+    C   Staint plc received a credit note for £26 from Rufﬂe Ltd but posted it to the account of Rustle Ltd.
+    D   Staint plc transferred funds to Rufﬂe Ltd for £53 in respect of an invoice for £79.
+                                                                                                      LO 2a, 2b
+
+
+24 Catt plc has prepared its draft statement of proﬁt or loss at 31 May 20X1 which shows a gross proﬁt
+   of £99,500. Catt plc has now discovered that at both the beginning and the end of the period, one
+   line of inventory, the Sungsa, has been included at selling price: £1,240 at 31 May 20X1 and £3,720
+   at 1 April 20X0. The Sungsa is always sold at a mark-up of 25% by Catt plc.
+    Requirement
+    After correcting this error Catt plc’s gross proﬁt for the year to 31 May 20X1 is:
+    A   £99,996
+    B   £99,004
+    C   £98,880
+    D   £100,120
+                                                                                                             LO 2a
+
+
+25 Mayo plc has prepared a draft statement of proﬁt or loss that shows a net proﬁt of £75,000 for the
+   year ended 30 April 20X5. Subsequently, the following matters have been discovered.
+    (1) A subscription notice for £1,000 was received in April 20X5 for the year to 30 April 20X6. Mayo
+        plc pays the subscription in two equal instalments. The ﬁrst instalment was paid on 28 April 20X5
+        and posted to the cash at bank account and to administrative expenses. No other entries have
+        been made.
+    (2) Goods that cost £400 and sold at a gross margin of 75% were returned by Dandy Ltd on 30 April
+        20X5, after the inventory count had taken place. No credit note was issued.
+    Requirement
+    Once these matters have been dealt with Mayo plc’s net proﬁt for the year ended 30 April 20X5 will
+    be:
+    A   £75,400
+
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements      29
+    B    £74,300
+    C    £75,100
+    D    £75,700
+                                                                                                    LO 2a
+
+
+26 Hood Ltd has a draft net proﬁt of £540,000 for the year ended 31 October 20X2. It discovered the
+   following errors:
+    (1) Repair costs of £6,600 incurred on 1 November 20X1 were debited to ﬁxtures and ﬁttings. Hood
+        Ltd depreciates ﬁxtures and ﬁttings at 25% per annum.
+    (2) An early settlement discount of £1,785 taken unexpectedly, but appropriately, by a customer
+        was debited to trade receivables and credited to sales.
+    Requirement
+    On correction of these errors Hood Ltd’s net proﬁt will be:
+    A    £535,050
+    B    £531,480
+    C    £533,265
+    D    £536,430
+                                                                                                    LO 2a
+
+
+27 Net proﬁt was calculated as being £10,200. It was later discovered that capital expenditure of £3,000
+   had been treated as revenue expenditure, and revenue receipts of £1,400 had been treated as
+   capital receipts.
+    Requirement
+    What is the net proﬁt after correcting for these errors?
+    A    £5,800
+    B    £8,600
+    C    £11,800
+    D    £14,600
+                                                                                                    LO 2a
+
+
+28 On reviewing its cash at bank account and the transaction report downloaded from its electronic
+   banking system, Probla plc discovers the following errors:
+    (1) A payment received from a credit customer for £1,095 was manually recorded in trade
+        receivables and cash at bank account as £1,509.
+    (2) A cheque to a credit supplier for £89 was entered incorrectly in trade payables and the cash at
+        bank account as £98.
+    Requirement
+    What is the journal entry to correct these errors?
+    A    Debit Receivables £414, Credit Payables £9, Credit Cash at bank £405
+    B    Debit Cash at bank £405, Debit Payables £9, Credit Receivables £414
+    C    Debit Receivables £414, Debit Payables £9, Credit Cash at bank £423
+    D    Debit Cash at bank £423, Credit Receivables £414, Credit Payables £9
+                                                                                                    LO 2b
+
+
+29 In relation to trade payables at the year end of 30 April 20X1, Jitka plc has discovered that:
+
+
+
+
+    30    Accounting                                                                            ICAEW 2024
+    (1) a contra of £85 with trade receivables is required; and
+    (2) an early settlement discount of £2,220, which was taken appropriately by a credit customer, was
+        credited to revenue and debited to trade payables. Jitka plc had not expected the customer to
+        take the discount.
+    Before these discoveries, the balance on trade payables was £72,560.
+    Requirement
+    In its statement of ﬁnancial position as at 30 April 20X1 Jitka plc will have a ﬁgure for trade payables
+    of:
+    A   £70,255
+    B   £74,695
+    C   £74,865
+    D   £76,915
+                                                                                                      LO 2a, 3c
+
+
+30 Topping plc’s initial trial balance for the year ended 31 October 20X9 has been prepared. It shows
+   draft proﬁt for the period of £58,147 and a credit balance on a suspense account of £738 in respect
+   of accrued expenses. The bookkeeper was unsure of how to record the accrual and incorrectly
+   debited £738 to prepayments and credited the suspense account.
+    Requirement
+    What is Topping plc’s proﬁt for the period after this error has been corrected?
+    A   £59,623
+    B   £57,409
+    C   £58,885
+    D   £56,671
+                                                                                                             LO 2a
+
+
+
+
+    ICAEW 2024                     6: Errors and corrections to accounting records and ﬁnancial statements      31

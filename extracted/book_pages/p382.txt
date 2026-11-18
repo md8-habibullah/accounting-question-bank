@@ -1,0 +1,34 @@
+sharepremium
+retainedearnings
+otherreserves
+3.1   Share premium
+theexcess of the ssue price above the par value is recorded ina separate share premium
+account.
+Contextexample:Sharepremium
+Acompany issues1milion50pequitysharesatapriceofCU4.20pershareforcash
+ThesharesareissuedatapremiumofCU3.70(CU4.20-CU0.50)abovetheirparvalue,and
+the share issue should be recorded in the ledgeraccounts as follows:
+CU   CU
+DEBIT   Cash   4,200,000
+CREDIT   Sharecapital:equitysharesof5Op   500.000
+Sharepremium   3.700,000
+Therearetightlegalrestrictions on the useof theshare premiumreserve,Dividends cannotbe
+paidoutfrom it,butitmaybereclassifiedassharecapital viaabonus issue,as weshall see
+shorty.
+3.2   Retained earnings
+Definition
+Retained earnings: A reserve used to accumulate the company's retained earnings.
+Retainedeamings comprisethe income (profits and gains less losses)thatthe companyretains
+withinthebusiness,ie,incomethathasnotbeenpaidout as dividends ortransferred toany
+otherreserve
+Theretained earnings ledgeraccountwould look likethis (note thatifthere was a loss this
+would bedebited to theledgeraccount):
+RETAINEDEARNINGS
+CU   CU
+Balanceb/d (openingstatement
+Dividends oftheperiod   ofinancial position)
+Profitfor thereporting period
+Transferstootherreserves   (fromstatementofprofitor
+Balance c/d (closing statement of   loss)
+financialposition)
+372   Accounting   ICAB2026

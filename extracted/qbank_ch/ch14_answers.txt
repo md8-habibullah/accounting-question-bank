@@ -1,0 +1,60 @@
+    Chapter 14: Company ﬁnancial statements
+    under UK GAAP
+1   Correct answer(s):
+    B     The board of directors
+    By law it is the board of directors which is responsible for preparing ﬁnancial statements.
+
+
+2   Correct answer(s):
+    B     False
+    Creditors falling due after more than one year are non-current liabilities.
+    Correct answer(s):
+    C     True
+    Fixed assets is the UK GAAP term equivalent to the IFRS Accounting Standards term non-current
+    assets.
+
+
+3   Correct answer(s):
+    D     £820
+    There are only (25 – 10 + 10 – 10) = 15 units in stock at the end of January. 10 of these are valued at
+    £55, and the remainder at £54:
+    (10 × £55) + (5 × £54) = £820
+
+
+4   Correct answer(s):
+    C     Debit Bank £887,500; Credit Share capital £500,000; Credit Share premium £387,500
+    Cash raised is 250,000 × £3.55 = £887,500, which is debited to cash at bank. The credit to share
+    capital is 250,000 × £2 = £500,000, while the credit to share premium is 250,000 × £1.55 =
+    £387,500.
+    SAMPLE EXAM
+
+
+5   Correct answer(s):
+    A     £4,929,600
+
+                                                                                                              £
+        Retained proﬁts at 1.1.X8                                                                 4,695,600
+        Operating proﬁt                                                                            520,000
+        Debenture interest (£1.3m × 10%)                                                           (130,000)
+        Tax                                                                                        (156,000)
+        Retained proﬁts at 31.12.X8                                                               4,929,600
+
+    SAMPLE EXAM
+
+
+
+
+6   Correct answer(s):
+    A     Bonus issue of shares
+
+
+
+    ICAEW 2024                                         14: Company ﬁnancial statements under UK GAAP     285
+The bonus issue of shares (A) does not involve cash, the double entry is Debit Share premium, Credit
+Share capital.
+Options B, C and D do involve cash and would be recorded in the cash at bank account.
+
+
+
+
+286   Accounting                                                                         ICAEW 2024

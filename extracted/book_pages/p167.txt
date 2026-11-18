@@ -1,0 +1,30 @@
+Debit   Credit
+1Establishingbusiness(CU2,000)   Cashatbankaccount   Capital
+2Creditpurchases(CU4,300)   Purchases   Trade payables
+Paymentsto suppliers (CU3,600)   TradepayablesCashatbank account
+Creditsales(CU5,800)   Tradereceivables   Sales
+Paymentsfromcustomers(CU3,200)   Cashatbankaccount   Trade receivables
+6Non-currentassets (CU1,500)   Non-current assets   Cashatbankaccount
+7Other(cash)expenses (CU900)   OtherexpensesCashatbankaccount
+Sofar,theledgeraccounts will look likethis!
+CASHATBANKACCOUNT
+CU
+Capital   2,000   Trade payables   3,600
+Tradereceivables   3,200   Non-current assets   1,500
+Otherexpenses   006
+CAPITAL
+CU
+Cash atbank   2,000
+TRADEPAYABLES
+CU   CU
+Cash at bankaccount   3.600   Purchases   4,300
+PURCHASES
+CU   CU
+Trade payables   4,300
+NON-CURRENTASSETS
+CU
+Cashat bank account   1,500
+SALES
+CU
+Tradeteceivab les   5,800
+ICAB2026   Preparing basicfinancial statements   157

@@ -1,0 +1,39 @@
+The following information relates to thedisposal of two machines by Paddock.
+Machine 1   Machine 2
+Cost   120,000   140,000
+Disposalproceeds   90,000   80.000
+Profit/(loss)ondisposal   30,000   (40,000)
+Requirement
+What was thetotal camying amount of both machines sold at thedate of disposal?
+ACU100.000
+BCU160.000
+CCU180.000
+UHAPTUR
+DCU240.000
+10On1June20X1Quandryboughtanon-currentassetforCU50000whichhadan
+estimateduseful lifeof10 years andaresidualvalueofCU2,000.Quandrydepreciates its
+non-currentassetsonastraight linebasis.Quandry'sreportingperiod isthe12months
+ended31December.
+On1January20X4the accountantdetermined that the asset's remaininguseful life should   10
+berevisedto eight years fromthatdatewithno residual value.Animpairmentreviewat
+thatdateshows thattherecoverable amount of theasset isconsideredtobeonly
+CU25.000.
+Requirement
+What is the total depreciation and impairment loss charge for this assetin 20x4?
+ACU3,125
+BCU12.400
+CCU15.725
+DCU18.000
+11Kentishpurchaseda licenceon1September20X5atacostofCU230,000whichallowsit
+to operate an island femyservice fora period offouryears Kentish incurred legal fees of
+CU10,o00 in securingthe licence.Kentishhas paid forthe legal fees incashbuthas notyet
+made payment forthe licence,which isduetobe settled by15 January20X6.
+Requirement
+What isthecarryingarnount of the licenceas at 31December20x5?
+ANI
+BCU220.000
+CCU180.000
+DCU210,833
+Now go back to the Introduction and ensure that you have achieved the Learning
+outcomeslistedforthischapter.
+AB2026   Non-currentassets,depreciation andimpairment   353

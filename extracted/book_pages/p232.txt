@@ -1,0 +1,36 @@
+Anew cost of sales fineis added to thetrial balance asa resultof the journalentries
+posted.
+In theprevioussectionwesawhowclosing inventory is accountedforin theledgeraccounts.
+However,inamanualaccountingsystem,theadjustmentforclosing inventoryisoften not
+accounted foruntil afterthe initial trialbalance has been extracted.Therefore,opening
+inventory andpurchases appearonthe initialtrial balance.The initialtrial balance needstobe
+adjusted to reflect thatthebusiness no longer has opening inventories (these havebeen sold
+intheyear)and instead has closing inventories (whicharecarriedforward as currentassetsto
+be sold in thefollowingyear)and thatpurchaseshavetransferred to costofsales,
+Theapproachisasfollows:
+Calculatethevalue of closinginventories (see below)
+Prepare the year-end journals for opening inventories,purchases and closing inventories
+(seeabove)and enterthe journalsas adjustmenttothe initial TB,
+Worked example:Adjusting the initial trial balancefor inventories
+Sam'sMusicShopinitial trialbalanceasat31December20x5isasfollows:
+Ledgerbalance   Initial trial
+balance
+Debit
+Credit
+Cashat bank   5,123
+Openingcapital   10,000
+Loan   12,000
+Non-current.assets   20,000
+Tradepayables   6,800
+Expenses   12.785
+Purchases   18.425
+Sales   38.745
+Tradereceivables   3,546
+Inventoriesat1.1.X5   8,754
+Drawings   9,158
+72.668   72.668
+Closinginventoriesat31December20X5.costCU13,855.
+Requirement
+Adjust Sam's initial trialbalance to reflectclosing inventories and calculatehisnetprofitforthe
+year.
+Accounting   ICAB2026

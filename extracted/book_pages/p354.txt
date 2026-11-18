@@ -1,0 +1,43 @@
+Requirement
+Explainhowthefollowingcosts shouldbeaccountedforinthefinancialstatementsofCoral.
+Cost   Accountingtreatment
+Coral purchaseda small fleetofelectriccars to allow
+deliveriestobemadetoa widergeographical area
+Coral paida graphicdesignerto designanew logo
+which isusedon Coral'sapp.Thenew logo represents
+theCoral brand.
+Coral paid to havethe software used by the'app
+upgradedtoallowittoprocessagreaternumberof
+orderseachday.
+See Answerat the end of this chapter.
+8.2   Internallygenerated intangible assets (developmentcosts)
+Large companiesspend significantamounts ofmoneyondevelopment activitiesfromwhich
+theyhopeto generate revenues in future periods.These amounts are credited to cash or
+payables and debitedto anaccountfordevelopment expenditure.The accounting problem is
+howto treatthe debitbalance on the development cost accountat the date of the statement
+offinancialposition.
+There aretwo possibilities:
+Thedebitbalancemaybeclassified as anexpenseand transferred tothestatementof
+profit or loss,This is referred toas writing off the expenditure.The argurnenthereis that
+it is an expenise just likerent or wages and its accounting treatment should be the same.
+Thedebitbalancemaybe classifiedas an assetand includedinthe statementoffinancial
+position.This is referred to as'capitalising ar'carrying forward'or'deferring the
+expenditure.This argument is based on theaccrual principle.If development activity
+eventually leads to new orimproved products which generate income,thecosts should be
+carried forwardtobematchedagainst that income in futurereporting periods.
+Whendevelopment expenditureis to berecognised as an assettheaccounting entries are as
+shownforpurchased intangible assets above:
+DEBIT   Intangiblenon-currentassets   CUX
+CREDIT   Cash/payables   CUX
+Internallygenerated intangible assets should beamortised and testedfor impairment.
+Worked example:Developmentcosts
+Monty plc is a pharmaceuticals company whichhas been involved in thedevelopment ofa new
+vaccineto treatarespiratoryvirus.ThefinancialaccountantofMontyplchas determinedthat
+oftheCU6.2millionspentonthedevelopmentthisyear,CU1.2millionshouldbewrittenoffas
+an expense intheperiodto31December20X6and the remainder canbe capitalised.The
+capitalised developmentcosts shouldbe amortised overthe expected production period for
+thevaccineof5yearsand shouldcommencefrom1July20x6.
+Requirement
+Prepare the journal entries required to record the development expenditure and amortisation
+fortheyearended31December20X6.
+344   Accounting   ICAB2026

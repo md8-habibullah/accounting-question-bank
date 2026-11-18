@@ -1,0 +1,29 @@
+CASHATBANKACCOUNT
+CU
+Rent   150
+RENTACCOUNT
+CU
+Cashatbank   150
+(3) The two sides ofthe transaction are:
+cash is paid (creditentryinthecashatbankaccount)
+purchases increase by CU10o (debitentry in the purchases expenise account)
+CASHATBANKACCOUNT
+Purchases   100
+PURCHASESACCOUNT
+Cashatbank   100
+(4)Thetwosidesofthetransactionare:
+cash ispaid (credit cash atbank account)
+assets-in this case,shelves-increaseby CU200 (debit fixtures andfittingsaccount)
+CASHAT BANKACCOUNT
+CU
+Fixtures andfittings   200
+FIXTURESANDFITTINGSACCOUNT
+Cashatbank   200
+Afterall ofthesetransactions have been posted,thecashatbankaccount ofthatbusiness
+wouldenduplookingasfollows:
+CASHATBANKACCOUNT
+CU   CU
+Salesa/c   250   Rent alc   150
+Purchases alc   100
+Fixturesand fittingsalc   200
+114   Accounting   ICAB2026

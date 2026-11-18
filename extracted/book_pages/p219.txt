@@ -1,0 +1,37 @@
+:Costof sales isdeducted from revenue (sales)toarrivealgross profit.
+When a large amountofpurchased ormanufactured items are slolonorlost,we must
+removethemfrom thecostof salesandtreatthemas anadministrative expense,soasnot
+todistortgrossprofit.
+Thecostofsalesis deducted fromrevenue inanentity'sstatementofprofitorloss.Because it
+tesults inthegross profit ithaslongbeen regardedasakeyfigure inthefinancial statements.
+Definition
+Costofsales:Opening inventory+purchases+delivery inwards-closing inventory-costof
+sales.This amount is then deducted from revenueto arise at the business's gross profit.
+Inventory,bothopeningand closing,features inthe statementof profitorloss.Youmighthave
+expected it to feature only in the statement of financial position as a current asset however,
+includingthecostofinventorysold intheperiod inprofitorloss isan applicationofaccrual
+accounting
+2.1   Unsold goods atthe end ofa reporting period
+Goods might be unsoldat the end ofareporting period and so still be held in inventory.
+Underthe accruals concept,the cost ofthesegoods should notbe included in costof salesas
+theyhavenotcontributedto revenuegeneration.Instead,the goods shouldbe carried
+Workedexample:Closinginventory
+TheUmbrellaShop'sfinancial yearendson30Septembereachyear.On1October20x4it
+hadnogoodsin inventory.Duringtheyearto30September20x5,itpurchased30,000
+umbrellascostingCU60000from itssuppliers.ltresoldtheumbrellasforCU5each,andsales
+fortheyearamountedtoCU100,000(20,000umbrellas).At30September20x5therewere   CHAPTER
+10,000unsoldumbrellas left in inventory.valued atcostofCU2each.
+Requirement
+What was The Umbrella Shop's gross profit for the year?
+Solution
+TheUmbrellaShoppurchased30,000umbrellas,butonlysold20000.Purchasecostsof
+CU60,000andsales ofCU100,000 donotrelatetothesame quantityafgoods.
+Thegross profit forthe year should becalculated by'matching'thesales valueof20,o00
+ubrellas soldwiththe cost ofthose20,000umbrellas.The costof sales inthis example is
+thereforethe cost of purchases minus the cost of goods in inventory at the year end.
+Sales(20,000unitsatCU5)   100,000
+Purchases   30,000   unitsatCU260.000
+Less closing inventory   (10.000)   unitsatCU2(20,000)
+Cost of sales   20,000   unitsatCU2   (40,000)
+Gross profit   60,000
+ICAB2026   Costof salesandinventories   209

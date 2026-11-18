@@ -1,0 +1,37 @@
+1.6   What is depreciation?
+Definition
+Depreciation:Thesystematicallocationofthecostofanasset,less itsresidualvalue,overits
+useful life.
+Indeterminingtheexpensesforaperiod,itis importanttomatchthe costoftheconsumption
+of non-current assets during that period (that is,depreciation).
+Tocalculatethedepreciation.chargeforareportingperiod,thefollowingfactorsarerelevant:
+assetcost
+useful life
+residual value
+Residual value
+Attheendoftheuseful lifeofan itemofPpE,thebusiness willdispose ofitand anyexpected
+disposal proceedsrepresent its residual value.For instance,anassetthat is expectedtobe   CHAPTER
+sold forE500 atthe end ofits useful life has a residual value of CU500.If it is unlikelyto bea
+significantamount,a residual value ofzerowill be assumed.Thecostofan itemofPPEless its
+residual valuerepresents thetotal amounttobedepreciated (itsdepreciableamount)over its
+useful life.
+Determining residual value is anotherarea in whichan accountant needs to apply judgement as
+to what maybe appropriateforeachasset.The residual value assigned to an asset is one ofthe   10
+factorswhichdeterminesthedepreciationthat is chargedeachyear.
+Note:For exam purposes,always assumethe residual value is zero unless told otherwise.
+Definition
+Residual value: The estimated amountthat the entity would obtain from disposing of theasset
+attheendofits useful life,afterdeductingestimateddisposalcosts.
+Interactivequestion1:Depreciableamount
+Arundel Enterprisespurchased a newcarforasalesrepresentative.The invoicereceived
+containedthefollowinginformation:
+CU
+List price of the car   18,720
+Deposit paid   (6,200)
+Amountdue   12.520
+Itis estimated thatthenewcarwill haveauseful lifeof threeyearsandwillhavearesidual
+valueofCU6,360.
+Requirement
+Calculatethetotal amounttobe depreciated in respectofthenewcar.See Answerat theend
+of this chapter.
+ICAB2026   Non-currentassets,depreciation and impairment   317

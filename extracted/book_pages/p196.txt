@@ -1,0 +1,35 @@
+3.2   Errorsofomission
+Definition
+Emorofomission:Failingtorecordatransactionatall.
+Abusinessreceivesaninvaicefroma supplierforCU250,andthetransactionisomitted
+fromtheaccountingrecords.Asa result,bothtotaldebits andcredits willbewrongby
+CU250.
+3.3   Errorsofprinciple
+Definition
+Errorof principle:Posting a double entry in the belief thatthetransaction is being entered in
+the correctaccounts, but subsequentlyfinding outthatthe accounting entry breaks therules
+of an accountingprincipleorconcept.Atypicalexampleofsuchan erroristotreatrevenue
+expenditureincorrectlyascapital expenditure.
+Machine repairscostingCU15o (which should betreated asrevenue expenditure)are
+debited to the cost ofa non-current asset(capital expenditure).Although total debits still
+equal total credits,therepairs account is understated by CU150 and the cost of the non.
+currentassetisoverstatedbyCU150.
+Abusiness ownertakes CU280 cashout of thetill for his personal use.Thebookkeeper
+incorrectlydebits sales byCU280,when theyshouldhave debited drawings.This isan
+errorofprinciple,so that drawings and sales areboth understated by CU280.
+3.4   Errorsofcommission
+Definition
+Errorofcommission:Amistake ismade in recordingtransactions inthe ledgeraccounts by
+Telephoneexpenses of CU540 are debitedtothe electricityexpenseaccount,an errorof
+commission.Althoughtotal debits and credits balance,telephone expenses are
+understated by CU540 and electricity expense is overstated bythe same amount.
+3.5   Compensatingerrors
+Definition
+Compensating errors: Errors which are,coincidentally.equal and opposite to one another.
+Compensating errors hidetrial balance errors.
+Administrativeexpensesof CU2,800areenteredas CU2,200 in theadministrative
+expensesledgeraccount.Atthesametime,distribution costshavebeenenteredas
+CU4,700 but should have been CU4,100.Administrative expenises are understated
+byCU600anddistribution costs areoverstatedbyCU600,butthetwo amounts
+cancel eachotherout.
+106   Accounting   ICAB2026

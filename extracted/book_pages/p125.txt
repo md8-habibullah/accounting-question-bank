@@ -1,0 +1,33 @@
+3.4   Doubleentry forcredittransactions
+Not all transactions are settled immediately.Abusiness can purchase goods or non-current
+assets on credit terms,so thatbalances owed to suppliers would betradepayables until
+settlementwas madein.cashata laterdate.Equally.thebusinessmightgrantcredittermsto
+customers, so the balances owed by customers would then be trade receivables of the
+business.
+No entries aremade in the cashatbank account when a credit transaction occurs,because no
+cash has been receivedor paid.Insteadweusereceivables and payablesaccounts.Whena
+business acquiresgoods orservices on credit,the credit entry is posted tothe'tradepayables'
+accountinsteadofthe cashaccountThedebitentry is posted tothe expenseorassetaccount,
+exactlyasinthecaseofcashtransactions.Similarlywhenasaleismadetoacreditcustomer
+the entry is adebitto the tradereceivables account (instead ofcashaccount),anda creditto
+the sales account.
+Workedexample:Doubleentryforcredittransactions
+Abusinessentered intothefollowingtransactions:
+(1)ThebusinesssellsgoodsoncredittoAlabamaLtdforCU2000.
+(2)Thebusinessbuysgoodsoncredit fromBaltimore LtdforCU100.
+Requirement
+How and where are thesetransactions posted in the ledgeraccounts?
+Solution
+TRADERECEIVABLES
+Salesalc   2,000
+SALESACCOUNT
+CU
+Tradereceivablesa/c   2,000
+TRADEPAYABLES
+CU
+Purchasea/c   100
+PURCHASESACCOUNT
+CHAPTER
+CU
+Tradepayables a/c   100
+ICAB2026   Ledgeraccounting anddouble entry   115

@@ -1,0 +1,37 @@
+CASHATBANKACCOUNT
+CU   CU
+30   30June
+June   20X0   Balance bid   310
+20X0   Dividendspaiddirecttobank
+(P)   225   Bank charges (c)   35
+Dishonoured
+Balance c/d   170   payment(e)   50
+395
+395
+Bankreconciliationat30June20x0
+Balanceperbankstatement   (70)
+Add   Receipts whichhave not yetcleared thebank   400
+330
+Less
+Paymentswhich havenot yet.clearedthebank   (500)
+Balancepercorrectedcash atbankaccount   (170)
+Interactivequestion1:Bankreconciliation
+Abankreconciliation statement is being prepared.Theclosing balance shown bythe bank
+statementisapositivebalanceof CU388.The cashat bankaccounthasapositivebalanceof
+CU106.
+Requirements
+1.1Usingthetable below,selectthe effect ofeach item onthe closingbalance shownbythe
+bankstatement.
+Increase/Decrease/No
+effect
+Thebank has madea mistake in crediting theaccount with
+CU110 belonging to another customer-an error not yet rectified.
+CU120 received bythe bank under a standing orderarrangement
+hasnotbeen entered in thecashatbankaccount
+Anelectronicpaymenttotalling CU5,629hasbeenmadetoa
+supplierandentered in the cashatbank account but is not yet
+presented on thebank transaction report.
+Cash.receiptsfromcustomers.totallingCU5,577havebeen
+entered in the cash atbank accountbuthavenotyet been
+credited in the bank statement.
+184   Accounting   1CAB2026

@@ -1,0 +1,39 @@
+(6)Profit on the sale of an officebuilding
+(7)Revenuefromsalespaidforbycreditcard
+(8)The costof newmachinery
+(9)Customs duty charged on machinery when imparted into thecountry
+(10)Thedeliverycosts oftransportingthenewmachineryfromthesupplier'sfactorytothe
+premises ofthe business purchasing it
+(11)Thecostofinstallingthe.newmachinery inthepremisesofthebusines5
+(12)Thewagesofthe machine operators
+See Answer at the end of this chapler.
+Qualitative characteristics of useful accounting
+information
+Sectionoverview
+Financial information should berelevantand faithfullyrepresentwhat it purportsto
+representTheusefulnessoffinancial information is enhanced if itiscomparable
+verifiable,timelyand understandable.
+The Conceptual Framework states that information must have certain fundamental and
+enhancing qualitative characteristics if it is to be usefultothe primaryusers,
+6.1   Thefundamental qualitativecharacteristics
+The Conceptual Framework identifies thefundamentalqualitative characteristicstobe
+relevanceand
+faithful representation.Informationmustbebothrelevantandfaithfulyrepresentedtobe
+useful.
+Relevance.Relevantfinancial information is capable ofmakinga differencein the decisions
+madebyusers.Informationmaybecapableofmakingadifference in adecision even if
+some users choose not to take advantage ofit orare already aware of it from other
+sources.(ConceptualFramework:para,2.6)
+Financial information can make a difference todecisions if ithas one orbothof:
+predictive value. It can be used to predict future outcomes.
+confirmatoryvalue.Itprovidesfeedback aboutpreviousevaluations (itconfirms
+whetherpastpredictions werereasonable).(Conceptual Framework:paras.2.7-2.8)
+Information'srelevance is affectedbyitsnature and materiality-(Weshall comebackto
+materiality:fornow you can thinkofitasimportant'),You shouldnotethat information may
+become less relevant ifthere isundue delay in itsreporting.
+Faithful representation.If informationistobeuseful,it mustrepresentfaithfullythe
+transactions.andotherevents itpurports torepresent.(ConceptualFramework:para.2.12)
+Afaithful representation will be:
+Complete.All information necessaryfora userto understand thetransactions or
+events being depicted is included.(Conceptual Framewark:para.2.14)
+20   Accounting   ICAB2026

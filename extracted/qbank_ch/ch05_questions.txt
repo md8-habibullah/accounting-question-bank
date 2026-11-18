@@ -1,0 +1,130 @@
+    Chapter 5: Preparing basic ﬁnancial
+    statements
+1   Anchor Ltd is preparing its ﬁnancial statements. After transferring the balances on all the income and
+    expense ledger accounts to the proﬁt and loss ledger account, the total credits in the proﬁt and loss
+    ledger account exceed the total debits by £4,000.
+    Requirement
+    Which two of the following statements about Anchor Ltd are correct?
+    A   Anchor Ltd has reported a loss for the year of £4,000.
+    B   Anchor Ltd has reported a proﬁt for the year of £4,000.
+    C   To begin to calculate the closing capital account balance, Anchor Ltd should credit the capital
+        account and debit the proﬁt and loss ledger account with £4,000.
+    D   The opening balance on the proﬁt and loss ledger account for the next reporting period is
+        £4,000 credit.
+    E   The closing balance on the proﬁt and loss ledger account of £4,000 should be deducted from
+        the capital account to give the proﬁt for the year.
+                                                                                                LO 3c
+
+
+2   Which of the following should be classiﬁed as a non-current asset?
+    A   Cash
+    B   Prepayments
+    C   Land
+    D   Receivables
+                                                                                                           LO 3c
+
+
+3   Gerrard Ltd is registered for VAT. In the month of April, it sells goods to customers for a total of
+    £89,436 excluding VAT and purchases goods from suppliers for a total of £86,790 including VAT.
+    Requirement
+    What is the net amount shown in Gerrard Ltd’s VAT account at the end of April?
+    A   £3,422 debit
+    B   £2,452 debit
+    C   £3,422 credit
+    D   £2,452 credit
+                                                                                                           LO 3c
+
+
+4   Which of the following statements concerning the preparation of ﬁnancial statements is true?
+    A   The balances on income and expense accounts are brought down at the end of the accounting
+        period to be carried forward to the next accounting period.
+    B   The balances on asset and liability accounts are summarised in an additional ledger account
+        known as the statement of ﬁnancial position ledger account.
+    C   The statement of proﬁt or loss ledger account is a list of all the balances extracted from the
+        business’s accounts.
+    D   Loss for the year is a credit entry in the statement of proﬁt or loss ledger account.
+                                                                                                           LO 3c
+
+
+
+
+    ICAEW 2024                                                    5: Preparing basic ﬁnancial statements      19
+5   A sole trader had trade receivables of £2,700 at 1 May. During May they made cash sales of £7,200,
+    credit sales of £16,500 and received £15,300 from their credit customers.
+    Requirement
+    The balance on the trade receivables account at the end of May was:
+    A    £1,500
+    B    £3,900
+    C    £8,700
+    D    £11,100
+                                                                                                         LO 3c
+
+
+6   Which of the following would be a credit balance in the trial balance?
+    A    Bank overdraft
+    B    Drawings
+    C    Purchases
+    D    Delivery outwards
+                                                                                                          LO 1f
+
+
+7   Plym plc is a VAT registered retailer. All transactions attract VAT at the rate of 20%. For the year to
+    30 June 20X7, Plym plc made purchases of £69,600 including VAT and made sales of £89,400
+    excluding VAT. There was no change in the ﬁgures for opening and closing inventory in the
+    statements of ﬁnancial position as at 30 June 20X6 and 20X7.
+    Requirement
+    What was Plym plc’s gross proﬁt for the year ended 30 June 20X7?
+    A    £19,800
+    B    £4,900
+    C    £31,400
+    D    £16,500
+                                                                                                         LO 3c
+
+
+8   Val had an opening trade payables balance of £3,450 on 1 December. During the month of
+    December, they sold goods totalling £6,780 to customers on credit, purchased goods totalling
+    £5,100 from suppliers on credit and made cash purchases of £400. They also received £3,900 from
+    credit customers and made payments to credit suppliers of £4,200.
+    Requirement
+    What was the balance on Val’s trade payables account at the end of December?
+    A    £4,350
+    B    £6,330
+    C    £4,750
+    D    £2,550
+                                                                                                         LO 3c
+
+
+
+
+9   The following are balances on the accounts of London, a sole trader, as at the end of the current
+    ﬁnancial year and after all entries have been processed and the proﬁt for the year has been
+    calculated.
+
+
+
+
+    20    Accounting                                                                               ICAEW 2024
+                                                                                               £
+Non-current assets                                                                     85,000
+Trade receivables                                                                       7,000
+Trade payables                                                                          3,000
+Bank loan                                                                              15,000
+Accumulated depreciation, non-current assets                                           15,000
+Inventory                                                                               4,000
+Accruals                                                                                1,000
+Prepayments                                                                             2,000
+Bank overdraft                                                                          2,000
+
+
+Requirement
+What is the balance on London’s capital account?
+A   £59,000
+B   £66,000
+C   £62,000
+D   £64,000
+                                                                                            LO 3c
+
+
+
+
+ICAEW 2024                                         5: Preparing basic ﬁnancial statements      21

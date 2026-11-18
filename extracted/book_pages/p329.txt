@@ -1,0 +1,38 @@
+When an item of PPE is depreciated, two thingsmustbeaccountedfor.
+The chargefor depreciation is an expenseof thereporting period in the staterment of
+profitorloss.
+Atthe same time,the asset is wearing outand being consumed,and so its cost in the
+statementof financial position must be reduced by thie amounit of depreciation charged.
+Definitions
+Carryingamount:Cost less accumulateddepreciation less accumulated impairment losses.
+Accumulateddepreciation:Thetotalamountof theasset's depreciation amount.thathas been
+allocatedto reportingperiodstodate.
+The amount of depreciation deducted fromthe cost of  non-current assetto arriveat its
+carrying amount will buildup (or'accumulate')over time,as more depreciation is charged in
+eachsuccessive reporting period.This is called accumulated depreciation.
+Context example: Accumulating depreciation on a non-current asset   CHAPTER
+Anon-currentassetwas acquiredvia a leaseand recognisedatcostofcU40,000.If ithasa
+Useful lifeand leasetermoffouryears and an estimatedresidual value ofnil, itmightbe
+depreciatedbyCU10,000perannum
+Depreciation
+charge forthe   Accumulated   Carrying   10
+year(statement   depreciationat   Cost ofthe   amountatend
+ofprofitorloss)   end of year   asset   of year
+(A)   (B)   (C)   (C-B)
+Atbeginning of its life   40.000   40,000
+Year1   10.000   10,000   40,000   30,000
+Year2   10,000   20.000   40.000   20,000
+Year3   10,000   30,000   40.000   10.000
+Year4   10,000   40.000   40,000
+40.000
+AttheendofYear4,thefullCU40,o00ofdepreciation chargeshavebeenmadein.the
+statementof profit or loss of thefouryears.The carrying amount of the non-current asset is
+nownil.
+3.1.   Methodsofdepreciation
+Thereareseveraldifferentmethodsofdepreciation.Ofthese,theones whicharerelevantfor
+Accounting are the:
+straightlinemethod
+reducingbalancemethod
+A change from one method to another is considered a change in accounting estimate.There is
+nochange inaccountingpolicy,whichremains:todepreciatetangible.non-currentassets,
+ICAB2026   Non-currentassets,depreciation andimpairment   319

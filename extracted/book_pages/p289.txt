@@ -1,0 +1,31 @@
+Professional skillsfocus:Applyingjudgement
+Sometimes an invoice forgoods or services used in the year will notyet have been receivedat
+theyearenddate,but that does not mean weshould not accruefor the expense.The   UHAPTER
+accountantmayhavetouse theirprofessional judgementto estimatetheaccrualbasedon
+similarexpensesincurred inthe past
+Professional skillsfocus:Structuring problems and solutions
+Applicationof theaccruals principle is essential if the financial statements are to presenta
+true and fairviewoftheperformanceandposition ofan entity.Adjustingforaccrualsand
+prepayments is therefore an essential step in preparing thefinancial statements for
+communication to external stakeholders,
+Accruals
+Sectionoverview
+Tosetupanaccrual
+Expense (statementofprofitorloss)
+Accrual (current liability on the statement of
+CREDIT   financialposition)
+Workedexample:Accruals1
+HasabMotor Spares prepares its accounts to28February each year.Hasab Motor Spare's
+telephone contractcommenced1April 20X6and the quarterlytelephone bill sreceived at
+the end ofeach quarter.
+Requirement
+CalculateHasabMotorSpare'stelephoneexpensetobechargedtothestatementofprofitor
+loss for theyearended28February20x7.
+Telephoneexpenseforthethreemonths ended:
+CU
+30.6.20X6   23.50
+30.9.20X6   27.20
+31.12.20X6   33.40
+31.3.20X7   36.00
+All thebills were paid on the final dayof each three-monthperiod.
+CAB2026   Accrualsandprepayments   279

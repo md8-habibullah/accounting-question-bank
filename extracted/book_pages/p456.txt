@@ -1,0 +1,47 @@
+Thisreconciliationis producedas follows:
+Reconciliationofprofiv/loss)beforetaxtocashgeneratedfromoperationsfortheyear
+ended31December20X4
+Profit/(loss)beforetax
+Finance cost
+Finance income   (X)
+Depreciation charge
+Amortisationcharge
+Impairmentloss
+Lossprofit)ondisposalofnon-currentassets
+(lncreaseydecreaseininventories   (x)X
+(lncreaseVdecrease intradeandotherreceivables   (X)X
+(Increase)/decrease inprepayments   X(X)
+Increase/(decrease)intradeandotherpayables   X/(X)
+Increase/(decrease)inaccruals   X/(X)
+Increase/(decrease)inprovisions
+Cashgenerated fromoperations
+2.4   Explanation
+It is important to understand why certain items are added and otherssubtracted.Note the
+followingpoints:
+a)Depreciation,amortisationand impairmentlosses arenotcashexpenses,butare
+deducted in arriving at the profitfigure in the statementofprofit or loss,It makes sense,
+therefore,toaddthembacktoprofitbeforetaxto eliminatethe impactofthesenon-cash
+expenses.
+b) Bythe samelogic,a loss on a disposal ofa non-current asset(arising through the under
+provisionofdepreciation)needstobeaddedbackandaprofitondisposalneedstobe
+deducted.Recall from Chapter10 thataprofit orlosson disposal is NOTthesameas the
+proceeds received on the sale.The proceeds received are a cash flow,but they are
+presented in the investing activities section rather than the operating activities section.
+c) An increase in inventorymeansthe companyhas spent cash on burying/manufacturing
+inventory.
+d) An increase in receivables means thatmore of therevenue included in profitbeforetax
+hasnotbeen collectedandthereforethe companyhas less cash.
+e)   Prepayments result in cashbeing paidoutbefore expenses are incurredandthereforean
+increaseinprepaymentsisnegativefora company'scashflow.
+f)Ifacompanypays offits payables,causing thefiguretodecreaseagainithas less cash.
+g)Accruals result in cash being paid outafter expenses are incurred and therefore an
+increase inaccrualsispositiveforacompany's.cashflow.
+h) Provisions arenotcashflows-the cash flowoccurs whentherelated expense is paid.An
+increase inprovisionwill havedecreased profitbeforetaxand requirestobeaddedback
+when calculating cash generated from operations,
+i)Financecosts are addedbackandfinance income isdeductedas theyarenotpartofthe
+cashgenerated fromoperationssub-total.Financecostsformpartoftheinterestpaid
+calculation which is includedinarriving atcash flowfromoperating activities andfinance
+incomeforms partof the interestreceived calculationwhich is included inthe investing
+activities section.
+446   Accounting   ICAB2026

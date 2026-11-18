@@ -1,0 +1,42 @@
+Thestatementof profitorloss
+Sectionoverview
+The statement ofprofit or losssets out the entity's financial performanceoveraperiodof
+time,
+Itmatches income and expensestoarrive atafigureforprofitor loss.
+Trading income less the costs of trading represents gross profit.
+Gross profit less expenses represents net profit.
+Profit forthe period perthestatementofprofitorloss is addedtothecapital section in the
+statementoffinancial position;drawings are deductedas appropriations of profit in order
+to arrive at the owner'stotal capital.
+CHAPTER
+6.1   Whatisthestatementof profitorloss?
+The statement of profit orloss is a statement in whichtwokeyelements offinancial
+statements-income and expenses-arematchedtoarriveatprofitor loss.Many
+businessesdistinguish between:
+gross profitearnedon trading (revenue less costof sales)
+profitfortheperiod (sometimesreferred toasnetprofit)afterotherincomeandexpenses
+In thefirstpartofthestatementaf profit orlossrevenuefromsellinggoodsis comparedwith
+directcosts ofacquiring orproducingthe goodssold to arriveata grossprofitfigure.From
+this,deductions aremade in the second half of the statement (which we will call the expenses
+section)inrespectofindirect costs (overheads).Additionsmayalsobemadetogrossprofit in
+respectof non-trading income,
+Grossprofit=revenuefromsales,lesscostofsales
+Profitfortheperiod=gross profitlessexpenses plusnon-trading income
+Business owners wanttoknow howmuch profit or loss has been made,but there is only
+limited information value intheprofitfigure.inordertoexercisefinancial control effectively.
+managers mustknowhowmuchrevenueand otherincome hasbeen earned,what.costs have
+been,andwhetherthe performance of sales orthe control ofcosts appearsto be satisfactory.
+Thestatement of profit orloss matches incomeearned to the expenses of earning that
+income,This is whyprepayments andaccruedexpenses appearinthefinancial statements.
+Prepayments are excluded from expenses in the statement of profitorloss andare included in
+receivables in the statementof financial position,because theyrelateto future periods.
+Accruedexpenses areaddedtoexpenses inthestatementofprofitorloss and shownas
+payables in the statementoffinancial position,because theyrelate to the currentperiod but
+have not been paid as cash in the period.
+6.1.1   Grossprofit
+Gross profit is the differencebetween:
+?the value of sales revenue; and
+:the purchase or production cost af the goods sold: cost ofsales.
+In aretail business,thecostofthegoods soldistheirpurchasecostfrom suppliers.Ina
+manufacturing business,theproduction cost ofgoods sold is thecostofrawmaterials in the
+ICAB2026   The accountingequation   67

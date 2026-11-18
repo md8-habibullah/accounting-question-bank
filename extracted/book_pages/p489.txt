@@ -1,0 +1,37 @@
+Worked example: Sole traderfinancial statements
+Wastohad thefollowingtrialbalanceasat31December20X4:
+CU'000   CU'000
+Owner'scapitalat1.1.X4   450
+Bank loan   613
+Freehotd landand buildings   430
+Freehold landandbuildings-accumulated   20
+depreciation Plantandmachinery-cost   830
+Plantandmachinery-accumutated   222
+depreciationStock   190
+CHAPTER
+Sates   2,695
+Purchases   2,152
+Loan interest   10
+Wages and sataries   254
+14
+Drawings   31
+Sundryexpenses   113
+Suspenseaccount   420
+Debtors   464
+Creditors   195
+Cashatbank   141
+4,615   4.615
+Thefollowing matters havenowbeen discovered:
+(1)On1January20X4Wasto injectedafurtherCU190,000 intothebusiness.Theentrymade
+wastodebitcashatbankandcreditthesuspenseaccount
+(2)On1January20X4anitemofhighemissionsplantthathadcostCU350,000andonwhich
+depreciation of CU74,000had been charged was disposedofforCU230,000.Theonly
+entrymadewas.todebitcashatbankandcreditthesuspenseaccount.
+(3)DepreciationofCU36,000needstobecharged on theremainingplantandmachinery,
+and CU5,000 onthelandand buildings.
+(4)LoaninterestofCU10,000shouldbeaccruedat31December20X4.
+(5)Stockonhandat31December20x4costCU220,000.
+Requirement
+PrepareWasto'sprofitand loss (P&L)accountfortheyearended31December20X4and the
+balance sheet at that date.
+ICAB2026   Soletraderfinancial statementsunderLocal GAAP   479

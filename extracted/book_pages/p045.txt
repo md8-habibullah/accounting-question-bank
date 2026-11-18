@@ -1,0 +1,24 @@
+Underlyingassumptions
+Financial statements shall be prepared on a going concern basis unless management
+eitherintendstoliquidatetheentityortoceasetradingorhasnorealisticaltemativebut
+todo so.Assessment.ofwhetherthegoingconcern assumption isappropriatemusttake
+intoaccountallavailableinformationforatleast12monthsfromtheendofthereporting
+period.Any uncertaintymust be disclosed.-IAS1,paras,25 and 26
+An entityshould prepareitsfinancial statements using theaccrualbasis ofaccounting,
+recognising the elements of finanicial statements in line withthe Conceptual Framework.
+IAS1,paras.27and28
+Tomaintain consistency,thepresentationand classification of items in thefinancial
+statements should staythe samefrom one periodto thenext,unlessthere is significant
+change in thenature ofthe operations,ora reviewofthe financial statements indicates a
+moreappropriate presentation,ora change inpresentation is requiredbyan IAS.-IAs1,
+para.45
+Omissions ormisstatements ofitems arematerial iftheycould,individuallyorcollectively.
+influence the economic decisions ofusers taken on the basis of the financial statements,
+Materiality depends onthe sizeand nature ofthe omission ormisstatement judged in the
+surrounding circumstances,The size orthe nature ofan item,ora combination ofboth,
+couldbethedeterminingfactor.-IAs1.para,7
+Eachmaterial classof similar items shallbepresentedseparately inthefinancial
+statements.ltems ofa dissimilarnature orfunction shall bepresented separatelyunless
+theyare immaterial,butaspecific disclosurerequirementinan IAS need notbe satisfied if
+theinformationisimmaterial.-1AS1,paras.29and31
+36   Accounting   ICAB2026

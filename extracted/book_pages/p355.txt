@@ -1,0 +1,42 @@
+Solution
+Cu1.2milionof thedevelopmentcosts incurredshouldbewrittenofftoprofitorlossas
+expenditure in the period and the rernaining CU5 million should be capitalised.
+DEBIT   Developmentexpenditure (P/L)   CU1.2m
+Intangible non-currentassets   CU5m
+(Developmentcosts)(SFP)
+CREDIT   Cash/payables   CU6.2m
+Thecapitalised developmentcosts should thenbeamortised,pro-rata (CU5m/5years x6/12
+months)=cUo.5m
+DEBIT   Amortisationexpense(P/L)   CU0.5m
+CREDIT   Accumulatedamortisation   CU0.5m
+8.2.1   Internallygenerated brands   CHAPTER
+Thereare some intermally generated intangibles that cannotberecognised as assets as they
+do notmeetthedefinition of an asset Whilstyou are not expectedto be aware of the criteria
+in Accounting.you should be aware that internally generated brands cannot be capitalised as
+an intangibleasset whereaspurchased brands (as discussed above)can be capitalised.
+8.3   Goodwill   10
+Ifabusiness has goodwillitmeans thatthemarketvalue of thebusiness as a going concern is
+greaterthanthe carrying amountofitsassets lessits liabilitiesin its accountingrecords.
+Goodwill iscreatedbygoodrelationshipsbetweena business and its customers,forexample:
+bybuildingupareputation (bywordofmouthperhaps)forhighqualityproducts orhigh
+standards ofservice
+byrespondingpromptlyandhelpfullytoqueries.andcomplaintsfromcustomers
+through the personality of the staff their attitudes to customers and their skills
+Althoughthe value of goodwill to a business mighit be extremely significant it is not usually
+includedinthefinancial statements.
+Forexample,thewelcomingsmilesofshopstaffand itsreputationforgood customerservice
+maycontributemoreto asupermarket'sprofitsthan thefactthatanew electronic cashregister
+has tecentlybeenacquired,evenso,whereas the cashregisterwill be recorded intheledger
+accounts as a non-current asset, the value of the'staff and the supermarket's reputation would
+beignoredfaraccounting purposes.
+Goodwill s inherent in thebusiness but ithas notbeen directlypaid for,so valuation is
+subjective.
+Goodwill changes fromdaytoday.One act ofbad custamerrelationsmightdamage
+goodwill andoneactofgoodrelationsmightimproveitStaffwithafavourablepersonality
+mightretireorleave,tobereplaced by staff whoneed timetobecorme established.
+Intemallygeneratedgoodwill isnotidentifiable as it is notseparablefrom thebusiness,doesn't
+arisefrom legal rights and isnotcontrolled bytheentity.Internallygenerated goodwill cannot
+be recognised as anasset.
+Goodwill mayberecognised whenone business purchases another,howeverthis is not
+consideredfurther in Accounting.
+ICAB2026   Non-currentassets,depreciationand impairment   345

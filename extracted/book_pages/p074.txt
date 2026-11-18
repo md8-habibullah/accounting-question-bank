@@ -1,0 +1,39 @@
+4.4.1   Non-currentliabilities
+Definition
+Non-current liability:Adebt which isnot payablewithin one year.Any liability which is not
+current mustbenon-current.
+Examplesofnon-currentliabilitiesarebelow:
+Loans whichare notrepayableformorethan.oneyear,such as a bank loan ora loan from
+anindividualtoa business.
+Loan stock ordebentures.These arecommon with limitedcompanies.Loan stocks or
+debentures are securities issued by a company at a fixed rate of interest They are
+repayable on agreed terms by a specified date in thefuture.Holders of loan stocks are
+thereforelendersofmoneytoacompany.Their interests,includingsecurityforthe loan,
+areprotected by theterms of a trust deed.If the loan is repayable over several years,then
+the portionrepayable within oneyearis shown asa current liability (see below).
+4.4.2   Current liabilities
+Definition
+Current liabilities:Debts ofthe business thatmust be paid within oneyear, or within the
+entity'snormaloperatingcycle,orthatareheldtobetraded.
+Examplesofcurrent liabilities include:
+loans repayable within one year,including theelementofa long-term loan that is
+repayablewithinoneyear.
+abankoverdraft,which is usuallyrepayableondemand.
+tradepayables representsuppliersto whichthebusiness owes moneyforgoodsor
+services bought on creditas partofthe business's trading activities.
+otherpayables dueto anyone elsetowhom thebusiness owes.money,such as VAT
+authorityinrespectof VAT,pensiontrusteesinrespectofpension contributions,and
+employeesinrespectofunpaidremuneration,forexamplesales commissions.
+taxationpayableto IncomeTax Authoritywithrespectto corporation taxonthe
+company's profits.
+accruals.These are expenses already incurredby thebusiness,for whichno invoice has yet
+been received,orfor whichthedateofpaymenthas notyetarrived.An exampleof
+accrued charges isthe cost ofgas orelectricityused.Ifabusiness ends its accountingyear
+at 31Decemberbut does not expect its next quarterlygas bill until the end of January.
+there will betwo months ofaccrued gas chargesto record in the statement of financial
+positionasaliabitity.
+Preparingthe statementoffinancial position
+Sectionoverview
+The statementof financial position lists outand totals non-current plus currentassets,then
+it lists outandtotals capital plusnon-current liabilities plus current liabilities.
+64   Accounting   JCAB2026

@@ -1,0 +1,32 @@
+LIABILITY
+DEBIT   CREDIT
+Decrease   Increase
+CAPITAL
+DEBIT   CREDIT
+Decrease   Increase
+Forincome andexpenses,think aboutprofit.Profitretained inthebusiness increases capital.
+Income increasesprofitandexpensesdecreaseprofit.
+INCOME
+DEBIT   CREDIT
+Decrease   Increase
+EXPENSE
+DEBIT   CREDIT
+Interactivequestion 1:Debits and creditsI
+Complete thefollowingtable relating to thetransactions ofabookshop.(Thefirsttwoare
+doneforyou.)
+(a)Purchaseof books oncredit
+.Payable increase
+.Purchaseincrease
+(b)Purchase ofcashregisterbycheque
+Ownacashregister
+.Cashatbankdecreases
+(c)Paymentreceivedfromacreditcustomer
+Receivablesdecrease
+Cashatbankaccountincreases
+(d)Sell booksforcash
+Revenueincreases
+Cashatbankaccount increases
+Note: The boxes in this question indicate.where an answer is required. Youcan.use the'add
+comment function to record your workings and answers.
+SeeAnsweratthe end ofthis chapter.
+112   Accounting   ICAB2026

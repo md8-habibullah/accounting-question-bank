@@ -1,0 +1,39 @@
+Forexample,asupplierchargesCU1,o00forgoodswithanormal creditperiodof30daysbut
+offers a discount of5%ifthegoods are paidfor within10 days ofthe invoicedate,If the
+customer decides to take the discount,theymustpayCU950 (CU1,000×95%)within 10 days
+ofthe invoicedate.fthecustomerdecides notto.take thediscount,theymustpaythefull
+CU1,000,buthave30days inwhichtomakethepayment
+6.2.1   Accountingforearlysettlementdiscounts offeredto customers
+Sales shouldberecorded netofearly settlement discounts taken bycustomers.However,at
+thepointofinvoice,whenthe saleisrecorded intheaccountingsystem,thebusinessdoesnot
+knowwhetheror notthe customerwill take the early settlement discountoffered.Therefore,
+when the sale is recorded,the business should determine whethertheyexpect the customer
+to take thediscount, or not based on theirknowledge of the customer and whether the
+customerhaspreviouslytaken.advantageofsuchdiscounts,andrecordthe saleaccordingly.
+if,whenpayment ismade,thecustomerdoesnotbehaveasexpected,eg.doestakea
+discount when.theywere notexpected to,the accountingrecords are adjustedto reflectthe
+fullgross valueofthegoods sold,
+Professional skills focus: Applying judgement
+Determining.whethera creditcustomerwill orwill nottakeadvantage ofan earlysettlement
+discount ismatterof judgment foraccountants in practice.In an exam question,that
+judgement will already have been made.You just need toknow how to apply the correct
+accountingtreatment.
+Workedexample:Earlysettlementdiscounts-creditsales
+Finniehasnormal credittermsof30daysbutoffersapromptpaymentdiscountof5%to
+customersif they settle invoices within10 days.At19April,Finnie soldgoodstotallingCU500
+to Rabia.Rabia normally takes advantageof thepromptpaymentdiscountoffered.At22April.
+Finnie sold goodsto Shu totalting CU340.Shu normally takes a full 30 days to settle their
+invoices,
+Requirement
+Recordthetransactionsinthe ledgeraccountsofFinnieassumingthat:
+Rabiapays within10daysasexpected
+Rabiapaysinmorethan10days
+Shu pays after 30 days as expected
+Shupays within 10.days
+Solution
+Accountingforthetransaction with Ruby:
+Atthepointofinvoice   CHAPTER
+Finnie expects Rabia to take advantage oftheprompt paymentdiscountas theyusually do so.
+Therefore,the sale should berecordednetof the prompt paymentdiscount:CU500x95%
+CU475.
+ICAB2026   Ledgeraccountinganddouble entry   123

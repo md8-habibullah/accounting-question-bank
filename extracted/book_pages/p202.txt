@@ -1,0 +1,23 @@
+Summary
+Verifyaccuracy
+Memorandumaccounts   Buckreconcillation
+NOT part of doubleentry
+Used for record keeping
+Balance reconciliation
+Cashatbackaccountbalance
+Add/deduct:Errors and omissions   2x/(8)
+Receivables ledger   Payables ledger   Correctedtash atbackaccountbalance
+eachcreditcustomer   Sepatateaccount for   eachcreditsupplier   Separateaccount for   Batanceper bank transaction report:
+Add:Receipts which havenotyet
+anypointin time   Shows amount owed   by each customcrat:   Shows amounit owed   byeachsupplierat   any point in time   Less:Paymentswhichhave.notyet   cleared the bank
+cleared the bank
+Supplierstatement   Notethat these batinceswill benegative if there
+reconcillatian   Is an overdraft
+Correcting errors
+Types oferror
+Principle   Commission   Transposition   Omission   Cornpensating
+1.dentityoriginal (incorrect)entry
+Z. ldentity what the entry should have been
+3.Createcorrecting journalentry
+ldentifyeffectofcorrectiononprofit
+192   Accounting   ICAB2026

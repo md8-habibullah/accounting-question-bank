@@ -1,0 +1,37 @@
+Non-currentassetdisposals
+Sectionoverview
+Whenanon-currentassetis disposedof,thecostandaccumulateddepreciation mustbe
+temoved from theaccountingrecords.Theproceeds received are recorded,and a profitor
+loss isrecognised inthestatementofprofitorloss.
+The profit orloss is calculatedas thedifferencebetweenthe proceeds received andthe
+carying amount of the asset at the date af disposal.
+AdisposalsTaccountcanbeusedto recordthe entries.
+When an old asset has been attributeda netrealisablevalue (NRV)when given inpart.
+exchangefora newane,the part-exchangevalue is accounted foras theold asset's
+disposalproceeds.
+Non-current assets might be sold offat some stageduring their life,either when their useful life
+is overorbeforethen.Whenan asset is sold, itno longerhasthepotentialto produce
+economicbenefits andtherefaredoes not'meetthe Conceptual Frameworkdefinitionofan
+assetItmust.thereforebederecognised(removed)fromthefinancialstatements.On
+derecognition,boththecostandaccumulateddepreciationassociatedwiththenon-current
+assetmustberemovedfromthefinancialstatements.
+Whenever abusiness sells something,it will makea profitora loss.When non-currentassets
+aredisposedof therewill beaprofitorloss ondisposal As it isa capital itembeingsold,the
+profit orloss will be capital income ora capital expense,Profitsmaybepresented as other
+incomeor,netted off againsttherelevantexpensecategory.Lossesare reportedas
+administrative expenses ordistributioncosts inthestatementof profit orloss ofthebusiness,
+non-currentassets
+6.1   Theprinciples behind calculatingtheprofit or loss ondisposal
+The profit or loss an thedisposal ofa non-currentasset is the differencebetween:
+the carryingamount oftheassetat the time ofits sale;and
+its net disposal proceeds:thearmountreceived less any costs ofmaking the sale.
+Aprofit is made when thenetdisposal proceeds exceed the carrying amount A loss is made
+when the netdisposal proceeds are less than the carrying amount
+Worked example:Disposalofanon-currentassetl
+Abusiness purchasedanon-currentasseton1January20x1forCU25,000.Ithadanlestimated
+lifeof sixyears andanestimatedresidual valueof CU7,000and is depreciated on thestraight
+linebasis.Theassetwas soldafterthreeyearson 1 January20X4to anothertrader whopaid
+cu17.500forit
+Requirement
+What was theprofit or loss on disposal?
+ICAB2026   Non-current assets,depreciation and impairment   333

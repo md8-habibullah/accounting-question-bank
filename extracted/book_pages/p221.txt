@@ -1,0 +1,41 @@
+Requlrement
+Calculate Grand UnionFood Stores'grossprofit forthe year.See Answeratthe end ofthis
+chapter.
+2.3   Delivery costs
+Delivery costsreferto allcostsof transporting purchasedgoodsfrom thosuppllertothe
+customer.One party hastopayfor.thesedelivery costs:somatimesthesupplierpays (in which
+casethecustomerhasnocoststorecord)andsometimesthecustomarpays,
+Whenthe supplierpays,the costto the suppller isknown as delivery outwards as the goads
+aregoing outof thebusiness.Whenthe customerpays,the costtothecustomer isknownas
+delivery inwards as the goods are coming into the business.
+The cost of delivery outwards is.a distribution costdeducted from gross profit in the
+statementof profitorloss.
+The costofdelivery inwards is addedto the costofpurchases and is therefore included in
+thecalculation of costofsales and gross profit.
+Workedexample:Deliverycosts
+Clockers is a companywhich imports andresells clocks.Itpays for.the costs ofdeliveringthe
+clocksfromits supplierinSwitzerlandtotheshopinWales,
+Clockers resells clocks to othertradersthroughout.the.country.paying delivery costs.for
+deliveries from its business premises to the customers.
+On1July20X5,Clockershad clocks in inventory valuedatCU17,000.Duringthe yearto30
+June20X6itpurchasedmoreclocksforCU75,000.DeliveryinwardsamountedtoCU2,000.
+SalesfortheyearwereCU162,100.Otherbusiness expenses amountedtoCU56,000,
+excludingdeliveryoutwardswhichcostCU2,500.Thevalueofclocks in inventoryat30June
+20x6wascU15,400.
+Requirement   OHAPTER
+Preparethestatementofprofit orloss of Clockersfortheyear ended 30 June20X6.
+SolutionClockers
+Statement of profitorloss fortheyearended30June20X6
+Sales   162,100
+Opening inventory   17.000
+Purchases   75.000
+Deliveryinwards   2,000
+94.000
+Less closing inventory   (15,400)
+Cost of sales   (78,600)
+Gross profit   83,500
+Delivery outwards   2,500
+Otherexpenses   56.000
+(58,500)
+Net profit   25,000
+ICAB2026   Cost of sales and inventories   211

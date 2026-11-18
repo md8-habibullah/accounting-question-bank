@@ -1,0 +1,32 @@
+Solution
+Wasto'sfinal trialbalance canbecalculated asfollows (amountin CU):
+Initial TB   Adjustments   Final TB
+Debit   Credit   Debit   Credit   Debit   Credit
+000.   000,   '000   '000   '000   000.
+Owner'scapitalat1.1.X4   450   450
+Bank loan   613   613
+Freehold land and buildings   430   430
+Freehold land and buildings-
+accumulateddepreciation   20   25
+Plantand machinery-cost   830   350   480
+Plantand machinery-
+accumulateddepreciation   222   74   36   184
+Stock   190   220   190   220
+Sales   2.695   2,695
+Purchases   2,152   2,152
+Loan interest   10   10   20
+Wages and salaries   254   254
+Drawings   31   31
+Sundryexpenses   113   113
+Suspense account   420   420
+Debtors   464   464
+Creditors   195   195
+Cash at bank   141   141
+Capitalintroduced   190   190
+Disposals   276   230   46
+Depreciation expense   41   41
+Accruals   10   10
+2,152
+Cost of sales   +190   220   2,122
+4,615   4.615   3.383   3,383   4362   4,362
+480   Accounting   ICAB2026

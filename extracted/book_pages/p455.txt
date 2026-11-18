@@ -1,0 +1,41 @@
+The total cash flows foreach heading are totalled to give the net infloworoutflowofcash
+and cash equivalents for the period.
+Cashflows from operatingactivities
+2.1
+CHAPTER
+JAs 7defines operating activities as being theprincipal revenue-producing activities of the
+entityand otheractivities that arenot investing orfinancing activities.This is an indication of
+how well theentity cangenerate enoughcash flows to maintain its operations and meet its
+debts without relying on external finance.
+Cashfiowsfrom operating activities can consist of:
+cashreceipts from the saleofgoodsandtherendering ofservices   13
+cashreceiptsfrom royalties,fees,commissions and otherrevenue
+cash paymentsto suppliers for goods and services
+cash paymentsto and on behalf ofemployees
+Cash flows from interestpaid andincometaxespaid arealsodealtwithhere.IAs7allowstwo
+possible layouts for cash generated from operations:
+theindirectmethod
+the directmethod
+The direct method is preferred by lAs 7,as itis more easily understood by theusers, but is not
+compulsory.In practical terms the indirectmethod is likelyto be easierand less time
+consumingto prepare and is more likelyto be examined.In the exam you shoulduse the
+indirectmethodunlessthequestionspecifies otherwise.
+2.2   Directmethod
+Using thedirectmethod,cash generated from operationswould be analysed as follows and
+shownasanotetothestatementofcashflows:
+Cashgenerated fromoperations fortheyear ended December 20X4
+CU
+Cash receivedfromcustomers
+Cashpaymentstosuppliers   (x)
+Cashpaymentstoand on behalfofemployees
+Cash generated from operations
+Thereasons for certain items being added and others being deducted is very straightforward
+with this method-cash inflows areadded and cash outflows are deducted.Entities are
+encouraged to use thismethodas it providesinfornation thatis notavailableunderthe
+indirect methodwhich.maybeuseful inestimatingfuture cashflows.
+2.3   Indirectmethod
+Usingthe indirect method,cashgenerated fromoperations is calculated byperforminga
+reconciliation between:
+profit/lloss)beforetaxas reported in the statementof profitorloss
+cashgeneratedfromoperations
+ICAB2026   Statementofcash flows   445

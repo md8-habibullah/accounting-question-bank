@@ -1,0 +1,42 @@
+transactions werecorrectyrecorded and that.notransactions wereomitted.Electronic
+bankingmeansbusinessesnowhaveconstant,realtimeaccesstotheirbankaccounts andcan
+usethe informationrecordedbythebanktoupdatetheiraccountingrecordsonaregular
+basis.
+Sophisticated accounting software packages can be integrated with the external banking
+system in sucha way thatbanktransactions are.automaticallyrecorded in the relevantaccount
+codes.Such systemsuse Al torecogniseknownreceipts and payments andmatch them
+againsttherelevanttransaction.In sucha case,thebookkeeperwill receiveatransaction
+reportwhich details transactions alreadymatched, and therefore alreadyrecorded, and others
+which still needto be matched.Anyunknowntransactions arerecorded ina temporary
+accountknown asasuspenseaccount'(see Chapter6formoredetail)and will bereportedon
+an exceptionreport, to be investigatedbytheaccountant.Once identified, the suspense
+account will be removedand the transaction will be recorded inthe correct accountwithin the
+accountingsystem.
+Other software packages willnothavedirectaccessto thebusiness'bankingsystembutcan
+acceptinformation held on reports thatare extracted fromthebankingsystem.Ona regular
+basis,thebusiness will downloadatransaction reportfrom thebusiness'banking system
+whichshowsallthereceiptsandpayments inagivenperiod.Thetransactionreportisthe
+source documentfor transactions through the business cash at bank account. Thedata on the
+transaction report is thenuploaded into the accounting software.Many software packages will
+use Altoperformamatchon“knowntransactions and processtheseappropriately,in.much
+the same waythata system that is integratedwith the bank will As was described above,
+unmatchedtransactionswillappearonanexceptionreportforfurtherinvestigation.
+Figure3.4:ElectronicBankingmatching(AmountinCU)
+Transactionreport   UploadedAccounting system   Match   Matches.totransactions
+system can suggestor
+Depositswithdrawals   manual
+650   Salesinvoice001
+customerABC650
+Oncematched,accounting
+systemprocesses
+(006)   Purchase invofce
+Unmatched items require
+investigation
+Purchase invoice   Accountantdiscoversthat
+(1,220)   supplierJKL1,300   takenhenceamountpaidis   promptpaymentdiscount
+lessthaninvoicetotal
+Professional skllsfocus:Structuring problems and solutions
+Youmaybefacedwiththe situatian in the Accounting exam in whichthere is a problem dueto
+an unmatched bank transaction.You will need to work out how the transaction should have
+beenrecorded,whathas orhas notbeen recorded and thereforewhat.correction isrequired.
+94   Accounting   ICAB2026

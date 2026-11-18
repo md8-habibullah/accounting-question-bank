@@ -1,0 +1,384 @@
+    Chapter 8: Irrecoverable debts and
+    allowance for receivables
+1   At 30 September 20X4, Mathieson plc’s allowance for receivables was £19,500. At 30 September
+    20X5 it was decided to write off irrecoverable debts totalling £6,000 and to decrease the allowance
+    for the remaining receivables to £15,000.
+    Requirement
+    What is the adjustment to the statement of proﬁt or loss in respect of irrecoverable debts for the year
+    ended 30 September 20X5?
+    A   £1,500 credit
+    B   £1,500 debit
+    C   £21,000 debit
+    D   £21,000 credit
+                                                                                                           LO 1d
+
+
+2   At 30 June 20X1 Cameron plc has decided to write off two debts of £1,300 and £2,150 respectively
+    and to make an allowance of £6,631 against the remaining trade receivables balance. The balance
+    on the allowance at 1 July 20X0 was £8,540.
+    Requirement
+    What is Cameron plc’s irrecoverable debts expense for the year to 30 June 20X1?
+    A   £1,541
+    B   £1,909
+    C   £3,450
+    D   £5,359
+                                                                                                    LO 1d, 3c
+
+
+3   Enigma plc has reduced its allowance for receivables by £600.
+    Indicate whether each of the following statements are true or false.
+    Requirements
+    The reduction in the allowance for receivables will increase gross proﬁt by £600.
+    A   True
+    B   False
+    The reduction in the allowance for receivables will increase net proﬁt by £600.
+    C   True
+    D   False
+                                                                                                           LO 2a
+
+
+
+
+    ICAEW 2024                                      8: Irrecoverable debts and allowance for receivables      47
+4   Disaster plc’s trial balance shows trade receivables of £50,000. However, no adjustment has been
+    made for the following items.
+    (1) £3,250 from Crispin Ltd which has gone into liquidation. The amount is considered
+        irrecoverable.
+    (2) An increase in the allowance for receivables of £2,000.
+    (3) Cash received from Chaos Ltd of £2,500 which had previously been written off.
+    Requirement
+    What is the trade receivables account balance after posting the above adjustments?
+    A    £50,500
+    B    £50,200
+    C    £46,750
+    D    £49,250
+                                                                                                  LO 1d, 3c
+
+
+5   At 28 February 20X4, a company’s allowance for receivables was £38,000. At 28 February 20X5 it was
+    decided to write off £28,500 of receivables and to increase the allowance for the remaining
+    receivables to £42,000.
+    Requirement
+    What is the irrecoverable debts expense in the statement of proﬁt or loss for the year ended 28
+    February 20X5?
+    A    £42,000
+    B    £28,500
+    C    £70,500
+    D    £32,500
+                                                                                                      LO 1d
+
+
+6   Arrow plc had a receivables balance of £7,050 at 31 December 20X0. During the year £500 was
+    received in respect of a debt previously written off, and an allowance for receivables of £495 was
+    considered necessary at the year end. The allowance brought down as at 1 January 20X0 was
+    £1,000.
+    Requirement
+    What is the amount of irrecoverable debts for inclusion in the statement of proﬁt or loss for the year
+    ended 31 December 20X0?
+    A    debit £5
+    B    debit £1,005
+    C    credit £5
+    D    credit £1,005
+                                                                                                  LO 1d, 3c
+
+
+
+
+    48    Accounting                                                                            ICAEW 2024
+7   During 20X5 Bow plc received £500 from a customer in respect of a balance that had previously
+    been written off, and reduced its allowance for receivables to £100. The allowance brought down as
+    at 1 January 20X5 was £1,000. At the year end the debt of £280 relating to a customer who has
+    entered administration needs to be written off.
+    Requirement
+    What is the amount of irrecoverable debts for inclusion in the statement of proﬁt or loss for the year
+    ended 31 December 20X5?
+    A   £880 debit
+    B   £780 debit
+    C   £1,120 credit
+    D   £1,300 credit
+                                                                                                            LO 3c
+
+
+8   At 31 December 20X2 a company’s trade receivables totalled £400,000 and an allowance for
+    receivables of £50,000 had been brought forward from the year ended 31 December 20X1.
+    It was decided to write off debts totalling £38,000 and to adjust the allowance for receivables to
+    £36,200.
+    Requirement
+    What is the irrecoverable debts expense that should appear in the company’s statement of proﬁt or
+    loss for the year ended 31 December 20X2?
+    A   £36,200
+    B   £51,800
+    C   £38,000
+    D   £24,200
+                                                                                                            LO 3c
+
+
+9   At 1 July 20X2 the receivables allowance of Quaint plc was £18,000.
+    During the year ended 30 June 20X3 debts totalling £14,600 were written off. It was decided that the
+    receivables allowance should be £16,000 as at 30 June 20X3.
+    Requirement
+    What amount should appear in Quaint plc’s statement of proﬁt or loss for irrecoverable debts
+    expense for the year ended 30 June 20X3?
+    A   £12,600
+    B   £14,600
+    C   £16,600
+    D   £30,600
+                                                                                                            LO 3c
+
+
+
+
+    ICAEW 2024                                       8: Irrecoverable debts and allowance for receivables      49
+10 At 1 May trade receivables were £31,475. During May, sales of £125,000 were made on credit.
+   Receipts from credit customers amounted to £122,500 and settlement discounts of £550 that were
+   not expected to be taken at the date of invoice were taken by credit customers. Credit notes of
+   £1,300 were issued to customers.
+    Requirement
+    What is the closing trade receivables balance at 31 May?
+    A     £34,725
+    B     £33,225
+    C     £32,125
+    D     £35,825
+                                                                                                    LO 1d
+
+
+11 Panther plc had an allowance for receivables at 1 July 20X1 of £450. Panther plc wants to write off a
+   receivables balance of £800 as irrecoverable and increase the allowance for receivables to £2,965.
+    Requirement
+    As well as crediting trade receivables with £800, what other entries must be made to record the
+    required adjustments in Panther plc’s accounting records?
+    A     Debit: Irrecoverable debts expense £3,315; Credit: Allowance for receivables £2,515
+    B     Debit: Allowance for receivables £2,515; Credit: Irrecoverable debts expense £3,315
+    C     Debit: Irrecoverable debts expense £3,765; Credit: Allowance for receivables £2,965
+    D     Debit: Allowance for receivables £2,965; Credit: Irrecoverable debts expense £3,765
+                                                                                                 LO 1d, 3c
+
+
+
+
+12 The following trade receivables account has been prepared by an inexperienced bookkeeper and
+   may contain errors of principle.
+                                            TRADE RECEIVABLES
+
+                                                    £                                                  £
+        20X3                                             20X3
+        1 Jan        Balance                 284,680     31 Dec        Cash at bank              179,790
+                                                                       Contras with trade
+        31 Dec       Sales                   194,040                     payables                     800
+                     Discounts given to
+                        customers              3,660
+                     Irrecoverable
+                         debts expense         1,800                   Balance                   303,590
+
+                                             484,180                                             484,180
+
+    An outstanding debt of £4,920 at 31 December 20X3 is to be written off.
+    Requirement
+    What is the amount of trade receivables that should appear on the statement of ﬁnancial position at
+    31 December 20X3?
+    A     £289,350
+
+
+
+
+    50      Accounting                                                                          ICAEW 2024
+    B   £291,350
+    C   £287,750
+    D   £297,590
+                                                                                                    LO 1d, 3c
+
+
+13 At 30 June 20X4 a company’s allowance for receivables was £39,000. At 30 June 20X5 trade
+   receivables totalled £517,000. It was decided to write off debts totalling £37,000 and to adjust the
+   allowance for receivables to £24,000.
+    Requirement
+    What ﬁgure should appear in the statement of proﬁt or loss for irrecoverable debts expense for the
+    year ended 30 June 20X5?
+    A   £52,000
+    B   £22,000
+    C   £37,000
+    D   £23,850
+                                                                                                           LO 3c
+
+
+14 At 1 January 20X5 a company had an allowance for receivables of £18,000.
+    At 31 December 20X5 the company’s trade receivables were £458,000.
+    It was decided:
+    (1) to write off debts totalling £28,000 as irrecoverable; and
+    (2) to adjust the allowance for receivables to £21,500.
+    Requirement
+    What amount for irrecoverable debts should be charged in the company’s statement of proﬁt or loss
+    for the year ended 31 December 20X5?
+    A   £49,500
+    B   £31,500
+    C   £32,900
+    D   £50,900
+                                                                                                           LO 3c
+
+
+15 At 1 July 20X5 a company’s allowance for receivables was £48,000.
+    At 30 June 20X6, receivables amounted to £838,000. It was decided to write off £72,000 of these
+    debts and adjust the allowance for receivables to £60,000.
+    Requirement
+    What are the ﬁnal amounts for inclusion in the company’s statement of ﬁnancial position at 30 June
+    20X6?
+    A   Receivables: £838,000; Allowance for receivables: £60,000; Net balance: £778,000
+    B   Receivables: £766,000; Allowance for receivables: £60,000; Net balance: £706,000
+    C   Receivables: £766,000; Allowance for receivables: £108,000; Net balance: £658,000
+    D   Receivables: £838,000; Allowance for receivables: £108,000; Net balance: £730,000
+                                                                                                           LO 3c
+
+
+16 The following issues arose while Atkins Ltd was preparing its ﬁnancial statements for the year to 31
+   December 20X2.
+
+
+
+    ICAEW 2024                                      8: Irrecoverable debts and allowance for receivables      51
+    (1) £350 was received in December 20X2 in respect of a debt which had been written off in the
+        previous year. The receipt was correctly included in the cash at bank account, but the
+        computerised accounting system was unable to match this transaction and posted the other side
+        of the entry to a suspense account.
+    (2) The directors determined that that the allowance for receivables should be reduced from £900
+        to £800 at the year end.
+    Requirement
+    What journal entries should Atkins Ltd post to account for the above issues?
+    A    Debit Irrecoverable debts expense £450, Credit Suspense £350, Credit Allowance for
+         receivables £100
+    B    Debit Allowance for receivables £800, Credit Suspense £350, Credit Irrecoverable debts
+         expense £450
+    C    Debit Irrecoverable debts expense £450, Debit Suspense £350, Credit Allowance for receivables
+         £800
+    D    Debit Allowance for receivables £100, Debit Suspense £350, Credit Irrecoverable debts expense
+         £450
+                                                                                             LO 1d, 2d
+
+
+17 If Poppy plc reduces its allowance for receivables by £300, which of the following statements is
+   correct?
+    A    Current assets decrease by £300
+    B    Current liabilities decrease by £300
+    C    Gross proﬁt increases by £300
+    D    Net proﬁt increases by £300
+                                                                                                 LO 2a, 3c
+
+
+18 At 31 December 20X4 a company’s trade receivables totalled £864,000 and the allowance for
+   receivables was £48,000.
+    It was decided that debts totalling £13,000 were to be written off, and the allowance for receivables
+    adjusted to £42,550.
+    Requirement
+    Which of the following journal entries would correctly record these adjustments?
+    A    Debit: Irrecoverable debts expense £18,450; Credit: Allowance for receivables £18,450
+    B    Debit: Irrecoverable debts expense £7,550; Debit: Allowance for receivables £5,450; Credit:
+         Trade receivables £13,000
+    C    Debit: Irrecoverable debts expense £7,550; Credit: Allowance for receivables £7,550
+    D    Debit: Irrecoverable debts expense £55,550; Credit: Allowance for receivables £42,550; Credit:
+         Trade receivables £13,000
+                                                                                                  LO 3c
+
+
+19 A business has extracted its initial trial balance as at 31 December 20X7 as follows:
+
+     Trial balance (extract)                                                                Trial balance
+                                                                              Debit                Credit
+                                                                                 £                     £
+     Trade receivables                                                      441,500
+     Allowance for receivables at 1 January 20X7                                                  20,300
+
+
+
+
+    52    Accounting                                                                           ICAEW 2024
+    A balance of £2,400 is to be written off as irrecoverable and the allowance for receivables is to be
+    £21,955.
+    Requirement
+    What is the net trade receivables balance to be presented in the statement of ﬁnancial position at
+    31 December 20X7?
+    A   £417,145
+    B   £396,845
+    C   £419,545
+    D   £421,945
+                                                                                                            LO 2c
+
+
+20 At 1 January 20X1 Urb plc received £3,000 in full settlement of a debt that had previously been
+   written off.
+    At 31 December 20X1 Urb plc determined that a balance of £3,600 owed by a customer was
+    irrecoverable and should be written off.
+    Urb plc also decided to decrease its allowance for receivables from £2,200 to £1,500 on 31
+    December 20X1.
+    Requirement
+    What is the amount of irrecoverable debts for inclusion in the statement of proﬁt or loss for the year
+    ended 31 December 20X1?
+    A   £1,300 debit
+    B   £1,300 credit
+    C   £100 debit
+    D   £100 credit
+                                                                                                            LO 3c
+
+
+21 At its year end of 28 February 20X6 Stope plc has in its accounting records a ﬁgure for trade
+   receivables of £47,533, and an allowance for receivables of £500 at 28 February 20X5.
+    One customer, Invincible plc, has experienced ﬁnancial difﬁculties and has now gone into
+    administration. Its balance of £10,380 at 28 February 20X6 is deemed to be irrecoverable and should
+    be written off.
+    The directors of Stope plc also wish to increase the allowance for receivables to £850.
+    Requirement
+    What will Stope plc record in its accounting records as at 28 February 20X6 in respect of the above
+    transactions?
+    A   Allowance for receivables of £850 and a charge in respect of irrecoverable debts of £10,380
+    B   Allowance for receivables of £1,350 and a charge in respect of irrecoverable debts of £10,730
+    C   Allowance for receivables of £1,350 and a charge in respect of irrecoverable debts of £10,380
+    D   Allowance for receivables of £850 and a charge in respect of irrecoverable debts of £10,730
+                                                                                                  LO 3c
+
+
+
+
+    ICAEW 2024                                       8: Irrecoverable debts and allowance for receivables      53
+22 Moon plc’s initial trial balance as at 31 October 20X1 has been extracted and shows the following:
+
+     Trial balance (extract)                                                               Trial balance
+                                                                               DEBIT            CREDIT
+                                                                                   £                 £
+        Allowance for receivables as at 1 November 20X0                                           6,546
+        Trade receivables                                                     251,760
+
+    As at 31 October 20X1 Grundle Ltd’s balance owed to Moon plc of £1,860 is irrecoverable. It is also
+    decided that the allowance for receivables should be increased to £8,420.
+    Requirement
+    What amount should Moon plc include as its net trade receivables ﬁgure in the statement of ﬁnancial
+    position as at 31 October 20X1?
+    A     £235,024
+    B     £241,480
+    C     £243,340
+    D     £236,794
+                                                                                                   LO 3c
+
+
+23 Meridi plc has an allowance for receivables of £500 on 1 July 20X7. During the year to 30 June 20X8
+   the following events take place:
+    (1) A cheque for £92 was recorded and correctly banked but was returned unpaid on 29 June 20X8.
+        No entries have yet been made for this return. The directors wish to write the debt off as
+        irrecoverable.
+    (2) An allowance for receivables of £475 is required at the year end.
+    (3) A cheque received for £58 in respect of an amount written off in January 20X7 was recorded in
+        the cash at bank account but the suspense account was used to record the other side of the
+        transaction.
+    Requirement
+    What is the journal entry required to account for the above issues?
+    A     Debit Cash at bank £92, Credit Suspense £58, Credit Irrecoverable debts expense £9, Credit
+          Allowance for receivables £25
+    B     Debit Suspense £58, Debit Receivables £92, Credit Irrecoverable debts expense £33, Credit
+          Cash at bank £92, Credit Allowance for receivables £25
+    C     Debit Suspense £58, Debit Irrecoverable debts expense £67, Debit Allowance for receivables
+          £25, Credit Cash at bank £92, Credit Receivables £58
+    D     Debit Suspense £58, Debit Irrecoverable debts expense £9, Debit Allowance for receivables
+          £25, Credit Cash at bank £92
+                                                                                              LO 1d, 2d
+
+
+
+
+    54      Accounting                                                                       ICAEW 2024

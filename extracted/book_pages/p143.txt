@@ -1,0 +1,28 @@
+Summary
+Orders   Orders
+Recordingfinancial transactions
+Deltverynotes   GRNS
+Sales invoices   Banktransaction   Payroll   Purchaseinvoices
+report
+Computerised accounting system
+Dualityconcept
+Doubleentrybookkeeping
+Everytransactiongivesrisetotwo
+ASSET   equat entries:Debtt.Credit   EXPENSE
+Debit   Credit   Debit   Credit
+Increase   Decrease   Increase   Decrease
+CAPITAL
+Debit   Credit
+Decrease   Increase
+LIASILITY   INCOME
+Debit   Debit   Credit
+Decrease   Increase   Decrease   Increase
+Debits (DR)   Credits (CR)
+CHARTER
+Increase   Assets/Expenses   Liabitities/Capital/Income
+Decrease   Liabilities/Capltal/income   Assets/Expenses
+Journal entry
+DR   Accounttobedebited
+CR   Accounttobecredited
+Narrative
+ICAB2026   Ledgeraccountinganddoubleentry   133

@@ -1,0 +1,40 @@
+Provisions(IAS37)
+Section overview
+Provisions are liabilities thatcan onlybemeasured using estimation,so they aredisclosed
+separatelyfrom.otherliabilities.
+IAS37,Provisions,Contingent Liabilitiesand ContingentAssetsprovidesguidanceon
+when provisions andcontingenciesshouldberecognisedand if so,atwhatamount.
+Provisions are liabilities ofacompany.Provisions are shown separatelyfromotherliabilities
+because the amount of a provision can be measured only byusing a substantial degree of
+estimation.
+IAS37aims to ensure that:
+appropriate recognition criteria and measurementbases areapplied to provisions
+sufficient information is disclosed in the notesto the financial statements to enable users
+to understand their nature,timing and amount
+Provisions are a commonfeatureoffinancial statements and can arise from manytransactions.
+InAccounting.youareonly requiredtobeawareofprovisions thatareexpectedtobesettled
+within the next 12 monthis, that is, theyare classified as current liabilities.
+IAs37specifiescriteria thatmustbefulflled inorderforaprovisiontoberecognised.In
+Accounting.we simplifythecriteriatoassumethata provision shouldonlybe created if:
+thebusiness has a presentobligationto incurthe expenditure (eg,alegalobligation,for
+exampleaclaimagainstthebusiness):and
+it is probable (ie, more than 50% likely)that the expenditure will be incurred.
+7.1   Accountingforprovisions
+Provisions are accounted for in the following stages.
+ER
+Stage 1:Create provision
+Atthepointatwhichaprovisionis created,anexpenseisrecorded inthestatementofprofit
+orloss anda corresponding liability is recorded inthestatementoffinancial position.The
+journalentrytorecordthis is:
+DEBIT   Expenses(P/L)   CUX
+CREDIT   Current liabilities   CUX
+Stage2:Incurexpenditure
+Whentheexpenditure for which the provision was created is incurred,itshould be charged
+againsttheprovision(therebyremovingtheprovisionfromcurrentliabilities).Ifthe
+expenditure isgreaterthan the amountprovided,an additional charge willberequired inthe
+staterment of profit or loss.The journal entryto record the useofa provision where the
+expenditure exceeds the amountprovidedforis:
+DEBIT   Expenses(P/L)   CUX
+Current liabilities   CUX
+CREDIT   Cashatbank   CUX
+ICAB2026   Companyfinancial statements   381

@@ -1,0 +1,27 @@
+Answers to Interactive questions
+AnswertoInteractivequestion1
+Thiscouldbecalculatedasfollows:
+(CU940,000+cU1.270,000-CU1.125,000)-CU1,085,000orbyusingtheT-accountformat
+below
+INCOMETAX
+CU   CU
+Cashpayment(balancing   1,085,000   Balancebld   940,000
+figure)
+Balance cld   1,125.000   Incometaxexpense   1,270.000
+(PAL)
+2,210.000   2,210,000
+AnswertoInteractivequestion2
+ThecompanystartedtheyearwithPPEatcostofCU5,100,000.Itboughtafurther
+CU2.550.000ofPPE,givingatotalofCU7650,000atcost.However,thereweredisposalsof
+PPEwithacostofCU850.000,bringingtheyear-endfiguredowntoCU5.800,000.
+PROPERTY,PLANTANDEQUIPMENT(COST)
+Balanceb/d   5,100,000   Disposals   850,000
+Additions(balance)   1,550,000   Balancecld   5,800,000
+6,650,000   6,650,000
+Alternatively,theadditions couldbe calculatedasfollows:
+CU
+Cost b/d   5,100,000
+Costofassetdisposedof   (850,000)
+Additions-cashpurchases(balancingfigure)   1,550.000
+Cost dld   5.800.000
+Accounting   ICAB2026

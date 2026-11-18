@@ -1,0 +1,22 @@
+10 Correctanswerts)
+GCU15.725
+Cost   50.000
+Accumulateddepreciationto31December20X3
+50.000-2.000
+120×31   (12.400)
+Carryingamount at31December20X3   37.600
+Impairmentloss(37.600-25,000)   12,600
+Annualdepreciationcharge (25,000/8)   3.125
+15725
+11Corredtanswer(s):
+ThecostofthelicenceofCU240000(CU230.000costplusCU10,000legalfees)shouldbe
+capitalised on1September20x5.Thefactthatthe purchase cost hasnotyet beenpaid for
+is notrelevant in determiningthe cost as theaccrual principle shouldbeapplied.The
+amountoutstandingwillbepresented asa current liabilityas itwillbepaidwithin12
+monthsoftheyearend.
+The licence should thenbe amortised overits useful life of four years.As the licencehas
+onlybeen in useforfourmonthsofthe current year,the amortisation expense shouldbe
+pro-rated.Theamortisationexpense isthereforeCU20,000(CU240,000/4yrs×4/12
+months)
+Thecarryingamountofthe licence is thereforeCU220,000 (CU240,000-20,000).
+360   Accounting   ICAB2026

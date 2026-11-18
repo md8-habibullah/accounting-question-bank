@@ -1,0 +1,31 @@
+PURCHASES
+CU   CU
+CHAPTER
+Statement of
+1.1.X1   Tradepayables   500   31.12.X1   profitorloss   4,190
+31.12.X1   Trade payables   3,690
+4,190   4,190
+SALES
+Statementof
+31.12.X1   profitorloss   15,945   31.12.X1   Tradereceivables   15,945
+15,945   15,945
+TRADERECEIVABLES
+CU
+31.12.X1   Sales   15,945   31.12.X1   Cashat bank   12.935
+31.12.X1   PP   3,010
+15.945   15945
+31.12X1   bid   3,010
+DRAWINGS
+CU
+31.12.X1   Cashat bank   1,250   31.12.X1   PP   1,250
+1250   1250
+31.12.X1   P/9   1,250
+(b)   CU
+Revenue (sales)   15,945
+Costofsales (purchases)   (4.190)
+Grass profit   11,755
+Expenses
+Carexpenses   (650)
+Insurance   (300)
+Profitfortheyear   10.805
+ICAB2026   Preparing basic financial statements   169

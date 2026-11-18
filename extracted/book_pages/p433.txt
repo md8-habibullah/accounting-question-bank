@@ -1,0 +1,40 @@
+Currentassets
+Inventories
+CU'000
+Trade and other receivables
+Cash and cash equivalents
+Total assets
+Equity
+Equity share capital
+Preference share capital
+Retainedearnings
+Non-current liabilities
+Borrowings
+Current liabilities
+Trade and other payables
+Incometaxpayable
+Totalequity and liabilities
+Havingreadthequestionwecannowmoveonto:
+Step2
+Work down the trial balanceand transferall thefiguresfrom thetrial balance to the proformas
+provided,ora working onthewhiteboard.Ifafigure requiresanumberof workings it is
+recommendedthatthewhiteboard isused.It is commonforanumberofadjustmentstobe
+madetoproperty.plantandequipment(PPE),expenses,andretainedearnings(fortheprofit
+orloss and dividends).Therefore, ifthis is thecaseforthequestion youare working on,
+transfer these figures to the whiteboard using the workings shown above and below.
+Formatple
+Statementofprofitorlossfortheyearended31December20x2
+CU'000
+Revenue   9.500
+Costof sales
+Gross profit
+Otherincome   200
+Administrativeexpenses
+CIAPTER
+Distnibutioncosts
+Operatingprofit/(loss)
+Finance costs   (30)
+Profit/(loss)beforetax
+Incometaxexpense
+Profit/(loss)foryear   12
+ICA82026   CompanyfinancialstatementsunderIFRSAccountingStandards   423

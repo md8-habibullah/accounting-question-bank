@@ -1,0 +1,41 @@
+capable ofinfluencing theirdecisions,Asa general rule,older information is less useful
+thanrecent information.However,you should notethatsome information.maystillbe
+timely fora long time afterthe end ofa reporting period.This istrue of informationfor
+users offinancial information whoneedto identify andassesstrends.(Conceptual
+Framework:para.2.33)
+understandability.Information is understandable if it is classified,characterised and
+presented clearly and concisely.When considering whether information isunderstandabe
+you should bear in mind that financial reports are prepared for users who havea
+reasonableknowledgeofbusiness andeconomicactivities,(Conceptual Framework:
+paras.2.34-2.35)
+Accounting concepts and conventions
+Sectionoverview
+Thefundamental assumptions behind ledger accounting and the preparation of financial
+statements are contained in IAS 1andthe Conceptual Framework.
+IAS 1is concerned with thepresentation of financial statements so that theyare
+comparableacrosstimeandwithothercompanies,
+The objective offinancial statements is to provideuseful information to users making
+economic decisions.To achieve this informationmustbe presented fairly orfaithfully.
+whichgenerally means it should be presented in accordance with IFRS Accounting
+Standards.
+Each entityneeds to select and apply accounting policies in orderto present its financial
+statements.Theresult willbe information that isrelevantandfaithfullyrepresents what it
+purportstorepresent.
+Wemustconsider some of the important concepts whichareused in preparing financial
+statements,
+Webegin by considering thefundamental assumptions whicharethe subject of IAS 1 (and
+whicharealsocovered intheConceptualFramework).
+7.1   Fairpresentation
+In this sectionwelook atthegeneralrequirements ofIAS 1'sassumptions.TherestofIAS1,on
+theformat and content of financial statements willbecovered in laterchapterswhen we look
+in detail at the preparation of company financial statements.
+7.1.1   ObjectivesandscopeofiAs1
+Themainobjectiveof IAS1is:
+toprescribethe basis for presentation of general purposefinancialstatements,to ensure
+comparabilitybothwiththeentity'sfinancial statements ofprevious periods andwiththe
+financial statementsofotherentities.(IAs1tpara.1)
+IAS1appliesto all general purpose financial statements prepared and presented in
+accordance with IFRS Accounting Standards,General purpose financial statements arethose
+intendedtomeetthe needs ofusers who arenot in aposition to demand reports tailored to
+meettheirparticularinformationneeds.
+22   Accounting   ICAB2026

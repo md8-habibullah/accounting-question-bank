@@ -1,0 +1,32 @@
+OTHEREXPENSES
+Cashatbank   1,900
+DRAWINGSACCOUNT
+CU
+Cashatbank   1,500
+If youwanttomake surethatthis solution is complete,you should gothroughthetransactions
+AtoLandtick offeachof themtwice in the ledgeraccounts,once as a debitand once asa
+credit.When you havefinished,all transactions in the'T'accountshould beticked,with only
+totals and thebalancingfigure in the cashatbankaccount left over.
+Infact,there is an easier wayto checkthatthesolutiontothis sortofproblemdoesbalance'
+properly,which we will see in Chapter5.
+Onassetcapitaland liabilityaccounts,thedebitorcreditbalancerepresents theamountof
+theassetcapitalrliabilityoutstandingattheeriodendForexampleonthecashatbank
+account, debits exceed credits by CU6,500 and so there is abalance on the credit side carried
+downtobea debitbalanceof cashatbank of CU6,500.On thecapitalaccount,there isa
+creditbalanceofCU7,000andsothebusinessowesRonCU7,000.
+Thebalances on the income and expense accountsrepresent thetotal of eachtype ofincome
+orexpensefortheperiod.Forexample,salesrevenuefortheperiod totals CU12,500.
+Answertolnteractivequestion4
+4.1.CU200(CU200×10×10%）
+4.2CU90(CU200×10×90%×5%)
+AnswertoInteractivequestion5
+SeesawTimberMerchants
+Statementofprofitorlossfortheyearended31March20X6
+Revenue(150,000+34.000-8,000)   176.000
+Purchases(120,000-4,000-1,500)   (114,500)
+Grossprofit   61,500
+ExpensesDistributioncosts   32.000
+Administrativeexpenses   40.000
+(72,000)
+Netloss transferredtothestatementoffinancial position   (10,500)
+140   Accounting   ICAB2026

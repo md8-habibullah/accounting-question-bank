@@ -1,0 +1,42 @@
+Examplesofdependencies which mayaffect an organisationare workerhealth,workplace
+diversity,climaticconditions,resourceavailability.rogulation,consumerexpectations,other
+stakeholderexpectationsandriskstoorganisationalreputation.
+Disclosureofinformationondependencies is generallymoreuseful forinvestors,who wantto
+assesshowwella companyis managing its exposureto long-termsustainability-telated risks,   HARFWR
+andhence assess thevalue of the companyto infarm investmentdecisions.This directiy relates
+tofinancial mateniality.
+Professlonal skills focus:Structuring problems and solutions
+Theformationof theISsBis anexampleof how theaccountingprofessionhasto adaptto
+societalchangesanddemandsfornon-financial information,AsanICABstudenaccountant,it
+is importantthatyoutakeaninterestinthisareaasitisasignificantdevelopmentinthe
+profession.
+You shouldunderstandthatthe lackofreliableandcomparable sustainability-related
+information.was aproblemthat impactedtheusefulness ofcompanyaccounts,andthatthe
+IFRS SustainabilityDisclosure Standards areintended tobe a solutiontothatproblem.
+Themainfinancialstatements
+Sectionoverview
+Financialstatements prepared under IFRS Accounting Standards collectively comprisea
+statementoffinancial position,a statement ofprofitorloss and othercomprehensive
+income,astatementofchanges inequityastatementofcashflows,notesandincertain
+circumstances,a revised statementof financial positionfrom an earlierperiod.
+IAS1,Presentation ofFinancial Statements setsouttheform.andcontentofthefinancial
+statements.
+IAS1identifiesa completesetoffinancial statementsfora reportingperiod (typicallyayear)as
+comprising:
+a statementof financial position as at the end ofthe reporting period;
+a statement of profit or loss and other comprehensive incomefor the reporting period,
+which can be inatwo-partformat includinga separate statement of profit or loss;
+a statement of changes in equity forthe reporting period,
+astatementofcashflowsforthereporting period;
+notes comprising a summaryofsignificantaccounting policies andotherexplanatory
+information,and
+a statementof financial position as atthebeginning of the earliest comparative period
+when an entity applies an accounting policyretrospectively,makes a restatementof items
+in its financial statements,orreclassifies items,
+In thisWorkbook we areconcemedwiththestatementoffinancialposition,thestatementof
+profitorloss, the statementofchangesofequity,and thestatementofcash flows.
+IAS1makes it.clearthat an entitymayusetitlesforthestatements otherthanthose used in the
+Standard.Many entities continueto use the termbalance sheet'instead of statement of
+financialposition and'cashflowstatement'insteadof'statementofcashflows'.Inthis
+WorkbookweshallusethelAS.1terminology.
+ICAB2026   Introductiontoaccounting   15

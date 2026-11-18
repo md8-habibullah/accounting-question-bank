@@ -1,0 +1,28 @@
+Solution
+Adebtoff695istobewrittenoffas irrecoverable,Therequired allowanceforreceivablesis
+CU250,which isadecreaseofCU100(CU350-CU250)on the previousyear.TheCU200cash
+received relating to the debt previously written off should have been debited to the cash at
+bankaccountand creditedtothe irrecoverabledebts expenseaccount(insteadofbeing
+creditedtothesuspenseaccount).
+Theadjusting journalsarethereforeasfollows:
+CU   CU
+DEBIT   Irrecoverabledebtsexpense   695
+CREDIT   Trade receivables   695
+DEBIT   Allowance forreceivables   100
+CREDIT   lrrecoverabledebtsexpense   100
+DEBIT   Suspensealc   200
+CREDIT   Irrecoverabledebtsexpense   200
+Ledgerbalance   Initialtrialbalance   Adjustments   Final trialbalance
+DR   CR   DR   CR   DR   CR
+CU   CU   CU   CU   CU
+Cash at bank   4,391   4,391
+Opening capital   20.000   20,000
+Loan   2,000   2,000
+Non-currentassets   30,000   30.000
+Trade payables   9.642   9.642
+100
+Irrecoverabledebt
+expense   50   695+200   445
+Expenses   3,896   3.896
+HAPTER
+KCAB2026   Irtecoverabledebtsandtheallowanceforreceivables   261

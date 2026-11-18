@@ -1,0 +1,31 @@
+However,inaccountinganybusinessistreatedas aseparateentityfromitsowner(s).This
+applieswhetherornotthebusiness isrecognisedinlawasa separateentityie,itapplies
+whetherthe business is carried on bya company orby a soletrader.This is known as the
+business entity concept (orseparate entity concept,or justentity concept).
+Definition
+Business entityconcept:Abusiness isa separate entityfrom its owner.
+Althoughthismayseemillogical andunrealisticyou musttrytoappreclate it,as it is thebasis
+ofa fundamental rule ofaccounting,which is that the liabilitiesplus the equityof thebusiness
+mustalways equal itsassets.Wewil lookatthisrule in.moredetail laterinthis chapter,buta
+simple example nowwill clarify the idea ofabusiness as a separate entityfrom its owners.
+Context example:Thebusiness asaseparate entity
+On1July20X6Charlieopenedaflowerstall.TheyhadsavedupCU2,500andopened   CHAPTER
+businessbankaccountwiththisamount.
+When thebusiness commences,an accountant's picture can be drawn ofwhatit owns and
+what it
+owes.Thebusinessbeginsbyowningthe cash that Charliehas put into it,CU2,500.
+Thebusiness is a separate entityinaccountingterms.Ithas obtainedassets,in this example
+Cash,from Charlie.Itthereforeowes this amountofmoneyto Charlie.If Charlie changed their
+mind and decided notto go intobusiness,thebusinesswould bedissolved by the'repayment'
+ofcashto.Charlie.
+Definition
+Capital:The ConceptualFramework states that capital (which it calls equity in the context ofa
+companyas we shall see in Chapter 11)is the'residual interest in the assets of the entity after
+deductingall itsliabilities.(ConceptualFramework:para.4.63)
+Equity isakeyelementof financial statements,
+In simpleterms, capital canbe viewed as a measure of the owner's investmentin the business.
+The accounting equation
+Sectionoverview
+Thebasic accounting equation statesthatassetscapital+liabilities.
+Capital istheamountthattheentityowes to its owners,
+ICAB2026   Theaccounting equation   49

@@ -1,0 +1,31 @@
+present theentry ofa transaction Into a ledger.account.
+ADVERTISINGEXPENSES
+Date   Narrative (Ref.)   Date   Narrative
+Tradepayables(JFK
+20X6   Agency)   2,500
+Therearetwosidestotheaccount,withan accountheadingontop.ThelinesformaTsothis
+is whatwemean by'T-account.
+Ontopoftheaccountisitsname.
+Thereisalefthand,ordebitside.
+There is a right hand, or credit side.
+NAMEOFACCOUNT
+Debit   Credit side
+Doubleentrybookkeeping
+Section overview
+Thincipleoublenyookkepingshat,fachtranactionybiy
+has an equal credit entry.
+Debitentries increaseassets and expenses,anddecrease liabilities,capital and income.
+Credit entries increase liabilities, capitaland income,and decrease assets and expenses.
+Areceiptofcash isadebit inthecashatbankaccount.
+Apaymentofcashis a credit in thecashat bank account.
+Acredit sale is recordedas debitreceivables (increase asset),creditsales (increase
+income).
+Acreditpurchaseisrecordedasdebitpurchases (increaseexpenses),creditpayables
+(increase liabilities).
+Definition
+Double entrybookkeeping:Each transaction has an equal but opposite effect.Every
+accounting event must be entered in ledgeraccounts bothas a debit anda credit.
+3.1   Dual effect (duality concejpt)
+Double entry bookkeeping isthe method used to record transactions in the nominal ledger
+accounts.
+Accounting   ICAB2026

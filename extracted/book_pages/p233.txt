@@ -1,0 +1,40 @@
+Solution
+The first step in adjusting the trial balance isto prepare therelevant journal entries as follows:
+Prepare the journalentrytotransferopening inventories to costof sales:
+CU   CU
+DEBIT   Cost of sales   8,754
+CREDIT   Inventories(opening)   8754
+Recording opening inventoriesas a component of cost of sales Prepare the journal entryto
+transferpurchasestocostofsales:
+CU   CU
+DEBIT   Cost of sales   18,425
+CREDIT   Purchases   18,425
+Recording purchases as a component of costof sales Prepare thejournalentryfor closing
+inventory:
+DEBIT   Inventories (closing)   13,855
+CREDIT   Costofsales   13,855
+Recording closinginventoriesas an assetattheyearend
+Next you should adjustthe initial trialbalance to takeaccountof these journals and calculate
+thefinaltrial balance,
+Sam'sfinaltrial balancewillbeasfollows:
+Ledgerbalance   Initialtrial balance   Adjustments   Finaltrial balance
+CHAPTER
+Debit   Credit   Debit   Credit   Debit   Credit
+CU   CU   CU
+Cashatbank   5,123   5,123
+Opening capital   10,000   10,000
+Loan   12,000   12,000
+Non-current
+assets   20,000   20,000
+Trade payables   6,800   6.800
+Expenses   12.785   12,785
+Purchases   18,425   18,425
+Sales   38745   38,745
+Trade
+receivables   3,546   3,546
+Inventories   8.754   13,855   8,754   13,855
+Drawings   9,158   9.158
+18,425
+Costof sales   +8.754   13.855   13.324
+72.668   72.668   41,034   41,034   72.668   72.668
+ICAB2026   Costofsalesand inventories   223

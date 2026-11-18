@@ -1,0 +1,931 @@
+  Chapter 13: Statement of cash ﬂows
+1 Havisham plc
+  Extracts from the ﬁnancial statements for Havisham plc for the year ended 31 March 20X2 are as
+  follows:
+  Statement of proﬁt or loss for the year ended 31 March 20X2
+
+                                                                                                   £
+   Operating proﬁt                                                                          817,640
+   Finance income                                                                              2,000
+   Finance costs                                                                             (89,600)
+   Proﬁt before tax                                                                         730,040
+   Income tax                                                                               (245,700)
+   Proﬁt for year                                                                           484,340
+
+  Statements of ﬁnancial position as at 31 March
+
+                                                                               20X2            20X1
+                                                                                   £               £
+   Non-current assets
+   Property, plant and equipment                                            982,600         797,500
+   Intangible assets                                                        580,040         386,900
+
+
+   Current assets
+   Inventories                                                              430,040         285,550
+   Trade receivables                                                        342,700         224,150
+   Investments in government bonds                                           40,000           10,000
+   Cash                                                                      37,470            3,800
+   Total assets                                                           2,412,850       1,707,900
+
+
+   Equity
+   Equity share capital (£1 shares)                                         312,400         232,800
+   Share premium                                                            398,200         351,000
+   Retained earnings                                                        534,800         282,100
+
+
+   Non-current liabilities
+   Borrowings                                                               567,400         423,000
+   Preference shares                                                         75,000                 0
+
+
+   Current liabilities
+   Borrowings                                                               115,600           51,000
+   Bank overdraft                                                            51,200           27,230
+
+
+
+
+  ICAEW 2024                                                          13: Statement of cash ﬂows   125
+                                                                                20X2             20X1
+                                                                                    £               £
+Income tax payable                                                           201,800         192,520
+Trade payables                                                               146,700         135,900
+Accrued interest                                                               9,750          12,350
+Total equity and liabilities                                               2,412,850       1,707,900
+
+Additional information
+(1) Included in proﬁt from operations is a loss of £84,810 in respect of the disposal of machinery in
+    the year. This machinery had a carrying amount of £127,800 at the disposal date.
+(2) The depreciation charge for the year was £232,900.
+(3) Included in trade payables at 31 March 20X2 is an amount of £13,900 in respect of a purchase of
+    an item of property, plant and equipment in the year that has not yet been paid for.
+(4) Intangible assets costing £251,340 were purchased for cash during the year. Intangible assets
+    with a carrying amount of £17,000 were sold for £24,000 during the year. The proﬁt on disposal
+    has been offset against operating costs.
+(5) On 1 April 20X1 Havisham plc made a one for ten bonus issue from share premium. A further
+    share issue took place in December 20X1 for cash.
+(6) Havisham plc declared and paid a dividend during the year.
+(7) Redeemable preference shares in the amount of £75,000 were issued during the year.
+(8) An impairment review at 31 December 20X7 identiﬁed a fall in the recoverable amount of
+    intangible assets. As a result, an impairment loss of £20,000 was identiﬁed and charged to
+    administrative expenses.
+(9) The government bonds are highly liquid and management has decided to class them as cash
+    equivalents. The ﬁnance income in the statement of proﬁt or loss represents the interest income
+    on the bonds. The interest income was received in cash during the year.
+Requirement
+Prepare a statement of cash ﬂows for the year ended 31 March 20X2 in accordance with IAS 7.
+SAMPLE EXAM (AMENDED)
+Statement of cash ﬂows for the year ended 31 March 20X2
+
+                                                                                                    £
+Cash ﬂows from operating activities
+
+Proﬁt before tax                                                                         730,040
+Finance income                                                                             (2000)
+Finance costs                                                                              89,600
+Depreciation
+
+Amortisation (W1)
+
+Impairment charge (W1)
+
+Gain/loss on sales of property, plant and equipment
+
+Gain/loss on sales of intangible assets
+
+Movement in inventories
+
+Movement in trade receivables
+
+
+
+
+126   Accounting                                                                           ICAEW 2024
+                                                                                                    £
+
+   Movement in trade payables
+
+   Cash generated from operations
+
+
+   Tax paid (W2)
+
+   Interest paid (W3)
+
+   Net cash from/used in operating activities
+
+
+   Cash ﬂows from investing activities
+
+   Purchase of property, plant and equipment (W4)
+
+   Purchase of intangible assets
+
+   Proceeds from sale of property, plant and equipment
+
+   Proceeds from sale of intangible assets
+   Interest received
+
+   Net cash from/used in investing activities
+
+
+   Cash ﬂows from ﬁnancing activities
+
+   Proceeds from issue of shares (W5)
+
+   Movement in borrowings
+   Dividends paid (W6)
+
+   Net cash from/used in ﬁnancing activities
+
+
+   Net increase/decrease in cash and cash equivalents
+
+   Cash and cash equivalents at beginning of period
+
+   Cash and cash equivalents at end of period
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+2 Castle plc
+  As at 31 May 20X1 and 31 May 20X2, Castle plc had the following summarised statements of
+  ﬁnancial position:
+
+                                                               20X2                             20X1
+                                                    £              £                £               £
+   ASSETS
+   Non-current assets
+   Property, plant and equipment
+
+
+
+
+  ICAEW 2024                                                           13: Statement of cash ﬂows   127
+                                                               20X2                          20X1
+                                                  £                £                 £          £
+Cost                                     3,284,000                        3,091,000
+Accumulated depreciation                (2,198,000)                      (2,001,000)
+                                                          1,086,000                      1,090,000
+Intangible assets
+Cost                                     9,360,000                        8,645,000
+Accumulated amortisation                (3,690,000)                      (2,715,000)
+                                                          5,670,000                      5,930,000
+Investments                                               2,145,000                       127,000
+                                                          8,901,000                      7,147,000
+Current assets
+Inventories                              1,112,000                        1,086,000
+Trade receivables                          948,000                          840,000
+Prepayments                                 95,000                          108,000
+Cash held in three-month deposits           60,000                           40,000
+Cash                                       299,000                          182,000
+                                                          2,514,000                      2,256,000
+Total assets                                             11,415,000                      9,403,000
+
+
+EQUITY AND LIABILITIES
+Equity
+Ordinary share capital                                    1,800,000                      1,000,000
+Share premium                                             1,543,000                      1,421,000
+Retained earnings                                         2,689,000                       746,000
+                                                          6,032,000                      3,167,000
+Non-current liabilities
+15% debenture loan                                        3,000,000                      4,500,000
+Preference shares                                           100,000                              0
+
+
+Current liabilities
+Trade payables                           1,417,000                          896,000
+Accruals                                   225,000                          337,000
+Income tax payable                         641,000                          503,000
+                                                          2,283,000                      1,736,000
+Total equity and liabilities                             11,415,000                      9,403,000
+
+Castle’s statement of proﬁt or loss for the year ended 31 May 20X2 was as follows:
+
+
+
+
+128    Accounting                                                                        ICAEW 2024
+                                                                                                   £
+Revenue                                                                                   8,646,000
+Cost of sales                                                                             (3,705,000)
+Gross proﬁt                                                                               4,941,000
+Distribution costs                                                                          (465,000)
+Administrative expenses                                                                     (621,000)
+Operating proﬁt                                                                           3,855,000
+Finance income                                                                                78,000
+Finance costs                                                                               (563,000)
+Proﬁt before tax                                                                          3,370,000
+Income tax                                                                                  (684,000)
+Proﬁt for the period                                                                      2,686,000
+
+The following additional information is relevant.
+(1) During the year plant and equipment with an original cost of £1,201,000 and a carrying amount
+    at the date of disposal of £496,000 was sold at a loss of £189,000. As at 31 May 20X2 £165,000
+    of the sale proceeds had yet to be received and is included within trade receivables. As at 31
+    May 20X1 the corresponding ﬁgure in respect of disposals made during the year then ended
+    was £79,000, which was received in full in June 20X1.
+(2) As in the previous year, all acquisitions of property, plant and equipment made during the year
+    were paid for in cash at the date of acquisition. However, included within trade payables at 31
+    May 20X2 is £376,000 (20X1: £nil) relating to the acquisition of intangible assets.
+(3) There were no disposals of intangible assets or investments during the year. Trade receivables at
+    31 May 20X2 include £10,000 (20X1: £8,000) in respect of interest receivable on investments.
+(4) As at 31 May 20X1 the ordinary share capital of Castle plc consisted of 1 million shares, each
+    with a £1 nominal value. The following day the company made a 1 for 2 bonus issue of 500,000
+    shares (utilising available proﬁts).
+(5) Dividends of £243,000 were paid during the year ended 31 May 20X2.
+(6) The cash held in three-month deposits are classed as cash equivalents.
+(7) During the year Castle plc issued 100,000 £1 redeemable preference shares.
+(8) Included within accruals at 31 May 20X2 is £125,000 (20X1:£75,000) for interest payable.
+Requirement
+Prepare a statement of cash ﬂows for the year ended 31 May 20X2 in accordance with IAS 7.
+
+                                                                                 £                 £
+Cash ﬂows from operating activities
+
+Proﬁt before tax
+
+Finance income
+
+Finance costs
+
+Depreciation (W2)
+
+Amortisation (W5)
+
+Gain/loss on sales of property, plant and equipment
+
+Movement in inventories
+
+Movement in trade receivables (W12)
+
+
+
+ICAEW 2024                                                            13: Statement of cash ﬂows   129
+                                                                               £                £
+
+Movement in prepayments
+
+Movement in trade payables (W13)
+
+Movement in accruals (W11)
+
+Cash generated from operations
+
+Tax paid (W7)
+
+Interest paid (W10)
+
+Net cash from/used in operating activities
+
+
+Cash ﬂows from investing activities
+
+Purchase of property, plant and equipment (W1)
+
+Purchase of intangible assets (W4)
+
+Purchase of investments (W6)
+
+Proceeds from sale of property, plant and equipment (W3)
+
+Interest received
+
+Net cash from/used in investing activities
+
+
+Cash ﬂows from ﬁnancing activities
+
+Proceeds from issue of shares (W8)
+
+Dividends paid
+
+Movement in borrowings
+
+Net cash from/used in ﬁnancing activities
+
+
+Net increase/decrease in cash and cash equivalents
+
+Cash and cash equivalents at beginning of year
+
+Cash and cash equivalents at end of year
+
+Note: The boxes in this question indicate where an answer is required and where marks are available
+in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                   Total: 16 marks
+
+
+
+
+130   Accounting                                                                       ICAEW 2024
+3 Tam plc
+  As at 30 November 20X1 and 30 November 20X2 Tam plc had the following summarised statements
+  of ﬁnancial position.
+
+                                                                     20X2                        20X1
+                                                            £            £           £              £
+  ASSETS
+  Non-current assets
+  Property, plant and equipment                                 2,543,000                    2,401,000
+  Intangible assets                                               550,000                     584,000
+  Investments                                                     406,000                 ––––––––
+                                                                3,499,000                    2,985,000
+  Current assets
+  Inventories                                        685,000                  598,000
+  Trade and other receivables                        480,000                  465,000
+  Prepayments                                         96,000                  126,000
+  Cash and cash equivalents                          426,000                  200,000
+                                                                1,687,000                    1,389,000
+  Total assets                                                  5,186,000                    4,374,000
+
+
+  EQUITY AND LIABILITIES
+  Equity
+  Ordinary share capital                                        1,100,000                    1,000,000
+  Share premium account                                           342,000                     200,000
+  Retained earnings                                             1,785,000                    1,311,000
+                                                                3,227,000                    2,511,000
+  Non-current liabilities
+  Borrowings                                                      500,000                    1,000,000
+  Redeemable preference shares                                    200,000                           0
+  Current liabilities
+  Trade payables                                     749,000                  427,000
+  Accruals                                           108,000                  131,000
+  Income tax payable                                 282,000                  165,000
+  Provisions                                         120,000                  140,000
+                                                                1,259,000                     863,000
+  Total equity and liabilities                                  5,186,000                    4,374,000
+
+  Tam plc’s statement of proﬁt or loss for the year ended 30 November 20X2 was as follows.
+
+
+
+
+  ICAEW 2024                                                          13: Statement of cash ﬂows   131
+                                                                                                    £
+Revenue                                                                                   5,762,000
+Cost of sales                                                                             (4,630,000)
+Gross proﬁt                                                                               1,132,000
+Distribution costs                                                                         (236,000)
+Administrative expenses                                                                    (127,000)
+Operating proﬁt                                                                             769,000
+Finance income                                                                               55,000
+Finance costs                                                                                (68,000)
+Proﬁt before tax                                                                            756,000
+Income tax                                                                                 (232,000)
+Proﬁt for the period                                                                        524,000
+
+The following additional information is relevant.
+(1) Included within trade payables at 30 November 20X2 is £351,000 (20X1: £106,000) relating to
+    purchases of property, plant and equipment.
+(2) Included within accruals at 30 November 20X2 is £25,000 (20X1: £50,000) for interest payable.
+(3) Property, plant and equipment and intangible assets can be analysed as shown in the ‘Property,
+    plant and equipment and intangible assets’ table below.
+(4) During the year, plant with an original cost of £479,000 and a carrying amount at the date of
+    disposal of £326,000 was sold for £424,000 which was received in cash.
+(5) Tam plc received £20,000 during the year from the sale of highly liquid investments, which were
+    classed as cash equivalents.
+(6) During the year, Tam plc made a 1 for 20 bonus issue of its ordinary shares. The subsequent
+    issue of shares was made at a premium.
+(7) Included in trade and other receivables at the year-end was £25,000 in relation to ﬁnance
+    income. The corresponding ﬁgure for 20X1 was £15,000.
+(8) Intangible assets with accumulated amortisation at the date of disposal of £40,000 were sold for
+    £12,000. There were no acquisitions of intangible assets during the year.
+(9) Redeemable preference shares in the amount of £200,000 were issued during the year.
+Property, plant and equipment and intangible assets
+
+                                                                               20X2             20X1
+                                                                                   £                £
+Property, plant and equipment
+Cost or valuation                                                         7,464,000       6,375,000
+Accumulated depreciation                                                 (4,921,000)      (3,974,000)
+                                                                          2,543,000       2,401,000
+Intangible assets
+Cost                                                                        883,000         938,000
+Accumulated amortisation                                                   (333,000)       (354,000)
+                                                                            550,000         584,000
+
+
+
+
+132    Accounting                                                                         ICAEW 2024
+Requirement
+Prepare a statement of cash ﬂows for Tam plc, for the year ended 30 November 20X2 in accordance
+with IAS 7.
+
+                                                                                                £
+Cash ﬂows from operating activities
+
+Proﬁt before tax
+
+Finance income
+
+Finance costs
+
+Depreciation (W5)
+
+Amortisation (W3)
+
+Gain/loss on sales of property, plant and equipment (W8)
+
+Gain/loss on sales of intangible assets
+
+Movement in inventories
+
+Movement in trade and other receivables (W10)
+
+Movement in prepayments
+
+Movement in trade payables
+
+Movement in accruals
+
+Movement in provisions
+
+Cash generated from operations
+
+Tax paid (W7)
+
+Interest paid (W6)
+
+Net cash from/used in operating activities
+
+
+Cash ﬂows from investing activities
+
+Purchase of property, plant and equipment (W4)
+
+Purchase of investments
+
+Proceeds from sale of property, plant and equipment
+
+Proceeds from sale of intangible assets (W9)
+
+Interest received (W11)
+
+Net cash from/used in investing activities
+
+
+Cash ﬂows from ﬁnancing activities
+
+Proceeds from issue of shares (W1 and W2)
+
+Dividends paid (W8)
+
+Movement in borrowings
+
+Net cash from/used in ﬁnancing activities
+
+
+
+
+ICAEW 2024                                                         13: Statement of cash ﬂows   133
+                                                                                                   £
+
+   Net increase/decrease in cash and cash equivalents
+
+   Cash and cash equivalents at beginning of year
+
+   Cash and cash equivalents at end of year
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+4 Kaya plc
+  The following are the draft ﬁnancial statements for Kaya plc for the year ended 31 December 20X7.
+  Statement of proﬁt or loss for the year ended 31 December 20X7
+
+                                                                                                   £
+   Revenue                                                                                7,350,500
+   Cost of sales                                                                          (4,560,600)
+   Gross proﬁt                                                                            2,789,900
+   Administrative expenses                                                                (1,060,800)
+   Distribution costs                                                                      (768,000)
+   Operating proﬁt                                                                          961,100
+   Finance income                                                                            25,000
+   Finance costs                                                                             (75,000)
+   Proﬁt before tax                                                                         911,100
+   Income tax                                                                              (350,000)
+   Proﬁt for the period                                                                     561,100
+
+  Statements of financial position as at 31 December 20X7 and 20X6
+
+                                                                       20X7                    20X6
+                                                              £            £          £            £
+   ASSETS
+   Non-current assets
+   Property, plant and equipment                                  6,985,400               6,713,500
+   Intangible assets                                                350,700                 300,500
+                                                                  7,336,100               7,014,000
+   Current assets
+   Inventories                                           60,500                365,100
+   Trade receivables                                    169,000                144,500
+   Short term investments                                25,000                 12,400
+   Cash and cash equivalents                             10,700                 20,200
+                                                                    265,200                 542,200
+   Total assets                                                   7,601,300               7,556,200
+
+
+
+
+  134   Accounting                                                                        ICAEW 2024
+                                                                        20X7                     20X6
+                                                              £             £           £            £
+
+
+EQUITY AND LIABILITIES
+Equity
+Ordinary share capital                                             4,000,000                3,500,000
+Share premium account                                              1,200,000                  950,000
+Retained earnings                                                  1,342,800                2,206,700
+                                                                   6,542,800                6,656,700
+Non-current liabilities
+Preference share capital (redeemable)                               500,000                   400,000
+
+
+Current liabilities
+Trade payables                                         148,500                  139,500
+Income tax payable                                     410,000                  360,000
+                                                                    558,500                   499,500
+Total equity and liabilities                                       7,601,300                7,556,200
+
+The following additional information is relevant.
+(1) During the year Kaya plc issued redeemable preference shares at par.
+(2) The investments meet the deﬁnition of cash equivalents.
+(3) During the year Kaya plc sold plant and equipment with a carrying amount of £560,500 for
+    £600,000. Total depreciation charges for the year were £750,600.
+(4) Trade payables include accrued interest of £5,000 (20X6: £7,000).
+(5) Kaya plc acquired new intangible assets at a cost of £77,500 during the year.
+(6) Included in trade receivables is ﬁnance income of £14,500 (20X6: £2,000).
+(7) An impairment review at 31 December 20X7 identiﬁed a fall in the recoverable amount of
+    intangible assets. As a result, an impairment loss of £15,000 was identiﬁed and written off to
+    administrative expenses.
+(8) Included in trade payables is £10,000 which relates to the purchase of machinery.
+(9) During the year Kaya plc made a 1 for 100 bonus issue of its ordinary shares.
+Requirement
+Prepare a statement of cash ﬂows for the year ended 31 December 20X7 in accordance with IAS 7.
+
+                                                                                                     £
+Cash ﬂows from operating activities
+
+Proﬁt before tax
+
+Finance income (W1)
+
+Finance costs (W3)
+
+Depreciation
+
+Amortisation (W6)
+
+Impairment charge
+
+
+
+
+ICAEW 2024                                                              13: Statement of cash ﬂows   135
+                                                                                                    £
+
+   Gain/loss on sales of property, plant and equipment
+
+   Movement in inventories
+
+   Movement in trade receivables (W7)
+
+   Movement in trade payables (W5)
+
+   Cash generated from operations
+
+   Tax paid (W2)
+
+   Interest paid (W3)
+   Net cash from/used in operating activities
+
+
+   Cash ﬂows from investing activities
+
+   Purchase of property, plant and equipment (W4)
+
+   Purchase of intangible assets
+
+   Proceeds from sale of property, plant and equipment
+   Interest received (W1)
+
+   Net cash from/used in investing activities
+
+
+   Cash ﬂows from ﬁnancing activities
+
+   Proceeds from issue of shares (W8 and W9)
+
+   Movement in borrowings
+
+   Dividends paid (W10)
+
+   Net cash from/used in ﬁnancing activities
+
+
+   Net increase/(decrease) in cash and cash equivalents
+
+   Cash and cash equivalents at beginning of year
+
+   Cash and cash equivalents at end of year
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+5 Siena plc
+  The following are the draft ﬁnancial statements for Siena plc for the year ended 31 March 20X5.
+  Statement of proﬁt or loss for the year ended 31 March 20X5
+
+                                                                                                    £
+   Revenue                                                                                 5,645,500
+   Cost of sales                                                                           (3,460,600)
+   Gross proﬁt                                                                             2,184,900
+
+
+
+
+  136   Accounting                                                                         ICAEW 2024
+                                                                                                £
+Administrative expenses                                                                  (978,800)
+Distribution costs                                                                       (256,000)
+Operating proﬁt                                                                          950,100
+Finance income                                                                              5,000
+Finance charge                                                                            (89,000)
+Proﬁt before tax                                                                         866,100
+Income tax                                                                               (297,600)
+Proﬁt for the period                                                                     568,500
+
+Statements of ﬁnancial position as at 31 March 20X5 and 20X4
+
+                                                                   20X5                     20X4
+                                                        £             £            £            £
+ASSETS
+Non-current assets
+Property, plant and equipment                                  4,360,400               2,950,300
+Investments                                                     172,000                  156,000
+                                                               4,532,400               3,106,300
+Current assets
+Inventories                                       460,600                   365,100
+Trade receivables                                 269,000                   244,500
+Investment in government bonds                    105,000                   100,000
+Cash                                              180,000                    20,200
+                                                               1,014,600                 729,800
+Total assets                                                   5,547,000               3,836,100
+EQUITY AND LIABILITIES
+Equity
+Ordinary share capital                                         3,000,000               1,800,000
+Share premium account                                          1,050,000                 850,000
+Retained earnings                                               142,500                    74,500
+                                                               4,192,500               2,724,500
+Non-current liabilities
+Loan                                                            556,000                  472,000
+Preference shares (redeemable)                                  150,000                          0
+
+
+Current liabilities
+Trade payables                                    348,500                   289,600
+Income tax payable                                300,000                   350,000
+                                                                648,500                  639,600
+
+
+
+
+ICAEW 2024                                                         13: Statement of cash ﬂows   137
+                                                                      20X5                      20X4
+                                                             £            £            £             £
+Total equity and liabilities                                     5,547,000                 3,836,100
+
+The following additional information is relevant.
+(1) During the year Siena plc made a 1 for 10 bonus issue of its ordinary shares. It subsequently
+    issued further shares at the market price.
+(2) An impairment review at 31 March 20X5 identiﬁed a fall in the recoverable amount of certain
+    non- current investments. As a result, an impairment loss of £12,000 was identiﬁed and written
+    off to administrative expenses.
+(3) During the year Siena plc acquired plant and equipment for cash of £2,057,000. In addition,
+    plant and equipment with a fair value of £600,000 was acquired through a long-term loan. The
+    depreciation charge for the year, charged to cost of sales, was £750,600. A loss on sale of plant
+    of £55,000 was made during the year.
+(4) Interest payable of £10,000 has been included in trade payables at year end. The corresponding
+    ﬁgure in 20X4 was £5,000.
+(5) The government bonds are highly liquid and management has decided to class them as cash
+    equivalents. The ﬁnance income in the statement of proﬁt or loss represents the interest income
+    on the bonds. The interest income was received in cash during the year.
+(6) Siena plc issued £150,000 redeemable preference shares during the year.
+(7) Included in trade payables is £10,000 in relation to the acquisition of long-term investments.
+Requirement
+Prepare a statement of cash ﬂows for Siena plc the year ended 31 March 20X5 in accordance with
+IAS 7.
+
+                                                                                                     £
+Cash ﬂows from operating activities
+
+Proﬁt before tax
+Finance income
+
+Finance costs
+
+Depreciation
+
+Impairment
+
+Gain/loss on sales of property, plant and equipment
+
+Movement in inventories
+
+Movement in trade receivables
+
+Movement in trade payables (W9)
+
+Cash generated from operations
+
+Tax paid (W2)
+
+Interest paid (W7)
+
+Net cash from/used in operating activities
+
+
+Cash ﬂows from investing activities
+
+Purchase of property, plant and equipment
+
+Purchase of investments (W10)
+
+
+
+138   Accounting                                                                           ICAEW 2024
+                                                                                                            £
+
+    Proceeds from sale of property, plant and equipment (W4)
+    Interest received
+
+    Net cash from/used in investing activities
+
+
+    Cash ﬂows from ﬁnancing activities
+
+    Proceeds from issue of shares (W5 and W6)
+
+    Movement in borrowings (W1)
+
+    Dividends paid (W3)
+
+    Net cash from/used in ﬁnancing activities
+
+
+    Net increase/decrease in cash and cash equivalents
+
+    Cash and cash equivalents at beginning of year
+
+    Cash and cash equivalents at end of year
+
+    Note: The boxes in this question indicate where an answer is required and where marks are available
+    in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                       Total: 16 marks
+
+
+6   Part of the process of preparing a cash ﬂow statement is the calculation of net cash ﬂows from
+    operating activities.
+    Requirement
+    Which of the following statements about that calculation using the indirect method are correct?
+    (1) Loss on sale of non-current assets should be deducted from proﬁt before tax.
+    (2) Increase in inventories should be deducted from proﬁt before tax.
+    (3) Increase in trade payables should be added to proﬁt before tax.
+    (4) Impairment losses should be added to proﬁt before tax.
+    A   1, 2 and 3
+    B   1, 2 and 4
+    C   1, 3 and 4
+    D   2, 3 and 4
+                                                                                                         LO 3c
+
+
+
+
+7   In the course of preparing a statement of cash ﬂows, the following ﬁgures are to be included in the
+    calculation of net cash ﬂows from operating activities.
+
+                                                                                                            £
+    Depreciation charges                                                                          900,000
+    Impairment losses                                                                               80,000
+    Proﬁt on sale of non-current assets                                                             40,000
+    Increase in inventories                                                                       130,000
+
+
+
+
+    ICAEW 2024                                                              13: Statement of cash ﬂows     139
+                                                                                                       £
+     Decrease in trade receivables                                                               100,000
+     Increase in trade payables                                                                    80,000
+
+    Requirement
+    What will the net effect of these items be in the statement of cash ﬂows?
+    A     Addition to cash ﬂows from operating activities: £890,000
+    B     Deduction from cash ﬂows from operating activities: £890,000
+    C     Addition to cash ﬂows from operating activities: £1,070,000
+    D     Addition to cash ﬂows from operating activities: £990,000
+                                                                                                    LO 3c
+
+
+8   An extract from a statement of cash ﬂows prepared by a trainee accountant is shown below.
+    Cash ﬂows from operating activities
+
+                                                                                                      £m
+     Proﬁt before tax                                                                                 28
+     Depreciation                                                                                      (9)
+     Decrease in inventories                                                                          13
+     Increase in trade receivables                                                                     (4)
+     Increase in trade payables                                                                        (8)
+     Cash generated from operations                                                                   20
+
+    Requirement
+    Which of the following criticisms of this extract are correct?
+    (1) Depreciation charges should have been added, not deducted.
+    (2) Decrease in inventories should have been deducted, not added.
+    (3) Increase in trade receivables should have been added, not deducted.
+    (4) Increase in trade payables should have been added, not deducted.
+    A     2 and 4
+    B     2 and 3
+    C     1 and 3
+    D     1 and 4
+                                                                                                    LO 3c
+
+
+9   Bailey disposes of an asset with a carrying amount of £21,000 for £30,000 on 7 July 20X1.
+    Requirement
+    How will this transaction be shown in cash ﬂows from operating activities?
+    A     Cash ﬂows from operating activities: £(9,000)
+    B     Cash ﬂows from operating activities: £9,000
+    C     Cash ﬂows from operating activities: £(21,000)
+    D     Cash ﬂows from operating activities: £21,000
+                                                                                                    LO 3c
+
+
+
+
+    140    Accounting                                                                           ICAEW 2024
+10 An extract from the statement of ﬁnancial position for Highmead has the following balances:
+
+                                                                                20X5               20X4
+                                                                                      £                  £
+     Current liabilities
+     Income tax payable                                                       150,000            10,000
+
+    The tax expense in the statement of proﬁt or loss for the year ended 20X5 was £160,000 and
+    £150,000 in the year ended 20X4.
+    Requirement
+    What is the amount of tax that Highmead paid or received in the year ended 20X5?
+    A   £20,000 paid
+    B   £20,000 received
+    C   £10,000 paid
+    D   £10,000 received
+                                                                                                      LO 3c
+
+
+
+
+11 The following extracts are taken from the ﬁnancial statements of Radio for the years ended 31 March
+   20X4 and 20X5:
+    Statement of ﬁnancial position extract:
+
+                                                                              20X5                 20X4
+                                                                                  £                      £
+     Inventories                                                           310,600             363,700
+     Trade receivables                                                     312,000             299,500
+     Trade payables                                                        277,200             269,400
+
+    Statement of proﬁt or loss extract:
+
+                                                                                                   20X5
+                                                                                                         £
+     Operating proﬁt                                                                           797,200
+     Finance charge                                                                              (15,000)
+     Proﬁt before tax                                                                          782,200
+     Income tax                                                                                (219,000)
+     Proﬁt for the period                                                                      563,200
+
+    Requirement
+    What is the cash generated from operations to be included in the statement of cash ﬂows for the year
+    ended 31 March 20X5?
+    A   £626,600
+    B   £748,800
+    C   £815,600
+    D   £845,600
+                                                                                                      LO 3c
+
+
+
+
+    ICAEW 2024                                                           13: Statement of cash ﬂows     141

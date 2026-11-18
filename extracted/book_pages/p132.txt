@@ -1,0 +1,39 @@
+Salesarerecordednetftradediscountsand,iftheyaretaken,netofearlysettlemen
+discounts.
+Similarlypurchasesarercordednetoftradediscounts,and iftheyaretaken,netfaly
+settlementdiscounts,
+Therearetwo types ofdiscount:tradediscounts and early settlementdiscounts.
+6.1   Tradediscount
+Definition
+Trade discount:Apercentage discount deducted from the list price ofgoods owingto the
+nature of thetradingtransaction.
+A trade discount is a reduction in theamount of money initiallydemanded on an invoice.
+Ifa tradediscount isreceived bya business forgoods purchased froma supplier,the
+amountofmoneydemanded fromthebusinessbythesupplierwill benetofdiscount (ie,
+it will bethe listprice less the.discount)
+ifatradediscount is givenbyabusinessforgoodssoldtoacustomer,theamountof
+moneydemanded of the customerbythebusiness will be after deduction of the discount.
+6.1.1   Examples oftradediscount
+AcustomerisquotedapriceofCU1perunitforaparticularitem,butalowerpriceof95p
+perunit ifthe item is boughtinquantitiesof100unitsormoreatatime.Thisissometimes
+called bulk discount
+An important customeroraregularcustomeris offeredadiscountonall thegoods they
+buy.regardless ofthe size feachindividualarder,becausethetotal volume oftheir
+purchasesovertimeis solarge.
+6.1.2   Accountingfortradediscounts
+Purchasesshouldbe recorded net oftradediscountsreceived from suppliers
+Sales shouldbe recorded netoftrade discounts given to customers.
+Trade discounts should be deducted before any early settlement discount Is calculated.
+6.2   Early settlement discounts
+Businesses often offerdiscountsto credit.customersto encourage them to settle amounts
+owedmorequickly.Theseareknownasearlysettlementdiscountspromptpaymentdiscounts
+orsometimescashdiscounts,
+Definition
+Early settlementdiscount:Apercentage reduction in theamount payable in returnfor
+paymentwithin an agreed period.
+Acustomercan choose whether ornotto take an earlysettlementdiscountoffered bya
+supplier.If the customerdecides to taketheearly settlement discount,the amounttheymust
+payisreduced,providedtheypaywithintherequiredtimeframe.If thecustomerdecidesnot
+totakethediscount,theyrnustpaythefull amountoftheinvoicebutwill havealongerperiod
+inwhichtopay.
+122   Accounting   ICAB2026

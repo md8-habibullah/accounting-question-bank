@@ -1,0 +1,33 @@
+Check profitorloss:
+Machine1
+Machine1cost   15,000
+Accumulateddepreciationattimeofsale(15,000/5×2)+(15.000/5×3/12)   (6,750)
+Carrying amount atime of sale   8,250
+Machine1
+Proceeds   8.000
+Loss on disposal   250
+Machine2   CU
+Machine 2cost   15.000
+Accumulateddepreciationattimeofsale(15,000/5×2)+(15,000/5×11/12)   (8,750)
+OHAPTER
+Camying amount attime of sale   6.250
+Proceeds   2,500
+Loss on disposal   3,750
+10
+AnswertoInteractivequestion7
+Cost   Accountingtreatment
+Coral purchased a smallfleet of electric   Theelectric carsaretangiblenon-currentassets,
+cars toallowdeliveries to bemadetoa   andthelrcostshouldbecapitalisedaccordingly.
+wider geographical area.   The cars should be depreciated over their useful
+lives,
+Coral paida graphicdesignerto design'a   The amount paid to the graphic designer should be
+newlogowhich is usedon Coral's app.The   expensedtoprofit orlossintheperiod it is
+new logo represents the Coral brand.   incurred.Internally developed brands cannotbe
+capitalisedas the costs cannotbeseparated from
+the general costs ofgrowing the business,
+Coral paid to have the software used by   Thesoftwareisan intangibleasset,andtheupgrade
+theappupgradedtoallowittoprocessa   willgenerate economic benefits (intheformof
+greater.number oforders each day.   increasedorders)and shouldthereforebe
+capitalised The software should be amortised over
+its useful life.
+CAB 2026   Non-currentassets,depreciationandimpaiment   357

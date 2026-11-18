@@ -1,0 +1,37 @@
+MACHINERY-ACCUMULATEDDEPRECIATION
+20X7   20X7
+Balanceb/d
+Disposataccount (W1)
+31Mar   6, 750   1Jan   K5×12
+12,000
+Charge to disposal
+Disposal account(W2)
+15.000
+1Dec   8,750   31Mar   60   x3   750
+Charge to disposal
+15,000
+1Dec   ×11   2.750
+60
+15.500
+15,500
+DISPOSALACCOUNT
+CU
+CU
+20X7   20X7
+31Mar   Machinery   15,500   31Mar   Receivables   8,000
+(proceeds)
+31Mar   Accumulated
+depreciation (W1)   6.750
+31Mar   SPL-losson   250
+disposal
+1Dec   Machinery   15,000   1Dec   Cash (proceeds)   2,500
+1Dec   Accumulated
+depreciation (W2)   8.750
+31Dec   lossondisposal   3,750
+30.000   30,000
+WORKINGS
+(1) Machineonedepreciation
+Depreciationatdateofdisposal=(15,000/60)×27=CU6,750
+(2)Machinetwodepreciation
+Depreciationatdateofdisposal=(15,000/60)×35=CU8.750
+356   Accounting   ICAB2026

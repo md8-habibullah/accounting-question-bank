@@ -1,0 +1,22 @@
+PURCHASESACCOUNT
+CU
+CHAPTER
+Trade payables   4,300   Statementofprofitorloss   4,300
+NON-CURRENTASSETS
+CU   CU
+Cashatbankale   1.500
+Balanceb/d   1.500
+Balance cld   1500
+SALES
+CU
+Statementof profit or loss   5,800   Tradereceivables   5.800
+TRADERECEIVABLES
+CU   CU
+Sales   5,800   Cashatbankalc   3,200
+Balancecld   2,600
+5,800   5.800
+Balanceb/d   2,600
+OTHEREXPENSES
+CU   CU
+Cashat bank alc   006   Statementofprofit orloss   900
+ICAB2026   Preparing basicfinancial statements   159

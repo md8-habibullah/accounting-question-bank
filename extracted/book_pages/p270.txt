@@ -1,0 +1,36 @@
+Preparethe journal entries to record the expensa and theallowance.
+Enter these journal entries in the adjustments columns ofthe trial balance,opening new
+linesforirrecoverabledebts expense andtheallowanceforreceivables ifnecessary.
+Addacross to prepare the final trial balance.
+Worked example: Irrecoverable debts,the allowance forreceivables and the
+trial balance
+Harjinder runs a bookshop.Harjinderhas extracted the following initial trial balance as at31
+December20x9:
+DR   CR
+CU   CU
+Cashat bank   4,391
+Opening capital   20,000
+Loan   2,000
+Non-current assets   30,000
+Trade payables   9,642
+Irrecoverabledebtexpense   50
+Expenses   3,896
+Cost of sales   42,875
+Sales   96,475
+Trade receivables   8,622
+Allowanceforteceivables   350
+Drawings   38833
+Suspense   200
+128.667   128.667
+Harjinderneeds totake accountofthefollowing matters!
+As at the endofthe reporting period there is adebt of CU695 tobewritten off.
+Oftheremaining receivables,anallowance totallingCU250 isrequiredtoreflectthe
+probability ofnon-paymentofdebts.
+During thereportingperiod,CU200was banked in respect ofadebtwhich.had been
+written off in the reportingperiodended31December20x8.Harjinder wasunsureof
+howtorecord the transaction and therefore posted the cash received to the cash at bank
+accountand credited thesuspenseaccount
+Requirement
+Adjust Harjinder's initial trial balanceto take account of the above matters and calculate the
+profitforthereportingperiod.
+Accounting   ICAB2026

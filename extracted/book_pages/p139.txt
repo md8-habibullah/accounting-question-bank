@@ -1,0 +1,39 @@
+VAT on sales (output VAT)is debited to receivables and creditedto theVATcontrol
+account(it isowedto Commissioner,VAT).
+VATonpurchases (input VAT)is debitedto the VATcontrolaccount (it is duefrom
+Commissioner,VAT)and creditedto payables.
+The netamount of VATowed to NBR is paid to Commissioner of VATregularly.
+7.1   WhatisVAT?
+Valueaddedtax (VAT)is an indirecttax onthe supply ofgoods and services.Tax iscollected
+at each transferpoint in the chain from prime producerto final consumer.Eventually,the
+consumer bears the tax in full and any tax paid earlier in the chain can be recovered bya
+registeredtrader.whopaid it.
+Worked example:VAT
+Amanufacturingcompany,ArubaLtd,purchasesrawmaterials atacostofU1,oooplusVAT
+atthe standard rateof 20%.Fromthe rawmaterials ArubaLtd makes finishedproducts which.it
+sellstoaretail outlet,Beachplc,forCU1,600plusVATat20%.Beachplcsells theproductsto
+customersatatotalpriceofCU2,000plusVATat20%.
+Requirement
+HowmuchVATispaidateachstageinthechain?
+Solution
+Valueof
+plosspo06   VAT15%
+CU   CU
+SupplytoAruba Ltd (ArubaLtdpaysFCU150VATbut recovers it)   1,000   150
+ValueaddedbyAruba Ltd   600
+SaletoBeachplc(BeachplcpaysCU240VATbutrecovers it)   1,600   240
+Valueadded byBeachplc   400
+Saleto'consumers' (customers pay CU300VAT,andcannotrecoverit)   2,000   300
+7.2   Howis VAT collected?
+Although it isthefinal consumerwhoeventuallybearsthefull VATofCU3o,thesum is
+collected and paidbythetraders who make up the chain,provided theyare registeredfor
+VAT.Eachtradermustassumethathis customeristhefinalconsumer.
+Theymustcollectand payoverVATat theappropriate rate onthefull sales value (known   CHAPTER
+asoutputtax)ofthegoodssold.
+Theyarenormallyentitled toreclaim VATpaid onhis own purchases ofgoods,expenses
+andnon-.currentassets (knownas inputtax)and somakes anetpaymenttothe
+Commissioner,VATequal tothe tax on valueaddedbyhimself.
+Intheexample above,thesupplierofraw'materials collectsfrom Aruba Ltd outputVATofCU
+plc,outputVATis charged attherateof15%onf1,600-CU240.OnlyCU90,however,is
+paidbyArubaLtdto Commissioner,VAT,becausethe companyisentitiedtodeductinputtax
+ICAB2026   Ledgeraccounting anddoubleentry   129

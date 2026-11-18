@@ -1,0 +1,33 @@
+24Accounting for share capital
+When shares are issuedattheir parvalue and they are fully paid:
+DEBIT   Cash
+CREDIT   Share capital (parvalue)
+.When shares are ssuedat their par value but an amount remains uncalled by
+thecompany
+DEBIT   Cash
+CREDIT   Sharecapital (called-up amount ofissued shares)
+When shares are issued and called-up at their par value but an amount remains unpaid:
+CU
+DEBIT   Cash
+Otherreceivables(unpaidcapital)
+CREDIT   Share capital (parvalue)
+Interactivequestion 1:Issueof sharecapital
+Rosewait plc issued 2.000,000 equity shares fortheir parvalue50peachall received in cash.
+Requirement
+Preparethe joumalentrytorecord.theshare issue.See Answeratthe end ofthis chapter.
+CHAPTER
+Equity:share premium, retained earnings and
+otherreserves
+Section overview
+Share premium: set up with amount received over par value of issued share capital (equity
+and irredeemable preference shares), The account may be reduced by a bonus issue.
+Retainedearnings:builtupwitheachreportingperiod's profits,depletedbydividends
+and losses.Amountsmayalsobetransferredtoorfromotherreservesorreclassifiedas
+sharecapitalinabonusissue.
+Other.reserves:createdas a requirementof IFRSAccounting Standards forcertain
+transactions,
+Share capital is shown in the statementoffinancial position at its nominal value.Any other
+amounts attributable to owners (equity shareholders)are shown separately as reserves.
+Acompanymighthaveanumberofdifferentreserves,eachsetupforadifferentpurpose,
+including thefollowing which are examinableinAccounting:
+CAB2026   Companyfinancial statements   371

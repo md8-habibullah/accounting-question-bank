@@ -1,0 +1,44 @@
+2.1   What is thenominal ledgerused for?
+Definition
+Nominal ledger: The main accounting record in which financial transactions are recorded.
+Thenominalledgrcontainsdeailsofasses,liabilities,capital,incomeandexpenditureand
+thereforeprofitand loss.ltconsists ofalargenumberofdifferentledgeraccounts,each
+accounthaving its own purpose or'name'andan identityorcode.
+in acomputerised accountingsystem,each ledgeraccount is assigneda unique code.The
+codes arenormallyassigned in sucha waythatrelated orsimilarledgeraccounts willhave
+consistent coding.Forexample,administrative expenses may have the code 100000,
+telephone expensesmaybe 100100,rentexpenses 100200 etc.This means that.the expense
+categories will appear sequentiallywhen data is extracted fromthe accounting system (see
+Chapter5).
+Examples of ledger accounts in thenominal ledgerinclude:
+plantand machineryatcost (non-currentasset)
+plant and machinery,accumulated depreciation (deduction from non-current asset)
+motorvehidesat cast (non-currentasset)
+motorvehicles,accumulateddepreciation (deduction from non-currentasset)
+owner'scapital (capital)
+inventories(currentasset)
+trade receivables (currentasset)
+trade payables (current liability)
+wagesandsalaries(expense)
+rentand localtaxes (expense)
+advertisingexpenses(expense)
+bank.charges (expense)
+motorexpenses(expense)
+telephone expenses(expense)
+sales(income)
+total cash/bank overdraft (current asset/liability)
+Acomputerisedaccountingsystem will use the codeassignedto eachnominal ledgeraccount
+to automatically classifyeach accountintothe elements of thefinancial statements.The income
+and expenseledgeraccounts will togetherformthe statementofprofitorloss,whilethe asset
+capital and liabilityledgeraccounts will.togetherformthe statementoffinancial position.
+Professional skills focus:Assimilating andusing information
+Theinformationincluded in theledgeraccountswithinthenominal ledger is thestartingpoint
+topreparingthefinancial statementsofabusiness,It is importantthat information isaccurately
+recorded in the correct ledgeraccounts ifthe financial statements areto showa true and fair
+view.   UIARHER
+2.2   Theformat ofa ledgeraccount
+An accounting record captures morethan theamount of thetransaction.Ataminimum it will
+record the date, the amount of the transaction anda short description of the other side of the
+double entry.It may also include a unique reference number and/or a brief description of the
+transactions.
+ICAB2026   Ledger accounting and double entry   109

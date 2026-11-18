@@ -1,0 +1,37 @@
+Requirement
+Thefinalbalanceshownbythecashatbank account,aftermakingall necessary
+corrections,should be:
+ACU6,831DR
+CU3,141DR
+CU1,897DR
+CU228DR
+Jamie isthebookkeeperforTrader.Trader'sdraft profitfortheyearisCU12,980.Jamie
+hasdownloaded an exception repontfrom the computerised accounting system which
+shows thatasuspense accountofCU2.130 credithasbeenopenedup inrespectofa
+numberofunmatchedtransactions whichhave notbeen included in thedraft profit.Jamie
+has now investigated the exceptions and identified thefollowing:
+DepositWithdrawal   Amount(CU)   Details
+Deposit   630   Dividends received
+Deposit   2.200   Receipt from a creditcustomer in part paymentof
+invoice12/345
+Withdrawal   700   Drawingstaken bytheowner
+Requirement
+What is Trader's corrected profit forthe yearafteraccounting forthe abovetransactions?
+ACU15,810
+B.CU13.610
+C.CU12.280
+D.CU12,910
+10 Ahmal is thebookkeeperforPeach.Ahmalhas downloadedan exceptionreportfrom
+Peach's computerised accounting systemwhich shows asuspense accountofCU23,500
+debit inrespectofa singleunmatched bank payment.Ahmal has identified thatthiswasa
+cash paymentfora newdelivery van.which.was purchased duringthe year.
+Requirement
+Which of thefollowing journals is requiredtoremove the.suspenseaccountand recordtha
+van?
+ADebitpurchases,Creditsuspenseaccount
+B.Debitnon-current assets,Credit suspense account
+CDebitnoncurrentassets,Credit cashatbankaccount
+DDebitsuspense account,Creditpurchases
+Now go backto the Introduction and ensure that you have achievedthe Learming
+outcomes listedforthischapter.
+196   Accounting   ICAB2026

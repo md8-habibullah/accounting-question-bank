@@ -1,0 +1,45 @@
+1.1   Listing ledgeraccountbalances in the initial trial balance
+Herearethebalances on Ryderaccounts:
+Debit   Credit
+CU   CU
+Cashat bank   6,500
+Capital   7.000
+Bank loan   1,000
+Purchases   5,000
+Trade payables
+Rent   3,500
+Shop fttings   2.000
+Sales   12.500
+Trade receivables
+Bankloaninterest   100
+Otherexpenses   1,900
+Drawings   1,500
+20.500   20,500
+Itdoesnotmatter in whatorderthe various accounts are listedin the initial trial balanceIna
+computerised system theorderwill be basedon theaccountcode assigned to each ledger
+account,whichmeans thatrelated items,eg,all non-currentassets,are normally listed
+together.
+1.2   Potential errors in an initial trial balance
+The initial trial balance is said to balance when the total of the debitcolumn equals thetotal of
+the credit column.In a manual accounting system the trial balance provides a good check that
+the rules of double entryhave beenmaintained.Ina computerisedaccounting systemthe
+initial trial balancewill alwaysbalanceasthesystemwill onlyaccepttheentryoftransactions in
+which thedebits equal the credits.Thatdoes not,however,mean thatthe nominal ledger
+accounts are completeand error-free,and automation bias may lead users to believe that
+errors areless likelyin a computerised system,An accountant wouldbe expected to exercise
+professional scepticismwhen reviewingthetrial balancetocheckforthereasonablenessof
+eachnominal ledgeraccountbalance.Thisreasonableness check can helpto identifyanyerrors
+oromissions thatmayhaveoccurred in theaccouniting process.
+Here are some specifictypes oferrors which mayarise in the ledgeraccounts.
+Transposition errors:twodigits in anamountareaccidentlyrecorded the wrongway
+round.
+Omissionerrors:atransaction is completelyomitted,eitherinthenominalledger,orthe
+trial balance itself, so neithera debit nora credit is made.
+Commission errors: a debit orcredit is posted to the correctside ofthenominal ledger
+butto a wrong account,eg,wagespaidare debitedto therentaccount instead of
+thewagesaccount.
+Compensating errors: one error is exactly cancelled byanother error elsewhere.
+Errors ofprinciple:suchas cashpaid inrespectofmachinerymaintenance (an expense)
+being debitedto machinery cost(anasset).
+Weshall comeback to these errors in Chapter6.
+148   Accounting   ICAB2026

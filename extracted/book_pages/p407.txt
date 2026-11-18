@@ -1,0 +1,19 @@
+The ledgeraccounts areasfollows:
+SHARECAPITAL
+Number   Number
+Balance   Balanceb/d   800,000   400,000
+cld   1,280,000   640,000
+1for5
+bonus issue   160,000   80,000
+1for3
+rights issue   320.000   160.000
+1,280,000   640,000   1.280.000   640.000
+SHAREPREMIUM
+CU   CU
+Bonus issue   80.000   Balancebld   500.000
+Balance c/d   772.000   Rightsissue:cash   352,000
+852.000   852.000
+RETAINED EARNINGS
+CU   CU
+Balance cid   300.000   Balanceb/d   300.000   APTER
+ICAB2026   Companyfinancialstatemants   397

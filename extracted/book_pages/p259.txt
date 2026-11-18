@@ -1,0 +1,35 @@
+Irrecoverable debts
+Section overview
+Writing off an irrecoverable debt
+DEBIT   Irrecoverabledebts expense   CUX
+CREDIT   Tradereceivables   CUX
+Accountingforthereceiptof.cashin respectofadebtpreviouslywritten off:
+DEBIT   Cashatbank   CUX
+CREDIT   Irrecoverabledebts expense   CUX
+Thefactthata customer's payment has notbeenreceived bythe specified date doesnot
+automatically mean the customer's debt should bewritten off.
+Customerswhobuygoodsoncreditmightfailtopayforthemperhapsoutofdishonesty.or
+because theyhave gone bankrupt and cannotpay,orbecause there isa dispute between the
+parties about.the amountpayable.
+Foronereasonoranother,abusinessmightdecidetogiveup expectingpaymentof the debt
+and to write it oft.
+Definitions
+Irrecoverabledebt:Adebt whichisnotexpectedtobepaid.
+Writing offCharging the costofthe debtagainsttheprofitforthe period.
+11   Writingoffirrecoverabledebts
+When a business decides thata particular debt willnot be paid,the whole armount of the
+receivable in question is'written off as an expense in the statement of profit or loss:
+Irrecoverabledebts expense
+DEBIT   (statementofprofitorloss)   CUX
+CREDIT   Tradereceivables(statementof
+financialposition)   CUX
+OHAPTR
+Irrecoverabledebtswrittenoffarepresentedas follows:
+Revenue is recorded in the statementof profit or loss attheamountexpected tobe
+receivedfrom the customer,which in mostcases is theinvoice amount.The sale has been
+made,an expensehas been incurred in making that sale and thegross profit should be
+recognised.The subsequentfailure to collectthedebtis a separateadministrativematter
+and does notrequire revenue to be adjusted.
+Irrecoverabledebtsexpenseis shownasan administrativeexpense.
+The receivable isremoved fromtradereceivables.
+ICAB2026   Irrecoverable debts and the allowance for recelivables   249

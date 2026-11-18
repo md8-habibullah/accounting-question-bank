@@ -1,0 +1,34 @@
+Answers to Interactivequestions
+Answerto lnteractivequestion1
+The correctanswer is;
+D Alcan identifyunusual patterns in transactions,whichmightindicatefraudorerror
+This statement istrue.Alcan analyse large amounts ofdata and identify anormalies that might
+suggest fraudulent activity or errors.
+Al can completelyreplace humanbookkeepers intransaction processing
+Thisstatementisfalse.WhileAlcanprocessmanytransactions,itisunlikelytofullyreplace
+bookkeepers who willstillneed to deal with more.complex items and situations requiring
+judgement.
+Alcannotbeusedto processbanktransactions dueto data securityrisk
+Thisstatement isfalse.Al canbe usedsecurelywith properimplementation.ofsafeguards.
+Al needs tobetrained on every differenttransaction typetobeuseful
+This statement isfalse.While Al mayrequire initialtrainingon commontransactiontypes,itcan
+often learn and adapt over time,reducing the need for extensive training on every single
+transactiontype.
+AnswertoInteractivequestion2
+CreativeSuppliessendsoutacreditnote
+to a credit customer in orderto correctan error where a customerhas been overcharged on a
+sales invoice.
+AnswertoInteractivequestion3
+CHAPTER
+From Elephant'sperspective,therearetwo source documents:
+(1)salesinvoices
+(2) creditnote
+Elephant would issue a sales invoice atthe pointofsellingthegoodsto Jackal.It wouldthen
+issuea creditnotewhen the goodsare returned by Jackal.The credit note reduces the
+amountthatJackalowestoElephant.
+AnswertoInteractivequestion4
+Total payroll cost   220,400
+Employees(netpay)   (129,200)
+Pension plan   (20.900)
+Amountpaid to Tax Authority   70.300
+ICAB2026   Recordingfinancial transactions   101

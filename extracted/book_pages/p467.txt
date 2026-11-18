@@ -1,0 +1,38 @@
+Cash flows from operatingactivities   000.   '000
+Cashreceipts from customers   30,150
+Cashpaidto suppliers and employees   (27.600)
+Cashgenerated fromoperations   2.550   CHAPTER
+Interest paid   (270)
+Incometaxes paid   (006)
+Net cashfrom operating activities   1380
+'000   000.
+Purchaseofproperty,plantandequipment   (700)   13
+Proceedsfrom saleofequipment   20
+Interestreceived   200
+Netcashused in investing activities   (480)
+Cashflows fromfinancingactivities   000.   000.
+Proceedsfrom issue ofshare capital   250
+Proceedsfrom long-term borrowings   250
+Paymentof lease liabilities   (06)
+Dividends paid   (1,200)
+Netcash usedin financing activities   (790)
+Net increasein cash and cashequivalents   110
+Cash and cashequivalents at beginning of period   120
+Cashand cashequivalentsatendofperiod   230
+2.14   Example:Indirectmethod
+Statementofcashflows (indirectmethod)
+1000   000.
+Cash flows from operating activities
+Profit beforetaxation   3350
+Depreciation   450
+Finance inicome   (500)
+Finance costs   400
+3,700
+Increase intradeand otherreceivables   (500)
+Decreasein inventories   1,090
+Decrease in trade payables   (1.740)
+Cashgenerated from operations   2.550
+Interest paid   (270)
+Incometaxes paid   (006)
+Net cashfrom operatingactivities   1,380
+ICAB2026   Statementof.cash flows   457

@@ -1,0 +1,34 @@
+Solution
+1The debt is written off by increasing irrecoverable debts expenses andreducing trade
+receivables:
+DEBIT   Irrecoverabledebtsexpense   CU500
+CREDIT   Tradereceivables   CU500
+2lrrespective oftheperiod in whichpayments arereceived inrespect ofdebts previously
+written.of,the joumalentry istorecord thereceiptofcashandreduceexpenses.
+DEBIT   Cash at bank   CU200
+CREDIT   Irrecoverabledebts expense   CU200
+Professional skills focus:Structuring problems and olutions
+Receivingapaymentinrespectofadebtpreviouslywrittenoffis likelytoresultaproblemfor
+the computerised accounting systemas it will beunabletomatchthepaymentto aknown
+transaction.The unmatchedpayment would be reported on an exception report,the details
+ofwhichmaybepresentedtoyouinan examquestion.Youneedknowhowtoresolvethe
+problem by recording the transaction manually using a journal entry.
+1.2   Dishonoured payments and irrecoverable debts
+Ifa customermakes a paymentthat is not hanoured byits bank,wemustreinstate the debt
+andremovethereceiptofcash:debittradereceivables (reinstatingthedebt)and creditcash
+atbank (removing the'receipt').This mayoccur ifthe customer has paid butthe electronic
+transferoffunds is not processed as expected.
+In an examquestion,unless youarespecificallytold otherwise,you should NOT
+automaticallytreata dishonouredpaymentas an irrecoverabledebt.Payments may notbe
+processed or,be dishonoured for administrativereasons thathave nothing to do witha
+customer's actual inability to pay its debt, so do not presurme that it will neverbe paid.
+2Theallowance forreceivables
+Sectionoverview
+CHAPTER
+A receivable is a type of financial instrumentIFRS 9,Financial Instruments,requires
+companies to create an allowance in the current year in respect of anypotential future
+amountsthatwill notberecoveredfromcreditcustomers.
+On setting up an allowanceforteceivables and on increasing an existing allowance:
+DEBIT   Irrecoverabledebts expense(statementofprafitorloss) CUX
+CREDIT   Allowanceforreceivables (statementoffinancial position)   CUX
+ICAB2026   Irrecoverabledebts andthe allowance forreceivables   251

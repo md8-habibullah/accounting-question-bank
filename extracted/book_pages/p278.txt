@@ -1,0 +1,21 @@
+ALLOWANCEFORRECEIVABLES
+CU   CU
+Statementofprofitor
+28.2.20X6   Balance c/d   304   28.2.20X6   loss   304
+304   304
+28.2.20X7   Balance c/d   342   1.3.20X6Balanceb/dStatement   304
+of profit
+28.2.20X7orloss (bal fig)   38
+342   342
+Statementofprofitor
+28.2.20X8   loss (bal fig)   128   1.3.20X7Balanceb/d   342
+28.2.20X8   Balance c/d   214   342
+342
+CU
+1.3.20x8Balanceb/d   214
+Statementof financial position:extractasat28February
+20X6   20X7   20X8
+CU   CU   CU
+Curtentassets
+Tradereceivables (netofallowanceforreceivables)   14.896   16,758   21.186
+268   Accounting   ICAB2026

@@ -1,0 +1,28 @@
+3.4
+DEBIT   Telephoneexpenses   CU540
+CREDIT   Electricityaccount   CU540
+Correctionofan errorofcommission:telephone expenses wrongly chargedto the electricity
+account
+Answertolnteractivequestion4
+4.1
+DR   CR
+CU   CU
+Sale   DEBIT   Trade receivable   1,000   CHAPTER
+CREDIT   Sales   1,000
+Delivery   DEBIT   Non-current.asset   240
+CREDIT   Distribution costs   240
+Discount   DEBIT   Purchases   150
+CREDIT   Trade payables   150
+Purchase   DEBIT   Trade payables   500
+CREDIT   Purchases   500
+42
+Grossprofit originallyreported   35.750
+Sales omitted (1)   1,000
+Discounttaken in error (3)   (150)
+Incorrectrecordingofpurchases (4)   500
+Adjustedgrossprofit   37.100
+Netprofitoriginallyreported   18,500
+AdjustmentstogrossprofitcU(37,100-35,750)   1,350
+Non-currentassetcostswronglyclassified   240
+Adjustednetprofit   20.090
+ICAB2026   Errorsand correctianstoaccountingrecordsandfinancial statements   199

@@ -1,0 +1,25 @@
+LOAN
+CU
+31.12X1   5,000   1.1.X1   Cash at bank   5,000
+5,000   5,000
+31.12.X1b/d   5,000
+NON-CURRENTASSETS(NCA)
+1.1.X1   Cashat bank   2,500   31.12X1c/d   4.000
+1.1.X1   Tradepayables   1,500
+4,000   4,000
+31.12.X1   bId   4.000
+TRADEPAYABLES
+31.12.X1   Cashatbank   3,250   1.1X1   NCA   1,500
+31.12.X1   2.440   1.1X1   Purchases   500
+3112.X1   Purchases   3,690
+5,690   5,690
+31.12X1   b/d   2,440
+INSURANCE
+Statementof
+1.1X1   Cashatbank   300   31.12.X1   profitorloss   300
+300
+CAREXPENSES
+Statementof
+31.12.X1   Cashatbank   650   31.12.X1   profitor loss   650
+650   650
+1601   Accounting   ICAB2026

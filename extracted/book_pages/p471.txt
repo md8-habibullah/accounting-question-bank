@@ -1,0 +1,29 @@
+Kane plc
+Statementofcashflowsfortheyearended 31December 20x2 (indirect method)
+Cash flows from operating activities   CU'000   CU'000
+Profit before taxation   392   CHAPTER
+Loss on saleofproperty.plantand equipment   18
+Depreciation   118
+Finance costs   28
+Increase in tradeandotherreceivables   (16)   13
+Increaseininventories   (4)
+Increaseintradepayables
+Cashgenerated fromoperations   542
+Cashflows fromoperating activities
+CU'000   CU'000
+Interestpaid   (28)
+Incometaxespaid(W1)   (110)
+Net cash from operating activities   404
+Cash flows from investingactivities
+Purchaseofproperty.plantandequipment   (06)
+Proceeds from sale ofequipment (W2)
+Net cash used in investing activities   (82)
+Cashflows from investing activities
+Proceedsfrom issueof share.capital(360+36-340-24)   32
+Proceedsfromlong-termborrowings(500-200)   (300)
+Dividendspaid   (66)
+Netcashused infinancing activities   (334)
+Net increase in cashand cash equivalents   (8)
+Cash andcashequivalentsatbeginningofperiod   56
+Cash and cash equivalents at end of period   48
+CAB2026   Statement of cash flows   461

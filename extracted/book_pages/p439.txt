@@ -1,0 +1,46 @@
+Summary
+IAS1formats
+tatementaf profit orloss for   Statementaf financial posltion as at thereporting
+the reporting pedod   cu'000   perlod end
+Revenie   623,000   ASSETS
+Costofsales   (414.000)   Non-currentassets
+Gross profit   209,000   Propertyplantandequipmen   400.000
+Other income   26000   Right-of-use asset   27,000
+Distribution costs   (73,000)   Intangibie assets   125,000
+Administrative   552,000
+expenses   (32,000)   Current assets
+Finance income   5,000   Imventories   51,000
+Finance costs   (20.000)   Tradeandother recelvables   102,000
+Profit beforetax   Incometax   115.000   (35,000)   Prepayment   Cash andcash equipments   33.000   20,000   206.000
+Profitforperiod   80.002   Total assets   758000
+EQUITYANDLABIUTIES
+Equlty
+Equltysharecapltal:Cutequtyshares   150,000
+Preference share capital:to% CU1
+frredeemablepreferenceshares   90,000
+Share premium   55,000
+Other resenves   6500
+Retained earmings   161.000
+Totalequlty   521,000
+Non-current llabilities
+Long-termborowings   100,000
+Lease Hability   58,000
+Current fiabimtes
+Trade and otherpayables
+(includingaccruals)   31,000
+Deferredincome   000/2
+Short-termborowings   20,000
+Lease abiity   5,000
+Provisions   10000
+Incometaxpayable   11:000
+79.000
+Totalequityand llabitities   258-000
+Satisfyqualtativecharactersticsdf   CHAPTER
+comparability
+relevanceandverifiablity
+Accounting powers
+relevantIFRSAccounting Standards aremandatory
+whrenorelevantiFR5AccountingStandarsappy
+judgementIntinewith ConceptualFromework   12
+applledconsistentiy
+ICAB2026   Company financial statements under IFRS Accounting Standards   429

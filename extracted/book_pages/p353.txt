@@ -1,0 +1,47 @@
+Purchased intangible assets
+8.1
+Abusinessmaypurchase intangibleassetsfrom.thirdparties.The initialrecognition and
+measurementof purchased intangible assets is consistent withthatoftangible assets.
+Licencesarepurchasedbycompaniestoallowthemto operateinaparticulararea,for
+example,abuscompanymaybegranted a licenceto allowittooperatein certain areasof
+the country.Thecostof licences.canbe capitalised as intangible assets as thegrantofthe
+licencemeetsthedefinition ofan intangible asset-that is,thelicenceiscontrolledbythe
+entityas aresultof pastevents and econamicbenefits are expectedto flowfrom the
+licence,Licenceshaveafinitelifeastheyaregrantedfora setperiod.Theyshould
+thereforebeamortised overthatfinite life.
+Patents on ideas are designs thatthe business has developed orbought.Patents are
+legally controlled by the entity and are expected to generate income overmanyreporting
+periods.Theyare initially capitalised at cost and are subject to amortisation over the
+period that they are expected to generate benefits.
+Brands are importantfor manybusinesses as they help to distingulshthat business's
+products orservicesfromthoseofotherbusinesses.The costofdeveloping intemally
+generated brands cannotbe capitalised as the cost cannot be separated from the other   CIAPTER
+general costs ofdeveloping thebusiness,Thecostof purchased brands (those purchased
+from otherbusinesses)can,however,becapitalised.Brands are likelytohavean indefinite
+useful life and thereforeshould notbeamortised and should instead betestedannuallyfor
+impairment.
+8.1.1   Initialrecognitionandamortisation
+10
+When an intangibleasset is purchased,theaccounting entry is:
+DEBIT   Intangiblenon-current assets   CUX
+CREDIT   Cash/payables   CUX
+The cost ofthis intangible non-currentasset will need to beallocated to the statement of profit
+orlossasitismatchedagainsttheincomeithelpstogenerate.This process is essentiallythe
+same as fordepreciation oftangiblenon-currentassets,but it is called amortisation.
+Theaccounting entry torecogniseamortisation is:
+DEBIT   Amortisationexpense (P/L)   CUX
+CREDIT   Accumulatedamortisation   CUX
+Some intangibleassets,such as apurchased brandname,donothaveafinite useful life as
+theyare expected to generate economic benefits fora period that cannotbereadily
+determined.
+Intangible assets withan indefinite useful life are required to betested for impairment on an
+annualbasis.Where indicators ofimpairmentexist,the approachto calculating and
+accountingforany impairmentloss isthe same asthatcovered earlier in the chapterfor
+property,plantandequipment.
+Interactive question 7:Tangible and intangible assets
+Coral operates anapp which allows customers to purchasebaby products such as medicines,
+nappies and formula and have them delivered directly to their homes withina two-hour
+period.Coral'sapphas provedverypopular,and thebusiness has grown rapidly.Coralwishes
+to understand howthefollowing costs incurred in growing the business would be accounted
+for.
+ICAB2026   Non-currentassets,depreciationandimpairment   343

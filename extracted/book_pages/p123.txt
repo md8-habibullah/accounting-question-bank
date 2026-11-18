@@ -1,0 +1,38 @@
+3.3   Doubleentryforcashtransactions
+Agoodstarting point isthe cashatbankaccount in which receipts and payments ofcash are
+recorded based on the transaction reports downloaded from the electronic banking system.
+Acash payment isa creditentry in the cash atbank account.Here.cash (an asset)is
+decreasing.Cashmaybepaidout,forexampletopayan expense(suchas insurance)orto
+purchase an asset (such as a machine).The matching debit entry is therefore made in the
+appropriateexpenseorassetaccount.
+Acash receipt is adebit entry in the cashat bank account.Herecash(anasset)is
+increasing.Cashmightbereceived,forexample,byaretailerwhomakesacashsale.The
+credit entrywould then bemade in the revenue (income)account (and the VAT account if
+relevant).
+Worked example:Cashtransactions
+A business has the following transactions:
+(1)receiveCU250inrespectofacashsale
+(2)payarentbill totallingCU150
+(3)payCU100cashforgoods
+(4)payCU200cashforshelves
+Requirement
+Recordthesetransactions in thenominal ledgeraccounts.Remembereachtransactionwill be
+posted.twice,inaccordancewithdoubleentryrules.
+Solution
+Transactions:
+(1)Thetwo sides ofthetransaction are:
+CU250cashisreceived(debitcashatbankaccount)
+sales increasebyCU250 (creditsalesaccount)
+CASHATBANKACCOUNT
+Sales   250
+SALESACCOUNT
+CU
+CHARTER
+Cashatbank   250
+The cash at bank accountentry is crossreferencedto the sales account and vice versa.This
+enablesa person looking at one ofthe ledgeraccounts to trace wherethe other halfof the
+double entry is found.
+(2) The two sides of thetransaction are:
+cashispaid (creditentry inthe.cashatbankaccount)
+rentexpenseincreasesbyCU150 (debitentryintherentexpenseaccount)
+ICAB2026   Ledgeraccounting and double entry   113

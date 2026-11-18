@@ -1,0 +1,29 @@
+Answers to Interactive questions
+AnswertoInteractivequestion1
+Revenue   489.401
+Cost of sales (W1)   (197.955)
+Gross profit   291,446
+Distribution costs   (23,890)
+Administrativeexpenses (W2)   (143,936)
+Operatingprofit   123,620
+Finance incame   862
+Finance costs (W3)   (17.000)
+Profit beforetax   107482
+incometax   (38.400)
+Profit forthe year   69.082
+WORKINGS
+(1) Cost ofsales
+Costof sales=opening inventory+purchases-closing inventory
+=83,496+202679-(88,905-(4,560-3,875))=197.955
+(2)Administrativeexpenses
+CU
+Balance perinitial trial balance   101,436
+Add:depreciationexpense   42,500
+143936
+(3) Finance costs
+CHAPTER
+CU
+Balanceperinitialtrial balance   13,805
+Add:interestforfinal quarter   3,195
+17.000
+ICAB2026   Company financial statements under IFRS Accounting Standards   435

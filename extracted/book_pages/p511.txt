@@ -1,0 +1,45 @@
+1)FundFinancial Statements and
+2) Government-wide Financial Statements.
+It is expectedthat theywill ensuretwodifferenttypes ofaccountability.Figure3.1presents the
+accountabilityand relatedaccountingstatements ofthepublic sector.
+Table3.1Dual Roles of Governmental Financial Statements in Assessing Accountability
+OperationalAccountability   FiscalAccountability
+Statements   Government-wide financial   Governmental fund financial
+statements(governmentaland   statements
+business-type activities)and
+those of proprietaryfunds and
+fiduciary funds
+Measurementfocus   Flowofeconomicresources   Flowof currentfinancial
+resources
+Basis ofaccounting   Accrual basis (revenuesand   Modifiedaccrual basis
+expensesarerecognizedwhen   (revenuesare recognizedwhen
+exchange ofeconomic   resourcesaremeasurableand
+resourcesoccurs orper IPSAS   availablefor current spending;
+recognitionrulesfor   expendituresarerecognized
+nonexchangetransactions,   whenanobligationtospend
+suchastaxes,.contributions.   current financial resources is
+andgrants)   incurred)
+3.4   Fundaccounting
+Govemmentand not-for-profitorganizations establish their accounting systems on a fund
+basis.In governmentalandnot-for-profit accounting,thetermfundhasa differentmeaning
+than itdoes in business accounting. In business accounting, funds typically refereitherto
+working capital (current assets less current liabilities)orto selected elements ofworking capital   CHAPTER
+(such as cash and investments),and onlya singleconsolidatedaccounting entity is usedto
+accountfor allthe activities ofa business.The crux ofnonbusiness accounting is fund
+accounting,anditformsthe basicbuilding block ofgovernrnentalaccountingandfinancial
+reporting.It is an accountingdevicethat an entityuses tokeeptrack ofspecific sources and
+uses of funds.In governmentaland notfor-profit accounting.a fund is a fiscal and an
+accounting entity.Eachfundhas its own self-balancing setofaccounts from.whichfinancial   15
+statements can be prepared.
+Theconceptoffund is fundamental to govermmental accounting and reporting.Afund isa
+separatefiscalentitywithits ownresources,its own liabilities,and itsownoperatingactivityfor
+the fiscal period.Furthermore,a fund conceptualy has its own.set of accounting records (e.g.
+journalsand ledgers)and can havepreparedfor lt separate financial statements.Thus,it is a
+separate accounting entity as well.Specifically.a fund assists in camyingonspecific activities or
+attaining certainobjectives inaccordance withspecialregulations,restrictions,or limitations.
+As this sentence implies,differentfunds are intendedto achieve different objectives.Funds
+maybe established bygrant orcontract provisions imposed byexternal resourceproviders,by
+state orlocal laws or regulations, or by the discretionary action of governing bodies.The
+variety of purposes thatmay be served by differentfund categories andtypes will become
+apparentin.thediscussionthatfollows.
+ICAB2026   Introductianto PublicFinancial Management   501

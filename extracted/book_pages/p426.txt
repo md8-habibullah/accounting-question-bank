@@ -1,0 +1,23 @@
+DEBIT   Administrativeexpenses   115
+CREDIT   Tradereceivables   15
+Allowanceforreceivables(200-100)   100
+DEBIT   Incometaxexpense (statementofprofit   750
+CREDIT   Incometaxpayable (statementoffinancial   750
+position)
+DEBIT   Administrativeexpenses(300×75%)   225
+Distributioncosts(300×25%)   75
+CREDIT   Propertycosts   300
+DEBIT   Loan note interest   30
+CREDIT   Tradeandotherpayables   30
+DEBIT   Retained earnings   100
+CREDIT   Equityshare capital   100
+Thefinal trial balanice is as follows (Amount in CU):
+Initial trial balance   Adjustments   Final trial balance
+Debit   Credit   Debit   Credit   Debit   Credit
+000.   1000   000   000.   000.   '000
+CU1 equity shares   800   100   900
+10%CU1
+irredeemable   200   200
+preference shares
+Trade receivables   1,820   15   1,805
+416   Accounting   ICAB2026

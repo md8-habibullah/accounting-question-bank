@@ -1,0 +1,35 @@
+Interactive question4:Bonus issue
+Groat plc'saccounts fortheyearto31December20X7showthefollowing figures.
+At31.12.X7   At31.12.X6
+CHAPTER
+Share capital:Ordinary sharesof 10p   22,500,000   10,000,000
+Sharepremium   900,000   4,800.000
+The companymadea onefortwobonus issue of shares atthe stan ofthe year,utilising the
+sharepremiumaccountand cU20o,o00fromretainedearnings.   13
+Requirement
+Calculate the amount of cash that was raised from share issues duringthe year.See Answerat
+the end of this chapter.
+Workedexample:Cashflowsfromfinancingactivities
+Spear ple issued 87,5001shares at par duringthe yearto31December20x6.Loans takenout
+increasedfrom CU18,000 at thebeginning ofthe yearto CU30,000 attheend of the year.The
+companydeclaredadividendof1Oppershare.
+Requirement
+Calculatethecashflowsfromfinancingactivities.
+Solution
+Proceeds from issue of shares   87,500
+Movements in borrowings   12:000
+Net.cashfrom financing activities   99.500
+Note:Onlydividends paid(as opposedtodeclared)in theperiod representcashflows.
+Interestpaid ontheloans.will be shownundercashflows.fromoperatingactivities:
+2.12Cashfrom raisingaloan
+The cash derived from obtaining a new loan during the year should be apparent froma
+comparisonoftheopeningand closingstatementoffinancial positionfiguresfornon-current
+interest-bearing borrowings.You should assume that an increaseduring the year represents
+newfinancing and should betaken asthe amount of cash received fromfinancing.
+It is important that all loans in the statement of financial position should be taken into
+consideration in the calculation There may be a loan that is within 12 months of repayment.If
+so, it will be included within current liabilities in the year-end statement of financial position as
+'short-termborrowings
+when it would havebeena non-current liability in the statement offinancial position atthe
+current liability to current liability.
+ICAB2026   Statementofcash flows   455

@@ -1,0 +1,40 @@
+Securityrisks:Al systemswill haveaccess to confidential financialdata.Robustsecurity
+measures arethereforevital to protectthis data frombreaches orunauthorisedaccess.
+Alcan empowerbookkeepers to becomemore efficientand focus on higher-value tasks,
+insteadofbeingboggeddownbyrepetitivedata enty.However,manualchecks will still need
+tobeperformedtoensuretheaccuracyofanytaskscarriedoutbyAl, inthesame waychecks
+aredoneofworkperformedbyhumans.
+Interactivequestion1:
+Whichofthe following statements regarding theuse of Alto assist with processing
+transactions isTRUE?
+AAlcan completelyreplacehumanbookkeepersintransaction processing
+BAlcannotbeusedtoprocessbanktransactionsduetodatasecurity risk
+C Al needs to be trained on every differenttransaction typeto beuseful
+DAl canidentifyunusual patterns intransactions,which might indicatefraud orerror
+See Answerat the end of this chapter.
+Source documents for recording financial
+transactions
+Sectionoverview
+Credit salesmake use ofsales orders,deliverynotes to the customerandsales invoices
+(which is the source documentthat is then recorded).
+Creditpurchases makeuse of purchaseorders,goods teceivednotes andpurchase
+invoices (which isthe source documentrecorded).Thie purchase invoice is received from   CHAPTER
+the credit supplier.
+Invoices show,amongotherthings,whathasbeen soldorpurchasedandatwhatprice.
+Tradediscounts,VATand anyearly-settlement (cash)discountsarealso shown,so thatthe
+total reflects the fullamount that remains to bepaid.
+Credit notes are negative invoices.
+2.1   Source documents
+Wheneverabusiness transactiontakes placeinvolving sales orpurchases,receiving orpaying
+money.orowing orbeing owedmoney.it is necessaryforthetransaction to beevidenced bya
+source document. Thedocuments may be hard copy or electronicand thesedocuments are
+often passed between organisations entirely electronicallyforexamplevia email.Source
+documents arethedocuments whichare producedby,or input into,a business'saccounting
+system asthe starting pointto recording the transactions ofa business foraccounting
+purposes.:
+2.2   Recording information from source documents
+Financial information contained inthe source documents is recorded in the computerised
+accounting system.Inrespectofa credit sale made,the business needs to record:
+the amount ofthe saleitself
+the amount owed by the cuistomer(receivable)
+ICAB2026   Recordingfinancialtransactions   89

@@ -1,0 +1,37 @@
+Interest paid is calculated asfollows:
+INTERESTPAID
+CU   CU
+UIARHHR
+Cashpayment (balancingfigure)   231,000   Balance b/d   54,000
+Balance c/d   63.000   Statementofprofit:orloss   240,000
+294.000   294,000
+Altermatively.thiscould becalculated as follows:
+13
+(54.000+240.000-63,000)=CU231.000
+Asimilartechnique can beused to calculate payments of incometax in theyear.The taxation
+paymentreferstopaymentsofincometax,nottopayments ofsalestax (VAT)ortaxpaidby
+empioyees.
+Theopeningand closing statements offinancial position will showa liabilityforincometax.
+The income tax charge forthe year is shown in.the statement of profit or loss.Thefigurefor
+income taxes paid during theyearis derived as a balancing figure.
+Interactivequestion 1:Income Tax
+Acompanyhada liabilityfor incometax at 31December 20X6ofCU940.000and aliabilityfor
+incometaxat31December20x7ofCU1,125,000.Theincometax chargefortheyearto31
+December20x7wasCU1,270.000.
+Requirement
+What amount of income tax was paid during the year?
+INCOMETAX
+See Answer at the end of this chapter.
+2.6   Investingactivities
+Cashflowsfrom investingactivitiesarecalculatedseparatelyinthestatementofcashflowsin
+ordertoidentifytheextentto whichexpenditures have been made.on.resources intendedto
+generatefuture income and cash flows.These are the acquisition and disposal of long-term
+assets and other investments not included in cashequivalents.
+Thiscouldincludethefollowingitems:
+cashpayments toacquireproperty.plantand equipment, intangible assets and othernon.
+currentassets, including those relating to capitalised development.costs and self.
+constructedproperty.plantandequipment
+cashreceiptsfromsalesofpropertyplantandequipment, intangibleassets andother
+non-currentassets
+cashpaymentsto acquireequityordebtofotherentities
+ICAB2026   Statementofcash flows   449

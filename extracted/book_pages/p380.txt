@@ -1,0 +1,34 @@
+2.2   Issued and called-up share capital
+ofthesharesthathaveactuallybeen issuedto shareholders.
+cashimmediately.itthenhascalled-upsharecapitalthatislessthanits issuedsharecapital
+Contextexample:Called-up sharecapital
+instalmentTheissued share.capitalisCU100000,but thecalled-up sharecapitalisonly
+CU75,000.Thefigure inthe statementof financial positionwill beCU75,000.
+Inacompany'sstatementffinancialposition,thefigureforsharecapitalisthecalled-u
+share capital.
+Onthefacefthecompany'sstatementffinancialpositionrinanote,called-upequity
+Statementoffinancial position(extract)
+Equity   CU'000
+Sharecapital:equity sharesof50peach(81.5m shares)   40,750
+Share capitat:6% irredeemable preference shares of CU1 (9m shares)   9,000
+49,750
+Ifa companyhas called-upsharecapital,butiswaitingforpaymentfrom some shareholders, it
+haspaidup capital of lessthan its called-up.capital.
+Contextexample:Paidupcapital
+Acompanyissues1millionsharesofCU1atpar,andasksforpaymentinfullonissue,butitis
+still owed CU5,ooo byshareholders who have yet to paywhat they owe.The called-up share
+capital is CU1,000000,butthepaidup share capital is only CU995,000.In the.statementof
+financialposition,the share capital (a creditbalance)is the called-upshare capital of
+CU1,000,000,andtheunpaid capital ofCU5,000 is shown as an'otherreceivable'(a debit
+balance).
+2.3   Irredeemableandredeemablepreferenceshares
+Usually onlypreference shares which thecompary is not entitled tobuyback or redeem at
+somestage in the future,known as irredeemable preference shares, aretreated as share
+capital.in an examquestion,you can assumethiat irredeemable preference shares arepart
+of share capital unless you aretold otherwise,
+Preference shares which the company is entitied to buy back from its shareholders or
+'redeem'at some future time are called redeemable preference shares,treated as non-
+current liabilities (debtcapital).
+Note: Inan examquestion it will be specified whetherpreference shares are redeemable or
+irredeemable.
+370   Accounting   ICAB2026

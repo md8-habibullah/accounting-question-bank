@@ -1,0 +1,38 @@
+Professional accountanits mustensurethatthe NRV has been cotrectlydeterminedandthatthe
+lowerofcostandNRVprincipleis adheredto.
+Interactivequestion5:Inventoryvaluation
+Thefollowing figures relate to inventory heldatthe end of the reporting period.
+Item   tem   Item
+Cost   CU20   CU9   CU14
+Selling price   CU30   CU12   CU22
+Modification costto enablesale   CU2   CU8
+Selling costs   CU7   CU2   CU2
+Units held   200   150   300
+Requirement
+Calculate thevalue of inventoryfor inclusion in thefinancial statements.
+SeeAnswerattheend ofthischapter.
+6.3   Determining the cost of inventory
+Inventories may be:
+rawmaterialsorcomponentsboughtfromsuppliers
+finished goodswhich have beenmadeby the business but not yet sold
+partcompleteditems
+goodspurchasedandheld forresale
+Definitions
+HAOTER
+Costof inventories: Allcosts ofpurchase,ofconiversion (eg,labour)andofother costs
+incurred in bringing the items to their present location and condition.
+Costof purchase:Thepurchase price,importduties and other non-recoverable taxes,
+transport,handlingandothercosts directlyattributabletotheacquisitionoffinishedgoods
+and materials.
+6.3.1   Whatis included inthetotal costofan itemof inventory?
+Thetotal costofan item of inventory includes all costs incurred in bringing the itemtoits
+present location and condition.This consists of:
+thepurchase costofrawmaterials
+delivery inwards
+importtaxesandduties
+conversion costs
+Definition
+Conversion costs: Any costs involved in converting taw materials into final product, including
+labour,expenses directly related to the product and an appropriate share of production
+overheads (butnot sales,administrative orgeneral overheads).
+ICAB2026   Costof salesand inventories

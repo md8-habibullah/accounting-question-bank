@@ -1,0 +1,8 @@
+Summary
+Orders   Orders
+Recording financialtransactions
+Delivery notes   GRNS
+Sales invoices   Bank transaction   Payroll   Purchaseinvoices
+report
+Computerisedaccountingsystem
+98   Accounting   ICAB2026

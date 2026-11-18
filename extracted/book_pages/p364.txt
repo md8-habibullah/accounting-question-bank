@@ -1,0 +1,34 @@
+Answers to Interactive questions
+Answerto Interactivequestion1
+Cost   CU
+18.720
+Less estimated residual value   (6.360)
+Totalamounttobedepreciated   12.360
+Thedepositrepresantspartof the payment forthenew vehicleand isnotrelevant in
+calculating the depreciable amount ofthenew car.
+AnswertoInteractivequestion2
+2.1Under the straight linemethod,depreciationforeachof thefiveyears is:
+CU(17,000-2,000)
+Annualdepreciation   CU3000
+RememberthatVATonlorries isrecoverable;it isonlyintespectofcarsthat itis
+irrecoverable.
+2.2Underthereducingbalancemethod,depreciationforeachofthefiveyearsisasfollows:
+Year   Depreciation   CU
+35%×CU17.000   5,950
+35%×(CU17.000-CU5950)=35%×CU11,050   3.868
+35%x(CU11.050-CU3.868)-35%×CU7.182   2514
+35%×(CU7.182-CU2.514)=35%×CU4,668   1634
+35%（CU4.668-CU1.634)-35%×CU3034   1,062
+Answerto Interactivequestion3
+CU65,610
+Newannualchargefrom20x4   CU13,122perannum
+5years
+AnswertoInteractivequestion4
+Year1   Year2   Year3
+CU   CU
+Cost   1,000   1,000   1,000
+Accumulateddepreciation   (80)   (160)   (265)
+Carrying amount   920   840   735
+Chargefortheyear(W)   80   80   105
+WORKING
+354   Accounting   ICAB2026

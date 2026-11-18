@@ -1,0 +1,38 @@
+7.5   VAT and irrecoverable debts
+Mostregistered persons areobliged torecord VATwhena.supply ismadeorreceived
+(effectivelywhena salesinvoice israisedarapurchase invoicerecorded).Thismayhavethe
+effect thatoutput taxhastobe paid to Commissioner,VATbefore ithas allbeen received
+from customers.Ifan amountduefroma customeris subsequentlywritten off as irrecoverable,
+theVAT elementmaynotbe recoverable from Commissioner,VATforsometime afterthe
+sale.
+7.6   Summary ofaccountingentries forVAT
+Letussummarise howVAT is recorded inthenominal ledgeraccounts:
+(1) Sales shown in the statement of profit or loss must exclude outputVAT.However,trade
+receivables will includeVAT,asthey reflect.thetotal amountduefrom customers.
+Thedoubleentryforsaleson.creditofCU500,excludingVATat15%is:
+CU   CU
+DEBIT   Tradereceivables (including VAT,calledgross)   575
+CREDIT   Revenue(excluding VAT, called net)   500
+VAT(15%*CU500)-outputtax   75
+(2)Expenses shown in the statement of profit or loss mustexclude input VAT.However,trade
+payables willinclude input VAT,as they reflectthe total amount payable to suppliers.The
+doubleentryforcreditpurchasesofCU400,excludingVATat15%,is:
+CU   CU
+DEBIT   Purchases expense (net)   400
+VATa/c(20%×CU400)-inputtax   60
+CREDIT   Tradepayables (gross)   460
+(3) If sales weremade orexpenses were inicurredin cashratherthanon credit,the salesand
+expenses would be recoded excluding the VAT and the cashamount would include VAT.
+(4) Irrecoverable VAT on expenses or non-current assets must be included in the cost of the
+expense ornon-currentassetin the statementofprofit orlossorstatementof financial
+position.
+(5)The netamount dueto (or from)HMRC shouldbe included in otherpayables (orother
+receivables)inthestatementoffinancialposition.
+7.7   Calculating VATfromagross amount
+If you aretold thatan amount includes VATat15% (agrossamount),you can calculatethe VAT   CHAPTER
+elementbymultiplyingthegrossamountby15%/115%.
+Contextexample:VATcalculation
+AsaleofCU200attracts VATat15%ie,CU30.Thegross amountisCU230.Togetbacktothe
+VATelement:
+CU230×15/115=CU30
+ICAB2026   Ledger accounting and double entry   131

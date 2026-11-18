@@ -1,0 +1,28 @@
+Context example:Thenon-currentassets note
+We prepared Rodrigo's final trial balanceearlier in this chapter.Wecan now prepare hisnon.
+currentassets (property.plantand equipment)note fromthe closingtrial balanceasfollows:
+Freehold   Plant and   Motor
+landand   equipment   vehicles   Total
+buildings
+Cost   CU   CU   CU
+CU
+At1.1X0   100,000   45,000   25,000   170,000
+Additions   13,300   13,300
+Disposals   (10.000)   (8,000)   (18,000)
+At31.12.X0   100,000   35,000   30,300   165,300
+Accumulated
+depreciation
+15,000   18,750   14,650   48,400
+At 1.1.X0
+Charge for   5,000   5,290   6,900   17,190
+thereporting
+period
+Disposals   (1,250)   (4,500)   (5,750)   10
+At31.12.X0   20,000   22.790   17,050   59.840
+Carrying
+amount
+At1.1.X0   85,000   26,250   10,350   121,600
+At31.12.X0   80,000   12,210   13,250   105,460
+OnRodrigo'sstatementof financial positionas at31December20X0 therewill justbea single
+figure,for'Property.plantandequipment,ofcU105,460.
+ICAB2026   Non-current assets,depreciationand impaiment   347

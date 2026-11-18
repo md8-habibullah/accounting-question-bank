@@ -1,0 +1,1601 @@
+     Chapter 12: Company ﬁnancial statements
+     under IFRS Accounting Standards
+ 1 Hexham plc
+     The following is the trial balance of Hexham plc at 31 March 20X8:
+
+                                                                                           £               £
+      Sales                                                                                        1,150,000
+COS Inventories at 1 April 20X7          opening                                      75,000
+
+COS Purchases                                                                       465,000
+      Distribution costs                                                            220,000
+      Administrative expenses                                                       340,000
+      Irrecoverable debts expense        other operating expense                      36,000
+      Loan interest paid                                                               8,000
+      Land and buildings cost                                                       600,000
+      Plant and equipment cost                                                      340,000
+      Land and buildings accumulated depreciation at 1 April 20X7        b/f                          96,000
+      Plant and equipment accumulated depreciation at 1 April 20X7        b/f                         63,000
+      Trade receivables                                                               60,000
+      Allowance for receivables                                                                        5,000
+      Bank                                                                                            24,000
+      Equity share capital (£1 shares)                                                              400,000
+      Share premium                                                                                 100,000
+      Bank loan                                                                                     200,000
+      Retained earnings                                                                               61,000
+      Equity dividends paid                                                           15,000
+      Trade payables                                                                                  54,000
+      Advance deposits from customers                                              –––––––             6,000
+                                                                                   2,159,000       2,159,000
+
+     The following adjustments have yet to be accounted for:
+     (1) Hexham plc holds two lines of inventory at 31 March 20X8. Details are shown in the ‘Hexham plc
+         inventory’ table below.
+     (2) Hexham plc paid an annual insurance premium of £16,800 for the year 1 September 20X7 to
+         31 August 20X8. This payment is included in administrative expenses.
+     (3) The company’s depreciation policy is as follows: Buildings: Straight line over 50 years; Plant and
+         equipment: 10% straight line. The cost of the land was £200,000, and all non-current assets are
+         assumed to have zero residual values. There were no additions to or disposals of non-current
+         assets during the year ended 31 March 20X8. Depreciation on buildings is charged to
+         administrative expenses, and depreciation on plant and equipment is charged to cost of sales.
+     (4) At the year end, trade receivables include a balance of £4,800 which is considered irrecoverable.
+         Hexham plc wishes to adjust the allowance for receivables at 31 March 20X8 to £2,760. The
+         company presents irrecoverable debts as other operating expenses on the face of the statement
+         of proﬁt or loss.
+
+
+
+
+     ICAEW 2024                          12: Company ﬁnancial statements under IFRS Accounting Standards   95
+(5) The bank loan was received on 1 July 20X7 and is repayable in full in ﬁve years. Interest is
+    charged at a ﬁxed rate of 8% per annum.
+(6) Income tax for the year ended 31 March 20X8 is estimated at £10,000.
+(7) Hexham plc products come with a standard warranty which guarantees the products function as
+    expected for a six-month period. Management estimates that 5% of warranties will be invoked, at
+    a cost of £15,000 to Hexham plc. Provisions are charged to other operating expenses.
+(8) Hexham plc paid rent of £25,000 on 27 March 20X8 which covers the period 1 April 20X8 to
+    30 June 20X8. This amount has been included in administrative expenses.
+Hexham plc inventory
+
+Item                                                         CX100                               BY200
+                                                                  £                                  £
+Total cost                                                   16,200                              76,000
+Selling price                                                15,000                              83,600
+
+Requirement
+Prepare the statement of proﬁt or loss for Hexham plc for the year ended 31 March 20X8 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 March 20X8
+
+                                                                                          £
+
+Revenue                                                                        1,150,000
+Cost of sales (W1)                                                             483,000
+
+Gross proﬁt                                                                     667,000
+Distribution costs (W1)                                                       (220,000)
+Administrative expenses (W1)                                                  (316,000)
+
+Other operating expenses (W2)                                                  (53,560)
+Operating proﬁt/(loss)                                                          77,440
+Finance costs (W3)                                                             (12,000)
+Proﬁt/(loss) before tax                                                        65,400
+
+Income tax expense                                                               10,000
+Proﬁt/(loss) for year                                                          55,400
+
+Statement of ﬁnancial position as at 31 March 20X8
+
+                                                                                          £
+Non-current assets
+Property, plant, and equipment
+
+Land and buildings (W4)                                                        496,000
+
+Plant and equipment (W4)                                                       243,000
+
+                                                                               739,000
+Current assets
+
+Inventories (W1)                                                                  91,000
+Trade receivables (W2)                                                         52,440
+
+
+
+96     Accounting                                                                             ICAEW 2024
+                                                                                            £
+
+   Prepayments (W1)                                                               32,000
+
+                                                                               175,440
+
+   Total assets                                                                 914,440
+
+
+   Equity
+
+   Equity share capital                                                         400,000
+   Share premium                                                                100,000
+   Retained earnings (W5)                                                      101,440
+
+                                                                               601,440
+   Non-current liabilities
+
+   Borrowings                                                                  200,000
+
+
+   Current liabilities
+
+   Bank overdraft                                                              24,000
+   Trade payables                                                             54,000
+   Accruals (W3)                                                                4,000
+
+   Deferred income                                                              6,000
+
+   Provision                                                                     15,000
+   Income tax payable                                                         10,000
+
+                                                                               113,000
+   Total equity and liabilities                                                914,440
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+2 Ford plc
+  Ford plc is a company which publishes a single textbook and provides tuition courses relating to that
+  text. The following trial balance was extracted from the nominal ledger of Ford plc on 31 March
+  20X6.
+
+                                                                                        £            £
+   Purchases                                                                 4,450,000
+   Administrative salaries                                                     410,500
+   Distribution costs                                                          375,000
+   Inventories at 1 April 20X5                                                 113,400
+   Freehold land and buildings
+   Cost (land £1,750,000)                                                    2,550,000
+   Accumulated depreciation at 1 April 20X5                                                     480,000
+
+
+
+
+  ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards   97
+                                                                                     £                 £
+Equipment and ﬁxtures
+Cost                                                                          620,000
+Accumulated depreciation at 1 April 20X5                                                     337,000
+Borrowings                                                                                   100,000
+Redeemable 4% preference shares                                                              100,000
+Trade receivables                                                              37,500
+Trade payables                                                                                25,400
+Retained earnings at 1 April 20X5                                                            212,500
+Equity share capital – 50p nominal value                                                     400,000
+Share premium                                                                                100,000
+Preference share capital – 5% irredeemable £1 shares                                         200,000
+Dividends paid                                                                 20,000
+Cash and cash equivalents                                                      43,500
+Revenue                                                                                    6,700,000
+Finance costs                                                                  35,000       –––––––
+                                                                            8,654,900      8,654,900
+
+The following additional information is relevant.
+(1) The borrowings are repayable in ﬁve equal annual instalments, commencing on 1 April 20X6.
+    The interest payable has been correctly calculated and included within ﬁnance costs.
+(2) Revenue is made up of the amounts shown in the ‘Revenue’ table below. The tuition fees all
+    relate to courses held during the year except for fees of £300,000 which relate to a 10-week
+    course. Five weeks of this course had already been held by the year end. The remainder is to be
+    held in June 20X6. The advances relate to the delivery of a new publication which Ford plc has
+    commissioned and advertised heavily but which is not yet in production.
+(3) There were no movements of non-current assets during the year. Equipment and ﬁxtures are
+    depreciated on a 10% straight-line basis, taking into account the month of sale or purchase.
+    Depreciation on equipment and ﬁxtures is presented in cost of sales. Freehold buildings are
+    depreciated over their useful life of 40 years. Depreciation on freehold buildings is charged to
+    administrative expenses.
+(4) At the year end the company was in the process of a legal action by one of its competitors which
+    claims that Ford’s textbook has breached copyright. The case is not due to be decided until June
+    20X6 but Ford plc’s legal advisors think that the company has a 70% chance of losing the case
+    and estimates that this would cost Ford plc £100,000.
+(5) One of Ford plc’s customers which owed £10,000 on 31 March 20X6 was declared insolvent on
+    that date. The liquidator does not expect to pay any money to creditors and the amount is
+    considered irrecoverable.
+(6) Closing inventories at cost amounted to £120,000. Within this valuation is an over-allocation of
+    ﬁxed overheads, of £10,000.
+(7) The following should be accounted for at the year-end: Income tax of £350,000; The dividend
+    on the 5% irredeemable preference shares; The dividend on the 4% redeemable preference
+    shares which is accrued at the year end.
+(8) Ford plc employed the services of a training and consultancy ﬁrm for a six-month period
+    commencing on the 1 February 20X6 for a total fee of £60,000. 50% of this fee is due for
+    payment on 1 April 20X6, while the balance is to be paid within 30 days of the contract’s
+    conclusion. No record has been made in respect of this in the accounts of Ford plc. The contract
+    fee should be included in administrative expenses.
+
+
+
+
+98     Accounting                                                                          ICAEW 2024
+(9) Ford plc entered into a short-term rental agreement to secure additional ofﬁce space for
+    administrative staff. Rent is due quarterly in advance. Ford plc made a payment of £20,000 on
+    31 March 20X6, and this has been included in administrative expenses.
+(10) During the year, Ford plc issued a 1 for 4 bonus issue from share premium. This has not been
+    reﬂected in the accounts.
+Revenue
+
+                                                                                                    £
+Tuition fees                                                                               1,500,000
+Book sales                                                                                 5,100,000
+Advances                                                                                    100,000
+                                                                                           6,700,000
+
+Requirement
+Prepare the statement of proﬁt or loss for Ford plc for the year ended 31 March 20X6 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 March 20X6
+
+                                                                                                    £
+
+Revenue (W5)
+
+Cost of sales (W1)
+
+Gross proﬁt
+
+Distribution costs (W1)
+                                                                              6,000
+Administrative expenses (W1)
+
+Operating proﬁt/(loss)
+
+Finance costs (W1)
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for year
+
+Statement of ﬁnancial position as at 31 March 20X6
+
+                                                                                                    £
+ASSETS
+Non-current assets
+Property, plant and equipment
+
+Freehold land and buildings (W2)
+
+Equipment and ﬁxtures (W2)
+
+
+Current assets
+
+Inventories (W1)
+
+Trade receivables
+
+Prepayments
+
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards    99
+                                                                                                £
+
+Cash and cash equivalents
+
+
+
+Total assets
+EQUITY AND LIABILITIES
+Capital and reserves
+
+Equity share capital (W6)
+
+Preference share capital (irredeemable)
+
+Retained earnings (W4)
+
+
+Non-current liabilities
+
+Redeemable 4% preference shares
+
+Borrowings
+
+
+Current liabilities
+
+Borrowings
+
+Accruals (W1)
+
+Irredeemable 5% preference dividend payable (W4)
+
+Redeemable 4% preference dividend payable (W1)
+
+Trade payables
+
+Deferred income (W3)
+
+Provision
+
+Income tax payable
+
+
+
+Total equity and liabilities
+
+Note: The boxes in this question indicate where an answer is required and where marks are available
+in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                   Total: 16 marks
+
+
+
+
+100   Accounting                                                                       ICAEW 2024
+3 Juniper plc
+  The following trial balance was extracted from the nominal ledger of Juniper plc on 31 December
+  20X2.
+
+                                                                                            £           £
+   Accrued expenses at 31 December 20X2                                                             2,500
+   Administration expenses                                                           198,076
+   Cost of sales                                                                     426,772
+   Cash and bank                                                                      15,477
+   Payables due within one year (includes preference dividends payable)                            49,809
+   Receivables                                                                        12,691
+   Distribution costs                                                                 61,554
+   Preference dividend paid                                                            3,600
+   Equity dividend paid                                                                4,000
+   Non-current assets at cost                                                        157,680
+   10% loan (repayable in 10 years)                                                                33,000
+   £1 equity share capital                                                                         11,000
+   60% £1 preference share capital (irredeemable)                                                   6,000
+   Accumulated depreciation at 31 December 20X1                                                    40,630
+   Retained earnings at 31 December 20X1                                                           26,014
+   Suspense account                                                                                 1,350
+   Share premium                                                                                    7,500
+   Inventories at 31 December 20X2                                                    39,323
+   Revenue                                                                                       726,370
+   Income tax at 31 December 20X1                                                  –––––––         15,000
+                                                                                     919,173     919,173
+
+  The following additional information is relevant.
+  (1) Juniper plc sold a motor vehicle during the year ended 31 December 20X2. The motor vehicle
+      sold had a cost of £2,000 and a carrying amount of £1,100. Any proﬁts or losses on disposal are
+      treated as a cost of sales. Juniper plc for this transaction has been to record the sales proceeds
+      in cash at bank and used the suspense account as the other side of the entry. There are no other
+      entries in the suspense account.
+  (2) The non-current assets account includes freehold land which cost £25,000. Depreciation is
+      charged at 20% on the reducing balance basis. This charge is to be distributed 40% to cost of
+      sales, 30% to distribution costs and 30% to administrative expenses.
+  (3) A bonus issue of 1 for 5 equity shares made during the year out of the share premium account
+      has not been reﬂected above.
+  (4) Included in administrative expenses is a rates payment of £1,500 for the year to 1 April 20X3. An
+      invoice for insurance of £1,200 for the year to 30 November 20X3 was received and processed
+      on 5 January 20X3.
+  (5) The following accruals are to be made.
+      (a) Loan interest (12 months)
+      (b) Income tax of £12,000
+
+
+
+  ICAEW 2024                          12: Company ﬁnancial statements under IFRS Accounting Standards   101
+(6) The income tax liability of £15,000 at 31 December 20X1 was settled at £15,400 in September
+    20X2. The payment was debited to administration expenses.
+(7) At 31 December 20X2 Juniper plc considers that an amount owing of £453 from Maguire Ltd
+    should be written off as irrecoverable, and a further allowance for receivables of 3% of the
+    remaining receivables is necessary. Irrecoverable debts expenses are included in administrative
+    expenses.
+(8) Juniper plc received a letter in December 20X2 from the solicitor of a former employee claiming
+    that their client was unfairly dismissed. Juniper plc’s legal advisors estimate that there is a 70%
+    chance that the claim will be successful and they estimate that the award to the claimant will be
+    £20,000. Provisions are charged to administrative expenses.
+(9) A payment for £12,000, sent to a supplier, was incorrectly recorded as £21,000. This error has
+    not been corrected in the accounting records of Juniper plc.
+Requirement
+Prepare the statement of proﬁt or loss for Juniper plc for the year ended 31 December 20X2 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 December 20X2
+
+                                                                                                     £
+
+Revenue
+
+Cost of sales (W1)
+
+Gross proﬁt
+
+Distribution costs (W1)
+
+Administrative expenses (W1)
+
+Operating proﬁt/(loss)
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense (W4)
+
+Proﬁt/(loss) for year
+
+Statement of ﬁnancial position as at 31 December 20X2
+
+                                                                                                     £
+Non-current assets
+Property, plant and equipment
+
+Land
+
+Other non-current assets
+
+
+Current assets
+
+Inventories
+
+Trade receivables
+
+Prepayments (W1)
+
+Cash and cash equivalents
+
+
+
+
+102    Accounting                                                                          ICAEW 2024
+                                                                                                        £
+
+   Total assets
+
+
+   Equity
+
+   Equity share capital
+
+   Preference share capital
+
+   Share premium
+
+   Retained earnings (W5)
+
+
+   Non-current liabilities
+
+   Borrowings
+
+
+   Current liabilities
+
+   Borrowings
+
+   Bank overdraft
+
+   Trade payables
+
+   Provision for legal claim
+
+   Accruals
+
+   Deferred income
+
+   Income tax payable (W4)
+
+
+
+   Total equity and liabilities
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+4 Skylar plc
+  The trial balance for Skylar plc as at 31 October 20X7 is shown below.
+
+                                                                                   £’000           £’000
+   Share capital                                                                                  15,000
+   Trade payables                                                                                  3,348
+   Trade receivables                                                              10,254
+   Accruals at 31 October 20X7                                                                         387
+   Lease liability due in less than one year                                                       3,888
+   Lease liability due in more than one year                                                      19,834
+   Cash at bank                                                                     7,997
+
+
+
+
+  ICAEW 2024                         12: Company ﬁnancial statements under IFRS Accounting Standards    103
+                                                                                £’000          £’000
+Retained earnings                                                                             10,245
+Property (freehold buildings) cost                                             20,000
+Plant and equipment cost of leased assets                                      38,460
+Property (freehold buildings) – accumulated depreciation at 1
+   November 20X6                                                                                2,500
+Plant and equipment – accumulated depreciation on leased assets at
+   1 November 20X6                                                                            21,128
+Interest paid                                                                   2,372
+Sales                                                                                         53,761
+Purchases                                                                      30,946
+Distribution costs                                                              6,654
+Administrative expenses                                                         3,652
+Inventories as at 1 November 20X6                                               8,456
+Dividends paid                                                                  1,300        ––––––
+                                                                              130,091        130,091
+
+Further information
+(1) Skylar owns the properties and leases the plant and equipment. Depreciation has not yet been
+    charged. There were no purchases or sales of non-current assets, and no new leases were
+    entered into during the year. Plant is depreciated at 10% straight-line on a monthly basis taking
+    into account the month of sale or purchase and the lease term is 10 years. Freehold buildings
+    are depreciated over their useful life of 40 years. Depreciation on plant is charged to cost of
+    sales. Depreciation on freehold buildings is charged to administrative expenses.
+(2) The inventories at the close of business on 31 October 20X7 had a sales value of £12,232,500.
+    Goods are sold at an average mark-up of 25%.
+(3) The company paid £48,000 insurance costs in June 20X7, which covered the period from 1 July
+    20X7 to 30 June 20X8. This was included in administrative expenses in the trial balance.
+(4) The income tax charge for the year has been calculated as £1,254,000.
+(5) An electronic payment received from customer Broke plc for £15,000 on 30 October 20X7,
+    which was recorded in the accounting records of Skylar plc, has been dishonoured by Broke
+    plc’s bank. Management have advised that Broke plc’s total outstanding balance of £30,000
+    should be written off as an irrecoverable debt and recorded in administrative expenses.
+(6) During the year Skylar plc renewed its contract with haulage company Distributers plc. The
+    contract commenced on 1 September 20X7 and no payment has been made to date. The annual
+    contract fee is £200,000.
+(7) All of Skylar plc’s goods come with a 12-month warranty. Management estimate that 2% of these
+    warranties will be exercised, and the cost of repair or replacement of these goods will be
+    £250,000 in total. The warranties expense should be presented in administrative expenses.
+Requirement
+Prepare the statement of proﬁt or loss for Skylar plc for the year ended 31 October 20X7 and the
+statement of ﬁnancial position at that date.
+
+
+
+
+104     Accounting                                                                         ICAEW 2024
+Statement of proﬁt or loss for the year ended 31 October 20X7
+
+                                                                                               £’000
+
+Revenue
+
+Cost of sales (W1)
+
+Gross proﬁt
+
+Distribution costs (W2)
+
+Administrative expenses (W3)
+
+Operating proﬁt/(loss)
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+Statement of ﬁnancial position as at 31 October 20X7
+
+                                                                                               £’000
+ASSETS
+Non-current assets
+Property, plant, and equipment
+
+Land and buildings (W4)
+
+Plant and equipment (W4)
+
+
+Current assets
+
+Inventories
+
+Prepayments (W3)
+
+Trade receivables (W5)
+
+Cash and cash equivalents
+
+
+
+Total assets
+EQUITY AND LIABILITIES
+Equity
+
+Equity share capital
+Retained earnings (W6)                                                                        14,531
+Total equity                                                                                  29,531
+Non-current liabilities
+Lease liability                                                                               19,834
+
+
+
+Current liabilities
+
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards   105
+                                                                                              £’000
+
+   Trade payables
+
+   Accruals                                                                                     420
+
+   Income tax payable
+
+   Provision
+   Lease liability                                                                            3,888
+                                                                                              9,160
+   Total liabilities                                                                         28,994
+
+   Total equity and liabilities
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+5 Corolla plc
+  Corolla plc’s trial balance as at 31 October 20X8 is shown below.
+
+                                                                                  Debit      Credit
+                                                                                  £’000       £’000
+   Share capital (£1 per share)                                                              20,000
+   Share premium                                                                              5,000
+   Trade payables                                                                             2,798
+   Land and buildings – cost                                                     35,152
+   Land and buildings – accumulated depreciation at 1 November 20X7                           7,000
+   Plant and equipment – cost                                                    12,500
+   Plant and equipment – accumulated depreciation at 1 November 20X7                          7,400
+   Trade receivables                                                              5,436
+   Accruals at 31 October 20X8                                                                  436
+   8% bank loan repayable in 10 years                                                        15,000
+   Cash at bank                                                                   9,774
+   Retained earnings                                                                          9,801
+   Interest paid                                                                    600
+   Revenue                                                                                   58,411
+   Purchases                                                                     41,620
+   Distribution costs                                                             5,443
+   Administrative expenses                                                        4,789
+   Inventories as at 1 November 20X7                                              9,032
+   Dividends paid                                                                 1,500   –––––––
+                                                                               125,846     125,846
+
+
+
+
+  106    Accounting                                                                       ICAEW 2024
+Further information
+(1) The inventories at the close of business on 31 October 20X8 were valued at £7,878,000.
+(2) Depreciation is to be charged for the year as follows: Buildings: 2% per annum straight line
+    basis; Plant and equipment: 20% per annum reducing balance basis. Depreciation is
+    apportioned as follows: Cost of sales: 40%; Distribution costs: 40%; Administrative expenses:
+    20%. Land, which is non-depreciable, is included in the trial balance at a cost of £15,152,000.
+(3) The company began a series of social media adverts for the company’s range of products on 1
+    October 20X8 at a cost of £45,000. The adverts are to be placed on relevant pages for a period
+    of three months and were to be paid for in full at the end of December 20X8. Advertising
+    expenses are to be included in distribution costs.
+(4) Interest on the bank loan for the last six months of the year has not been included in the
+    accounts in the trial balance.
+(5) The income tax charge for the year has been calculated as £970,000.
+(6) During the year, Corolla plc made a 1 for 4 bonus issue of equity shares. This has not been
+    reﬂected in the accounts.
+(7) Management have calculated that an allowance for receivables equal to 5% of the trade
+    receivables balance at 31 October 20X8 is required. The allowance should be charged to
+    administrative expenses.
+(8) Corolla plc paid an insurance premium for annual cover up to 30 June 20X9. Due to a reference
+    number error, the computerised accounting system posted the payment of £45,000 to a trade
+    supplier’s account.
+Requirement
+Prepare the statement of proﬁt or loss for Corolla plc for the year ended 31 October 20X8 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 October 20X8
+
+                                                                                                 £’000
+
+Revenue
+
+Cost of sales (W1)
+
+Gross proﬁt
+
+Distribution costs (W2)
+
+Administrative expenses (W2)
+
+Operating proﬁt/(loss)
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+
+
+
+Statement of ﬁnancial position as at 31 October 20X8
+
+                                                                                                 £’000
+ASSETS
+Non-current assets
+
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards     107
+                                                                                               £’000
+   Property, plant and equipment
+
+   Land and buildings (W3)
+
+   Plant and equipment (W3)
+
+
+   Current assets
+
+   Inventories
+
+   Trade receivables
+
+   Prepayments
+
+   Cash and cash equivalents
+
+
+   Total assets
+   EQUITY AND LIABILITIES
+   Equity
+
+   Equity share capital (W6)
+
+   Retained earnings (W4)
+
+
+   Non-current liabilities
+
+   Borrowings
+   Current liabilities
+   Trade payables (W5)                                                                         2,843
+
+   Accruals
+
+   Income tax payable
+
+
+   Total equity and liabilities
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+6 Ariel plc
+  The following trial balance was extracted from the nominal ledger of Ariel plc on 31 March 20X2.
+
+                                                                                £’000          £’000
+   Equity share capital (£1 per share)                                                         5,000
+   Trade payables                                                                              1,347
+   Buildings – cost/value                                                      17,630
+   Plant and machinery – cost/value                                            14,000
+   Buildings – accumulated depreciation at 31 March 20X2                                      16,276
+
+
+
+  108   Accounting                                                                         ICAEW 2024
+                                                                                   £’000           £’000
+Plant and machinery – accumulated depreciation at 31 March 20X2                                     3,600
+Trade receivables                                                                  2,133
+Accruals at 31 March 20X2                                                                            129
+6% bank loan repayable in 15 years                                                                  6,850
+Cash at bank                                                                       2,887
+Retained earnings                                                                                   4,595
+Interest paid                                                                        411
+Revenue                                                                                            35,547
+Purchases                                                                         27,481
+Distribution costs                                                                 1,857
+Administrative expenses                                                            2,235
+Inventories as at 1 April 20X1                                                     3,790
+Dividends paid                                                                       920           –––––
+                                                                                  73,344           73,344
+
+Further information:
+(1) The inventories at the close of business on 31 March 20X2 were valued at £4,067,000.
+(2) Depreciation has already been provided on buildings and plant and equipment for the year
+    ended 31 March 20X2.
+(3) On 31 March 20X2 items of plant with a cost of £12,750,000 and accumulated depreciation of
+    £3,100,000 were assessed to have a recoverable amount of £8,500,000 in an impairment review.
+    Any adjustment should be included in cost of sales.
+(4) The company rented some ofﬁce photocopiers for the period 1 March to 30 June 20X2. The
+    contract price for the four months was £164,000 and this was paid in full on 3 March and is
+    charged to administrative expenses.
+(5) The company sourced extra warehousing space, for the storage of goods prior to their sale, for a
+    period of three months from 1 February to 30 April 20X2. The invoice for the full three months of
+    £114,000 was paid on 16 April. No entry has been made in the accounts for this transaction,
+    which should be charged to distribution costs.
+(6) The income tax charge for the year has been calculated as £874,000.
+(7) Trade receivables at 31 March 20X2 include a balance of £95,000 owed by a customer which has
+    gone into liquidation. The directors have been advised that they are unlikely to receive any of
+    this amount and wish to write the debt off as irrecoverable. Irrecoverable debts are written off to
+    administrative expenses.
+(8) Ariel plc provides a warranty for certain lines of product. It is estimated that 1% of these
+    warranties will be invoked at a cost of £25,000.
+Requirement
+Prepare the statement of proﬁt or loss for Ariel for the year ended 31 March 20X2 and the statement
+of ﬁnancial position at that date.
+
+
+
+
+Statement of proﬁt or loss for the year ended 31 March 20X2
+
+
+
+
+ICAEW 2024                         12: Company ﬁnancial statements under IFRS Accounting Standards    109
+                                                       Type tex here
+
+                                                        £’000
+
+Revenue
+
+Cost of sales (W1)
+
+Gross proﬁt
+
+Distribution costs (W2)
+
+Administrative expenses (W2)
+
+Operating proﬁt/(loss)
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+Statement of ﬁnancial position as at 31 March 20X2
+
+                                                        £’000
+ASSETS
+Non-current assets:
+
+Buildings (W3)
+
+Plant and machinery (W3)
+
+
+Current assets:
+
+Inventories
+
+Trade receivables
+
+Prepayments
+
+Cash and cash equivalents
+
+
+
+Total assets
+Equity and liabilities:
+Equity
+
+Equity share capital
+
+Retained earnings (W4)
+
+
+Non-current liabilities:
+
+Borrowings
+Current liabilities:
+Trade payables
+
+Accruals
+
+
+
+
+110   Accounting                                     ICAEW 2024
+                                                                                                   £’000
+
+   Provision
+
+   Income tax payable
+
+
+
+   Total equity and liabilities
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+7 Enercell plc
+  The trial balance for Enercell plc as at 31 October 20X7 is shown below.
+
+                                                                                    £’000          £’000
+   Equity share capital (£1 per share)                                                            20,000
+   Share premium                                                                                    2,500
+   Trade payables                                                                                   5,022
+   Trade receivables                                                               15,381
+   Accruals                                                                                           580
+   5% bank loan repayable in 10 years                                                             30,000
+   Cash at bank                                                                    11,996
+   Retained earnings                                                                              18,518
+   Interest paid                                                                    1,125
+   Gross proﬁt                                                                                    39,539
+   Distribution costs                                                               9,981
+   Administrative expenses                                                          5,478
+   Dividends paid                                                                   1,950
+   Closing inventories                                                             18,000
+   Property (freehold buildings) – cost                                            30,000
+   Property (freehold buildings) – accumulated depreciation as at 1
+      November 20X6                                                                                 3,750
+   Plant and equipment – cost                                                      57,690
+   Plant and equipment – accumulated depreciation as at 1 November
+      20X6                                                                        ––––––          31,692
+
+                                                                                 151,601         151,601
+
+
+  Further information
+  (1) There were no movements in non-current assets during the year. Plant and equipment is
+      depreciated on a 10% straight-line basis. Freehold buildings are depreciated over their useful
+      life of 40 years. Depreciation is charged to administrative expenses.
+  (2) The ﬁgure for closing inventories in the trial balance is the sales value (goods are sold at a mark-
+      up of 25%). Inventory should be valued at cost.
+
+
+
+
+  ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards    111
+(3) The company paid £72,000 insurance costs in June 20X7, which covered the period from 1 July
+    20X7 to 30 June 20X8. This was included in administrative expenses in the trial balance.
+(4) Interest on the bank loan for the last three months of the year has not been included in the trial
+    balance.
+(5) The income tax charge for the year has been calculated as £1,881,000.
+(6) A customer was injured by a defective product during the year and has issued proceedings
+    against the company. Enercell plc’s legal team have advised that there is a 75% probability that
+    this will result in an estimated payout of £750,000. Provisions are charged to administrative
+    expenses.
+(7) Enercell plc rented additional warehouse space during the year for a period of six months,
+    commencing on 1 August 20X7. The rent payable is £4,000 per month, no payments have been
+    made to date. Rent is charged to distribution costs.
+(8) During the year, Enercell plc issued a 1 for 10 bonus share issue from share premium.
+(9) A payment which was sent on 23 October 20X7 to a supplier for £32,000 was incorrectly
+    recorded as £23,000.
+Requirement
+Prepare the statement of proﬁt or loss for Enercell plc for the year ended 31 October 20X7 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 October 20X7
+
+                                                                                                 £’000
+
+Gross proﬁt (W1)
+
+Distribution costs (W2)
+
+Administrative expenses (W2)
+
+Operating proﬁt/(loss)
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+Statement of ﬁnancial position as at 31 October 20X7
+
+                                                                                                 £’000
+ASSETS
+Non-current assets
+Property, plant, and equipment
+
+Buildings (W3)
+
+Plant and equipment (W3)
+
+
+
+
+Current assets
+
+Inventories
+
+Trade receivables
+
+
+
+
+112   Accounting                                                                            ICAEW 2024
+                                                                                                  £’000
+
+   Prepayments (W2)
+
+   Cash and cash equivalents
+
+
+   Total assets
+   EQUITY AND LIABILITIES
+   Equity
+
+   Equity share capital (W4)
+
+   Share premium (W5)
+
+   Retained earnings (W6)
+
+
+   Non-current liabilities
+
+   Borrowings (Bank loan)
+   Current liabilities
+
+   Trade payables
+
+   Accruals
+
+   Income tax payable
+
+   Provision
+
+
+   Total equity and liabilities
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+8 Liquid plc
+  The following trial balance was extracted from the nominal ledger of Liquid plc on 31 December
+  20X6:
+
+                                                                                     £               £
+   Sales                                                                                     1,590,000
+   Inventories at 1 January 20X6                                                35,000
+   Purchases                                                                  600,000
+   Distribution costs                                                         236,000
+   Administrative expenses                                                    169,000
+   Irrecoverable debts expense                                                  15,000
+   Redeemable 6% preference share dividend                                       1,000
+   Land and buildings cost                                                    975,000
+   Plant and equipment cost                                                   267,000
+
+
+                                                                                         91,000
+
+  ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards   113
+                                                                                    £               £
+Land and buildings accumulated depreciation at 1 January 20X6                                178,000
+Plant and equipment accumulated depreciation at 1 January 20X6                                 95,000
+Trade receivables                                                              45,000
+Bank                                                                                            8,000
+Equity share capital (£1 shares)                                                             300,000
+Share premium                                                                                  50,000
+Redeemable 6% preference shares                                                                50,000
+Retained earnings                                                                              53,000
+Equity dividends paid                                                           5,000
+Trade payables                                                                                 20,000
+Advance deposits from customers                                             –––––––             4,000
+                                                                           2,348,000        2,348,000
+
+The following adjustments have yet to be accounted for:
+(1) Inventories held at 31 December 20X6 are valued at £120,000.
+(2) The company’s depreciation policy is as follows: Buildings: Straight-line over 50 years; Plant and
+    equipment: 10% straight-line. The cost of the land was £100,000, and all non-current assets are
+    assumed to have zero residual values. There were no additions to or disposals of non-current
+    assets during the year ended 31 December 20X6. Depreciation on buildings is charged to
+    administrative expenses, and depreciation on plant and equipment is charged to cost of sales.
+(3) At the year end, trade receivables include a balance of £13,000 which is considered
+    irrecoverable. The company presents irrecoverable debts as other operating expenses in the
+    statement of proﬁt or loss. Management believe that an allowance for receivables of £16,000 is
+    required in respect of the remaining trade receivables balance.
+(4) Liquid plc paid rent of £20,000 on 20 December 20X6 which covers the period 1 April 20X6 to
+    31 March 20X7. This amount has been included in distribution costs.
+(5) Liquid plc’s annual insurance premium is £10,000 for the year ended 31 December 20X6. Liquid
+    paid £5,000 in respect of this on 25 November 20X6. This payment is included in administrative
+    expenses.
+(6) During the year, the company offered a 1 for 6 bonus issue to shareholders, from share
+    premium.
+(7) The redeemable 6% preference shares were issued on 1 January 20X6. An interim dividend was
+    paid and correctly accounted for on 1 July 20X6. An accrual is required to be created in respect
+    of any outstanding dividend.
+(8) Income tax for the year ended 31 December 20X6 is estimated at £45,000.
+(9) Liquid plc products come with a 6-month standard warranty. Management estimates that 5% of
+    warranties will be invoked, at a cost of £25,000 to Liquid plc. Provisions are charged to other
+    operating expenses.
+Requirement
+Prepare the statement of proﬁt or loss for Liquid plc for the year ended 31 December 20X6 and the
+statement of ﬁnancial position at that date.
+
+
+
+Statement of proﬁt or loss for the year ended 31 December 20X6
+
+                                                                                        £
+
+Revenue
+
+
+
+114    Accounting                                                                           ICAEW 2024
+                                                                                       £
+
+Cost of sales (W1)
+
+Gross proﬁt
+Distribution costs (W1)
+Administrative expenses (W1)
+
+Other operating expenses (W2)
+
+Operating proﬁt/(loss)
+
+Finance costs (W3)
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+Statement of ﬁnancial position as at 31 December 20X6
+
+                                                                                       £
+Non-current assets
+Property, plant, and equipment
+
+Land and buildings (W4)
+
+Plant and equipment (W4)
+
+
+Current assets
+
+Inventories (W1)
+
+Trade receivables (W2)
+
+Prepayments (W1)
+
+Cash and cash equivalents
+
+
+
+Total assets
+
+
+Equity
+
+Equity share capital (W6)
+
+Preference share capital
+
+Share premium (W6)
+
+Retained earnings (W5)
+
+
+Non-current liabilities
+
+Redeemable 6% preference shares
+
+
+Current liabilities
+
+
+
+
+ICAEW 2024                       12: Company ﬁnancial statements under IFRS Accounting Standards   115
+                                                                                      £
+
+   Borrowings
+
+   Bank overdraft
+
+   Trade payables
+
+   Accruals
+
+   Redeemable 6% preference dividend accrued
+
+   Deferred income
+
+   Provision (W2)
+
+   Income tax payable
+
+
+
+   Total equity and liabilities
+
+  Note: The boxes in this question indicate where an answer is required and where marks are available
+  in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                     Total: 16 marks
+
+
+9 Colbolt plc
+  The trial balance for Colbolt plc as at 31 March 20X7 is shown below.
+
+                                                                                      £           £
+   Equity share capital (£1 per share)                                                       18,000
+   Share premium                                                                              4,500
+   Trade payables                                                                             7,954
+   Trade receivables                                                            12,039
+   Accruals                                                                                     140
+   6% bank loan repayable in 10 years                                                        25,000
+   Cash at bank                                                                  9,997
+   Retained earnings                                                                         21,722
+   Interest paid                                                                 1,125
+   Gross proﬁt                                                                               33,931
+   Distribution costs                                                            4,548
+   Administrative expenses                                                       8,800
+   Dividends paid                                                                2,100
+   Closing inventories                                                          19,000
+   Property (freehold buildings) – cost                                         32,520
+   Property (freehold buildings) – accumulated depreciation as at 1 April
+      20X6                                                                                    4,878
+   Plant and equipment – cost                                                   57,688
+   Plant and equipment – accumulated depreciation as at 1 April 20X6           ––––––        31,692
+                                                                               147,817     147,817
+
+
+
+
+  116   Accounting                                                                        ICAEW 2024
+Further information
+(1) Plant and equipment is depreciated on a 12.5% straight-line basis. Freehold buildings are
+    depreciated over their useful life of 40 years. Depreciation is to be charged to administrative
+    expenses.
+(2) The ﬁgure for closing inventories in the trial balance is the sales value (goods are sold at a mark-
+    up of 20%). Inventory should be valued at cost of sales.
+(3) The bank loan was taken out in 20X4, therefore a full year’s interest needs to be recorded.
+    Interest on the bank loan for the last three months of the year has not been included in amounts
+    in the trial balance.
+(4) The income tax charge for the year has been calculated as £1,566.
+(5) During the year, Colbolt plc issued a 1 for 10 bonus share issue from share premium.
+(6) A payment which was sent on 23 March 20X7 to a supplier for £12 was incorrectly recorded as
+    £21.
+(7) Colbolt plc received notice on 31 March 20X7 that one of its customers, Pulse Limited, had gone
+    into liquidation and the debt requires to be written off as irrecoverable. This customer owed
+    £165 at the year end that date. Colbolt plc decided to create an allowance for receivables on the
+    remaining trade receivables balance of £4,500. Irrecoverable debts are charged to
+    administrative expenses.
+(8) Colbolt plc rents some additional ofﬁce space for administrative staff. Rent is due quarterly in
+    advance. Colbolt plc made a payment of £30 on 28 February 20X7, and this has been included
+    in administrative expenses.
+(9) On 31 March 20X7 items of plant with a cost of £8,000 and accumulated depreciation of £3,100
+    were assessed to have a value of £4,500 in an impairment review. Any adjustment should be
+    included in cost of sales.
+Requirement
+Prepare the statement of proﬁt or loss for Colbolt plc for the year ended 31 March 20X7 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 March 20X7
+
+                                                                                                      £
+
+Gross proﬁt (W1)
+
+Distribution costs (W2)
+
+Administrative expenses (W2)
+
+Operating proﬁt/(loss)
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+
+Statement of ﬁnancial position as at 31 March 20X7
+
+                                                                                                      £
+ASSETS
+Non-current assets
+Property, plant, and equipment
+
+Freehold buildings (W3)
+
+
+
+
+ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards     117
+                                                                                                £
+
+Plant and equipment (W3)
+
+
+Current assets
+
+Inventories
+
+Trade receivables
+
+Prepayments (W2)
+
+Cash and cash equivalents
+
+
+
+Total assets
+EQUITY AND LIABILITIES
+Equity
+
+Equity share capital (W4)
+
+Share premium (W5)
+
+Retained earnings (W6)
+
+
+Non-current liabilities
+
+Borrowings
+Current liabilities
+
+Trade payables
+
+Accruals
+
+Income tax payable
+
+
+
+Total liabilities
+
+Total equity and liabilities
+
+Note: The boxes in this question indicate where an answer is required and where marks are available
+in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                   Total: 16 marks
+
+
+
+
+118   Accounting                                                                       ICAEW 2024
+10 Waterford plc
+   The trial balance for Waterford plc as at 31 May 20X6 is shown below.
+
+                                                                                    £                   £
+    Equity share capital (£1 per share)                                                           25,000
+    Share premium                                                                                  9,000
+    Trade payables                                                                                     675
+    Trade receivables                                                          8,890
+    Accruals                                                                                           567
+    7.5% bank loan repayable in 8 years                                                           14,000
+    Cash at bank                                                               5,678
+    Retained earnings                                                                             48,144
+    Interest paid                                                                600
+    Gross proﬁt                                                                                   45,998
+    Administrative expenses                                                   27,557
+    Distribution costs                                                        10,089
+    Dividends paid                                                               600
+    Closing inventories                                                        3,757
+    Freehold land and buildings – cost                                        80,000
+    Freehold land and buildings – accumulated depreciation as
+       at 1 June 20X5                                                                              7,000
+    Plant and equipment – cost                                                26,100
+    Plant and equipment – accumulated depreciation as at 1
+       June 20X5                                                                                   7,086
+    Motor vehicles – cost                                                     17,000
+    Motor vehicles – accumulated depreciation as at 1 June
+      20X5                                                                                         5,200
+    Suspense                                                                 ––––––               17,601
+                                                                             180,271             180,271
+
+   (1) The company’s depreciation policy is as follows: Freehold buildings: Straight-line over 50 years;
+       Plant and equipment: 15% reducing balance; Motor vehicles: 25% straight-line. The cost of the
+       land within the cost of freehold land and buildings was £500, and all non-current assets are
+       assumed to have zero residual values. There were no additions to non-current assets during the
+       year ended 31 May 20X6. Depreciation on freehold buildings is charged to administrative
+       expenses, and depreciation on plant and equipment and motor vehicles is charged to cost of
+       sales.
+   (2) On 1 June 20X5, motor vehicles purchased on 1 July 20X4 at a cost of £8,000 were disposed of
+       for £2,500. The cash received has been correctly recorded but the accounting software was
+       unable to match the transaction and recorded the other side of the entry to the suspense
+       account.
+   (3) Income tax for the year ended 31 May 20X6 is estimated at £8,000.
+   (4) Within the closing inventory carried at cost is an over-allocation of ﬁxed overheads, of £78.
+
+
+
+
+   ICAEW 2024                        12: Company ﬁnancial statements under IFRS Accounting Standards    119
+(5) During the year, Waterford plc made a 1 for 4 bonus issue from share premium. The correct entry
+    to share premium has been made, but the corresponding entry was posted to the suspense
+    account.
+(6) An accrual needs to be made for the remainder of the interest expense for the year.
+(7) At 31 May 20X6 Waterford plc determined that £650 owing from a customer is required to be
+    written off as irrecoverable, and an allowance for receivables of 3% of the remaining receivables
+    is necessary. Irrecoverable debts are considered an administrative expense.
+(8) An adjustment has been made to remove £8,851 for sales made in May 20X6 for products to be
+    delivered in June 20X6. The correct entry has been made to the revenue account but, the
+    corresponding entry has been posted to the suspense account.
+(9) On 31 May 20X6 Waterford plc paid an insurance premium for annual cover up to 31 May 20X7.
+    The full £55 was included within administrative expenses at 31 May 20X6.
+Requirement
+Prepare the statement of proﬁt or loss for Waterford plc for the year ended 31 May 20X6 and the
+statement of ﬁnancial position at that date.
+Statement of proﬁt or loss for the year ended 31 May 20X6
+
+                                                                                                   £
+
+Gross proﬁt (W1)
+
+Distribution costs (W2)
+
+Administrative expenses (W2)
+
+Operating proﬁt/(loss)
+
+Finance costs
+
+Proﬁt/(loss) before tax
+
+Income tax expense
+
+Proﬁt/(loss) for the period
+
+Statement of ﬁnancial position as at 31 May 20X6
+
+                                                                                                   £
+ASSETS
+Non-current assets
+Property, plant, and equipment
+
+Property (W3)
+
+Plant and equipment (W3)
+
+Motor vehicles (W3)
+
+
+Current assets
+
+Inventories
+
+Trade receivables (W4)
+
+Prepayments
+
+Cash and cash equivalents
+
+
+
+
+120   Accounting                                                                          ICAEW 2024
+                                                                                                            £
+
+     Total assets
+     EQUITY AND LIABILITIES
+     Equity
+
+     Equity share capital (W5)
+
+     Share premium (W6)
+
+     Retained earnings (W7)
+
+
+     Non-current liabilities
+
+     Borrowings
+     Current liabilities
+
+     Trade payables
+
+     Accruals
+
+     Deferred income
+
+     Income tax payable
+
+
+
+     Total equity and liabilities
+
+    Note: The boxes in this question indicate where an answer is required and where marks are available
+    in the CBE. You can use the ‘add comment’ function to record your workings and answers.
+                                                                                       Total: 16 marks
+
+
+11 Corrie Ltd is preparing its statement of changes in equity for the year ended 31 December 20X6. Its
+   opening retained earnings balance at 1 January 20X6 was £151,600. The following balances and
+   transactions arose during the year:
+    •   Corrie Ltd issued 10,000 £1 equity shares at a premium of £0.80 per share on 1 January 20X6
+    •   Corrie Ltd made a bonus issue on 1 March 20X6 of 5,000 £1 equity shares utilising retained
+        earnings
+    •   It paid a dividend totalling £16,000 on 31 October 20X6
+    •   It made a loss for the year of £17,800
+    Requirement
+    What is the closing balance of Corrie Ltd’s retained earnings at 31 December 20X6?
+    A    £148,400
+    B    £112,800
+    C    £130,800
+    D    £134,000
+                                                                                                         LO 3c
+
+
+
+
+    ICAEW 2024                         12: Company ﬁnancial statements under IFRS Accounting Standards     121
+12 Dale Ltd is preparing its statement of changes in equity for the year ended 31 December 20X8. The
+   opening share capital balance in the statement of changes in equity was £100,000, comprising
+   100,000 £1 equity shares which were issued at a premium of £0.50 per share. The following balances
+   and transactions arose in the year:
+    •   Dale Ltd issued 20,000 £1 equity shares at price of £1.70 per share on 1 July 20X8
+    •   It made a bonus issue on 1 October 20X8 of 10,000 £1 equity shares utilising retained earnings
+    •   It paid a dividend totalling of 20p per share to all shareholders on 31 December 20X8
+    Requirement
+    What was the closing balance of share capital in the statement of changes in equity at 31 December
+    20X8?
+    A     £144,000
+    B     £104,000
+    C     £118,000
+    D     £130,000
+                                                                                                    LO 3c
+
+
+13 The accountant is preparing the ﬁnancial statement of Marge Ltd for the year ended 31 May 20X9.
+   The accountant has identiﬁed the following transactions which may require to be included in the
+   statement of changes in equity:
+    (1) A bonus issue made in the year
+    (2) A bank loan for £100,000 received during the year
+    (3) Dividends paid to equity shareholders
+    Requirement
+    Which of the above transactions should be included in the statement of changes in equity?
+    A     1 only
+    B     1 and 3 only
+    C     2 and 3 only
+    D     1, 2 and 3
+                                                                                                    LO 3c
+
+
+
+
+14 Alabama Ltd has the following capital structure:
+
+                                                                                                   £’000
+     Redeemable 5% preference shares                                                                 100
+     Ordinary shares of £1                                                                           250
+     Irredeemable 6% preference shares                                                                50
+
+    It earned a proﬁt in the year ended 31 March 20X5 of £69,800 before accounting for any dividends
+    payable on its ordinary or preference shares. It paid a dividend of 12p per share in respect of its
+    ordinary shares.
+    Requirement
+    What is Alabama Ltd’s revised proﬁt for the year ended 31 March 20X5 after accounting for the
+    dividends payable?
+    A     £64,800
+
+
+
+    122    Accounting                                                                           ICAEW 2024
+B   £66,800
+C   £34,800
+D   £61,800
+                                                                                LO 2a
+
+
+
+
+ICAEW 2024    12: Company ﬁnancial statements under IFRS Accounting Standards     123

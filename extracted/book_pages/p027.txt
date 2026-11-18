@@ -1,0 +1,35 @@
+Capitalandrevenue items
+Section overview
+Capital income and expenditure mustbedistinguishedfrom revenue incomeand
+expenditure,
+5.1   Capitalandrevenue expenditure
+Definition
+Capitalexpenditure: Expenditure which results in the acquisition of non-current assets or an
+improvementorenhancementaf theirearningcapacity.
+Non-current assets are those which will be kept in the entity for more than one year.
+Capital expenditure is not chargedas an expense in the statement of profit or loss
+(although a depreciation charge will usually bemade to match the capital expenditure
+againstthe income that itgenerates overtheuseful life of the asset;depreciation expense
+isshown inthestatementofprofitorloss).
+Capitalexpenditureon non-currentassets ispresented in the statementoffinancial
+position.
+Definition
+Revenue expenditure:Expenditure which is incurred either:
+fortradepurposes.Thisincludes purchases ofrawmaterialsoritems forresale
+expenditureon wagesandsalaries,sellingand distributionexpenses,administrative
+expensesandfinancecosts;or
+to maintain the existing earning capacity of non-current assets.
+Revenue expenditure is chargedtothestatementof profit or loss ofa period,provided thatit
+relates to the trading activity and sales of thatparticularperiod.
+Context example:Revenue expenditure
+Iffabusiness buys10 steelbars forCU200 (CU20 each)andsells eightof themduringa
+reporting period, itwill havetwo steelbarsleft atthe end ofthe peniod.Thefull cU200 is
+revenue expenditurebutonly CU 160 is the costof thegoods sold during the period.The
+remaining CU4o(costoftwounits)willbe included inthestatementoffinancialpositionas
+InventoryvaluedatCU40.
+Contextexample:Capitalexpenditure
+AbusinesspurchasesabuildingforCU300000.Itthenadds an extensionto thebuildingata
+costofCU100,000.Afterafewmonthsthebuildingneedstohavea fewbrokenwindows
+mended,its floorspolishedand somemissingrooftiles replaced.These cleaningand
+maintenancejobscostCU900.
+18   Accounting   ICAB2026

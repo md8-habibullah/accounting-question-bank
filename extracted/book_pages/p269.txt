@@ -1,0 +1,35 @@
+Interactive question 2:Allowance forreceivables
+Shown below are the outanding trade receivables and the probability of non-payment of
+thasetradereceivables at theendofeach reportingperiod.
+Balanceontradereceivables   Probability of
+account   non-
+payment
+Yle28.2.20X6   15,200   2%
+Yle28.2.20X7   17.100   2%
+Y/e28.2.20X8   21,400   1%
+Requirement
+For each of the three reporting periods:
+(1) Calculate theamount oftheallowancefor receivables,
+(2) Calculatethe chargeorcredit required tothe statement of profit or loss.
+(3) Calculate the carmying amount oftrade receivablesthatshould bepresented in the
+statementoffinancial position.
+See Answer at the end of this chapter.
+4Adjustingthe initial trialbalancefor
+irrecoverable debtsandtheallowancefor
+receivables
+Sectionoverview
+The journal entry to write off an irrecoverable debt is:debitirrecoverable debts expense,
+credittradereceivables.The debit increases the statement of profit orloss expense;the
+creditreduces tradereceivables atthe end ofeachreporting period.
+The journal entryto set up or increase an allowanceforreceivables is:debit irecoverable
+debts expense,credit allowanceforreceivables,Thedebit increases the statementof
+profit orloss expense;the creditsets upthe allowanceto be set against tradereceivables   HAPTER
+inthestatementof financial position.
+Sofar,we have lookedathow irrecoverable debts and theallowanceforreceivables are
+calculated and accounted for in the ledgeraccounts,Becausedecisions about irrecoverable
+debts and allowances forreceivables areusually made and accounted forafterthe initial trial
+balance has been extracted, one way of recording the effectof the decisions is to adjust the
+initialtrial balanceusing the columnarapproachwemet inChapter5.
+Calculate the amount ofirrecoverable debts expense and the requiredallowancefor
+receivables.
+ICAB2026   Irrecoverabledebts andtheallowance forrecelvables   259

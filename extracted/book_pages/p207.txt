@@ -1,0 +1,35 @@
+Answers to Interactive questions
+AnswertoInteractivequestion1
+1.1
+Increase/Decrease/Nooffect
+Thebank hasmadea mistake in crediting the account with   Decrease
+CU110belonging to.another customer-an errornotyet
+rectified.
+CU120receivedbythebankunderastandingorder   No effect
+arrangementhasnotbeenenteredinthecashatbank   CHAPTER
+account
+AnelectronicpaymenttotallingCU5,629hasbeenmadeto   Decrease
+a supplierand entered inthe cashat bank accountbutis not
+yetpresented on.thebanktransactionreport.
+Cashreceipts fromcustomerstotallingCU5,577havebeen   Increase
+entered in the cashatbankaccountbuthave.not yetbeen
+credited in the bank statement.
+Thebank error has incorrectly increased (credited)thebank balanceandmust beadjusted.
+Thestanding orderpaymenthas been correctly recordedbythebankandnowmustalsobe
+reflected inthe cashatbank account.
+The electronic payrments havedecreased thecash atbank account but have not yet impacted
+onthebank statementand mustbeadjusted.
+Thecashreceived has increasedthe cash at bank account but has not yet impacted on the
+bank statement and must be adjusted.
+12
+CASHATBANKACCOUNT
+CU
+bd   106   226
+Standingorder   120
+226   226
+Bankreconciliation
+CU
+Balanceperbankstatement   388
+Payment which has not yet cleared thebank   (5,629)
+Receipts whichhavenotyet cleared thebank   5,577
+ICAB2026   Errorsand correctionsto accountingrecordsandfinancial statements   197

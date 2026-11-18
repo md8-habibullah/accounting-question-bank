@@ -1,0 +1,41 @@
+ofdnswnurch.miayachpmustchgtscusmrs0
+inoutputVAT,butneedonlypayovertoCommissioner,VATthenetamountofCU60aftr
+deducting theCU240 input VAT sufferedon its purchase from Aruba Ltd.
+7.3   Registered andnon-registeredtraders
+Traders whose sales(outputs)are below a certain level need notregisterforVAT althoughthey
+maydo so voluntarily.Unregistered traders neithercharge VATon theiroutputs norare entitled
+to reclaim VAT on theirinputs.Theyare in the sameposition as a final consumer.
+Alloutputs of registered traders are eithertaxable orexemptTraders carrying on exempt
+activities(such asbanks)cannot chargeVAT ontheiroutputs and consequentlycannotreclaim
+VATpaid ontheirinputs,
+Taxable outputs are chargeable at one of threerates:
+zerorate(on printed books andnewspapers forinstance)
+reducedrate(5%ondomesticfuel)
+standardrate:20%
+Commissioner VATidentifies supplies falling into each category.Persons carrying on taxable
+activities(evenactivities taxable at zero tate)areentitiedtoreclaimVATpaid ontheirinputs.In
+Accounting,the standard rate of VATis assumed.
+Businesses preparea VATreturnwhichis submitted to Commissioner,VATThe mostusual
+position istohaveto paythenetbalanceto Commissioner,VAT(whenoutput.taxexceeds
+inputtax)ie,theamountowedtoCommissionerVATisapayable
+Atraderwhomakes zero-rated supplieswill havepaid more inputtax than it has received
+outputtax,sowill recovercashfromCommissioner,VAT,ie,theamountduefrom
+Comnissioner,VATisareceivable.
+7.4   AccountingforVAT
+As a general principlethetreatmentof VAT in the trader's ledger accounts should reflect the
+trader's roleastaxcollector,so VATshould notbe included in income orin expenses,whether
+of a capital ora revenue nature.
+7.4.1   IrrecoverableVAT
+Wherethetradersuffers irrecoverable VAT asa cost,as inthefollowing cases, VAT should be
+includedas an.expense (itcannotbe claimed as inputtax).
+Traders not registeredforVAT will suffer VAT on inputs as a cost This will increasetheir
+Registered traderswho also carryon exempted activities maysuffer VAT on certain inputs
+This will increase the expensein respect of these inputs,
+Non-deductible inputs will beborneby all traders.
+VATon carspurchasedandused in thebusiness is notreclaimable (VATon a car
+acquirednewforresale,ie,bya cartrader,isreclaimable).
+VAT on business entertaining is not deductible as inputtax otherthan VAT on
+entertainingstaff.
+Where VATis not recoverable it mustberegarded as part of thecost ofthe items purchased
+and included Inthestatementofprofitorloss orstatementoffinancial positionas appropriale
+130   Accounting   ICAB2026

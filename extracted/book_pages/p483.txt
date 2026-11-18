@@ -1,0 +1,17 @@
+5Correctanswers):
+CU90.000
+PROPERTY(CARRYINGAMOUNT)
+CHAPTER
+Balanceb/d   110,000   Depreciation   30,000
+Additions   25,000   Disposals   15,000
+Balance c/d (bal. fig.)   90,000
+13
+135000   135,000
+Alternatively.the carrying amount can be calculated asfollows:
+CU
+Carrying amountb/d   110,000
+Depreciation   (30,000)
+Disposals(20,000-5,000)   (15.000)
+Additions   25,000
+Carryingamountcld   90000
+ICAB2026   Statementofcash flows   473

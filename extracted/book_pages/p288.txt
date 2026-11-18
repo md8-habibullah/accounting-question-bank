@@ -1,0 +1,38 @@
+Theprinciplebehind accrualsand
+prepayments
+Sectionoverview
+The accrual principlerequires that we record expenses in the period in which theyare
+incurredand match expenses withthe incomegeneratedbythem.
+We sometimes thereforeneed to carryforward expenditure paidto a subsequent period
+(aprepayment),oraccountforexpenditure incurredbeforeit is actuallypaidfor
+(anaccrual).
+Gross profit should becalculated bymatching revenueand costof sales.Netprofit should be
+calculated by charging the expenses which relateto that period.For example,in preparing
+thestatementof profitorloss fora six-manth period, it wouldbeappropriateto chargesix
+monthsexpenses incurredforrent,localpropertytaxes,insuranceandtelephonecosts,etc.
+However,expensesmaynotactuallybepaidforduringtheperiodtowhichtheyrelate.The
+accruals principlerequires that expenses are recognised inthe period inwhichtheyare
+incurred and arematched against revenue,regardless of whethertheyhave yet been paid
+for.
+Contextexample:Accrualprinciple
+Abusinesspays insurancerelatingtoits shopofCu20,o00perannumandpaysthefull
+annual insurance prermium on 1 April each year.If we calculate the profit of thebusiness for
+sixmonthsto30June20X7,thecorrectchargeforinsurance expenses inthestatementof
+profitorloss is CU10,000,even thoughtheinsurance premium paid isCU20,000 in that
+period.Similarly,the insurance charge in the statementof profitorlossforthe second six
+monthsof20X7is CU10,000,eventhoughno insurancepremiumis actuallypaid inthat
+period.
+Weuse the accrual principleto match expenses to the relevanttirne period.
+Definitions
+Accruals (accruedexpenses):Expenses whichare chargedagainstthe profitfora particular
+period, even thoughtheyhave not yet been paid for.
+Prepayments(prepaid expenses):Expenses whichhavebeenpaidinonereportingperiod
+butare notcharged against profituntil a laterperiod,because they relate to that laterperiod.
+Thefollowing examples clarifythe principleinvolved,thatexpenses shouldbematched
+against incomeintheperiod to which theyrelate.Accruals and prepayments are themeans
+bywhich we noveexpenses intothe correct reporting period.
+If wepayinthis periodforgoods/servicesthatrelatetothenextreportingperiod,weuse
+a prepayment to transferthat expenseforward to thenextperiod.
+If we have incurred an expense in this period which willnot be paid foruntil the next
+period, we use an accrual to bring the expenseback into this period.
+278   Accounting   ICAB2026

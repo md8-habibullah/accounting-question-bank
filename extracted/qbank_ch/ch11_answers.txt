@@ -1,0 +1,658 @@
+    Chapter 11: Company ﬁnancial statements
+1   Correct answer(s):
+    A     £5,000
+    20,000 × £0.25 = £5,000
+
+
+2   Correct answer(s):
+    A     1, 2 and 3
+    A current liability represents amounts to be settled by the entity in the next 12 months. All of the
+    options may be presented as current liabilities.
+
+
+3   Correct answer(s):
+    B     Share capital £210 million, Share premium £60 million
+                                                SHARE CAPITAL
+
+                                                   £m                                                      £m
+                                                          Bal b/d                                          100
+                                                          Share premium (bonus)                             50
+        Bal c/d                                    210    Cash at bank (rights)                             60
+                                                   210                                                     210
+
+                                               SHARE PREMIUM
+
+                                                   £m                                                      £m
+        Share capital (bonus)                       50    Bal b/d                                           80
+        Bal c/d                                     60    Cash at bank (rights)                             30
+                                                   110                                                     110
+
+
+
+4   Correct answer(s):
+    B     Debit Cash at bank £800,000, Credit Share capital £500,000, Credit Share premium £300,000
+    Share capital will be credited with the nominal value of the shares (1m × 50p) – the balance goes to
+    share premium (1m × 30p).
+
+
+5   Correct answer(s):
+    B     Debit Share capital £25,000, Credit Share premium £25,000
+    This is the transfer of the premium to the share premium.
+
+
+6   Correct answer(s):
+    C     Debit Share premium, Credit Share capital
+    A bonus issue does not involve cash but can be ﬁnanced from the share premium.
+
+
+
+
+    ICAEW 2024                                                         11: Company ﬁnancial statements      219
+7   Correct answer(s):
+    B     Equity share capital £105,000, Share premium £173,000
+
+                                                                                                       £
+    Equity shares at start of year                                                               50,000
+    Add bonus issue 50,000 × 50p                                                                 25,000
+    Add new issue 60,000 × 50p                                                                   30,000
+                                                                                                105,000
+
+
+    Share premium at start of year                                                              180,000
+    Less bonus issue 50,000 × 50p                                                               (25,000)
+    Add new issue 60,000 × 30p                                                                   18,000
+                                                                                                173,000
+
+
+
+8   Correct answer(s):
+    A     Debit Cash at bank £1,100,000, Credit Share capital £250,000, Credit Share premium £850,000
+
+                                                                                   £                   £
+    DEBIT                                                   Cash           1,100,000
+    CREDIT                                          Share capital                               250,000
+    CREDIT                                       Share premium                                  850,000
+
+
+
+9   Correct answer(s):
+    B     £30,000
+    200,000 shares × 15p = £30,000
+
+
+10 Correct answer(s):
+    D     Nil
+    IFRS 15, Revenue from Contracts with Customers allows revenue to be recognised when the seller
+    satisﬁes the performance obligations under the contract. Satisfaction of performance obligations,
+    and therefore revenue recognition, occurs when control of the toasters passes from Afua plc to the
+    customer. Control of the toasters does not pass until they are delivered to the customer, which does
+    not happen until after the year end.
+
+
+11 Correct answer(s):
+    B     Equity share capital £225,000, Share premium £250,000
+                                               SHARE CAPITAL
+
+                    Number                         £                   Number                         £
+
+                                                        Bal b/d        500,000                   125,000
+
+                                                        Cash at bank
+                                                           (1 for 2
+                                                           rights)     250,000                    62,500
+
+                                                                       750,000
+
+
+
+
+    220    Accounting                                                                         ICAEW 2024
+                      Number                       £                      Number                           £
+
+                                                           Share
+                                                              premium
+                                                              (1 for 5
+        Bal c/d       900,000                 225,000         bonus)      150,000                      37,500
+
+                      900,000                 225,000                     900,000                    225,000
+
+
+                                             SHARE PREMIUM
+
+                                                   £                                                       £
+        Share capital (1 for 5 bonus)         37,500       Bal b/d                                  100,000
+        Bal c/d                              250,000       Cash at bank (1 for 2 rights)            187,500
+                                             287,500                                                287,500
+
+
+
+12 Correct answer(s):
+    B     £275,000
+    B     £275,000
+    The total dividend paid during the year is £275,000.
+
+    WORKING
+
+                                                   £                                                       £
+        Dividends (bal ﬁg)                   275,000       b/fwd                                    900,000
+        c/fwd                              1,080,000       Proﬁt for the year                       455,000
+                                           1,355,000                                              1,355,000
+
+
+
+13 Correct answer(s):
+    D     Share capital £687,500, Share premium £400,000
+
+                                                 Share capital             Share capital     Share premium
+                                                         Number                        £                    £
+    1 Jul 20X4                                      1,000,000                   500,000             400,000
+    1 Jan 20X5 – 1 for 4 bonus issue
+       (250,000 × 50p)                                   250,000                125,000             (125,000)
+    1 Apr 20X5 – 1 for 10 rights issue                   125,000                 62,500             125,000
+                                                    1,375,000                   687,500             400,000
+
+
+
+14 Correct answer(s):
+    D     £115,000
+    200,000/5 = 40,000 shares.
+    Balance on share premium becomes £75,000 + (40,000 × £1) = £115,000
+
+
+15 Correct answer(s):
+    B     Share capital £6,000,000, Share premium £nil
+
+
+
+
+    ICAEW 2024                                                           11: Company ﬁnancial statements   221
+    Bowden Ltd is issuing (£10m/5 × 1) = 2,000,000 new shares of 50p each to its owners, in proportion
+    to their existing shareholdings. The double entry:
+
+    DEBIT                        Share premium (total balance of share premium)         £900,000
+    DEBIT                                         Retained earnings (remainder)         £100,000
+    CREDIT                                                           Share capital                 £1,000,000
+
+    This utilises the whole share premium leaving a balance of zero.
+
+
+16 Correct answer(s):
+    B      £120,000
+    You do not have to complete the share premium to answer this question but it is good practice in this
+    type of question to complete both.
+                                                     SHARE CAPITAL
+
+                       Number                           £                     Number                       £
+
+                                                             Bal b/d          300,000                  75,000
+
+                                                             Cash at bank
+                                                                (1 for 5
+                                                                rights)       60,000                   15,000
+
+                                                                              360,000
+
+                                                             Share
+                                                                premium
+                                                                (1 for 3
+        Bal c/d        480,000                     120,000      bonus)        120,000                  30,000
+
+                       480,000                     120,000                    480,000                 120,000
+
+
+                                                  SHARE PREMIUM
+
+                                                        £                                                  £
+        Share capital (1 for 3 bonus)              30,000    Bal b/d                                 200,000
+                                                             Cash at bank (1 for 5 rights
+        Bal c/d                                   227,000      60,000 × 95p)                          57,000
+
+                                                  257,000                                            257,000
+
+
+
+17 Correct answer(s):
+    D      £3,335
+                                                  INSURANCE COST
+
+                                                        £                                                  £
+        Prepayments                                   450    Prepayments                                 515
+        Cash at bank                                3,400    Bal c/d                                   3,335
+                                                    3,850                                              3,850
+
+                                                                                                            £
+    Opening prepayment                                                                                   450
+    Insurance cost for the year                                                                         3,400
+    Closing prepayment                                                                                   (515)
+
+
+
+
+    222      Accounting                                                                            ICAEW 2024
+                                                                                                       £
+    Expense in statement of proﬁt or loss                                                          3,335
+
+
+
+18 Correct answer(s):
+    C     £937,530
+
+    WORKING
+
+                                                   £                                                   £
+        Dividend paid                        312,000    b/fwd                                   926,450
+        Share capital                        125,000    Proﬁt for the year (bal ﬁg)             937,530
+        c/fwd                               1,426,980
+                                            1,863,980                                         1,863,980
+
+
+
+19 Correct answer(s):
+    C     Option 3
+    Option 1 is wrong because labour and construction costs of building a factory would be debited to
+    non-current assets cost. Option 2 is wrong because directors’ remuneration would be debited to the
+    expense account, option 4 is wrong because a mis-posting of discount from a supplier would be a
+    debit to trade payables not to trade receivables.
+
+
+20 Correct answer(s):
+    D     £73,750
+
+                                                                                                       £
+    July–September                                          1,000,000 × 8% × 3/12                 20,000
+    October–March                                               750,000 × 8% × 6/12               30,000
+    April–June                                                  750,000 × 8% × 3/12               15,000
+    April–June                                                  500,000 × 7% × 3/12                8,750
+                                                                                                  73,750
+
+
+
+21 Correct answer(s):
+    C     £27,700
+                                                INCOME TAX
+
+                                                   £                                                   £
+        b/d                                    3,200    Statement of proﬁt or loss (bal ﬁg)      27,700
+        c/d Income tax payable                24,500                                             –––––
+                                              27,700                                             27,700
+
+
+
+22 Correct answer(s):
+    B     £14,000
+
+
+
+    ICAEW 2024                                                       11: Company ﬁnancial statements   223
+                                                INCOME TAX
+
+                                                    £                                                      £
+        Cash at bank                          12,700     b/d                                      14,300
+        c/d Income tax payable                15,600     Statement of proﬁt or loss (bal ﬁg)      14,000
+                                              28,300                                              28,300
+
+
+
+23 Correct answer(s):
+    C     £3,000
+    The additional £3,000 warranty expense that was not provided for in 20X3 would be the amount
+    recognised in 20X4.
+
+
+24 Correct answer(s):
+    C     £130,715
+    This is calculated using a T account:
+                                            DISTRIBUTION COSTS
+
+                                                    £                                                      £
+        Cash at bank                         130,647     Accrual reversed                            586
+        Closing accrual                          654     Statement of proﬁt or loss (bal ﬁg)     130,715
+                                             131,301                                             131,301
+
+
+
+25 Correct answer(s):
+    C     £650,000
+    When a company makes a bonus issue it receives no monies from shareholders. Instead it issues
+    shares to existing shareholders at par value, crediting share capital and debiting share premium (if
+    there is insufﬁcient share premium then retained earnings may be debited).
+    Pigeon plc has 600,000 ordinary shares in issue prior to the bonus issue, because each share has a
+    50p par value. It therefore issues 200,000 (1/3 × 600,000) shares to shareholders, again with a par
+    value of 50p each. The journal to record this issue is:
+
+     Debit                              Share premium (200,000 × 50p)         £100,000
+     Credit                                               Share capital                         £100,000
+
+    The share premium is therefore reduced to £650,000.
+    SAMPLE EXAM
+
+
+
+
+26 Correct answer(s):
+    B     £1,241,704
+                                              TRADE PAYABLES
+
+                                                    £                                                      £
+        Cash at bank                        1,249,506    b/d                                     524,925
+
+
+
+
+    224     Accounting                                                                         ICAEW 2024
+                                                       £                                                     £
+        Trade receivables                         8,236     Purchases                              1,987,345
+        Purchases (discounts taken
+           unexpectedly)                         12,824
+        c/d (bal ﬁg)                          1,241,704                                             –––––––
+                                              2,512,270                                            2,512,270
+
+
+
+27 Correct answer(s):
+    B         £2,255
+    This is calculated using a T account:
+                                                   INCOME TAX
+
+                                                       £                                                     £
+        Cash at bank                              1,762     Brought down                               2,091
+        Carried down                              2,584     Statement of proﬁt or loss (bal ﬁg)        2,255
+                                                  4,346                                                4,346
+
+    SAMPLE EXAM
+
+
+28 Correct answer(s):
+    D         £2,790
+    This is calculated using a T account:
+                                                 FINANCE COSTS
+
+                                                       £                                                     £
+        Cash                                      2,733     Reverse opening accrual                         362
+        Closing accrual                             419     Statement of proﬁt or loss (bal ﬁg)        2,790
+                                                  3,152                                                3,152
+
+    SAMPLE EXAM
+
+
+29 Correct answer(s):
+    B         Share capital £750,000, Share premium £Nil, Retained earnings £813,442
+    We can assume unless told otherwise that share premium is used to the maximum possible extent
+    when a bonus issue is made.
+    1 November rights issue: Debit Cash £450,000, Credit Share capital £50,000 (400,000 × 50p × 0.25),
+    Credit Share premium £400,000
+    31 August bonus issue: Credit Share capital £500,000 (500,000 shares × 50p × 2), Debit Share
+    premium £420,000 (taking the balance down to zero), Debit Retained earnings £80,000.
+                                                   SHARE CAPITAL
+
+                       Number                          £                          Number                      £
+
+                                                            b/d (£200,000 /
+        c/d            1,500,000                  750,000       £0.50)            400,000             200,000
+
+                                                            Rights issue
+                                                               (400,000/4)        100,000               50,000
+
+
+
+
+    ICAEW 2024                                                            11: Company ﬁnancial statements    225
+                   Number                              £                          Number                       £
+
+                                                                                  500,000              250,000
+
+                                                           Bonus issue (500,000
+                            –––––––            ––––––         × 2)                1,000,000            500,000
+
+                   1,500,000                     750,000                          1,500,000            750,000
+
+
+                                                SHARE PREMIUM
+
+                                                      £                                                        £
+        Bonus issue                            420,000     b/d                                        20,000
+        c/d                                           0    Rights (100,000 × £4)                     400,000
+                                               420,000                                               420,000
+
+                                             RETAINED EARNINGS
+
+                                                      £                                                        £
+        Balance of bonus (500,000 –
+           420,000)                             80,000     b/d                                       793,442
+        c/d (bal ﬁg)                           813,442     Proﬁt for year                            100,000
+                                               893,442                                               893,442
+
+    The two most common mistakes with this kind of question are to take the number of shares as the
+    share capital balance as in A and D (ie, to treat all shares as £1 shares), and to fail to use the share
+    premium to the maximum for the debit entry for the bonus issue, as in C.
+
+
+30 Correct answer(s):
+    D     Debit Suspense £1,900,000, Debit Other receivables £800,000, Credit Share capital £150,000,
+          Credit Share premium £2,550,000
+    The initial entry resulted in a suspense account with a credit balance of £1.9 million. To eliminate the
+    suspense, account a debit entry of £1.9 million is required.
+    The rights issue is 1 for 4, so (3,000,000/4) = 750,000 × 20p shares are issued, giving a credit of
+    £150,000 in the share capital account. The share premium is therefore (3.60 – 0.20) = £3.40 per
+    share, which gives a credit to the share premium of 750,000 × £3.40 = £2,550,000.
+    The remainder of the journal is to record the amount unpaid on the shares ((750,000 × £3.60) –
+    £1,900,000) = £800,000 as an ‘other receivable’:
+
+
+
+
+     DEBIT                                            Suspense              £1,900,000
+     DEBIT                                   Other receivables                £800,000
+     CREDIT                                       Share capital                                     £150,000
+     CREDIT                                     Share premium                                     £2,550,000
+
+
+
+31 Correct answer(s):
+    A     £9,893
+    The cash and credit purchases occur during the year, so when we open the T account with these
+    ﬁgures we know there has been no opening journal reversing the accruals and prepayments as at the
+    end of the previous year. Instead of being told opening and closing accruals and prepayments you
+
+
+
+    226       Accounting                                                                           ICAEW 2024
+    are told the difference between them. You need to think carefully therefore about the side of the T
+    account on which the net difference should appear. Where there is a decrease in the accrual the net
+    effect is a credit in the expense account, while a decrease in a prepayment will be a net debit in the
+    expense account.
+                                                   PURCHASES
+
+                                                       £                                                   £
+        Trade payables                            9,801     Decrease in accruals                          75
+        Cash at bank                                107     Statement of proﬁt or loss (bal ﬁg)        9,893
+        Decrease in prepayments                       60                                               ––––
+                                                  9,968                                                9,968
+
+    Note that in option B the net differences are the wrong way round; option C ignores the cash
+    purchases, while option D ignores the effect of accruals and prepayments entirely.
+
+
+32 Correct answer(s):
+    A     All ﬁxtures and ﬁttings are transferred from non-current to current assets.
+    B     Fixtures and ﬁttings are valued at their resale value.
+    If a company is no longer a going concern, then the directors have concluded that it will not trade for
+    the foreseeable future (ie, less than 12 months) and so all non-current assets and liabilities are
+    transferred to current assets and current liabilities respectively (A).
+    All assets are valued at their resale or break-up value, which is the expected selling price in a forced
+    sale position (B). This is likely to be a substantially lower value than carrying amount for assets such as
+    ﬁxtures and ﬁttings acquired recently. An exception to this may arise in the case of properties, of
+    which Wombat plc has none.
+    Although not being a going concern means the directors believe the company is likely to cease
+    trading within 12 months, it does not necessarily mean that it will cease trading immediately (C), nor
+    that a liquidator will be appointed immediately (D).
+
+
+33 Correct answer(s):
+    C     £667,000
+    When a bonus issue is made you should assume that the share premium is used as far as possible,
+    with only the remainder being debited to retained earnings.
+
+
+
+
+                                                 SHARE CAPITAL
+
+                                                       £                                                   £
+        c/d                                     500,000     b/d                                     300,000
+                                                            Share premium                           150,000
+                                                ––––––      Retained earnings                         50,000
+                                                500,000                                             500,000
+
+                                                 SHARE PREMIUM
+
+                                                       £                                                   £
+        Share capital                           150,000     b/d (300,000 × £0.50)                   150,000
+
+
+
+
+    ICAEW 2024                                                          11: Company ﬁnancial statements    227
+                                                     £                                                     £
+                                              ––––––                                               ––––––
+                                              150,000                                              150,000
+
+                                            RETAINED EARNINGS
+
+                                                     £                                                     £
+        Share capital (200,000 – 150,000)      50,000     b/d                                      717,000
+        c/d                                   667,000                                              ––––––
+                                              717,000                                              717,000
+
+
+
+34 Correct answer(s):
+    C     Distribution costs
+    Delivery vehicle costs, including depreciation, are part of distribution costs (C) because they are part
+    of the cost of providing customers with the ﬁnal product. These costs are completely independent of
+    the original purchase cost of the product Albion plc manufactures.
+    Correct answer(s):
+    E     Cost of sales
+    Delivery inwards is part of the overall cost of bringing materials to their current condition and
+    location. As such they should be included in inventory costs, and thus cost of sales (A).
+
+
+35 Correct answer(s):
+    C     £137,100
+
+
+                                            INCOME TAX PAYABLE
+
+                                                     £                                                     £
+        Cash at bank                          123,090     b/d                                      114,520
+        c/d (bal ﬁg)                          137,100     Statement of proﬁt or loss               145,670
+                                              260,190                                              260,190
+
+
+
+
+36 Correct answer(s):
+    C     £248,600
+    The total interest charge for the year should be:
+    New debentures (£120,000 × 6% × 3/12) = £1,800
+    Original debentures (£400,000 × 6%) = £24,000 (= cash paid)
+    Therefore, the closing accrual should be £1,800, giving a total trade and other payables total of
+    (246,800 + 1,800) = £248,600.
+                                        TRADE AND OTHER PAYABLES
+
+                                                     £                                                     £
+        c/d                                   248,600     b/d                                      246,800
+                                              ––––––      Accrual                                       1,800
+
+
+
+
+    228       Accounting                                                                         ICAEW 2024
+                                                    £                                                   £
+                                             248,600                                             248,600
+
+                                                 INTEREST
+
+                                                    £                                                   £
+        Cash at bank                          24,000      b/d                                           0
+                                                          Statement of proﬁt or loss
+        Accrual (trade and other                             (400,000 × 0.06) + (120,000 ×
+          payables)                            1,800         0.06 × 3/12)                         25,800
+
+                                              25,800                                              25,800
+
+
+
+37 Correct answer(s):
+    D     £852,500
+                                             SHARE PREMIUM
+
+                                                    £                                                   £
+        Bonus issue (400,000/4 × 0.10)        10,000      b/d (400,000 × (2.20 – 0.10))          840,000
+                                                          Preference shares (45,000 ×
+                                                             (1.50 – 1.00))                       22,500
+        Bal c/d                              852,500                                            –––––––
+                                             862,500                                             862,500
+
+
+
+38 Correct answer(s):
+    B     £167,000
+    The total dividend paid during the year is £167,000
+
+
+                                           RETAINED EARNINGS
+
+                                                    £                                                   £
+        Dividends (bal ﬁg)                   167,000
+        Bonus issue                           65,000      b/fwd                                1,055,000
+        c/fwd                              1,210,000      Proﬁt for the year                     387,000
+                                           1,442,000                                           1,442,000
+
+
+
+39 Correct answer(s):
+    A     £12,000
+    The total dividend paid during the year is £12,000. The bonus issue was fully paid out of share
+    premium so does not affect the dividend calculation.
+                                           RETAINED EARNINGS
+
+                                                    £                                                   £
+        Dividends (bal ﬁg)                    12,000      b/fwd                                  267,000
+
+
+
+
+    ICAEW 2024                                                        11: Company ﬁnancial statements   229
+                                                   £                                         £
+        c/fwd                               299,000       Proﬁt for the year            44,000
+                                            311,000                                    311,000
+
+
+
+40 Correct answer(s):
+    B     £65,000
+    The total dividend paid during the year is £65,000.
+                                           RETAINED EARNINGS
+
+                                                   £                                         £
+        Dividends (bal ﬁg)                    65,000      b/d                          676,000
+        Bonus issue (150,000 – 80,000)        70,000      Proﬁt for the year           213,000
+        c/d                                 754,000
+                                            889,000                                    889,000
+
+
+
+41 Correct answer(s):
+    C     £19,000 charge
+                                          WARRANTY PROVISION
+
+                                                   £                                         £
+        Cash at bank                          25,000      b/d                           64,000
+        c/d                                   58,000      Warranty expense (bal ﬁg)     19,000
+                                              83,000                                    83,000
+
+
+
+
+    230       Accounting                                                              ICAEW 2024

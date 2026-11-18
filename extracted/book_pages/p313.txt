@@ -1,0 +1,38 @@
+The Umbrella Shop
+Statementof financial positionasat30 September20X8
+CHAPTER
+ASSETS
+Non-current assets   200,000
+Currentassets
+nventory(W1)   13.000
+Tradereceivables   54,000
+Prepayments(W4)   1,500
+Cashatbankandinhand(12,000+2.000)   14,000
+82.500
+Total assets   282.500
+CAPITALANDLIABILITIES
+Owner's capital
+Balancebroughtforward   180.000
+Profitfortheyear   59.500
+239,500
+Current liabilities
+Tradepayables   40.000
+Accruals (W3)   3.000
+43.000
+Total capitaland liabilities   282.500
+WORKINGS
+(1)Closing inventory
+AsthefigureofCU13,000isafterwritingoffdamagedgoods,nofurtheradjustmentsare
+necessary.Rememberthatyouare crediting closing inventoryto the statementof profit or
+loss andthecorrespondingdebit istothestatementoffinancial position.
+(2)Administrativeexpenses
+CU
+Pertrial balance   15,000
+Addaccrual (W3)   3,000
+Lessprepayment (W4)   (1,500)
+16,500
+(3) Accrual
+CU
+Softwarecostsforyear'to30June 20x9   12,000
+Accrualforperiodto30September20X8(3/12*CU12.000)   3.000
+ICAB2026   Accruals and prepayments   303

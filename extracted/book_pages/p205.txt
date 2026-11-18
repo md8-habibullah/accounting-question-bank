@@ -1,0 +1,42 @@
+6Harps has a cashatbankaccountbalanceof CU380crediton23July20x7.Harpsextracts
+atransaction reportfrom the electronicbanking system that day which shows bank interest
+ofCU34wascreditedtotheaccount,adirectdebitforCU240inrespectoftelephone
+expenses was withdrawn anda paymentforCUso,which has alreadybeenrecorded inthe
+nominal ledgeraccounts,clearedthebank.What is theadjusted cashatbank account
+balanceaftertakingaccount.ofthesetransactions?
+ACU174credit
+CU586credit
+CCU636credit
+CU124credit
+7At31 January20x8,Randall'scashatbankaccountbalanceforitscurrentaccountshowed
+a credit balance of CU150 which did notagreewiththebank statementbalance.n
+performing thereconciliation thefollowing points cometo light.
+CU
+Notrecorded inthecashatbank account   CHAPTER
+Bank charges   36
+Transferfrom savingsaccountto.currentaccount   500
+Notrecorded onthe bank statement
+Payments whichhavenotyetclearedthebank   116
+Receipts which havenot yetcleared thebank   630
+Itwasalso discoveredthatthebankhad debited Randall's account with CU4oo in error.
+This should have been debited to Hopkirk's account.
+Requirement
+What was the original balanceon thebank statement?
+ACU200DR
+BCU428DR
+CCU600DR
+DCU1,600CR
+8Abankreconciliation forWorth Ltdat31December20Y1is in course ofpreparation.Inthe
+lightoftheinformationgivenbelow,computethefinal balanceshownbythecashatbank
+account.
+(1)Overdrawnbalanceperbankstatement isCU1,019.
+(2)An amountof CU250creditedinthebank statementunderastandingorder
+arrangement hasnotbeen entered inthe cashatbank account.
+(3) Payments toa suppliermadebydebit cardentered inthe cashatbank accountbutnot
+yet included in thebank statementtotal CU2,467.
+(4)Bank chargesofCU1,875 debitedby thebank have notbeenentered in thecashat
+bankaccount.
+(5) Cash receivedand enteredin theaccounting recordsbut notcredited inthebank
+statementtotalCU4,986.
+(6) Anuncorrected bank error has resulted in CU397 debited to Worth's account in error.
+ICAB2026   Errors andcorrectionstoaccountingrecords and financial statements   195

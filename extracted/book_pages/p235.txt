@@ -1,0 +1,36 @@
+Countinginventories
+Sectionoverview
+The inventory countestablishes quantities held in inventoryattheend ofthe'reporting
+period.
+Businesstrading isa continuousactivity,butfinancialstatementsmustbedrawnupata
+particulardate.Inpreparingastatementoffinanicialpositionitisnecessarytofreeze'the
+activityofabusinesssoastodetermineits assets,capitaland liabilitiesatthatgivenmoment
+This includes establishing thequantities of inventories held
+Inverysmallbusinesses,whenabusinessholdseasilycountedandrelativelysmallamountsf
+invenoryquantitiesfinventoriesheldatthedateofthestatementffinancialpositioncan
+be determinedby physicallycountingthem in an inventorycount.
+It ismorelikelyhowever,thatabusinsswillholdconsiderablequantitiesofvaried inventoy
+andwill use its computerised accounting system.tomaintain continuous inventory records.
+Thismeansthattheaccountingsystemkeepsarecordforeachlineofinventoryitem,showing
+purchases and issues from the stores,and a running total.A few inventory lineitems are
+counted eachdayto make sure the records are correct-this is called a continuous'count
+because it isspreadoutoverthereportingperiodratherthan completed in onecountata
+designated time.
+Oncethe quantityof inventories is determined thena policyisrequiredforvaluingthe
+inventory.
+Valuinginventories
+CHAPTER
+Sectionoverview
+Inventoryis valuedatthelowerof (historical)costofpurchase,andnetrealisablevalue
+(NRV).
+NRVistheexpectedsellingpricelessanycoststobeincurred inachievingthatsale.
+Costcomprises:purchaseprice,delivery.importtaxesandduties,andconversioncostso
+bringthe itemto its presentlocationand condition.
+6.1   Basicvaluation:lowerofcostand NRV
+Inventory is normally valued at itshistorical cost (thecostat whichtheinventory was originally
+bought),
+The onlytime when (historical)cost isnot used is when costneeds tobereducedto net
+realisablevalue(the expectedsellingprice,less arycosts stlltobe incurred ingetting the
+inventoryreadyfor saleand in making thesale)In accordance withIAs2,inventoryshouldbe
+valued atthe lowerof costandnetrealisablevalue.
+ICAB2026   Costof salesand inventories   225

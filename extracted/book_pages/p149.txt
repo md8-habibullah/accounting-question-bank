@@ -1,0 +1,28 @@
+BANK LOAN
+CU   CU
+Cash at bank   1,000
+PURCHASES
+CU
+Trade payables   5,000
+TRADEPAYABLES
+CU   CU
+Cashatbank (H)   5,000   Purchases (C)   5,000
+RENT
+CU
+Cashatbank
+3,500
+SHOPFITTINGS
+CU   CU
+Cashat bank (E)   2,000
+SALES
+CU   CU
+Cash at bank (F)   10,000
+Trade receivables (G)   2.500
+TRADERECEIVABLES
+CU   CU
+Sales (G)   2,500   Cashat bank (m)   2,500
+BANKLOANINTEREST
+CHAPTER
+CU
+Cash at bank   100
+ICAB2026   Ledgeraccounting and doubleentry   139

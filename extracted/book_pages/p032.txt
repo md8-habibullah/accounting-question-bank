@@ -1,0 +1,47 @@
+7.1.2   Purposeof financialstatements
+Theobjectivesoffinancial statementsare:
+toprovideinformationaboutthefinancialposition,performanceandcashflows ofan
+entitythat isuseful to a wide range ofusers inmaking economic decisions;
+to show.theresultofmanagement's stewardshipoftheresources entrustedto it;and   CHAPTER
+to assist users inpredicting the entity'sfuturecashflows and,inparticular,theirtiming
+andcertainty.
+Tofulfil these objectives,financial statements mustprovide information abouttheentity's:
+assets
+liabilities
+equity
+incomeandexpenses (includinggainsandlosses)
+other changes in equity
+cashflows
+Note:As defined in Chapter2,assets, liabilities and equityare called theelements offinancial
+statements.
+Acomplete setoffinancial statements includes:
+statementof financial position
+statement.ofprofitorloss andothercomprehensiveincome (whichmaybea single
+statementora separate statement of profit orloss and statement of othercomprehensive
+income)
+accountingpoliciesnote
+statementofcashflows
+statement of.changes in equity
+explanatorynotes
+a furtherstatementoffinancial position from an earlier period wherethere has been
+retrospectiveapplicationofan accounting policya.reclassificationoraretrospective
+restatement-issues thatwe shall comebackto in Chapter 11.
+Preparation of thefinancial statements is the responsibilityof theboard of directors.IAs 1also
+recognises the value of a financial review by management and the production ofany other
+reports and statements which may aid users,butthesefall outsidethe Accounting syllabus
+scope.
+7.1.3   Fairpresentationand compliancewith IFRSAccounting Standards
+Most importantly.financialstatementsshouldpresentfairlythefinancialposition,financial
+performanceandcashflowsofan entity.Applying IFRSAccounting Standards is presumedto
+resultinfairpresentation.(lAS1:para.15)
+Definition
+Fair presentation:The faithfulrepresentation ofthe effects oftransactions,other events and
+conditionisinaccordancewiththe Conceptual Framework.
+Thefollowingpoints madebyIAs1expand onthis principle.
+Compliance withIFRS Accounting Standards should beexplicitlystated in a notetothe
+financial statements.
+All relevant FRS Accounting Standardsmustbefollowed if compliancewithIFRS
+Accounting Standards is disclosed.
+Use ofan inappropriate accountingtreatment cannotbe rectified eitherbydisclosure of
+accountingpolicies ornotes/explanatorymaterial.
+ICAB2026   Introduction.toaccounting   23

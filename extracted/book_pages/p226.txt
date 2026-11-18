@@ -1,0 +1,32 @@
+Solution
+(1)
+(2)
+CU   CU   CU   CU
+Revenue   150,000   150.000
+Opening inventory   15,000   15,000
+Purchases   98,000   98.000
+Delivery inwards   150   150
+Inventory stolen   (18,000)   (18,000)
+Closing inventory   (200)   (200)
+Cost ofsales   (94,950)   (94.950)
+Grossprofit   55.050   55.050
+Otherincome(18,000×75%)   13,500   N/A
+Cost ofgoodsstolen   (18.000)   (18.000)
+Distribution costs (deliveryoutwards)   (2.400)   (2,400)
+Net profit   48,150   34,650
+Interactivequestion3:Insurance claim
+InventorythatcostWasa Ltd C64,500wasdestroyed inafire.The inventorywas insuredfor
+60%of itscostWasa Ltdmadeaclaimon its insurancepolicyandtheinsurancecompany
+agreed to settle the claim.No amounts were received fromthe insurance companybefore the
+year end.
+Requirement
+Preparea jourmal entrytoaccountforthis in Wasa Ltd's accountingrecords.SeeAnsweratthe
+endofthischapter.
+Accountingforopening and closing
+inventories
+Section overview
+In eachreportingperiod,openinginventoryis included incostof sales,whichisan
+expense inthe statementof profitorloss:
+DEBIT   Costofsales
+CREDIT   Inventoryaccount(statementoffinancialposition)
+216   Accounting   ICAB2026

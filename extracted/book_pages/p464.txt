@@ -1,0 +1,32 @@
+SHARECAPITALANDPREMIUM
+Balanceb/d
+Bonus sharesissued(from
+retainedearnings)
+Balance c/d   Cashreceipt (balancing figure)
+Recall thata company maymake a bonus issueofshares from its retained earnings or share
+premium accounts (orboth),Rememberthat in.abonus issue,thenew sharecapital is created
+bymeans of reducingthe reserve accountratherthanbya cashissue.If thebonus issue is
+madefrom retainedearnings,the amountofthe bonus issue must be reflected.No adjustment
+isneededinrespectofbonusissuesmadefromsharepremium.
+Workedexample:Cashreceivedfromshareissue
+Rustlerplc'sannual accounts fortheyearto31December20x7 showthefollowing figures.
+At31.12.X7   At31.12.X6
+CU   CU
+Sharecapital:Ordinarysharesof50p   6.750.000   5,400.000
+Sharepremium   12,800,000   7,300000
+There were no bonus issues of shares during the year.
+Requirement
+Calculate theamountof cash that wasraised from the issue of shares during the year,
+Solution
+SHARECAPITALANDPREMIUM
+CU
+Balanceb/d(5,400,000+
+7300,000)   12,700,000
+Balancec/d(6,750,000+
+12,800,000)   19.550.0QQ   Cashreceipt (balancingfigure)   6.850.000
+19,550,000   19,550,000
+Alternatively,the cashreceivedcould havebeen calculated asfollows:
+Balanceb/d5.400.000+7.300.000   12.700,000
+Cash received (balancing figure)   6.850.000
+Balancecd6.750.000+12,800,000   19.550.000
+454   Accounting   ICAB2026

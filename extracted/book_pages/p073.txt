@@ -1,0 +1,41 @@
+The shares will later be sold when the business needs the cash. If sharepricesrise in the
+meantime,thebusinesswill makea profitfrom its short-term investment Suchshares must
+be readilyrealisable (ie,easyto sell)to be shortterm.
+Prepayments.These are amounts of money paid bythe business in one reporting period
+forbenefits whichhave notyet been enjoyed, butwhich will be enjoyed within the next
+reportingperiod.Forexample,abusiness pays an annual insurancepremiumofCU240,
+andthepremium is payableannuallyinadvanceat1December.Ifthebusinesshasan
+accountingyearendof31December,itwill payCU240at1Decemberbutonlyenjoyone
+month'sinsurancecoverbytheyearend.Theremaining 11monthscover(CU220 cost,at
+CU20permonth)will beenjoyed in thenextyear.The prepaymentofCU220 is shown in
+thestatementoffinancialposition,at31Decembet,asacurrentasset.
+4.2.47   Tradeandotherreceivables
+Areceivable can beduefrom anyentitythatowesthebusiness money.Forexample,ifa
+business makes an insurance claim,the insurance companyis a receivableforthemoney
+payableon the claim.If thebusinessmakes loans tostaff tobuyrail seasontickets,staffare
+receivablesfortheamount.outstanding.
+Adistinction canbemadebetween twotypes ofreceivables.   CHAPTER
+Tradereceivablesrepresentcustomerswhoowemoneyforgoods orservices boughton
+credit in the course of the trading activities of the business.
+Otherreceivablesaredue fromanyone else owingmoneyto thebusiness, suchas an
+insurancecompany,NBRforVAT,oremployeesforseason ticketloans.
+4.3   Capital (soletrader)
+The soletrader's capital is usuallyanalysed into its component parts.
+Capitalatthebeginningofthereportingperiod(ie,capital broughtforward)
+Add additional capital introduced duringtheperiod
+Addprofiteamedduringtheperiod (orlesslosses incurred intheperiod)
+Less.drawings
+Retained profit for the period
+Capitalasattheendofthe'reporting period (ie,capital caried forward)
+'Broughtforward'means that the amount is broughtforward from the previous period.
+Similarly,'carriedforward'means carried forwardto thenextperiod.The carriedforward
+amountatthe endofoneperiod is thereforethebrought forward amount ofthenext period.
+4.3.1   Equity(company)
+Thecapital orequity sideofa company'sstatementoffinancial position is morecomplicated
+than a sole trader s.We shall look at it in detail in Chapter11.
+4.4   Liabilities
+A distinction is required by IAs 1 in the statementoffinancial position between non-current
+liabilitiesandcurrentliabilities.
+Current liabilities are debts which arepayable within oneyear.
+Non-current liabilities are debts which are payable after one year.
+ICAB2026   The accounting equation   63

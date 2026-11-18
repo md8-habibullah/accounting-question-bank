@@ -1,0 +1,35 @@
+10 Correctanswer(s):
+DCU16,000
+Draft profit   15,800
+Addback:drawingsatcostCU280×100/140   200
+16,000
+11Correctanswer(s);
+ACU7.368
+Cost   NRVSPX   Lowerof costandNRV
+96%
+Shakespeare   2,280   2,784   2,280
+Armstrong-Siddeley   4,080   3,840   3,840
+Bunion   1,280   1,248   1248
+Z368
+12.Correctanswer(s):
+A Roomrentalcosts
+CClientreferralfeepaidtoreceptionist
+DMaterialscostsincurred
+The referral fee and material costs are incremental costs associated with providing tattoos to
+clients and should therefore be included in cost of sales.
+The costof room rental and the receptionist's salaryare not incremental costs and should not   CHAPTER
+be included.As Jo is a sole trader,their salary is in fact drawings and is thereforenot included
+asanexpenseofthebusiness.
+13 Cost of closing inventory
+FIFObasis CU   550
+AVCObasisCU   504
+At31October20X2Jackhas100+650-600=150litresininventory
+Firstinfirstoutmethod (FIFO)
+Quantity in inventory   Acquisitiondate   Cost per   Closing
+litre   inventory
+value
+(litres)   CU   CU
+100   28October   3.50   350
+50   21October   4.00   200
+150   550
+ICAB2026   Cost of sales and inventories   243

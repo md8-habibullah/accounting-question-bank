@@ -1,0 +1,46 @@
+2.4   Service organisations
+Sofarwehaveconsidredcostofsalesforbusinessesthatsellproductstocustomrs,and
+therefore haveto make adjustments for opening and closing inventories when calculating cost
+ofsales.Manybusinesses,suchasprofessionalservicesfirmsorprovidersofdataanalytics
+services,providetheircustomers (ormoreaccurately clients)with servicesrather than products
+and.thereforeneedto
+calculate their costof sales differently.Cost of salesfora service organisation typically
+includes thefollowing:
+Direct labourcosts-this is the costofany labourservices directlyrelated to the service
+provided.lf,forexample,agraphicdesign companyhasbeencommissionedto create
+newbrandingfora business'ssocialmedia pages,thelabourcostofthedesignerwould
+be included,butthelabourcostofthepayroll managerof thegraphicdesign company
+would not be included.
+Sales commission-ifa business pays itsemployees a commission orbonusrelatedto
+securing work,the costof thecommission paid shouldbe included in costof sales.
+Materials used-some service organisations will have some materials costs despite being
+serviceproviders,Forexample,thegraphicdesign companyreferencedabovemight incur
+printing costs in producing hard copies ofthenewbrandingorlogosforpresentationtothe
+client.
+Worked example:Service-related costof sales
+Skills Ltdprovidesworkplacetrainingfortheemployees ofbusinesses operating in the
+hospitalitysector.Skills Ltd operates froma singleofficelocation onwhichmonthly rental
+delivertraining.Skills Ltd has areceptionist andanumberof sales agentswhoareeach paid
+anannual salary.Thesalesagents arepaidcommissionforeverynew contracttheysecure,
+Skills Ld usesfreelance experts whoare paidaflatrate perdayto designand runthetraining
+courses requiredby its clients.Someclients requestthatahard copyoflearningmaterials is
+printed by Skills Ltd and delivered to them in advance of the course.
+Requirement
+Explainwhetherthe costs incurred by Skills Ltd can be included in its costof sales.
+Solution
+Cost   Inciuded incostof sales?   Explanation
+Officerental   No   The office rental costs are not
+directcosts incurredin
+providing the service as the
+office is notusedto provide
+training.
+Receptionist staff salary   No   Thereceptionist'ssalaryisnota
+directlabourcostincurredin
+providing the servlce as the
+salaryispaidregardless of
+whetherthe service is
+undertaken,
+Sales agent salaries   No   Thesalesagentsalariesarenot
+directlabourcostsincurredin
+providing the service.
+212   Accounting   ICAB2026

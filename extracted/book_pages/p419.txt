@@ -1,0 +1,33 @@
+2The statement of financial position (IAS 1)
+Section overview
+Thestatementoffinancial position issplitbetweentotalassets andtotalequityplus
+liabilties.
+Both assets and liabilities mustshowthe current/non-current split.
+TheIAs1format statementoffinancial position is as follows:
+Ducatple
+Statementof financial position asat31December20X3
+CU   CU
+ASSETS
+Non-currentassets
+Property.plantandequipment   400.000
+Right-of-use asset   27.000
+Goodwill   15,000
+Other intangibleassets   110.000
+552.000
+Current assets
+Inventories   51,000
+Tradeandotherreceivables   102,000
+Othercurrentassets(eg,prepayments)   20,000
+Cashandcashequivalents   33,000
+206.000
+Total assets   Z58.000
+CU   CU
+EQUITYANDLIABILITIES
+Equity
+CHAPTER
+Sharecapital:CU1equity shares   150,000
+Share capital:10% CU1irredeemablepreference shares   20,000
+Shareprermium   125.000
+Retainedearnings   161,000
+Otherreserves   65000   12
+ICAB2026   Companyfinancial statements under IFRSAccounting Standards   409

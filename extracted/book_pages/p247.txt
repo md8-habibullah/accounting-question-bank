@@ -1,0 +1,42 @@
+ACU2.700
+BCU2.325
+CCU2300
+DCU2,100
+9Breconmanufactures cosmetics andtoiletries. It hasdecidedtorepackage its bodylotion
+product in'new covers and discount the selling price.
+Thedetails ofbodylotionareasfollows:
+Per item
+Cost of manufacture   CU2.50
+Repackaging costto be incturred   CU0.75
+Selling price   CU3.00
+Discountonsellingprice1   0%
+Requirement
+At whatamount'should each item of bodylotion beincluded in inventory?
+ACU3.00
+BCU2.70
+CCU225
+D CU1.95
+10 During thereportingperiodMorgantookitems witha sellingpriceof CU280 fortheirown
+use.Morgantradesata 40%mark-upand hadadraft profit ofCU15,800beforemaking
+anyadjustments forthis matter.Theadjusted profit is:
+CU15.520
+CU15,800
+CCU15.600
+DCU16.000   CHAPTER
+11ReaditCo isabook wholesaler.Commission of4%on selling ptice is payabie by ReaditCo
+foreachsale.
+Thefollowing information is available in respectoftotal inventoryofthreeofhismost
+popular titlesat the end of his reportingperiod.
+Cost   Selling Price
+CU   CU
+HenryVll-Shakespeare   2,280   2.900
+Dissuasion-Jane Armstrong-Siddeley   4.080   4,000
+Pilgrim'sPainfulProgress-JohnBunion   1.280   1,300
+Requirement
+What isthe total carrying amount of these inventories in Readit Co's statement offinancial
+position?
+ACU7368
+BCU7,400
+CCU7.560
+D.CU7.640
+ICAB2026   Cost of sales and inventories   237

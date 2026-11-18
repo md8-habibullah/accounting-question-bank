@@ -1,0 +1,36 @@
+Thebalances ontheaccountsrepresentingassets,capitaland liabilities ofthebusiness (not
+income and expenses)arecarried down intheaccounting records ofthebusiness attheend
+of the currentreporting period.They then become opening balances broughtdownforthe
+nextreportingperiod.
+Thedrawings aretransferredtothecapital account,and theprofitorlossfromthestatementof   CHAPTER
+profitor loss is also included in the capital account.This is so thatthe closing balance onthe
+capital account at the end ofone period is carried down to become the opening balanceat the
+startofthenextaccountingperiod.
+CAPITAL
+CU   CU
+Drawings   1,500   Cashat bank alc   7,000
+Profit(fromstatementof
+Balance dd   7,500   profitorloss)   2,000
+9,000   9,000
+Balance b/d   7.500
+Ryderthereforebegins thenewreporting periodwitha creditbalancebroughtdown of
+CU7,500onthecapitalaccount.
+Notethat:
+Adebitbalancebroughtdown denotesanasset.
+Acreditbalancebroughtdown denotesa liability
+This principle is llustrated by Ryder's bank loan account:
+BANKLOANACCOUNT
+CU   CU
+Balance(c/d)   1,000   Cashatbank   1,000
+1,000   1,000
+Balance (b/d)   1,000
+Ryderthereforebegins the new reporting period witha credit balance broughtdown of
+CU1,000ontheloanaccount.
+Interactivequestion1:Statementoffinancialposition
+Prepare Ryder's statement of financial position.See Answerat the end of this chapter.
+Preparing basicfinancial statements
+Sectionoverview
+Topreparethestatementofprofitorlossand statementof financial positiontogether,you
+needtomethodicallyfollowthe steps involved:
+calculatebalancesonallnominal ledgeraccounts
+ICAB2026   Preparingbasicfinancial statements   155

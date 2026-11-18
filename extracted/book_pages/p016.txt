@@ -1,0 +1,43 @@
+Thepurpose of accounting information
+Section overview   CHAPTER
+Accounting isa wayofrecording,analysing and summarising thetransactionsofan entity.
+Thethree maintypes ofbusiness entityare sole traders,partnerships and companies.
+Stakeholders who need financial information include:managers,owners, customers,
+suppliers, lenders,employees,trade unions,Tax and VAT authority.financial analysts and
+advisers,governmentagencies and thepublic.
+Existing andpotential investors,lenders and othercreditors arethe primary users of
+generalpurposefinancialstatements.
+Theprimaryusers offinancial statements usethefinancial informationofa companytomake
+decisions about providing resources to the entity and to assess managers'stewardship of
+thecompany'seconomicresources,
+1.1   Whatisaccounting?
+Accounting is a way ofrecording,analysingand summarising thetransactions ofan entity(a
+termweshalluseto describeanybusiness organisation).
+We willassume that entities use computerised accounting systems to record,process and
+summarise theirtransactions.
+Computerised accounting systems andtherecording oftransactions are covered in
+Chapter3.
+Theaggregation and analysis of transactions in theaccounting system is covered in
+Chapter 4.
+Finally.thesummaryofthetransactions inthefinancial statements is covered inChapter5.
+Oneofthe roles of an accountantisto measure therevenue and expenditure ofan entityand,
+ifit is abusiness, its profitThis is not as straightforward as itmay seem and in laterchapters,
+we will lookat sometheoretical and practical difficulties.
+1.2   Types ofbusiness entity
+There are three main types of profit-focused business entity:
+Soletraders
+Partnerships
+Limited liability companies
+Soletraders are people who workforthemselves.Examples includea local shopkeeper,
+plumberorhairdresser.Theterm soletraderreferstothe ownershipof thebusiness;sole
+traders can have employees.
+Partnerships occur when two ormare peopledecideto share the risks andrewards ofa
+businesstogether.Examples includeanaccountancy,medicalorlegalpractice.Apartnership
+cantake one of two forms:ageneral partnership (like two or more sole traders)ora Limited
+Liability Partnership LLP (more like a company).Partnerships are not considered further in
+Accounting.
+Limited liability companies are incorporatedtotakeadvantageof limited liabilityfortheir
+owners (shareholders).This means that,while soletraders(always)and partners (usually)are
+personally responsible for the amounts owed bytheir businesses, the owners (shareholders)of
+a limited liability companyare onlyresponsible for the amounttobe paid fortheir shares.
+ICAB2026   introductiontoaccounting

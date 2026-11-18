@@ -1,0 +1,28 @@
+Requirements
+3.1Calculate the charge forphotocopying expenses forthe yearto 31August20X4and the
+amountofprepaymentsand/oraccrued chargesasatthatdate.
+3.2 Calculate the chargeforphotocopying expenses for thefollowing yearto 31 August
+HAPTER
+20x5,andtheamountofprepaymentsand/oraccrued chargesas atthatdate.
+SeeAnswerattheendofthis chapter.
+Contextexample:Accruals3
+Morgan opens anonline shopon1May2oX6tosell campingequipment.Morganenters into
+an agreementwithalogistics companywhichwill delivergoodsto customers atafixedcost
+ofCU12000perannumpayablequarterlyinarrears(with.thefirstpayment.on31.July20X6).
+Morgan's reportingperiod ends on31Decembereachyear:
+Thedistributioncosts ledgeraccountasat31December20X6will recordonlytwofixed
+payments (on 31 Julyand 31October)and therewill betwomonthsaccrued distribution
+costsforNovemberandDecember20X6(CU2,000),sincethenextfixedpaymentisnotdue
+until31January20X7.
+The charge to thestatementof profitor lossforthe period to 31December20X6willbefor
+eightmonthisrent (May-Decernberinclusive).CU8,000.
+So far, the rent account appears as followst
+DISTRIBUTIONCOSTSACCOUNT
+20X6   20X6
+31JulyCashatbank   3,000
+31DecStatement.of
+31OctCashatbank   3.000   profit.orioss   8,000
+To completethe picture, the accrual of CU2,ooo has to beput in,tobring the balance on the
+account up to thefull charge forthe year.At the beginning of the next year the accrual is
+reversed.
+ICAB2026   Accrualsandprepayments   287

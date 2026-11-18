@@ -1,0 +1,44 @@
+Themain sourcesofaccountingregulationsforcompaniesare:
+accountingstandards (IFRSAccountingStandards);and
+legislation,inparticulartheCompaniesAct1994.
+In this Workbook we have already coveredmost of what you need toknowat this stage of your
+studiesregardingthecontent,conceptsand presentationoffinancial statements prepared
+underIFRSAccounting Standards.Wenowneedtodraw itall together intothelAS1,
+Presentationof Financial Statements formats forthestatementofprofit orlossand statement
+offinancialposition and IAS 8,AccountingPolicies,Changes inAccountingEstimates and
+Eors.
+10.1   Why does lAS 1 includeformats?
+tAS1formatsprovidetheminimumrequiredpresentationanddisclosurerequirementsfor
+companyfinancial statements.Thepurposeofsettingoutformats forastatementof profit or
+loss and statementoffinancialposition istomakeiteasierfortheusersoffinancial statements:
+tofindthe items they are particularly interested in:companies are prevented from using
+complexlayoutsand formatsthatmakethefinancialstatementsmoredifficultto
+understand,
+tomake comparisons oftheresults ofdifferentcompanles,orbetweentheresults of the
+same companyfrom onereportingperiodto thenext.
+It isforthis second reason that IAS1requirescomparativefiguresforthepreviousreporting
+periodtobeshown,as wellas thefiguresforthereportingperiod beingreported.In some
+cases astatementoffinancial position froman even earlier reporting periodmaybe required
+as well.
+10.2   Structureandcontentoffinancial statements
+Oneachstatementoffinancialpositionandstatementofprofitorloss,thefollowing
+informationneedstobeprominentlydisplayed:
+nameofthecompany   OIARHUR
+date ofthe statementoffinancial position/reporting period covered-financial statements
+shouldnot normally cover reporting periods longerthan 12 months
+The statementof financial position mustdistinguishbetween currentand non-currentassets
+and currentand non-current liabilities.Currentitems aretobe settledwithin 12months of the
+date ofthe statementof financial position.
+Inthe accounting policiesnoteto thefinancial statements the entitymust disclosethe
+measurementbasis used intheirpreparation (historical costornetrealisablevalue,for
+instance),and the otheraccounting policies used that are relevantto anunderstanding ofthe
+financialstatements,
+AlthoughnotrequiredbylAs1,it iscommon to.seea sub-totalnamed'Operatingprofit/(loss)
+on thefaceofthestatementofprofitorloss.This iscalculatedasgross profit lessdistribution
+costs, administrative expenses and any other operating expenses.Youare likelyto see
+Operatingprofit/(loss)presentedinastatementofprofitorloss intheAccounting exam.
+Professional skills focus: Structuring problems and solutions
+Itis importantthattheIAs1format isadoptedforlimitedcompanyfinancial statements in
+orderthatfinancial information aboutthe companyis communicatedtotheusersoffinancial
+statements in a consistent and comparablemanner,
+ICAB2026   Companyfinancial statements   387

@@ -1,0 +1,39 @@
+Worked example:Opening and closing inventory
+Initsnextreportingperiod,1October20X5to30September20X6,TheUmbrellaShop
+purchased40,000umbrellasatatotalcostofCU95,000andsold45,000umbrellasfor
+CU230,000.At30September20X6ithad(10.000+40,000-45.000)-5,000umbrellasleftin
+inventory.whichtogetherhadcostCU12,000.
+Requirement
+What was TheUmbrella Shop'sgross profit for the year to30 September20X6?
+Solution
+Inthisreportingperiod,itpurchased 40,000 umbrellasto addto the10,000 italreadyhad in
+inventoryat the start ofthe year.It sold 45,000,leaving 5,000umbrellas in inventoryat the year
+end.Once again,gross profit should becalculatedbymatchingthevalueof 45,000unitsof
+saleswiththe costofthose45,000units.
+The cost of sales isthe valueofthe 10,000umbrellas in inventoryatthebeginning ofthe
+period,plusthe costofthe 40,000 umbrellas purchased,lessthe cost ofthe 5,000umbrellas in
+inventoryattheperiodend.
+CU
+Sales(45000units)   230,000
+Opening inventory   10,000   units at   20,000
+CU2
+Add purchases   40.000   Units   95,000
+Less closing inventory   (5.000)   Units   (12,000)
+Cost ofsales   45.000   units   103.000)
+Grossprofit   127.000
+Taken from the closing inventory value of the previous reporting period.
+2.2   Cost of sales
+Opening inventory value
+Addcostofpurchases(or,foramanufacturingcompany.thecostofproduction)
+Addcostofdelivery inwards (seebelow)
+Less closing inventoryvalue
+Equals costofsales
+Inotherwords,tomatch'sales'and'costofsales.itisnecessarytoadjustthecostofgoods
+purchased ormanufactured to allow for increases or reductions in inventory levels during the
+period.
+Interactive question1:Grossprofit
+On1January20X6,Grand UnionFoodStores hadgoods in inventoryvalued atCU6,000.
+During 20x6itpurchased supplies costing CU50,000.Salesforthe yearto31December20X6
+amountedto
+CU80,000.Thecostofgoods in inventoryat31December20X6wasCU12,500.
+710   Accounting   ICAB2026

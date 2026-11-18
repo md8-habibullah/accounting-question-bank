@@ -1,0 +1,27 @@
+Totalequity   36,700
+Total kiabilities   2.80Q
+Total equity and tisbifities   39.50Q
+AnswertoInteractivequestion4
+Camvatplc:statementoffinancial position asat31December   CU'000
+20X1
+ASSETS
+TOTALASSETS(2m.+(320,000×1.60)   2.512
+EQUITYANDLABILITIES
+Equity
+Sharecapital (400+80+160)   640
+Sharepremium(500+352-80)   772
+Retainedearnings   300
+Total equity   1,712
+Total liabilities   800
+Total equttyand liabilities   2,512
+Thebonusissueisof800.000/5-160,00050pshares:
+CU   CU
+DEBIT   Sharepremium   E80.000
+CREDIT   Share capital   F80.000
+Therights issue isof(800.000+160.000)/3=320,00050psharesatCU1.60each,ie,
+CU512,000:
+CU
+DEBIT   Cash   512.000
+CREDIT   Sharecapital (320,000×50p)   160,000
+CREDIT   Sharepremium(320,000×(1.60-0.50)   352,000
+396   Accounting   ICAB2026

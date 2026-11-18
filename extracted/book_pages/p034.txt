@@ -1,0 +1,34 @@
+Requirements
+What would the carrying amount (value)of the.washing machines be if:
+3.1 The retailer is forced to closedown the business atthe end ofthe year and the.remaining
+washing machines will realise only CU60 each in a forced sale.   OIAAER
+3.2The retaller intends to continue his business into the nextyear.See Answerat theend of
+this.chapter.
+Ifthegoing concernassumptionisnotfollowed,thatfactmustbedisclosed,togetherwith:
+the basis on which the financial statements have been prepared
+the reasons whythe entity is not considered to be agoing concern
+Whenthere is uncertainty as to whether the entity is a going concern,this should be disclosed
+along with the nature of the uncertainty.
+7.3   Accrualaccounting (lAs1andtheConceptual Framework)
+An entityshouldprepareitsfinancial statements,exceptforcashflowinformation,using
+accrual accounting (alsoknown as theaccrual basis ofaccounting orthematching concept).
+Definition
+Accrual accounting:Accrual accounting requires thattransactions arerecorded inthe period
+inwhichtheyoccur even if theresulting cash receipts andpayments occur ina different
+peniod.(ConceptualFramework,para.1.17)
+Entities should preparetheir financial statements on thebasis thattransactions arerecorded in
+them,notasthecashis paid orreceived (cash accounting),butasthe incomeorexpenses are
+eamedorincurredinthereportingperiodto whichtheyrelate,
+Accordingtothe accrual basis,when calculatingprofit, income earnedmustbematched
+againsttheexpensesincurredinearningit.
+Contextexample:Accrualbasis
+Asoletraderpurchases20T-shirts intheirfirstmonthof trading(May)atacostofCU5eachon
+creditTheysell all of them oncreditforCU1oeach.The soletraderhasthereforemadea
+profitofCU100,bymatching the income (CU200)earnedagainstthecost(CU100)of
+acquiringthem.
+If,however,thesoletraderonlysells18Tshirts,itisincorrectto chargetheir statementf
+profitorlosswiththecostof20T-shirts,astheystill havetwoT-shirts inhand,iftheysell them
+in June,theyarelikelytomakeaprofitonthesale.Therefore,onlythepurchasecostof18T-
+shirts (CU90)shouldbematchedwiththe:sales:income (CU180),leavingaprofitofCU90.
+The sole trader's statement of financial position will look like this atthe end of May
+ICAB2026   Introductiontoaccounting   25

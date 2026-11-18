@@ -1,0 +1,22 @@
+Weneed to processthenecessaryadjustments againstthe initialtrial balance.
+Ledgerbalance   Initialtrial balance   Adjustments   Finaltrial balance
+Debit   Credit   Debit   Credit   Debit   Credit
+CU   CU   CU
+CHAPTER
+Cashatbank   6,541   6,541
+Opening capital   15,000   15,000
+Loan   8,000   8,000
+Non-currentassets   45.000   45.000
+Trade payables   16758   16.758
+Expenses (a)(b)   10,877   548   990   10,435
+Purchases   62.975   62.975
+Sales (c)   157,632   350   157282
+Otherincome (d)   58   58
+Tradereceivables   22,854   22,854
+Drawings   49.143   49,143
+Accruals (822×2/3)(a)   548   548
+Prepayments(2,970×4/12)(b)   990   066
+Accruedincome (d)   58   58
+Deferred income (c)   350   350
+197.390   197390   1,946   1.946   197.996   197.996
+ICAB2026   Accrualsandprepayments   295

@@ -1,0 +1,37 @@
+3.3   Accrualsconcept
+Theaccruals (ormatching)concept requires that incomeearned ismatchedwiththe expenses
+incurred inearning it
+In Charlie's case,wehave'matched'the incomeearnedwiththeexpenses incurred in earning
+it.So,inpart(e),weincludedallthecostsofthegoodssoldofCU800,eventhoughCU50had
+notyetbeen paid incash.Also,the interestof CUswasdeducted from incomeeventhough it
+had notyetbeen paid.
+Interactive question 2:Theaccounting equation
+Howwould eachofthese transactions affect the accounting equation interrns of increase or
+decrease inasset,capitalor liability?
+(1)PurchasingCU800worthofgoodsoncredit
+(2)Payingthetelephonebill CU25
+(3)SellingCU450worthofgoodsforCU650
+(4)PayingCU800toasupplier
+See Answer at theend of this chapter.
+Weshall looknowathowthebusiness entity conceptand accrualsconcepttogetherresultin
+the statement of financial position.
+4 Thestatementoffinancial position
+Section overview
+The statementoffinancial position shows the entity's financial position ata particular
+momentintime.
+Thestatement offinancial position represents theaccounting equationiassets are in one
+half and capital and liabilities in the other.
+Themore detailed accounting equation,represented in the IAs1format for the statement
+ofinancial position,states thatnon-currentassets+currentassetscapital+profit-
+losses-drawings+non-current liabilities+currentliabilities.
+Netassets-assets-liabilities,therefore.netassets-capital.
+Anon-currentasset isacquired forlongtermusein thebusiness,witha viewto earning
+profitsfromits use,eitherdirectlyorindirectly.
+Non-current assets maybetangible (witha physical reality)orintangible.
+Currentassets are either cash or items which are held by the entity to be turned into cash
+shortly.
+Capital comprises opening capital+icapital introduced+profits-losses-drawingsof
+capital/profits taken bytheowners.
+Non-current liabilities are payable after one year, such as secured loans.
+Current liabilitiesarepayable withinoneear,suchastradepayablesandbankoverdrafts
+58   Accaunting   ICAB2026

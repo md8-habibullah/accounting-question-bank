@@ -1,0 +1,36 @@
+Impairmentofassets(IAS36)
+Sectionoverview
+Therecoverable amountofan asset is thehigherofits fair valueless costs ofdisposal and
+itsvalueinuse,
+Impairmentlosscarrying amount-recoverableamount
+An impairment loss shouldbededucted from the carrying amount of the assetand
+charged immediately to profit orloss.
+is expectedto generateforthe business.The value thatanasset is expected to generatefora
+businessisknown.asitsrecoverableamount.
+The recoverableamountof an asset is the higherof;
+itsfairvaluelesscostsofdisposal,and
+its value in use-defined asthe presentvalue ofthefuture cashflows expected toflow
+fromtheuseoftheasset.
+(IAS36:para.6)
+Whenthe carryingamountofan assetexceeds itsrecoverable amount,an impairmentloss is
+said to have occurred.
+Youwill not have to calculate recoverable amount in Accounting as it will be given.
+5.1   Calculating and accountingforanimpairment loss
+An impairment loss is calculatedas:
+CU
+Carrying amount of the asset
+Lessrecoverableamountoftheasset
+Impairment loss
+When an assethas suffered an impairment loss,thecarrying amount oftheassetshould be
+reducedbythe amountof theimpairmentlossandthe impairmentloss is charged
+immediatelyto profit orloss:
+Impairment expense (statementofprofitorloss)   CUX
+CREDIT   Carrying amountofasset(statementoffinancial   CUX
+position)
+Forassets that havebeen revalued, accountingforan impairmentloss ismore complicated,
+but this isnot included intheAccounting syllabus.
+Accountingforimpairmentisan exampleof prudencebeing applied infinancialaccountingas
+it ensures that assets are not overstated.Determining whether an assethas been impaired and
+calculating therecoverableamount ofthe asset are areas in whichthe accountantmustapply
+judgement.
+330   Accounting   ICAB2026

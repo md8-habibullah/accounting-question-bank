@@ -1,0 +1,36 @@
+Ifthenominal valueoftheshares was CU2,and thevalueoftheordinary sharecapital
+account was CU500,000,thatmeans there are250,000ordinary shares in issue
+(CU500.000/CU2)
+CU500,000,thatmeans thereare1,000,000ordinary shares in issue
+(CU500,000/CU0.50)
+Contextexample:Equitydividends2
+thetrial balancewouldappearasfollows:
+DR
+CR
+CU   CU
+Ordinarysharecapital (50ppershare)   400.000
+The paymentofanequitydividendof5ppershare wouldnowresult in atotal dividendof
+CU40,000.This is because there are actually 800,000 50p shares in lssue.
+Thejournalentrytorecordan equitydividendpaid is:
+DEBIT   Retainedearnings   CUX
+CREDIT   Bank/cash   CUX
+4.2   Preferencedividends
+A companymayalso issue preference shares,which entitletheholders to a dividend outof
+profits (preferencedividend)before the equity (ordinary)shareholders are entitled to any
+equity dividend.This is the case regardless of whetherthe preference shares are redeemable
+or irredeemable.
+Preference shares are oftenexpressedas follows:
+DR   CR
+CU   CU
+7% CU1 irredeemablepreference shares   100,000
+This means that the preferencedividendtobepaid will beCU7,000 (CU100,000 × 7%)
+4.2.1   Dividendson irredeemablepreference shares
+Dividends paid on irredeemable preference shares are taken from retained earnings in the
+same way as equity dividends and arethereforededucted from retained earnings.This is the
+case because irredeemable preference share capital is a cormponent of equity.
+4.2.2   Dividendsonredeemablepreferenceshares
+Dividends paid on redeemable preference shares aretreated as afinance cost (interest).inthe
+period and aretherefore included inthe statement of profit orloss.This is the casebecause
+redeemable preference shares are presented as liabilities on the statementoffinancial
+position.
+374   Accounting   ICAB2026

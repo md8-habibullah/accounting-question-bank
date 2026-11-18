@@ -1,0 +1,28 @@
+TRADERECEIVABLES
+CU   CU
+Revenue   475   Cashatbankaccount   475
+CASHATBANKACCOUNT
+Tradereceivables   475
+Sales   25
+REVENUE
+Tradereceivables   475
+Cashatbank   25
+AccountingforthetransactionwithShu:
+Based onexperienceof pasttransactions with Shu,Finniedoes not expect Shutotake
+advantageofthepromptpaymentdiscount.Whentheinvoiceto Shuistecorded,thediscount
+shouldnotbededucted and thefullamountofthesaleof cU340 shouldbe recorded in
+revenueandtradereceivables.
+TRADERECEIVABLES
+CU   CU
+Revenu   340
+REVENUE
+Trade   340
+Shu pays after30days as expected
+IfShupaysCU340after30days,asexpected,theamountpaidis recordedasperanyother
+receiptfromacredit customerandnoother entries arenecessary:
+TRADERECEIVABLES
+CU   UHAPTER
+Revenue   340   Cashat bank account   340
+CASHATBANKACCOUNT
+Trade   340
+ICAB2026   Ledgeraccountinganddoubleentry   125

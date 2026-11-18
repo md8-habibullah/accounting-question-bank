@@ -1,0 +1,39 @@
+2.5   Inventorywrittenofforwrittendown
+Abusinessmightbeunabletosellallthegoodspurchased,becausebeforetheycanbesold
+theymight:
+be lostorstolen
+,bedamagedandbecomeworthless
+.become obsoleteor.out offashion; these might be thrown away, or sold off at alow price
+When goods are lost,stolen orthrown away as worthless,thebusiness will make a loss on
+those goods because their'sales value'will be nil.
+Similarly,when goods lose valuebecause theyhavebecome obsolete oroutoffashion and
+aresoldoff ata low price,thebusiness willmakealoss iftheirnetrealisablevalue islessthan
+cost.Forexample,ifgoodswhichoriginallycostCU500arenowobsoleteandcouldonlybe
+soldforCU150,thebusinesswouldsufferalossofCU350.
+If,at theend ofareporting period,a business stll has goods in inventory whichare either
+worthless or worthlessthan their original cost,the costof the inventories should be written
+nothing.iftheyareworthless, or
+their netrealisable value (see section 6),if this is less thantheiroriginal cost.
+A journal entry intothe computerisedaccounting system will berequiredto accountforthe
+write down.
+The cost ofinventory written offorwritten down does not usually cause any problems in
+calculating thegrossprofitofabusiness,because the cost ofsales already includesthecostdf
+inventories written off or written down,as the followingexample shows.
+Worked example:Inventories writtenoff and written down
+Wagg ends its financial yearon31March.At1April20x5 it had goods in inventoryvaluedat
+CU8,800.Duringtheyearto31March20X6,itpurchasedgoodscostingCU48000.Fashion
+goods whichcostCU2,100wereheld in inventoryat31March20X6,andWaggbelievesthat
+thesecanonlynowbesoldatasalepriceof CU400.Goodsstill held in inventoryat31March
+20X6 (includingthefashiongoods)had an original purchasecostofCU7,600.Salesforthe
+year were CU81,400.
+Requirement
+Calculate Wagg's gross profit for the year ended 31 March20X6.
+Solution
+Initial calculation of closing inventory values:
+Amountwritten
+At cost   Realisable value   down
+CU
+Fashiongoods   2.100   400   1,700
+Othergoods (balancingfigure)   5.500
+7.600
+214   Accounting   ICAB2026

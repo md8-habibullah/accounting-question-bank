@@ -1,0 +1,44 @@
+1.2   Accountingsoftwarepackages
+Accounting softwarepackages arecommonlyusedcomputerisedaccounting systems.
+Accounting software packagesrange from simple'off-the-shelf programmes thatmeetthe
+requirements ofa smallbusiness,to systems thatare fully integratedwithbusinessesother
+systems such as inventorymanagement and human resourcemanagement systems that are
+used in largeand complexorganisations.The largestorganisationsare lilkelytousebespoke
+accounting softwarethathas been developed specificallyforthem.
+In thisWorkbook,wewill assumethatthecomputerised accounting systemisasoftware
+package which contains several differentmodules such as forpayroll,formanagingbalances
+owedbycreditcustomersorformalntainingarecordofnoncurrentassets,Oneofthe
+modules will be the main accountingrecord ofthebusiness,Themodules interact witheach
+otherinsuchawaythat
+informationenteredintoonemodulewill automaticallyupdateotherrelevantmodules,for
+example,recordinga credit sale:willupdate boththe sales module and themodulethat
+manages the balances owed bycreditcustomers.
+1.3   General points
+Itis importanthatyouunderstandthefollowing pointsregarding computerisedaccounting
+systems that wll be assumed throughoutthe Accounting course:
+Standing data-standing data isreference data thatdoes notregularly change, such as the
+nameandregisteredaddress ofthebusiness.paymenttermsforgoods sold on credit,theVAT
+registration numberand relevant.VATrates, wage rates forpayroll purposes etc. It is important
+thataccessto,andmaintenanceof standingdata istightlycontrolledasmanydifferent
+transactions rely on the accuracy ofthis underlying data.We will assume throughout this
+Workbookthatrelevantstandingdata has alreadybeen entered intothe computerised
+accountingsystem,
+Accountcodes-Each ofthemodules inthe sofiwarepackage is subdivided intoaccountsand
+eachaccount will have aunique codewhichmakes iteasierto inputand process accounting
+information.Wewilldiscuss accountcodeswithinthemain accountingrecord inmoredetailin
+Chapter4.
+Processing-transactions thatare undertaken by the business need to be entered into the
+system and relevant modules and accounts are updated at the point at which the
+transaction takes place,Wewill assumethatreal-time processing isused throughoutthis
+Workbook.
+Batch processing-batchprocessing involvesprocessing a numberoftransactions together
+inagroup,orbatch,usuallyattheendofeachdayoreachweek.
+Controls-wewillassume throughout this Workbookthat thereareadequate controls in place
+inthe systemto ensurethe continued reliabilityofthe systems.Such controls includethatthe
+system isoperatedbytrained andqualified staff,thataccesstothesystem isrestrictedto
+authorised usersandthatthereareadequatelevels ofapprovaland reviewoftransactions that
+areinputintothe.system,
+1.4   Cloud accounting
+Definitions
+Cloudcomputing:Cloudcomputing is on-demandaccess,via theinternet,to computing
+86   Accounting   ICAB2026

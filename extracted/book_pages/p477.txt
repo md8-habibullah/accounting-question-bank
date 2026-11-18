@@ -1,0 +1,25 @@
+4Waterloo plc acquireda freeholdbuildingforcash,financed in full by issuing forcash
+166,000CU1ordinary shares ata premiumofCU2pershare.
+Requirement
+InitsstatementofcashflowspreparedinaccordancewithIAs7,StatementofCashFlows   CHAPTER
+this transaction should be stated as:
+InflowCU498,000,outflownil
+Inflownil,outflownil
+InflowCU498.000,outfiowCU498.000
+DInflow.nil,outflowCU498.000   13
+5Informationfromthestatementofcashflows andrelatednotes of Greshamplcfortheyear
+ended31Decenber20X1canbefoundinthetablebelow.
+Depreciation   30,000
+Profitonsaleofproperty.plantandequipment   5,000
+Proceedsfromsaleofproperty.plantandequipment   20,000
+Purchaseofproperty,plantandequipment   25,000
+Requirement
+Ifthecarryingamountofproperty.plantandequipmentwas CU110,000on 31December
+20x0,whatwasiton31December20X1?
+CU85,000
+CU90,000
+CU70,000
+CU80,000
+Nowgoback tothe Introduction.and ensure thatyou haveachieved the Learning outcomes
+listedforthischapter.
+ICAB2026   Statement of cash flows   467

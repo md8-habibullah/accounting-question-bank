@@ -1,0 +1,40 @@
+CU
+Assets
+Inventory (twoT-shirtsatcost,ie,2×CU5)   10
+Receivables(18xCU10)   180
+190
+Capitaland liabilities
+Proprietor's capital (profit forthe period)   06
+Payables(20×CU5)   100
+190
+However,ifthe soletraderhaddecided to giveup sellingT-shirtsatthe end ofMay,thenthe
+going concern assumption.would no longerapplyandthe twoT-shirts in the statementof
+financial position shouldbeattheirbreakupvaluation,notcostSimilarly,if thetwounsoid
+shirts areunlikelytobe soldat more than their cost of CU5 each (say,because of damageora
+fall in demand)then they should be recorded on the statementof financial p.osition attheir net
+realisable value (lie, the likely eventual sales priceless any expenses inurredto.make them
+saleable)ratherthan cost.
+In'this example,the concepts ofgoing concem andaccrual are linked.Since thebusiness is
+assumedtobea going concern, it ispossibleto carryforward thecost oftheunsold T-shirts as
+achargeagainstprofits ofthenextperiod.
+Definition
+Cashaccountingbasis:Underthis method,a company records customerreceipts intheperiod
+thattheyarereceived,and expenses in theperiod in whichtheyarepaid.It is easierto useand
+canbeusefulforasmallercompany.especiallyfortaxpurposeswherecashflowmaybean
+issue,Under the accruals basis,a companymayhaveto paytaxon profits beforethe cashis
+actuallyreceivedbythebusiness,
+Applying thecashaccountingbasistotheaboveexample,no profitorexpenses wouldbe
+recorded until cashchanged hands,Therefore, ifthe soletrader hadbought2oT-shirts on
+creditforCU5eachandsoldthem oncreditforCU1oeach inMay,noprofitorlosswouldbe
+recordedinMay.If,in June,they receivedpaymentfortheT-shirtsthathadbeen soldon
+credit, and in July they paid fortheT-shirts thathad been purchased on credit, a profit of
+CU200wouldberecordedinJune,andalossofcU100wouldberecordedinJuly.
+7.4   Consistencyofpresentation(IAs1)
+Tomaintainconsistency.thepresentationandclassificationofitems in.thefinancial statements
+shouldstaythesamefromoneperiodtothenext,unless:
+there is a significant change in the nature ofthe operations,ora review ofthefinancial
+statements indicatesamore appropriatepresentation;or
+achangein presentation is required byan IFRS Accounting Standard.
+Byhaving consistentpresentationthecomparabilityoffinancial statements is enhanced,both
+averaperiod oftime, andalsobetween differentcompanies,
+Accounting   ICAB2026

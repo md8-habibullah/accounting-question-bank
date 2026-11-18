@@ -1,0 +1,34 @@
+time ornormaluse,
+business inwhichthe assets are employed.
+Thecarryingamountoftheentity'snetassetsbeingmorethanitsmarketcapitalisation
+Intetnalindicatorsofimpairment:
+Evidenceofobsolescenceorphysicaldamage.
+Adverse changes in theuseto which theasset is put.
+Evidminmaltsthatthommnenassiwill
+worsethan expected.
+(IAS36:para,12)
+5.3   Reviewing and changing useful life or residual value after impairment
+When an irnpairment loss isrecognised,the asset'sremaining useful life and residualvalue
+should alsobereviewedand revised ifappropriate.
+Interactivequestion5:Impairment
+On1January20x1Tigerbuys a non-currentassetforCU120,000,withan estimated useful life
+of 20 years and no residual value.Tigerdepreciates itsnon-currentassets on a straight line
+basis.Itsreportingperiod isthe12monthsended31December.
+On31December20X3the asset hasacarryingamountcalculatedas
+follows:
+Non-currentassetat cost   120,000
+Accumulateddepreciation(3×(CU120,000/20)   (18,000)
+Carryingamount   102,000
+Consider each of these alternatives separately.
+5.1On31December20X3theremaininguseful lifeisrevisedto15yeansfromthatdate.
+Requirement
+Calculate therevised annual depreciation charge commencing in20X4.
+5.2On31December20X3theremaininguseful lifeisrevisedto10yearsfrom thatdate.An
+impairmentreviewhas been carried outwhichshows thattherecoverableamountis
+CU95,000.
+Requirement
+Show howthe impairment lass would berecorded in thefinancial statements forthe year
+ended31December20X3andcalculatetherevisedannualdepreciation charge commencing
+in20x4.
+See Answerat the end of this chapter.
+332   Accounting   ICAB2026

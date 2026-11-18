@@ -1,0 +1,403 @@
+    Chapter 7: Cost of sales and inventories
+1   Correct answer(s):
+    B     £75,650
+
+                                                                                                           £
+        Opening inventory                                                                              7,200
+        Purchases                                                                                     76,500
+        Delivery inwards                                                                                   50
+        Less closing inventory                                                                        (8,100)
+    Cost of sales                                                                                     75,650
+
+
+
+2   Correct answer(s):
+    C     Dr Cost of sales: £686,880; Cr Purchases: £686,880
+    D     Dr Inventories: £18,647; Cr Cost of sales: £18,647
+    Applying the cost of sales equation, cost of sales = opening inventories + purchases – closing
+    inventories, purchases made in the year are transferred to cost of sales at the year-end by debiting
+    cost of sales and crediting purchases (C). Closing inventories are recorded as a current asset by
+    debiting inventories and crediting cost of sales (D).
+
+
+3   Correct answer(s):
+    B     £427,000
+    Cost of sales includes delivery inwards, which is a cost incurred in bringing inventories to their
+    present location, but excludes delivery outwards, which is a distribution cost and included in the
+    statement of proﬁt or loss after calculating gross proﬁt. Closing inventories should be deducted in
+    arriving at cost of sales.
+
+                                                                                                           £
+    Purchases                                                                                       455,000
+    Delivery inwards                                                                                  24,000
+    Closing inventories                                                                              (52,000)
+    Cost of sales                                                                                   427,000
+
+    SAMPLE EXAM
+
+
+4   Correct answer(s):
+    A     £4,460
+    Closing inventory = 200 + 1,000 – 700 + 800 + 300 – 400 – 500 = 700 units in closing inventory.
+
+                                                                                                           £
+    FIFO             400                                                @ 6.20                         2,480
+                     300                                                @ 6.60                         1,980
+                     700                                                                               4,460
+
+
+
+
+    ICAEW 2024                                                          7: Cost of sales and inventories   183
+5   Correct answer(s):
+    C     £18,760
+    Cost includes both direct materials/labour and also production overheads. NRV is expected selling
+    price less expected selling costs.
+
+                                                  Cost                        NRV            Lower of cost/NRV
+                                                     £                           £                           £
+        Category 1                               4,570                      5,320                         4,570
+        Category 2                              12,090                     11,890                        11,890
+        Category 3                               2,300                      2,370                         2,300
+                                                18,960                     19,580                        18,760
+
+
+
+6   Correct answer(s):
+    C     £68,800
+
+
+                                                                                                             £
+    Product A                                       5,500 × £10 =                                        55,000
+                                                         500 × £8 =                                       4,000
+    Product B                                         1,900 × £5 =                                        9,500
+                                                         100 × £3 =                                        300
+                                                                                                         68,800
+
+
+
+7   Correct answer(s):
+    B     False
+    If prices are rising, the charge to cost of sales will be higher if AVCO is used. Gross proﬁt will
+    therefore be lower under this method.
+    Correct answer(s):
+    D     False
+    Closing inventory is a debit in the statement of ﬁnancial position and a credit in the statement of
+    proﬁt or loss.
+
+
+8   Correct answer(s):
+    A     £1,110
+
+                                       Units              Cost     Average cost per unit                  Value
+                                                             £                          £                    £
+        1 June 20X8                       60               12                                              720
+        8 June 20X8                       40               15                                              600
+        14 June 20X8                      50               18                                              900
+                                        150                                          14.80                2,220
+        21 June 20X8                     (75)                                        14.80               (1,110)
+                                          75                                                              1,110
+
+
+
+    184     Accounting                                                                              ICAEW 2024
+9   Correct answer(s):
+    B     £55
+
+                                                                                                              £
+    Cost                                                                                                     46
+    Production overheads                                                                                     15
+                                                                                                             61
+
+                                                                                                              £
+        Net realisable value
+          Sales price                                                                                        80
+          Less modiﬁcation costs                                                                             (17)
+          Less selling costs (80 × 10%)                                                                       (8)
+                                                                                                             55
+
+
+
+10 Correct answer(s):
+    B     False
+    A van for resale by a dealer is inventory and therefore a current asset.
+    Correct answer(s):
+    C     True
+    Import duties should be included in inventory cost.
+
+
+11 Correct answer(s):
+    A     Delivery inwards
+    E     Production line wages
+    (B) and (C) are distribution costs and (D) is not incurred in arriving at the cost of ﬁnished goods.
+
+
+12 Correct answer(s):
+    D     It may be acceptable for the cost of inventories to be based on selling price less estimated proﬁt
+          margin.
+    Selling price less an estimated proﬁt margin is an acceptable method of arriving at the cost of
+    inventory. It is a frequently used method in the retail industry. Regarding (A), LIFO is not an
+    acceptable inventory valuation method. Overheads should be included in cost (B), and under IAS 2,
+    inventories should be included in the SOFP at the lower of cost and NRV, replacement cost (C) is not
+    relevant.
+
+
+13 Correct answer(s):
+    A     £281,200
+
+                                                                                                              £
+        Original value                                                                                284,700
+        Coats
+
+
+
+
+    ICAEW 2024                                                            7: Cost of sales and inventories   185
+                                                                                                           £
+          – Cost 400 × £80                                                                        (32,000)
+          – NRV (£75 × 95%) × 400                                                                  28,500
+                                                                                                  281,200
+
+    At 31 January 20X3 the skirts were correctly valued at costs incurred to date of £20 per skirt which
+    was lower than the NRV of £22. Therefore, no adjustment is required.
+
+
+14 Correct answer(s):
+    B     £4,700
+
+                                         Net realisable   Lower of cost
+                                  Cost    value (NRV)           & NRV              Units            Value
+                                    £                £                £                                    £
+    Basic                            6               8                 6            200             1,200
+    Super                            9               8                 8            250             2,000
+    Luxury                          18              10                10            150             1,500
+                                                                                                    4,700
+
+
+
+15 Correct answer(s):
+    A     £188,500
+
+                                                                                                           £
+        50 @ £190                                                                                   9,500
+        500 @ £220                                                                                110,000
+        300 @ £230                                                                                 69,000
+                                                                                                  188,500
+
+
+
+16 Correct answer(s):
+    D     £2,950
+    50 + 100 – 80 + 50 – 60 = 60 units in inventory at 28 February.
+    (10 units × £45) + (50 units × £50) = £2,950
+
+
+17 Correct answer(s):
+    D     £461,500
+
+                                                                                                           £
+        Inventory count balance                                                                   483,700
+        Less goods from suppliers                                                                 (38,400)
+        Add goods sold                                                                             14,800
+        Less goods returned                                                                          (400)
+        Add goods returned to supplier                                                              1,800
+
+
+
+
+    186     Accounting                                                                         ICAEW 2024
+                                                                                                             £
+                                                                                                     461,500
+
+
+
+18 Correct answer(s):
+    C   The current year’s proﬁt will be understated and next year’s proﬁt will be overstated.
+    If closing inventory is understated, cost of sales will be overstated and proﬁt will be understated.
+    Next year’s opening inventory will be understated and its cost of sales will be understated, so its
+    proﬁt will be overstated.
+
+
+19 Correct answer(s):
+    A   £382,600
+
+                                                                               £                             £
+     Original balance                                                                                386,400
+     Item (1) Cost                                                      (18,000)
+     NRV 15,000 – 800                                                    14,200
+     Write down                                                                                        (3,800)
+     Inventory value                                                                                 382,600
+
+
+
+20 Correct answer(s):
+    A   £838,100
+
+                                                                                                             £
+     Inventory count value                                                                           836,200
+     Less purchases                                                                                    (8,600)
+     Add sales (14,000 × 70/100)                                                                        9,800
+     Add goods returned                                                                                     700
+     Inventory ﬁgure                                                                                 838,100
+
+
+
+21 Correct answer(s):
+    A   £283,650
+
+                                                      £
+     B/d                                       284,000
+                                Item 1                –                   No change as NRV exceeds cost
+                                Item 2             (350)                Reduce to NRV (1,000 – 800 + 150)
+                                               283,650
+
+
+
+22 Correct answer(s):
+    C   £2,594
+    (20 × £12.50) + (40 × £12.80) + (60 × £13.00) + (72 × £13.50) + (8 × £10) = £2,594
+
+
+
+    ICAEW 2024                                                           7: Cost of sales and inventories    187
+23 Correct answer(s):
+    B     £180
+    (20 × £5) + (20 × (£15 – 10 – 1)) = £180
+
+
+24 Correct answer(s):
+    C     £60,600
+    200 items × £15 = £3,000
+    NRV = (200 × £17.50) – 1,200 – 300 = £2,000
+    400 items = (400 × £1.50) – 200 = £400
+    Total = £58,200 + £2,000 + £400 = £60,600
+
+
+25 Correct answer(s):
+    A     £57,500
+    100 × (£400 – £110 – £65) + (100 × £350) = £57,500
+
+
+26 Correct answer(s):
+    C     Include inward delivery costs, Include production overheads
+    Cost can include both inward delivery costs and production overheads.
+
+
+27 Correct answer(s):
+    B     The value of the opening inventories had been overstated.
+    A and C would not explain a shortfall and D is the correct treatment for drawings but does not affect
+    mark-up. B will cause cost of sales to be overstated and so reduce the mark-up.
+
+
+28 Correct answer(s):
+    B     cost of sales is £100,000 and sales are £125,000
+
+                                                                                 £                        %
+    Sales                                                                 125,000                    100%
+    Cost of sales                                                         100,000                        80%
+    Gross proﬁt margin                                                  25,000 (β)                       20%
+
+
+
+29 Correct answer(s):
+    B     The incorrect inclusion in purchases of invoices relating to goods supplied in the following
+          period
+    Options A and C would increase the gross proﬁt margin. Option D would not affect gross proﬁt.
+
+
+30 Correct answer(s):
+    C     20.0%
+    19,200/96,000 × 100% = 20%
+
+
+
+
+    188     Accounting                                                                          ICAEW 2024
+31 Correct answer(s):
+    A   £11,700
+
+                                                             Units                Value
+                                                                                       £                     £
+     1 August 20X4                        b/f               2,400                 10.00                 24,000
+     14 November
+        20X4                             Sell                 (900)               10.00                 (9,000)
+
+                                                            1,500                 10.00                 15,000
+     28 January 20X5                     Buy                1,200                 16.75                 20,100
+                                                            2,700                 13.00                 35,100
+     7 May 20X5                          Sell               (1,800)               13.00                (23,400)
+     31 July 20X5                         c/f                 900                 13.00                 11,700
+
+    SAMPLE EXAM
+
+
+32 Correct answer(s):
+    A   Lower cost of sales and higher closing inventory
+    When raw material prices are rising, AVCO averages the earlier, lower prices with the later, higher
+    prices, while FIFO just takes the later, higher prices. Thus, FIFO would result in a higher inventory
+    value than AVCO. As inventory quantities are constant, this means that closing inventory would
+    always be higher than opening inventory. As closing inventory is a reduction in the cost of sales
+    calculation, all other things being equal this would result in the overall debit balance of cost of sales
+    being lower under FIFO than under AVCO: hence lower cost of sales and higher closing inventory
+    value (A).
+
+
+33 Correct answer(s):
+    C   Debit Administrative expenses £36,000, Credit Purchases £36,000, Credit Other income £28,800
+    To calculate cost of sales correctly the purchases ﬁgure should only take into consideration the
+    goods purchased for resale. Therefore, it is necessary to reduce purchases, not inventory, by the cost
+    of the inventory destroyed (Credit Purchases £36,000). This cost to the business should be shown
+    under administrative expenses in the statement of proﬁt or loss (Debit Administrative expenses
+    £36,000). The sum due from the insurance company of £28,800 should be treated as part of other
+    income, not revenue, as it is from a non-trading source (Credit Other income £28,800).
+
+
+34 Correct answer(s):
+    B   increase current assets and decrease losses by £1,660
+    Closing inventory is an asset in the statement of ﬁnancial position and is deducted from cost of sales
+    (and hence added to proﬁt) in the statement of proﬁt or loss. An increase of inventory from £6,420 to
+    £8,080 would therefore increase net assets and decrease losses by £1,660 (£8,080 – 6,420).
+
+
+35 Correct answer(s):
+    D   Dr Inventories: £31,060; Cr Cost of sales: £31,060
+    The damaged inventories should be written down to nil before the closing inventories are recorded.
+    Closing inventories are included as current assets at the end of the period by debiting inventories
+    and crediting cost of sales.
+
+
+
+
+    ICAEW 2024                                                            7: Cost of sales and inventories   189
+36 Correct answer(s):
+    D     £1,320
+    The amount of work in progress at year end is calculated based on the hours incurred to date × the
+    hourly rate. The amount can be calculated as:
+
+     Staff member                Hours incurred            Hourly rate (£)             Total cost (£)
+
+     Contract manager            1                         100                         100
+
+     Lead designer               12                        75                          900
+
+     Developer                   4                         80                          320
+
+     Total                                                                             1,320
+
+
+
+37 Correct answer(s):
+    B     Legal fees incurred in agreeing the contract with the client
+    D     A bonus paid to Pogo Ltd’s staff for securing the contract with the client
+    F     Travel costs incurred in agents travelling to the client’s workplace
+    Direct costs incurred in securing the contract and providing the services to the client can be included
+    in the work in progress at the year end. The legal fees, the bonus paid to staff and travel costs are all
+    direct costs.
+    Advertising costs, administrative expense and the payroll manager salary do not directly relate to the
+    client contract and are therefore charged to administrative expenses in proﬁt or loss as they are
+    incurred.
+
+
+
+
+    190      Accounting                                                                             ICAEW 2024

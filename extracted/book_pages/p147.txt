@@ -1,0 +1,36 @@
+Answers to Interactive questions
+AnswertoInteractivequestion1
+(a)Purchaseof books on credit
+Payable increase   payables   (increase in
+Purchase increase   DEBIT   purchases   tabiity)
+(increase in
+expense)
+(b)Purchase ofcash registerbydheque
+Ownacashregister
+Cashatbankdecreases   DEBIT   non-airrent   (increase in
+asset   asset)
+cash at bank   (decrease in
+asset)
+()   Paymentreceivedfromacredit
+cistomer
+Receivables decrease   CREDIT   recetvables   (decrease in
+Cash atbankaccountincreases   DEBIT   cash at bank   asset)
+(increase in
+asset)
+(P)   Sall books forcash
+,Revenue increases   CREDIT   sales   (increase in
+Cashatbankaccountincreases   DEBIT   cash at bank   income)
+(increase in
+asset)
+Answerto Interactivequestion2
+CU
+DEBIT   Machineaccount (non-currentasset)   8,000
+CREDIT   Trade payables   8,000
+(2)   DEBIT   Purchases account   500
+CREDIT   Trade payables   500   CHAPTER
+(3)   DEBIT   Tradereceivables   1,200
+CREDIT   Sales   1,200
+(4)   DEBIT   Trade payables   300
+CREDIT   Cashatbank   300
+(5)   DEBIT   Cash at bank   180
+ICAB2026   Ledger accounting and double entry   137

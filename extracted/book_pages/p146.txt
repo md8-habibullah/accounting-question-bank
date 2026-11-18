@@ -1,0 +1,13 @@
+8Ajourmal entry does notneedto contain:
+AThenameoftheledgeraccounttobedebited
+B Thename ofthe ledger accountto be credited
+CNarrative
+Thename of thesourcedocumentfromwhichtheinformationwas obtained
+Individualcreditcustomeraccounts arekeptinwhichledger?
+APayablesledger
+Tradereceivables
+CReceivablesledger
+D Nominal ledger
+Nowgo back to the Introduction and ensure thatyou have achieved theLearning outcomes
+listedforthischapter.
+136   Accounting   ICAB2026

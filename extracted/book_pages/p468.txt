@@ -1,0 +1,35 @@
+*000   000
+Cash flows from investingactivities
+Purchaseof property.plantandequipment   (002)
+Proceeds from sale ofequipment   20
+Interestrecoived   20Q
+Notcashused ininvesting activities   (480)
+Cash flows from financing activities
+Proceedsfromis5ueofsharecapital   250
+Proceedsfrom lang-termborrowings   250
+Paymentof lease liabilities   (06)
+Dividends paid   (1.200)
+Net cashused in financing activities   (790)
+Net increase in cash and cash equivalents   110
+Cashandcashequivalentsatbeginningofperiod   120
+Cashand cashequivalents atend of period   230
+Note:Youarenotexpectedtoaccountforlease liabilitiesorright-of-useassetsinthelong
+form statementofcashflowquestion in Accounting.Theyareincluded inthe example
+proforma forcompleteness,Lease liabilities are covered inProfessional levelFinancial
+Accountingand Reporting.
+Preparing a statement of cash flows
+Section overview
+In essence,preparinga statementofcashflows is verystraightfoward.Youshould
+therelore simplylearn theformatand applythe stepsnoted in theexamplebelow.
+Rememberthe way thatthefollowing items aretreated. Itmight seem confusingatfirst,but
+thetreatmentis logicalif youthinkintermsofcash.
+(a)Increase in inventory istreated as negative (in parentheses).This isbecause it representsa
+cash outflow;cash is being spent on inventory.
+(b)An increase in receivables wouldbetreatedas negativefor.the samereasons;more
+receivables means lesscashhas beenreceived.
+(c)Bycontrastan increase in payables is positivebecausecashis being retainedandnotused
+topayoff payables.Thereisthereforemorecash.
+Worked example:Preparationofastatementof cashflows
+Kaneplc'sstatementofprofit orloss fortheyearended31December20x2and statementof
+financialpositionasat31December20X1and31December20X2wereasfollows.
+458   Accounting   ICAB:2026

@@ -1,0 +1,41 @@
+Workedexample:Prepayments2
+The Square Wheels Garage pays fire insurance annually in advance on 1 Juneeach year.The
+firm'sreportingperiodistheyearended28February20xB.Thefollowingrecordsinsurance
+paymentsmadein20x6and20X7.
+Insurancepaid
+CU
+1June20X6   600
+1June20X7   700
+Requirement
+Calculatetheinsurance chargetothe statementofprofitorlossfor the12-monthreporting
+periodended28February20x8.
+Solution
+3months,1March-31May20x7(3/12×CU600)(openingprepayment)   150
+9months,1June20X7-28February20x8(9/12×CU700)   525
+Inisurancecostforthe yearto28February20x8,charged to thestatementofprofitor
+loss   675
+At28February20x8there isa prepaymentfor insurance,coveringtheperiod1March-31
+May20x8.The insurancepremiumwas paidon1June20X7,butonlyninemonthsworthof
+theannual cost is chargeabletothereportingperiodended28February20x8.The
+prepaymentof(3/12×CU700)CU175asat28February20x8willappearasacurrentassetin
+the statement of financial position of the Square Wheels Garage.
+Inthe'sameway.therewasa prepaymentof(3/12×CU600)CU150inthestatementof
+financialpositiononeyearearlierasat28Febnuary20X7.
+Interactivequestion3:Accrualsandprepayments
+TheBatleyPrint Shop,which isnotregisteredfor VAT,rentsa photocopyingmachine.The
+rental agreement does notmeetthe definition of alease and thereforerental expenses are
+accounted forin profitorloss.Itmakes aquarterlypaymentasfollows:
+(1)threemonthsrental inadvance
+(2) a charge of2pence percopymade:during the quarter just ended
+Therentalagreementbegan on1.August 20x4.Thefirst six quarterly bills wereasfollows:
+Costof
+Bills dated   Rental   Copies taken   Total
+CU   CU   CU
+1August20X4   2,100   2,100
+1November20X4   2,100   1500   3,600
+1February20X5   2,100   1,400   3,500
+1May20x5   2,100   1,800   3,900
+1August20X5   2,700   1,650   4,350
+1November20X5   2,700   1950   4.650
+The bills are paid promptlyas soonas they are received.
+286   Accounting   ICAB2026

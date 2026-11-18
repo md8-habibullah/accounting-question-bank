@@ -1,0 +1,29 @@
+Theemployerhas deducted amounts theemployees oweto otherpeoplefromthegross pay
+theemployerowestothem.This.is notthe end ofthestory.however,the employermakes its
+own pension contributions tothepension plan,overand abovetheamountofgross pay.The
+final payroll will beas follows:
+Deductions   Total
+Employee   payroll
+Grosspay   Employer
+WHT   Contribution   Net pay   cost
+Contribution
+CU   CU   CU   CU   CU
+Anja   550   150   2,300   3,000   200   3,200
+Mark   500   135   2,115   2,750   180   2,930
+Dipak   460   125   1,915   2,500   165   2,665
+1510   410   6.330   8.250   545   8.795
+Grosspay+Employer'sNI+Employerpension =Totalpayrollcost
+Thetotalpayroll costfor Sunny ClimesLtd is CU 8,795.This ispaid outasfollows:
+Employees (netpay)   6.330
+WithholdingTax   1,510
+Pensionplan:Employeeandemployerpension(410+545)   255
+Totalpayrollcost   8.795
+Interactive question4:Payroll
+FantabLtd has 10employees whohadgross payofCU190.000perannumbetweenthem in
+ATER
+20X4.Inthatyear,FantabLtdmadenetpaypaymentstoemployeesofCU129,200andpaid
+CU20,900tothepensionplan.ItstotalpayrallcostwasCu220,400.
+Requirement
+Howmuchdid Fantab Ltdpayto Commissionerof Taxes in respectof payroll withhalding tax?
+SeeAnswerattheendofthischapter.
+ICAB2026   Recordingfinancial uransactions   97

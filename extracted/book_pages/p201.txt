@@ -1,0 +1,24 @@
+Suspenise   5,400
+CREDIT   Trade payables   5.400
+These journals are entered in the adjustments columns,and then each row is addedacrossto
+produceHandle'sfinal trial balance.
+Ledgeraccount   Initial Trial Balance   Adjustments   Final Trial Balance
+Credit   Debit   Credit   Debit   Credit
+Debit
+CU   CU   CU   CU   CU
+CU
+Cash at bank   5,415   5.415
+Opening capital   10,000   10,000
+Loan   5.000   5.000
+Non-current   30,000   30,000
+assets   UIAPTR
+Tradepayables   18.689   5,400   24.089
+Expenses   6,781   6,781
+Purchases   21,569   21,569
+Sales   38,974   38,974
+Tradereceivables   9.445   1,000   8.445
+Suspense   6.400   6.400
+Drawings   5,853   5,853
+79.063   79.063   6,400   6,400   78063   78063
+Nobalanceremainsonthesuspenseaccount.
+ICAB2026   Errorsandcarrectianstoaccountingrecordsandfinancialstatements   191

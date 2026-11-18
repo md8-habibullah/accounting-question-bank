@@ -1,0 +1,47 @@
+1.5   Artificialintelligence
+Definition
+Artificlal intelligence:Artificial Intelligenceinvolvesthe creationanduseofadvanced computer
+systemsto perform tasksthat traditionallyrequire human intelligence.This includes: learning
+from data;reasoningand problem-solving:sensoryunderstanding;language processing;and
+but notalways, involvesusingMachine Learning.
+AlisuedinmanyaspectsflifenowstreamingplatfomssuchasNelixanalyseueswah
+historyto suggestfilms orshowstailored tothat individual'spreferences,enhancinguser
+engagementand,hopefully.satisfaction
+Al isalso increasinglyusedbyaccountants as itisapowerfultoolwhichcan savetimeand
+increase accuracyofpostings.Alcan assistbookkeepers withtherecordingof transactionsby:
+Automatingdata entry:Asignificantamountof time is spententering data fromreceipts,
+invoicesandbankstatements.lfthesedocuments aredigital,Alcanautomatethisprocess
+byextracting relevant informationand recording it in.the accounting software.This will
+significantlyreducemanualworkandhelpreduce errors.
+Categorisationofexpenses:Transactionsneedtobe classified,forexample aninvoice
+mightneedtoberecordedasapaymentofinsurance,stationery,orgoods farresale
+(purchases)This can be time consuming.Often the same suppliers are usedregularlyfor
+the sametypesofexpenses,forexamplea business mightuse EEfor itsmobilephone and
+everymonthan invoicefrom EEwill needtobecoded toPhone expenses.Al canleam
+thatinvoicesfrom EEshauldalwaysbe coded inthiswayandautomaticallycategorisethe
+expense.Al can also categorisenewtransactions bylearmingfrom pastdata entry.This will
+savebookkeeperstimeandreducethechanceoferrors,
+Reconciliations:All thetransactions whicharerecorded inthebank statementwll alsobe
+recorded in theaccounting software.To ensurethatall transactions havebeenrecorded
+correctly.andthebankbalance in theaccounting records is reconciledto thebalance on
+thebank statementprovidedbythebank,Thiscanbealengthyprocess,Alcan streamline
+thistaskbyautomaticallymatchingtransactionsbetweenbankstatements andthebank
+balance in theaccounting records,highlighting discrepaniciesforreview.Moreinformation
+onbankreconciliationsisinChapter6.
+Fraudanderrors:Alcananalysetransactionsforunusualpatterns.orunusualamounts,
+whichmayindicatefraudoreror.ForexampleAlmightalertusers ifasaleisrecordedfor
+overCU100,000when theaverage sale is onlyf=CU50,000.This canhelp identify and
+thereforecorrectissuesearly
+Generatingreports:Alcan assist ingenerating routinefinancialreports freeingup
+bookkeepers'timeformorecomplexanalysis.
+Customerservice chatbots:Al-powered chatbots can answerbasic client questions about
+theiraccounts,reducing theadministrativeburden on bookkeepers.
+Thereare,however,somedisadvantagesofusingAltoassistwithbookkeeping:
+High initial cost: Settingup and implementing Altechnologyrequires a significant initial
+investmentinsoftwareandtraining.Thismaybecost-prohibitiveforsomebusinesses.
+Non-standard transactions:While Al excels at dealing with routinetransactions, it may
+misinterpretmorecomplex items,including itemswhere judgementisneeded,andrecord
+them incorrectly.Theseerrars may notbe identified and corrected.
+Data dependence:Al is reliantonthe data it is trained on Inaccurate or incompleledata
+canlead to errors.Bookkeepersmustverify Al-generatedresults and correctanyerrors.
+Accounting   ICAB2026

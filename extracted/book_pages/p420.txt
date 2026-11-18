@@ -1,0 +1,39 @@
+Total equity   521.000
+Non-currentliabilities
+Long-termborrowings   100,000
+Lease liabifity   58.000
+Current liabilities
+Tradeand other payables (including accruals)   31,000
+Deferred income   2,000
+Short-term borrowings   20,000
+Lease liability   5,000
+Provisions   10,000
+Incometaxpayable   11.000
+79.000
+Totalequityand liabilities   758.000
+Pointsto note:
+Altangibleassets(includingland and buildings)are combined undertheheading property,
+plant and equipment The user would referto the non-current assets note,as covered in
+Chapter10,fordetail.
+Other intangibleassets will includethe carrying amount of purchased intangibleassets
+andthecapitalised costs ofinternallydevelopedintangibleassets.
+Tradereceivables andanyotherreceivables (including VATdue)are combinedastrade
+and otherreceivables; prepayments are included in the headingothercurrentassets.The
+allowanceforreceivables is ofifsetagainst'tradeand otherreceivables
+Cash in handandatbank are combinedas'cash and cashequivalents.
+Anylong-term liabilities such as bank loans ordebt securities thatarenotrepayablewithin
+12months arecombined aslong-termborrowings undernon-current liabilities.
+Redeemablepreferenceshares wouldbeincludedhere.
+There are detailed disclosure requirements for share capital in IAS 1,in particularof the
+issued,fullypaidand partlypaid share capital,and ofthepar value.Thefigure included in
+the statement offinancial position isthe called-up share capital,bothpaidand unpaid.
+Bankoverdrafts,which are technically repayable on demand,arecalled'short-term
+borrowings'.They are not offset against any cash and cash equivalent asset balances,
+unlessarightofset-offexists,
+Tradepayables andotherpayables(includingVAT,sales commission owed,interest
+payableandaccruals)are combined as'tradeandotherpayables.
+Deferredincome is incomethathasbeenreceived before it has beenearned.lt is presented
+as a current liability as it represents the goods or'services that the entitymust transferto its
+customersinrespectoftheincomereceived.
+Incometaxpayable is shown asaseparate itemundercurrent liabilities.
+410   Accounting   ICAB2026

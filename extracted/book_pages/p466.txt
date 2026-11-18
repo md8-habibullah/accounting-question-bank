@@ -1,0 +1,36 @@
+2.12.1 Repayment of non-current interest-bearing borrowings
+In the same way,a reduction in interestbearing borrowings indicates that a loan has been
+repaid, or that loan stock or debentures have been redeemed. It should be assumed that the
+loansarerepaidorloanstockisredeemedforcash.
+2.12.2Dividendspaid
+Cashflows from dividendspaid should bedisclosedseparately.
+UnderlAS7,dividends paid bytheentity canbeclassified in.oneoftwoways.
+(a) Asafinancing cashflow,showingthe costofobtaining financialresources(as inthe
+worked example:cashflows fromfinancingactivities above).This isthepresentation
+adoptedinAccounting.
+(b) Asa componentofcashflows fromoperatingactivities sothatusers canassess the entity's
+abilitytopaydividendsoutofoperatingcashflows.
+Cashflows fordividends paid can be calculatedusing a T-account,
+Contextexample:Dividends paid
+Acompanyhas declared dividendson irredeemablepreference shares of CU7.000.Atthe
+startoftheyearthestatementoffinancialposition includeda liabilityofcU3,5o0for
+preference dividends payable.Atthe end of the yearno amount was owing to preference
+shareholdersin respectofdividends.
+The preference dividend paid forthe year is not simply the CU7o00 declared andreflected in
+retainedearnings as this amountneeds to beadjusted for any opening and closing liabilities.
+DIVIDENDSPAID
+CU
+Cashpayment(balancing   10,500   Balanceb/d
+figure)   3,500
+Balancecd   Retained earnings   7000
+10.500   10,500
+The cashpaid duringthe yearof cU10,500 is the preferencedividend duefromlastyearand
+thewhole of this year'spreference dividend (all paid during theyear).
+Note:Dividends paid on equity shares orpreference shares classified as equitymayhavetobe
+derived from theretained earnings account.
+2.13   Example:Directmethod
+Thefollowing examplestatements ofcash flows areprovidedbyIAs7usingthedirectmethod
+and the indirect method.
+XYZple
+Statementofcashflows (directmethod)(AmountinCU)
+456   Accounting   ICAB2026

@@ -1,0 +1,29 @@
+The objective ofdepreciation
+Section overview
+Depreciation arisesfromthe application oftheaccrual principle.
+againstprofits ineachreportingperiod?
+2.1   Accountingconceptsanddepreciation
+If.the
+assetcontributes to the generationofincomeovera number ofreporting periods itwouldbe
+inappropriatetochargeanysingleperiod (eg,theperiodin whichtheasset wasacquired)with
+thewholeoftheexpenditure.Instead,somemethod mustbefoundofspreading thecost af
+the asset over its useful life,
+2.2   Commondepreciationmisconceptions
+It does notreflectthefall invalue ofanasset overits life.
+It is not'settingasidemoneytoreplacetheassetat the end of its useful life.Even if the
+assetwas notgoing to be replaced,its cost should still beallocated over its useful life.
+Calculating depreciation
+Sectionoverview
+Depreciation is charged tothe statement of profit or loss and accumulated in the
+statement offinancial position in an accumulated depreciation account The carrying
+amountofan itemofPPEis its cost less accumulateddepreciation.
+Depreciation may be calculated on the straight-line basis!
+Cost ofasset-residual value
+Useful life of theasset in years   =Annual depreciation charge
+Alternatively,depreciation maybe calculated on the reducingbalance basis:
+Carryingamount×%tobeapplied=Annualdepreciation charge
+Thedepreciationmethod used should be applied.consistently.Achange in.methodmay
+cause an increased charge.
+If there is a change in the estimate of the asset's useful life orresidual value,thistoo will
+causea change in the depreciation charge.
+318   Accounting   ICAB2026

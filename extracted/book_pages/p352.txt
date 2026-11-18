@@ -1,0 +1,31 @@
+Theassetregister
+Sectionoverview
+The asset register lists out all the details of eachnon-current asset.
+Definition
+chassis numbers and security codes)as well as financial information.
+Anassetregisterismaintained primarilyforinternal controlpurposes.It shows an
+tracefrom its ledgeraccountsfornon-currentassetstoindividualassets.Inacomputerised
+accountingsystem,the asset register and the non-current asset ledgeraccounts will be
+updated simultaneously when transactions relating to non-currentassets arerecorded.
+7.1   Datakept in an asset register
+Details about each non-current assetinclude the following:
+intemal referencenumber(forphysical identificationpurposes)
+manufacturer's serial number (formaintenance purposes)
+descriptionofasset
+locationofasset
+departmentwhichusestheasset
+Purchase/lease commencementdate (for calculation ofdepreciation)
+cost,andanyenhancementexpenditure
+depreciationmethadand estimated useful life (forcalculation ofdepreciation)
+carrying arnount
+Intangible non-currentassets
+Section overview
+Purchased intangibleassets suchas brands and licences should be capitalised and
+amortised overtheir useful life.
+Internallygenerated intangible assets suchas the costs associated with thedevelopment
+of new ideas or products should be capitalised if theymeetspecific criteria.
+Intangiblenon-current.assets should be subjectto reviewsforimpairment of theircarrying
+amount.
+Notall assets heldforthelongterm arephysical itemsthat canbetouchedsomeare
+intangible.
+342   Accounting   ICAB2026

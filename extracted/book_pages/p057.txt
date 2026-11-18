@@ -1,0 +1,42 @@
+that righton the statementof financial position,
+Definition
+Liability:TheConceptualFrameworkstatesthat'aliabilityisapresentobligationoftheentity
+totransferaneconomicresourceasaresultofpastevents.(ConceptualFramework:para.
+4.26)
+Liabilities are akeyelementof financial statements.Examples of fiabilities:
+a bank loan or overdraft:the liability is the amount eventually repaid to thebank
+payables:amounts owed to suppliersforgoods purchasedbut notyet paidfor(purchases
+'oncredit).Forexample,aboatbuilderbuyssometimberoncreditfromatimber
+merchant, so that theboatbuilder does not payforthetimberuntil sometime afterithas
+been delivered. Until the boatbuilderpays what he owes, the timber merchant is a creditor
+fortheamountowed,
+taxation owedto thegovernment.Abusinesspaystax on its profits butthereis a gap in
+timebetween whenabusinessdeclaresits profits(andbecomes liabletopaytax)andthe
+paymentdate,
+Liabilitiesfor whicheconomicresources are expectedto betransterred in thenext12months
+are current Liabilities forwhich economicresources are expectedtobe transferred in more
+than12rnonthsarenon-current.
+ifanasset is leasedandrecognised onthestatementonfinancial positiona corresponding
+lease liabilityisalsorecognised.Theamountrepayableinthenext12monthswillbeshown.as
+a current liability with the remainderas a non-current liability.
+12   The business as a separate entity
+Youmayhave wonderedwhether anentity,suchas a business,can own assets orhave
+theconventionadoptedbyaccountants.
+Manybusinessesarecarried on in theform oflimited liability companies.The owners ofa
+limitedcompanyare its shareholders,whomaybefew in number(as withasmall,family
+ownedcompany)orverynumerous(as withalargepubliccompanywhosesharesarelistedon
+astockexchange).
+The lawrecognisesa companyas a legalentity.quite separate from its owners.Acompany
+may.initsownname,acquireassets,incurdebts,andenterintocontracts,ifa company's
+assetsbecame insufficienttomeet its liabilities,the companyas a separateentitybecomes
+insolvent.However,theownersofthecompanyarenotusuallyrequiredtopaythedebts
+from their own privateresources: the debts are notdebts of theowners, butofthe company.
+The case is differentwhen abusiness is carriedonbyan individual (a soletrader).There is no
+legal separation between a soletraderandthebusiness he/she runs.In mostpartnerships
+there is also no legal distinction.
+Contextexample:Soletrader
+Asoletraderstarts business as a hairdresser,trading underthe business nameQuiff's Hair
+Salon'Thelawrecognises no distinction between the so'etrader.the individual,and the
+businessknown as'Quiff'sHairSalon.Anydebts ofthebusinesswhichcannotbemetfrom
+businessassets must be met fromthe sole trader's personal resources.
+48   Accounting   ICAB2026

@@ -1,0 +1,17 @@
+5 Correctanswer(s)
+BAcompensatingerror
+Acommission error(A)occurswhenthedoubleentryis complete,buttheentriesare
+madeinthewrongaccount(s).An omissionerror(C)occurswhenatransaction is
+completelyomittedfromthe accountingrecords.Anerror.ofprinciple(D)occurswhenthe
+double entry is performed but the wrongtreatment is applied to a transaction.
+6Correctanswers):
+BFalse
+False.Thisisanerrorofomission.
+7.Correctanswer(s):
+DDebitDrawingsCU100,CreditExpensesCU100
+The CU100 paymentwasdebited to expenses when it should have been debitedto
+drawings.To correct the error,we needto credit expenses and debit drawings.
+8Correctanswer(s):
+ACU4,086
+CU20376-CU10.000-CU6290-CU4.086
+172   Accounting   ICAB2026

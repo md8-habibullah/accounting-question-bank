@@ -1,0 +1,34 @@
+Answersto Self-testquestions
+Correctanswer(s):
+ACU22.000debit
+TRADERECEIVABLES
+CU
+Bal b/f(balfigure)   22,000   Cash   50.000
+Sales   125,000   Discounts given to customers   2,000
+Bal elf   95.000
+147,000   147,000
+If youhad answered B,you reversed thedouble entry andsoproducedthetradepayables
+account,In answerD.youomittedthe.discounts given tocustomersfigure; while inanswer
+Cyou put discounts given to customers on thedebit instead of the credit side of the
+account
+2Correctanswer(s):
+DCU500inhand
+CU   CU
+Balanceperbank statement   1,200
+Addreceiptswhichhavenotyetclearedthebank   500
+Adddeposit interestnatyetcredited   50   550
+1,750
+Lesspaymentswhichhavenotyetclearedthebank   (1.250)
+Balance percash at bank account   500
+Correct answer(s):
+AAnerrorofcommission
+Postingatransactiontothe incorrectnominalledgeraccount isanerrorofcommission.
+Correctanswer(s):
+CAnerrorofprinciple
+An error of principle occurs when the'rules'ofaccounting arebroken. Here,thebusiness
+entityconcepthasnotbeenfollowed.
+5 Correctanswerls)
+BAtranspositionerror
+Atranspositionerroroccurswhenthe incorrectamount isrecorded in nominal ledger
+accounts,oftenbymixing upthedigits ina value,ashas occurred in this question.
+200   Accounting   ICAB2026

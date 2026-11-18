@@ -1,0 +1,34 @@
+Answersto Self-testquestions
+1 Correctanswers):
+C The customergoes bankrupt
+Whena customerbecomesbankruptthere isnomoneywith whichtosettlethedebtso it
+mustberegardedasbeing irrecoverable.Acustomersettling onlypan ofanaccount,an
+invoicebeingin disputeanda receiptbeingdishonouredbythecustomer'sbank (ie,it
+being returnedunpaid)mayall becausedbyadministrativeproblems;furtheranalysis of
+the situation willneed to be done before concluding that the debt is irrecoverable.
+2 Corredtanswer(s):
+CDecrease by CU2,000
+The allowance inthestatementoffinancial positionneedstobe increasedbyCU2.000to
+CU4,o00; this will bea charge in the statement of profitorloss whichin turn reduces
+profitby the sameamount.
+3 Correctanswer(s):
+ACU420
+ALLOWANCEFORRECEIVABLES
+CU   CU
+Irrecoverabledebts expense   100   b/d   1,000
+006
+1,000   1,000
+IRRECOVERABLEDEBTSEXPENSE
+CU
+Receivables   600   Cash atbank   80
+Allowanceforreceivables   100
+Statementofprofitorloss   420
+600   600   UHAPTER
+Alternative working:
+Impactonprofitorloss(expense)/income
+CU
+Debtwritten offi   (600)
+Cash received fromdebtpreviouslywritten off   80
+Reduction inallowanceforteceivables(1,000-900)   100
+Totalexpense inprofitorloss   (420)
+082026   trrecoverabledebts and theallowancefor teceivables   269

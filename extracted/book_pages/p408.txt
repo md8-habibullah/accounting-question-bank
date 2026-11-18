@@ -1,0 +1,28 @@
+Answersto Self-testquestions
+Correctanswer(s):
+CU39,000
+CU
+Openingnetassets(85.000+120.000-30000-20.000)or(100+5+50)   155,000
+Closingnetassets(150,000+110.000-40,000-18.000)   202,000
+Increaseinnetassets   47.000
+Lessproceedsofshareissue (25,000×CU1.20)   (30,000)
+Retainedprofitforreportingperiod (67,000-50,000)   17,000
+Addtax.charged   22,000
+Profit beforetax   39.000
+2Correctanswer(s):
+DCU60m
+SHARECAPITAL
+CUm   CUm
+Bal b/d   100
+Bonus issue(100/10)   10
+120   Rights issue (balancingfigure)   10
+120   120
+SHAREPREMIUM
+CUm   CUm
+Bonus issue   Balb/d
+10   220
+Balcid   260   Rights issue (balancingfigure)   50
+270   270
+Thereforetherightsssuewasof10000000sharesatapremumfUpershareToal
+raisedwasCU60,000,000.
+Accounting   ICAB2026

@@ -1,0 +1,38 @@
+Theopening inventoryat1Julywas 50units valued at CU15perunit.Thetraderneeds to
+adopttheFIFOmethod.
+Requirement
+Whatisthe effectof this change on thetrader'sprofit?
+ACU190decrease
+CU420decrease
+CU420increase
+CU190increase
+The inventoryrecords for Simmonslastmonthwereas follows!
+Date   Purchases (units)   Sales(units)
+2February   500
+13February   800
+21February   400
+29February   200
+Openinginventorywas600unitsvaluedatCU12,000.Purchases inFebruarywereat
+CU31.25per:unit.
+Requirement
+Thetotalcostfsales inFebruary.usingtheAVCOmethod,is (tothenearestCU):
+ACU37.000
+BCU28.000
+CCU17.625
+DCU22.000
+7Whatwould be the effect on a business's profit ofdiscovering that inventory witha costof
+CU1,250andanetrealisablevalueof CUi,o00hadbeenomittedfrom.the inventorycount
+at the end of the reportingperiod?
+AAnincreaseofCU1,250
+BAnincreaseofCUi,000
+CAdecreaseofCU250
+DNoeffect
+8.June Ltdhas three lines ofinventoryatthe.end ofits reporting period.
+Original purchaseprice (perunit)   CU1.50   CU6.50   CU5.00
+Estimatedfuturesellingprice(perunit)   CU4.25   CU8.00   CU3.50
+Selling and distribution costs (perunit)   CUO.75   CU2.00   CU0.50
+Units in inventory   100   200   250
+Requlrement
+Whatisthe carrying amountofinventory in thefinancialstatements attheendofthe
+reportingperiod?
+236   Accounting   ICAB2026

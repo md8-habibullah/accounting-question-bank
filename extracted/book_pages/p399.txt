@@ -1,0 +1,25 @@
+Summary
+Statementof financial position   Statementofprofitorloss
+Limitedcompanies
+Accounting fmplications   Accounting Implications
+Taxcharge+averlunder
+Tax liabitity   Separatelegalentity   provision intheSPL
+Equityandreserves
+Nominal sharecapital (NV)   Equity(ordinary)shares
+Shatepremium (premlum)   Irredeemable preference shares
+Otherreceivables (unpald shares)   .Share premium   B/d
+.Retained earnings
+Bonus fssue   Otherreserves   Loss
+DR   Sharepremium   Reserve transfers   XI(X)
+CR   Equityshares   Dividends
+Non-current liabilities
+.Loanstock   Interest/dividendss
+.Redeemable preference shares   Financecosts in SPL
+Long-termbank loans
+Current liabilities
+Provisions
+IAS1formats
+Satistyqualitative characteristicof   CHAPTER
+comparabitity(comparativeyearsfiguresrequlred)
+understandabitity
+ICAB2026   Companyfinancial statemerits   389

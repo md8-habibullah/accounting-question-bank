@@ -1,0 +1,41 @@
+Centraltothis process isthe idea thatevery transactionhastwoeffects,thedualeffect(also
+knownasthedualityconcept).Thisfeatureisnotsomethingpeculiartobusiness,If youwere
+topurchasea carforCU1,oo0 cash,forinstance,youwouldbeaffectedintwoways:
+Youownacar(anasset)worthcU1,000.
+YouhaveCU1,000lesscash(anasset),
+If instead you gota bank loan tomake the purchase!
+Youownacar(anasset)worthCU1,000.
+You owethebank CU1,000 (a liability).
+Amonthlater if youpayagarageCU50tohave theexhaust repaired:
+YouhaveCU50 lesscash(anasset)
+You have incurreda repairsexpense (an expense)of CUs0.
+Ledgeraccounts,withtheirdebitand creditsides,arekeptin awaywhichallowsthetwo-sided
+nature ofevery transactionto be recorded.This is known as double entrybookkeeping.
+because everytransaction is recorded twicein theledgeraccounts,
+3.2   The rules ofdouble entrybookkeeping
+Adebit entrywill:
+increaseanasset   decrease a liability
+increaseanexpense   decrease capital
+decrease income
+Acreditentry will:
+decrease an asset   increase a liability
+decrease an expense   increase.capital
+increaseincome
+Thebasicrule,whichmustalways be observed,is thateveryfinancial transaction gives riseto
+(at least) two accounting entries, one a debit and the othera credit.The total value of debit
+entries inthenominal ledgeristhereforealwaysequal tothetotal value ofcreditentries.
+Whichaccountreceives the credit entry and which receives the debitentrydepends onthe
+nature ofthetransaction.
+An increase in an expense (eg,a purchase ofstationery)oran increase in an asset(eg,a
+purchaseof office furniture)is a debit.
+An increaseinincome (eg,a sale)oran increase ina liability (eg,buyinggoods on credit)
+or capital isa credit.
+Adecrease inan asset(eg,makinga cashpayment)oradecreaseinan expenseisa
+credit.
+CHAPTER
+Adecrease in aliability(eg.payingacreditsupplier)orcapitalorincome isadebit
+IntemnsofT accounts,forassets,liabilitiesandcapital:
+ASSET
+DEBIT   CREDIT
+Increase   Decreas
+ICAB2026   Ledger accountingand doubleentry

@@ -1,0 +1,34 @@
+Interactive question 3:Ledger entries
+Ryderset upabusiness seling fitnessequipmentTheyputCU7,000oftheirownmoney into
+businessbankaccount(transactionA)and intheirfirstperiodoftrading,thefollowing
+transactions occurred.
+Transaction
+Paid rent of shop for the period   3,500
+Purchasedequipment(inventories)oncredit   5,000
+Loanfrombank   1,000
+Purchase of shop fittings (for cash)   2,000
+Sales ofequipment:cash   10,000
+Sales of equipment:on credit   2,500
+Paymentsto creditsuppliers   5,000
+Receiptsfrom creditcustomers   2,500
+Intereston loan (paid)   100
+Otherexpenses (all paid in cash)   1.900
+Drawings   1,500
+IgnoreVAT.
+Requirement
+Preparethe ledgeraccounts forRyderbyopeningupthefollowingaccounts and completing
+them:
+cashatbankaccount   rent   purchases
+capital   shop fittings   loan interest
+loan   sales   otherexpenses
+tradepayables   tradereceivables   drawings
+See Answerat theend of this chapter.
+Journal entries
+Section overview
+Jaurnal entrieshaveaparticularformatthatyou shoulduse.
+Journals can be usedtorecordanytype offinancial transactionbutaremainlyusedto
+recordtransactionsthatareone-offorunusual innature.
+4.1   What are journal entries used for?
+A journal entry is a way of presenting the required double entry (debits and credits) fora
+transaction.Anytransactioncanberepresentedbya journalentry.Howeverjournalentriesare
+118   Accounting   ICAB2026

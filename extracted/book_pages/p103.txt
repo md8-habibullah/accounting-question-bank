@@ -1,0 +1,39 @@
+2.7   VAT
+Value addedtax VAT)is a sales taxadded tomost sales invoices in Bangladesh.Details for
+calculatingandrecording VATarediscussed in Chapter 4.As wellas thesale orpurchase
+amount,thebusiness also normally needs to record VAToneach invoiceorcredit note.This
+amount will ultimately be paidto or received from VAT Authority.
+2.8   Othersourcedocuments
+Sofarwehaveonlyconsidredsourcedocumentsforsalesandpurchases oncredit,ie,sales
+and purchase invoices and credit notes.Other source documents are also used for
+transactionsinvolving settlementofcredittransactions(bydigitalwallet,cardpaymentorbank
+transfer),cash,wages andothermatters,as weshall see.
+Interactivequestion3:Sourcedocuments
+Elephantsoldgoodson.credittoJackalforCU860.Jackal returned CU20ofthesegoodsas
+theywere of substandard quality,
+Requirement
+Whatare the source documents thatprovide the information.to be recorded in Elephant's
+accountingsystem?
+SeeAnsweratthe.endofthis chapter.
+Recording bank transactions
+Section overview
+CHAPTER
+Businesseshave constantand instantaccess to theirbank accounts via electronicbanking.
+Electronicbankingallows abusinesstocreateatransaction reportatanypoint intime.
+Transaction reports are source documentsfortransactions throughthe cash atbank
+account.
+Some businesseshave accouniting software packages whichare integrated with electronic
+banking systems,allowingbankingtransactions to berecorded directly in thebusiness's
+accountingsystem,
+Manyaccounting softwarepackages use Alto automaticallymatchreceipts and payments
+onthetransactionreporttoinformation.within.thesystem.regardingpurchases,salesand
+othertransactions,andaccountforthereceiptorpaymentaccordingly.
+Less sophisticatedsoftwarepackageswill requireatransaction reporttobedownloadedfrom
+the electronicbanking system whichcan then be used byabookkeeperto entertransactions
+intothebusiness'saccountingsystem.
+3.1   Electronicbanking
+Electronicbanking has changed howbusinesses record transactions through thebank.
+Traditionally,a business'bookkeeperwouldmaintaina separate cashbook in whichall bank
+andcashtransactions were recorded,Atthe end ofeachmonth,thebank would sendthe
+business a bank statement.The bookkeeper would then use the bank statementto check the
+ICAB2026   Recording financialtransactions   E6

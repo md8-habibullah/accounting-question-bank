@@ -1,0 +1,34 @@
+agreement.
+(IFRS15:paras.9.22,31,38,46,4773)
+Workedexample:Revenuerecognition
+Atlas Ltd sells tools and hardwarewholesaletoDIYstores.On12April20X4itagreeda
+contract withGiobeLtdtosupplyitwith1000hammers.Thehammersweredispatchedby
+Atlas Ltdon29April20X4.AtlasLtdremainedresponsibleforthehammersuntiltheywere
+delivered toGlobeLtd on1May20X4.Globe Ltd paidfor thegoods an1 June20X4.
+Requirement
+On whichdateshould Atlas Ltd recognisetherevenuefrom the saleofthehammers?
+Solution
+theperformanceobligation isthesupplyofhammersto Globe Ltd.AtlasLtd satisfiedthis
+obligationwhencontrolofthehammerswaspassedtoGlobeLtd.Thistookplaceon1May
+20x4when.thegoods were delivered toGlobeLtd.Therefore,AtlasLtd shouldrecognisethe
+revenue fromthe saleofthe hammers on1May20x4.
+10 The regulatoryframework forcompany
+financialstatements
+Section overview
+Extensiveregulationcoversthecontentandfomatofcompanyfinancialstatements,and
+themethods usedto prepare some,ifnotall,ofthefigures.
+Prescribedtreatmentsenableusersto findinformationandtomakecomparisons more
+easily.
+Thestatementofprofitrlossshouldusuallycoverareportingperiodf12monthsBoth
+thestatement of profitorloss andthe statement of financial positionmustbeclearly
+namedand dated.
+Companyfinancial statements preparedforexternal publication areextensively regulated to
+protect investorswhouseinformationtomakeeconomicdecisions,especiallywhen
+comparing differentcompanies.Publishedfinancial statements are therefore prepared on the
+samebasis byall companies so investors can makemeaningfulcomparisons.Rules and
+regulations are applied to:
+content:what information thefinancial statements should contain,and what supporting
+information should go.withthem
+accounting concepts:how figures shouldbe prepared
+presentation:how the financial statements should be presented
+386   Accounting   ICAB2026

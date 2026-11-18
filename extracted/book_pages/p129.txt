@@ -1,0 +1,36 @@
+generallyused torecord unusualorone-offtransactions,suchasthecorrectionofan error
+(covered inChapter6),
+IntheAccountingexamyoumaybeaskedforthejourialentrytorecordaparticulartransaction
+Forwhatever'type oftransaction is being recorded, theformatofa journal entry is as follows:
+Date   Debit   Credit
+CU
+Account tobedebited
+Accountto be credited
+Anarrativeexplanation should accompanyeach journal entry.It isrequiredforaudit and
+control,to indicatethe purposeandauthorityofevery transaction.
+Acomputerised accountingsystemwillnotallowa journal entrytobeprocessed ifthedebit
+entriesdonotequal the credit entries.
+Workedexample:Journalentriestorecordtransactions
+Thefollowing isasummaryofthetransactionsofHaira soletrader-ownedhairdressing
+business!
+1January   Put in.cash of CU20,000as capital
+Purchasedfixtures andfittingsforcash.ofCU5,o00Purchased
+equipmentoncreditforCU2.000
+30 January   Paidthreemonthsrentto31MarchCU1,500
+CollectedandpaidintakingsCU600
+31January   GavearegularcustomerahairtreatmentforCU8ooncredit
+31January   TookoutCU100forpersonal expenses
+Requirement
+Showthetransactionsbymeans of
+journal entries.
+Solution Journal
+CU   CU
+1January
+DEBIT   Cash at bankaccount   20,000
+CREDIT   Capitalaccount   20,000
+Initialcapital introduced
+1 January   CHAPTER
+DEBIT   Fixtures andfittings (non-current asset)   5,000
+CREDIT   Cashatbankaccount   5,000
+The purchasefor cash of fixtures and fitings
+ICAB2026   Ledger accountingand double entry   119

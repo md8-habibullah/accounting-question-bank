@@ -1,0 +1,39 @@
+5.1   How is a basic statementof financial position prepared?
+We shall now look at howthe varioustypes ofassets and liabilities are shown in a business's
+statementoffinancial position (lAs 1format).Youmight liketoattempttoprepare ityourself
+fromtheinformation provided beforereading thesolutionwhichfollows.
+Worked example:Statementof financial position
+Prepareastatementof financial positionfor SunkenArchesas at31December20X6,given the
+informationbelow.
+Capital asat1January20X6   51,100
+Profitfortheyearto31December20X6   8,000
+Premisescarryingamountat31December20X6   50.000
+Motorvehicles,carryingamountat31December20X6   0006
+Fixturesandfittings,carryingamountat31December20x6   8,000   HARTER
+Non-currentloan   25,000
+Bank overdraft*   2,000
+Inventories   16,000
+Tradereceivables   500
+Cash in hand*   100
+Trade payables   1,200
+Drawings   4,000
+Accruedcostsofrent   600
+Prepaymentofinsurancepremium   300
+*A shop mighthave cash in its cash registers, butan overdraft at the bank.
+Solution
+Sunken Arches
+Statementof financial positionas at31December20X6
+CU
+ASSETS
+Non.currentassets
+Property.plantand equipment
+Premises   50,000
+Fixtures andfittings   8.000
+Motor vehicles   9.000
+67.000
+Currentassets
+Inventories   16,000
+Tradeand ather receivables   500
+Prepayments   300
+Cashandcashequivalents   100
+ICAB2026   The accountingequation   65

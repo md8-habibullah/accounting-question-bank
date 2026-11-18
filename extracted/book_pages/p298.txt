@@ -1,0 +1,35 @@
+DISTRIBUTIONCOSTSACCOUNT
+CU
+20X6   20X6
+31 JulyCashatbank   3,000
+31OctCashatbank   3,000
+31Dec Statementofprofitor
+31DecAccruals   2,000   loss   8,000
+8,000   8,000
+20X7
+1JanAccrualreversed   2,000
+The corresponding credit entry would beto cashat bank ifthe amounts arepaid
+without the need for an invoice-eg,with paymentbybank transfer or direct debit at
+the bank.Ifthere is always an invoice when thedistribution.costs become payable,
+the double entry would be:
+DEBIT   Distribution costsaccount   CU2,000
+CREDIT   Payables   CU2000
+Then when the distribution costs are paid, the ledger entries would be!
+DEBIT   Payables   CU2,000
+CREDIT   Cashatbank   CU2,000
+The rent accountforthe nextyearto31December20X7,assumingno increase inrent in that
+year,would be asfollows:
+DISTRIBUTIONCOSTSACCOUNT
+CU   CU
+20X7   20X7
+31JanCashatbank   3.000   1JanAccrualreversed   2,000
+30AprCashatbank   3,000
+31Jul Cashatbank   3,000
+31OctCashatbank   3,000
+31DecStatementofprofitor
+31DecAccruals   2,000   loss   12,000
+14,000   14,000
+20X8
+1JanAccrualreversed   2,000
+Afull 12months'distribution costs aretakenas an expenseto the statementofprofitorloss.
+288   Accounting   ICAB2026

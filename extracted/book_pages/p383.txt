@@ -1,0 +1,37 @@
+We shalook at the transfer to general reserve shortly.
+Thebalance carried down on the retained earnings ledger account represents the company's
+accumulatedtsandossstmoutfwhichimayifiwihsaydividnsi
+shareholders in the future.
+Otherreserves
+Acompanymighthaveotherreserves in itsfinancial statements,often asaresultoffollowing
+therequirements ofiFRSAccounting Standards,suchas arevaluation surplus thatariseswhen
+non-current assets are revalued upwards.
+Dividends
+Sectionoverview
+An equity (or ordinary)share entitles its holderto dividends whichvaryin amount
+depending onthe perforimanceandpolicy ofthe company.
+Dividendspaidon equity shares are paidout of retained earnings.
+Apreference share entitles the holdertoa fixed dividend,whose paymenttakes priority
+overthat of ordinary sharedividends.
+Dividends paid on irredeemable preference shares are paid out of retained earnings.
+Dividends paidonredeemable preference shares aretreated as a finance cost (interest
+expense)ofthecompanyandareincluded inthe statementof profitorloss.
+4.1   Equitydividends
+Thedividend to be paid to the shareholders is decided by the board ofdirectors.The dividend
+ratecanbe expressedin anumberofdifferentways.
+Context example:Equity dividendsI
+Equitydividendscanbequoted in termsofthepenceamounteachsharereceives,for
+example,theequityshare informationmayappear inthetrialbalanceasfollows:
+DR   CR
+CU   CU
+Ordinarysharecapital (CU1pershare)   400,000
+Thecompany paid an'equitydividendof 5p per share.
+This means thatthe dividend paid amounts toCU20000.This iscalculatedbymultiplying
+400,000sharesby5p.
+Number of shares in issue
+When you calculate dividends it is veryimportantthatyou establishthenumberofshares in
+issue.
+Ifthe nominal value of shares is CU1,and thevalueoftheordinary share capitalaccountis
+CU500,000,thatmeansthereare500,000ordinaryshares in issue
+(CU500,000/CU1)
+ICAB2026   Companyfinancialstatements   373

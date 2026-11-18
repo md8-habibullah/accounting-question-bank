@@ -1,0 +1,36 @@
+Interactivequestion 1:Irrecoverabledebts written off
+At1October20X5a business had totaloutstandingdebts ofCU8,600.During the12-month
+(1) Creditsales CU44,000.
+(2)PaymentsfromcreditcustomersCU49,000.
+(3)Twodebts,forCU180andCU420,weredeclaredirrecoverableandthecustomersareo
+longer purchasinggoods from the company.Theseare lobe written off.
+Requirement
+Prepare the trade receivables account and the irrecoverable debts expense account for the
+teporting period.
+See Answerat the end ofthis chapter.
+3.2   Allowancefor receivables:ledgeraccountingentries
+Torecap,thefollowing journalentriesarerequiredtorecord an allowanceforreceivables:
+DEBIT   Irrecoverabledebtsexpense   CUX
+CREDIT   Allowanceforreceivables   CUX
+When preparing the statement offinancial position,the creditbalance on the allowancefor
+recelivables account is deducted from thebalance on thetrade receivables account (an asset
+account,thereforeadebitbalance).
+Insubsequentreporting periods,theallowaniceforreceivables will be adjustedasfollows
+Carrydown the new allowance required inthe allowance forreceivables account.
+Calculate the charge or creditto the statement of profit orloss.
+Ifthe allowance has increased:
+DEBIT   Irrecoverabledebtsexpense   CUX
+CREDIT   Allowanceforreceivables   CUX
+With the amount of the increase. If the allowance has decreased:
+DEBIT   Allowanceforreceivables   CUX
+CREDIT   Irrecoverabledebtsexpense   CUX
+With the amount of the decrease.
+Note: Anallowance CANNOT be a debit balance,so the maximum amount of anydecrease   CHAPTER
+will betoreducetheallowancetonil.
+Worked example: Accounting entries for the allowancefor receivables
+1Alex has total trade receivables outstanding at 31December 20X2 of CU28,000.They
+expect that 1%of thesebalances may not be collected andwishto make an appropriate
+allowance.Before.now,Alexhas notmade anyallowanceforrecelivables at all
+On31December20X3,Alexstradereceivables areCU40,000.Alex believes anallowance
+of5%needstobemadeagainsttradereceivables,
+ICAB2026   Irrecoverabledebts and the allowance forreceivabtes   257

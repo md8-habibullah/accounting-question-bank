@@ -1,0 +1,31 @@
+PURCHASES
+Statementofprofitorloss
+RENT
+CU   CU
+Cash atbank a/c   3.500   Statementofprofit or loss   3,500
+SALES
+CU   CU
+GJOE
+Statementofprofitorloss   12.500   Cashat bank alc   10,000
+Tradereceivables   2.500
+12,500   12,500
+BANKLOANINTEREST
+Cashatbankale   100   Statementofprofitorloss   100
+OTHEREXPENSES
+CU   CU
+Cashatbank a/c   .900   Statement ofprofit orloss   1.900
+Preparingthestatementoffinancialposition
+Section overview
+To preparethestatementoffinancial position,a pro forma isfirst prepared with the
+relevantassets,capitaland liabilitiesheadingsincluded
+Theassets,liabilitiesopeningcapitalanddrawingsaretransferedfromthetrialbalance
+tothestatementoffinancial positionproforma.
+Theprofitorlossfortheyearfromthestatementof profitorloss isthen includedaspartof
+capital.
+The totalassets are added and thetotal capital and liabilities are added.Thetotal assets
+should equalthetotal capital and liabilities to showthatthe statementoffinancial position
+balances.
+4.1   Howtopreparethestatementoffinancialposition
+Wehavethe cash,capital, drawings,bank loan,trade payables,non-current assets and trade
+receivablesaccountstobalanceoff.
+154   Accounting   ICAB2026

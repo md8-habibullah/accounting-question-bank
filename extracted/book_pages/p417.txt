@@ -1,0 +1,38 @@
+1.2   Otherincome
+Income otherthan revenue orfinance income (investment income)shouldbepresented
+separatelyindeterminingoperatingprofitExamplesofother income include:
+rentreceivedfrompropertythat isrentedtothirdparties
+.insuranceclaimproceeds
+profits on disposal ofnon-currentassets (youmaybeadvisedthatthis shouldbe
+presented within an expense category rather than separately being presented in other
+income)
+1.3   Financeincome
+Finance income (investment income)will bepresentedseparately in the statementofprofitor
+loss.in
+Accounting,financeincomemayinclude:
+dividends received on investments
+interest'received on savings
+1.4   Finance costs
+Financecosts,sometimereferredto as interestexpenses,are a separate expense category.In
+Accounting,financecostsmayinclude:
+interest payable onbank loans and overdrafts
+interestondebtsecurities
+Interactive question1:Statement of profit orloss
+You are preparing thefinancial statements for MarrakeshLtd forthe yearended 31December
+20x8.Youhavebeen provided withthefollowing extractfromtheinitial trial balancewhich
+was extracted from the accounting software!
+Sales   489,401
+Inventoriesat1January20x8   83.496
+Purchases   202,679
+Distributioncosts   23,890
+Administrative expenses   101,436
+Interestpaidonbankloans   13.805
+Interestreceivedonsavings   862   CHARTER
+Thefollowing information is now available and mayresult in adjustments being neededto the
+amounts shown in thetrial balanceabove:
+(1)Depreciation onbuildings has been correctly calculatedas CU42,5oobut hasnotyetbeen
+accountedfor,Depreciationshould be included within administrativeexpenses.
+(2)The year-end inventory counthasbeen completed.Inventory costing CU88,905hasbeen   12
+counted,howeverthis includes an inventory line witha cost of CU4,560 whichisexpected
+tobesoldatCU3,875.
+ICAB2026   Companyfinancial statementsunderIFRS Accounting Standards   407

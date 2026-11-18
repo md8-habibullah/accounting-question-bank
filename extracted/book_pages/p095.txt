@@ -1,0 +1,36 @@
+Computerisedaccountingsystems
+Section overview
+The majority of businesses record their financial transactions using a computerised
+accounting system.
+Computerised accounting systems rangefrom simple,off-theshelfaccountingsoftware
+packages used bysmall businesses forrecording day-to-daytransactions,tobespoke
+systems thatfully integrate with otherbusiness systems in place inlarge and complex
+businesses,
+Thedevelopment of cloud accounting software in recentyearshas changed how
+computerisedaccountingsystemsareusedandaccessed.
+11   Accountingsystem
+Anaccountingsystem isthesystem in placewithinabusiness to allowittorecord,processand
+storefinancial information.An accounting system enables a business to satisfy the requirement
+forbusinessestomaintain.records oftheirfinancial transactions andallows ittoproduce
+relevantand'reliable informationforstakeholders.
+Historically,accounting systems consistedofseveral largebooks in whichthebookkeeper
+would entereachtransaction by hand.A lotofthelanguage still used inaccounting,suchas
+bookkeeper,orreferringto thebooks ofa companystem fromthiswayofmaintaining
+accountingtecords.InAccounting.werefertothistraditionalwayofrecordingtransactions,
+usingbooksandpencils,asamanualaccountingsystem
+Thevastmajorityofaccountingsystemsarenowcomputerised.However,accountants sill
+needto understandthe accounting principles and processesthat liewithin a computerised
+system.As such,althoughwe will assumethe useofcomputerised accouniting systems   CHAPTER
+throughoutthis Workbook wewilluse some aspects ofamanual accounting systemto illustrate
+offinancialinformation.
+Atabasiclevel,computerisedaccountingsystems,likeallsystems,haveinputs,processesand
+outputs:
+Figure3.1:AccountingSystem
+Inputs   Processes   Outputs
+++
++Sourcedocuments   Ledgers   Reports
+Standing data   Journals   Triatbalance
+Calculations   -Financialstatements
+Recordkeeping
+These terms willbeexplained in detail as we progress through the Workbook.
+ICAB2026   Recordingfinancial transactions   85

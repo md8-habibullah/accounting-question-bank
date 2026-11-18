@@ -1,0 +1,38 @@
+Worked example:Dividendson preference shares
+Lewis Ltd prepares its financial statements to31March20X5.It has thefollowing preference
+shares in issue:
+Preference share   CU
+5%irredeemablepreference sharecapital   100,000
+8%redeemablepreferencesharecapital   50,000
+Thedividendon the irredeemablepreference share capital was paid on31March20X5.The
+dividend on the redeemable preferenceshare capitalwhichrelates to the year ended31
+March20x5waspaid.on14April20x5
+Requirement
+Prepare the joumal entriesto record the preference dividends paid,
+Solution
+5% irredeemable preference share capital
+Thedividend paid is CU100,000×5%=CU5,000.The journal entry is;
+DEBIT   Retained earnings   CU5,000
+CREDIT   Bank/cash   CU5,000
+8%redeemable preference share capital
+Thedividendpaid isCU50000×8%=CU4,000.Thejournalentryis:
+DEBIT   Finance costsP/L   CU4,000
+CREDIT   Accruedinterest   CU4,000
+Note: As the dividend is not paid until afterthe year end,it shouldbe an accrued expense at
+the year end date.
+OHARTER
+4.3   Calculating the dividends from retained earnings
+Retained earnings comprisetheprofits thatthe company retains within'thebusiness, ie,profits
+that have not been paid out as dividends ortransferred to any other reserve.
+In some cases,you maybe expectedto calculate thedividends paid during the period without
+any informationregarding the dividend ratetobe paid.Instead,you need to understand the
+compositionofretained earnings.
+Retained eamings is calculatedas;
+Openingretained earnings+profitfortheyear(or-lossfortheyear)-dividends paid inthe
+year.This equation canbeusedto calculate dividends paid.
+Interactive question 2:Dividends and retained earnings
+Theretainedearningsofa companyat 1 January20X5were CU800,000.The retained
+earningsat31December20X5areCU1,140.000.Theprofitfortheyear isCU370,000.
+Requirement
+What was thetotal dividend paid during the year? See Answer at the end of this chapter.
+ICAB2026   Companyfinancialstatements   375

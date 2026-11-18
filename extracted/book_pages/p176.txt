@@ -1,0 +1,26 @@
+5When an errorin a debitentry is cancelledoutbyan errorin a creditentry,thisiscalled
+AAcommissionerror
+BAcompensatingerror
+CAn omissionerror
+D Anerrorof pninciple
+6An errorhas led to Ebonyomitingbank charges of CUsofrom theaccounting records.
+Thiscouldhavebeen causedbyan errorof commission.
+ATrue
+BFalse
+Asoletraderhas justrealisedthatdrawings ofCU100 wereentered intotheaccounting
+tecords asa debitto expenses and a creditto the cash at bank accountWhat is the journd
+entryrequiredtocortectthiserror?
+ADebitCashatbankaccountCu100,CreditDrawings.CU100
+BDebitDrawingsCU100,CreditCashatbankaccountCU100
+C DebitExpensesCU100,CreditDrawingsCU100
+D DebitDrawingsCU100,CreditExpensesCU100
+At31December 20x6 Reyes'total assets are Cu20.376and thenon-current liabilities are
+CU10,000.If the current liabilities areCU6,290 then thecapital balance at 31December
+20x6mustbe:
+CU4.086
+CU16,666
+CU24.086
+DCU36.666
+Now go backtothe Introductionand ensure that you have.achieved the Learning outcomes
+listed forthis chaptet.
+Accounting   ICAB2026

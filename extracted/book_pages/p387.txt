@@ -1,0 +1,35 @@
+Thecompanydecidestomakea1for3rights issueforcash,fullypaid,atapriceofCU1.80
+per share.
+Requirement
+Calculate the balances for
+(a)Currentassets
+(b) Sharecapital
+(c) Share premiumafterthe rights issue,
+SeeAniswerattheendofthis chapter.
+5.2   Bonus issues of shares
+Definition
+Bonus issue (orcapitalisationissueor'scrip issue):An issue offullypaid shares to existing
+owners,freeofcharge,inproportiontotheirexisting shareholdings.
+Abonus issue doesnotinvolveany cash inflowforthe company.The companyconverts some
+of its reserves (share premium orretained earnings orboth)intoa new fullypaid sharecapital
+issued at its par value.Thedouble entry forthepar value of the bonus shares issued is:
+SharepremiumarRetainedearnings orboth   CUX
+CREDIT   Share capital   CUX
+Thebalance on share premiumcannot (bylaw)be paidto owners as dividends.There areonly
+a fewtransactions that can ever reduce share premium.One ofthese is a bonus issue of
+shares.
+Note:In an exam you should assume thata company uses the share premium accountas fully   GHAPTER
+as it can before using retained earnings, unless told othenwise.
+Context example:Bonus issue
+Acompanyhasthefollowingstatementoffinancialposition,
+"000
+ASSETS   30.000
+EQUITYANDLIABILITIES
+Equity
+Sharecapital:equitysharesofcU1each   5,000
+Sharepremium   1,300
+Retainedeamings   9,700
+Total equity   16.000
+Total liabilities   14.000
+Total equityand liabilities   30.000
+ICAB2026   Companyfinancial statements   377

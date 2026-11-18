@@ -1,0 +1,31 @@
+Solution
+Asat28February20x7,notelephonebill had beenreceived inrespectofthe firstquarterof
+20x7 because it was not duefor another month.However,the accrual principlemeans we
+cannotignorethetelephoneexpensesfor JanuaryandFebruary,andsoanaccrualofCU24is
+made,beingtwothirdsof thefinal bill of CU36.
+The telephone expenses for the yearended 28February 20X7are as follows:
+1March-31March20X6 (notelephone)   0.00
+1April-30June206   23.50
+1July-30September20X6   27.20
+1October-31December20X6   33.40
+1January-28February20X7(twomonths:CU36×2/3)   24.00
+108.10
+The accrual will be shown inthe statement of financial position of thebusiness as at 28
+February20x7asacurrentliability.ltisaliabilitybecausethebusinesshasanobligation
+payfor the expense in the future,The journal entry to record the accrual is:
+DEBIT   Electricityexpense   CU24
+CREDIT   Accrual (current liability)   CU24
+Interactivequestion1:Accruals1
+Cleverley started inbusiness as a paper plate and cupmanufacturer on1 January20x2,
+preparingfinancialstatementsto31December20x2.Cleverley is not registeredforVAT.
+Electricitybillsreceived in respectof chargesfortheprevious quarterwere asfollows:
+20X2   20X3
+31January   491.52
+30April   279.47   400.93
+31July   663.80   700.94
+31October   117.28   620.00
+Requirement
+What istheelectricity expensefor the year ended31December 20x2?Prepare a journal
+entryto record the accrualasat31December20X2.
+SeeAnswerattheendofthis,chapter.
+280   Accounting   ICAB2026

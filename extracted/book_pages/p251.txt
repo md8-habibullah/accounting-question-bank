@@ -1,0 +1,30 @@
+Answersto Self-testquestions
+Correctanswer(s):
+COpening inventory+purchases-closing inventory+delivery inwards
+Correct answer(s):
+CCU12.000
+CU
+Openinginventoryvalue(balancingfigure)   12,000
+Addpurchases(inc.deliveryinwards)   15,000
+27.000
+Lessclosinginventory   13.000)
+Cost of goods sold   14,000
+If youpickedA,then youwronglyincludeddeliveryoutwards in costofgoods sold.If you
+chose B,then youused the delivery outwards instead ofthe delivery inwards figure in your
+calculations.WithD,youignoreddelivery inwardsandoutwards altogether.
+Goods arestolenor lost Goods aredamaged Goods are obsolete
+Correctanswer(s):   CIAPTER
+CCU1,700
+Closinginventory=40+60-50+70-45+80=155units
+CostonaFIFObasis
+Date of purchase   Total cost
+Units   CUper   CU
+unit
+24 May   80   880
+15 May   70   11   770
+2 May   51   10   50
+155   1.700
+Cortectanswers):
+DCU190increase
+Closinginventory-50+100+50+80-80-40-20140unitsClosing inventoryunderFIFO
+CAB2026   Costofsales and inventories

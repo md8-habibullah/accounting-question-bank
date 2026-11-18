@@ -1,0 +1,45 @@
+3.9   FrameworkofAccounting
+3.9.1   Preface
+The Conceptual Frarnework recognises that constitutional arrangements andmethods of
+public service operation vary across the globe and that the primary objective of most public
+sector entities is to deliver services to thepublic rather than to make profits and generatea
+retumonequityto investors.Therefore,financial reportingbypublic sectorentitiesneedsto
+provideadditional supporting information to thefinancial statements todemonstrate
+accountabilitytousers andto satisfytheirdecision-making requirements,
+The characteristics of thepublicsectarthatthe IPSASB has considered in the developmentof
+theConceptualFrameworkaregivenbelow-
+Non-exchangetransactions-where anentityreceivesvaluefrom anotherpartywithoutgiving
+approximatelyequalvalueinexchange.
+availableabudgetapproved bythelegislature,
+Nature and longevityof public sectorprograms-manypublic sector programs arelong term
+andrequirefunding from futuretaxation and contributions.
+Natureand purpose ofassets and liabilities-in the public sectorthe primary reason for
+holding assets is for their service potential rather than for their ability to generate cash flows,
+Regulatoryroleof public sectorentities-manygovernments and public sectorentities have
+regulatorypowerstosafeguard public interesteitherdirectlyorthroughspecificallycreated
+agencies.
+Relationshiptostatisticalreporting-withregardstofinancialinformationmanygovernments
+produce bothgeneral purpose financial reports and govemment finanice statistics.Whilst there
+is someoverlapbetweenthetworeporting frameworks,IPSAS andgovernmentfinance
+statistics reportingguidelines havedifferent objectives and this may lead to the different
+treatmentofsometransactions and events.
+3.9.2   RolesandAuthority
+Role:The role of the Conceptual Framework is to establishthe conicepts that underpin general
+purposefinancial reportingby public sectorentities (excluding Government Business
+Enterprise (GBEs)thatadopttheaccrualbasis ofaccounting.
+Authority:The Conceptual Framework doesnot establish authoritative requirements for
+financialreportingbypublicsectorentities andnordoesis override therequirements ofiPSAS
+but itcan provide guidance indealing with issues notdealt with in IPSAS,
+General Purpose Financial Reports:GPFRare an essential componentof transparentfinancial
+reportingbypublic sectorentities.GPFRare intendedtomeettheneedsofuserswhoare
+unableto requirethepreparationof financial reportstailoredtomeettheirspecificneeds.The
+scope of financial reporting establishes theboundary around thetransactions and otherevents
+reported in the general purposefinancial reports.It is determined bythe information needs of
+theprimaryusersoftheGPFR.
+Applicability:The ConceptualFrarinework appliesto financial reportingbypublic sector
+entitiesotherthan GBE.Therefore,itappliesto GPFRof national,state/provincial andlocal
+governments,Italso appliestoa.widerangeofotherpublicsectorentities including
+governmentministries,departments,programmes,boards,comissions,agencies,public
+sectorsocial securityfunds,trusts,andstatutoryauthorities and international govemmental
+organisations that are public sectorentities.
+508   Accounting   ICAB2026

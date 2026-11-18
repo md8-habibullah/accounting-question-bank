@@ -1,0 +1,168 @@
+    Chapter 3: Recording ﬁnancial transactions
+1   A business paid out £12,450 in net wages to its employees. In respect of these wages, the following
+    amounts were presented in the statement of ﬁnancial position.
+
+                                                                                                              £
+    Pay as you earn (PAYE) payable                                                                     2,480
+    National Insurance (NI) payable
+        – employees’                                                                                   1,350
+        – employer’s                                                                                   1,500
+
+    No other deductions were made.
+    Requirement
+    Employees’ gross wages, before deductions, were:
+    A   £12,450
+    B   £27,450
+                                                  12450 + 2480 + 1350 = 16,280
+    C   £16,280
+    D   £17,780
+                                                                                                           LO 1d
+
+
+2   Which of the following is a source document that would be recorded in an entity’s cloud-based
+    accounting software?
+    A   Debit note
+    B   Credit note
+    C   Sales order
+    D   Purchase order
+                                                                                                           LO 1c
+
+
+3   Which of the following best explains the imprest system of petty cash?
+    A   Each month an equal amount of cash is transferred into petty cash.
+    B   The exact amount of petty cash expenditure is reimbursed at intervals to maintain a ﬁxed ﬂoat.
+    C   Petty cash must be kept under lock and key.
+    D   The petty cash total must never fall below the imprest amount.
+                                                                                                    LO 1c, 1d
+
+
+4   At 1 April, a business had a balance of £100 (the imprest amount) in petty cash. At the end of April, it
+    had vouchers totalling £38, a receipt for a refund for stationery of £4 and a note to say that an
+    employee was reimbursed £12 in respect of postage costs, but no voucher was issued.
+    Requirement
+    How much does the business need to reinstate its imprest balance at 30 April?
+    A   £34
+    B   £46
+    C   £54
+    D   £66
+                                                                                                           LO 1c
+
+
+
+    ICAEW 2024                                                        3: Recording ﬁnancial transactions      11
+5   The following data has been extracted from the payroll records of Kleen Ltd for the month of
+    February 20X1.
+
+                                                                                                        £
+    Pay as you earn (PAYE)                                                                         17,000
+    Employer’s national insurance (NI)                                                              7,500
+    Employees’ national insurance                                                                   6,000
+    Cash paid to employees                                                                         50,000
+
+    Requirement
+    The wages and salaries expense for the month is:
+    A    £50,000
+    B    £56,000
+    C    £74,500                             50,000 + 17000 + 6000 + 7500 = 80,500
+    D    £80,500
+                                                                                               LO 1c, 1d
+
+
+6   When a purchase invoice is received from a supplier which two of the following documents would
+    the invoice be checked to before it is recorded in the cloud-based accounting software?
+    A    Sales order
+    B    Purchase order
+    C    Remittance advice
+    D    Goods received note
+    E    Credit note
+                                                                                                    LO 1c
+
+
+7   George purchases goods on credit from Hardeep for £1,000; £100 of these goods are defective and
+    George returns them to Hardeep.
+    Requirement
+    What document would Hardeep issue to George in respect of the returned goods?
+    A    Invoice
+    B    Remittance advice
+    C    Credit note
+    D    Delivery note
+                                                                                                    LO 1c
+
+
+8   River downloads their bank transaction report for the day. The report shows a cash payment of £412
+    which the computerised accounting system has not been able to match to a transaction.
+    Requirement
+    The unmatched payment is most likely the result of:
+    A    the purchase of a new laptop for £412
+    B    payment to a regular credit supplier for an invoice totalling £412
+    C    a receipt from a credit customer in respect of an invoice for £450 on which a prompt payment
+         discount of £38 was taken
+
+
+
+    12    Accounting                                                                         ICAEW 2024
+    D   the payment of net wages of £412 which is consistent with the payroll ledger
+                                                                                                        LO 1c
+
+
+9   A business has the following payroll costs for a month:
+
+                                                                                                           £
+     Gross pay                                                                                   112,450
+     Income tax deducted                                                                           15,800
+     Employees’ national insurance                                                                  9,810
+     Employer’s national insurance                                                                 11,200
+
+    Requirement
+    What is the net amount paid to employees for the month?
+    A   £75,640
+    B   £91,440
+    C   £102,640
+    D   £86,840
+                                                                                                 LO 1c, 1d
+
+
+10 The petty cash ﬂoat in a business has an imprest amount of £200. At the end of March, vouchers in
+   the petty cash box totalled £136 and the amount of cash remaining in the box was £54.
+    Requirement
+    Which of the following explains the difference?
+    A   A petty cash voucher for £10 is missing.
+    B   An employee was given £10 too little when making a petty cash claim.
+    C   Two vouchers totalling £10 were prepared in error in respect of postage stamps purchased.
+    D   A voucher for £10 was put in the box but no payment was made to the employee.
+                                                                                                        LO 1c
+
+
+11 A business has the following payroll costs for a month:
+
+                                                                                                           £
+     Gross pay                                                                                     38,600
+     PAYE                                                                                           5,400
+     Employees’ national insurance                                                                  3,100
+     Employer’s national insurance                                                                  3,500
+
+    Requirement
+    What is the wages cost to the business for the month?
+    A   £38,600
+    B   £42,100
+    C   £47,100
+    D   £50,600
+                                                                                                 LO 1c, 1d
+
+
+
+
+    ICAEW 2024                                                     3: Recording ﬁnancial transactions      13
+12 Which two of the following are source documents that contain information that will be entered into a
+   business’s accounting system?
+    A    Goods received note
+    B    Invoice to a customer
+    C    Purchase order to a supplier
+    D    Cheque payment to a supplier
+    E    Delivery note to a customer
+                                                                                                 LO 1c
+
+
+
+
+    14    Accounting                                                                        ICAEW 2024

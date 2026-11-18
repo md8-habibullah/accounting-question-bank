@@ -1,0 +1,33 @@
+inventory,thedoubleentryis:
+Currentassets-inventony
+CREDIT   Cost of sales
+The closing inventoryreducescostofsales(as itrepresents amountsthathavenotbeen sold in
+theperiod).Thedebit balance on theclosing inventory accountrepresents acurrentasset in
+thestatementoffinancialposition.
+Thebalance on thecostof sales ledgeraccountshouldthen betransferredto thestatementof
+profit or loss as a component ofthe profit calculation at the end of the period.
+Worked example:Accounting for inventories
+AbusinesshasopeningcapitalofCU2,ooo,representedentirelybyinventory.Duringthefirst
+year'strading,when theownertooknodrawings,thefollowing transactions occurred.
+CU
+Purchasesofgoods forresale,oncredit   4,300
+Paymentsfortrade payables   3,600
+Sales,allon credit   8,000
+Receiptsfromtradereceivables   3,200
+Non-currentassets purchasedforcash   1,500
+Otherexpenses,allpaidincah   900
+All'otherexpenses relatetothecurrentyear.Closing iriventoryis valued at CU1,B00.
+Requirements
+1Preparetheledgeraccounts,includinga.costofsales ledgeraccount,forthe12-month
+reportingperiod.
+2Prepare a statement of profitorloss and a statement offinancial position as atthe end of
+thereporting period.
+Solution
+CASHATBANKACCOUNT
+CU
+Trade receivables   3,200   Trade payables   3,600
+Balancecld   2,800   Non-currentassets   1,500
+Otherexpenses   006
+6.000   6.000
+Balance b/d   2,800
+218   Accounting   ICAB2026

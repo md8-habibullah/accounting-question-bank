@@ -1,0 +1,34 @@
+MOTORVEHICLES-ACCUMULATEDDEPRECIATION
+Date   CU   Date   CU
+28Feb20x7 Statementof
+28Feb20X7Balancec/d   4,500   profitor loss   4,500
+1Mar20X7Balanceb/d   4,500
+Date   CU   Date
+Statementof
+28Feb20X8   profitor loss
+28Feb20X8Balancec/d   13,875   (6,000+3,375)   9,375
+13,875   13,875
+1Mar20X8   Balance b/d   13,875   CHAPTER
+1 STATEMENTOFFINANCIALPOSITION(WORKINGS)ASAT28FEBRUARY20X8
+Jamie's car   Jordan's.car   Total
+CU   CU   CU   CU
+Assetatcost   20,000   15,500   35,500   10
+Accumulated
+depreciation
+Yearto28Feb20X7   4.500
+Yearto28Feb20X8   6,000   3.375
+(10,500)   (3375)   (13,875)
+Carrying amount   9,500   12,125   21,625
+4.2   Adjusting the initial trial balancefordepreciation
+Because the final depreciation calculation is often accounted forafterthe initialtrial balance
+has been extracted,the onlyfigure foraccumulateddepreciationon the initial trialbalance is
+the onefor the balance brought forward.We need to calculate depreciation forthe current
+periodand adjust the initial trial balanceto take account of thedepreciation chargeto
+calculatethefinal trialbalance.
+Calculate the amount ofdepreciation to be charged.
+Preparethe year-end journaltorecorddepreciation expense(and impairmentloss if
+relevant).
+Enterthe journal in theadjustments columns.
+Adjust the initial trial balanceto take account of theadjustments and prepare the financial
+statements,
+ICAB2026   Non-cutrentassets,depreciation and impairment   329

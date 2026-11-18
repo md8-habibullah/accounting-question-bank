@@ -1,0 +1,41 @@
+businessplanstoreplacethe carafterfiveyears,itsuseful lifetothebusinessis.onlyfiveyears.
+The exceptiontohavinga useful life isfreeholdland,althoughthistoo can be exhausted if itis
+usedbyextractiveindustries (eg,mining).
+The financial statements ofa businessreflect that the cost ofa non-current asset is gradually
+consumed as the asset is used over its useful life.This is donebygradually'writing off the
+asset'scostin thestatementofprofitorloss overseveralreportingperiods.Forexample,inthe
+caseofamachinecosting CU1,000andexpectedtowearoutafter10years,it isappropriate
+to reducethe value in the statement offinancial positionby CU100 each year.This process is
+known asdepreciation.
+Ifa statementof financial position were drawn upfouryears afterthe assetwas purchased,the
+amount ofdepreciation accumulated over fouryears wouldbe 4×CU100=CU400.The
+machine would then appear in the statement of financial position as follows:
+Machineat original cost   1,000
+Less accumulated depreciation   (400)
+CHAPTER
+Carying amount'   600
+"ie,thevalueoftheasset inthefinancial accounts,netofaccumulateddepreciation,After10
+years the asset would be fully depreciated and would appear in the statement of financial
+position with a carrying amountof zero.
+The amount that is written off over time does not have to be the full cost of the asset if it is
+expected to havea resale-or'residual-value atthe end ofits useful life.
+Professional skills focus:Applying judgement
+Determining the useful lifeand residual value of non-current assets is a matter of judgement
+foraccountants.It isimportantto notethata longeruseful lifeand higher residual valuewill
+increaseabusiness'profits andnetassets,whichwill maketheperformanceandposition of
+the business appearfavourable.However,recall what we said about trueand fair view.The
+accountant must select the useful life and residual value that most accurately reflects howthe
+asset will be used and what it will be worth at the end of its life.
+Interactivequestion3:Residual value
+Supposea businessbuysa carforCU10,000,Itexpectstokeepthecarforthreeyearsand
+then to sell it for CU3,400.
+Requirement
+Whatamountofdepreciation should beaccountedfor in each yearofthecar'suseful life?See
+Answerattheendofthischapter.
+Weshall studynon-currentassets indetail in Chapter10.
+4.23   Current assets
+Currentassets take one of the following forms.
+Items owned by the business withthe intention ofturningthem into cash in a short time,
+usuallywithin oneyear(seetheworkedexamplebelow).
+Cash,includingmoney in thebank,ownedbythebusiness,
+ICAB2026   The accountingequation   61

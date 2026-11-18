@@ -1,0 +1,37 @@
+6Correct answerts):
+BCU586credit
+CASHATBANKACCOUNT
+CU   CU
+Interest   34   Balanceb/d Expenses   380
+240
+Balancec/d   586
+620
+620
+Note:Note thatthe paymentforCU5ohas alreadybeen included in the nominal ledger
+accounts and is nowbeing presented to the bank.Itdoes notrequireto beincluded in the
+cashatbankaccount again.
+7 Correctanswer(s):
+CCU600DR   CHAPTER
+CASHATBANKACCOUNT
+CU   CU
+Balancebld   150
+Transferfromsavingsa/c   500   Charges   36
+Balance cld   314
+500   500
+Balancepercashatbankaccount   314
+Add payments whichhavenot yet clearedthe bank   116
+Less receipts whichhave not yetcleared thebank   (630)
+Less error bybank   (400)
+Balanceperbankstatement   (600)
+*Onthebank statementadebit is apaymentoutoftheaccount.
+Anegative (overdrawn)balance is presented in thebank statementasaDebit balance.
+Correctanswer(s):
+CCU1.897DR
+Balanceperbankstatementold   (1.019)
+Payments which have not yet cleared the bank   (2.467)
+(3.486)
+Receipts whichhave notyetcleared thebank   4986
+1,500
+Bankerror   397
+Debit balancepercashatbankaccount   1.897
+ICAB2026   Errorsandcorrectianstoaccountingrecordsandfinancialstatements   201

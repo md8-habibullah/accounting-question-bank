@@ -1,0 +1,37 @@
+prepare the initial trial balance to check accuracy
+prepare and process journais in respect of anyadjustments tocreate thefinal trial
+balance
+setupproforma statementof profitorlossanduse incomeand expensebalances in
+final trialbalanceto preparethestatement of profit orloss and calculate the
+profit/(loss)for.theperiod
+setupproforma statementoffinancial position and use assets, liabilitiesand capital
+balances in the final trial balanceto preparethe statementof financial position
+transfertheprofit orloss and drawings balance to capital account
+5.1   Preparingfinancial statements
+Wecan nowwork througha full example ofpreparing a setofbasicfinancial statements.This
+isthemostimportantexample intheWorkbook sofar.itcovers all theaccounting steps from
+recordingtransactions inthe nominal ledgeraccounts to preparing the statementofprofit or
+lossand statementoffinancial position.Youmusttrythis exampleyourself first,before
+carefully followingthrough the solution.
+Worked example:Preparingfinancial statements
+Abusiness is establishedwithcapital of CU2,000 paidbytheownerintoabusinessbank
+account,whichhasanoverdraftfacility.Duringthefirstyear'strading,thefollowing
+transactions occurred:
+CU
+Purchasesofgoodsforresale,on credit   4,300
+Payments to credit suppliers   3,600
+Sales, all on credit   5,800
+Receipts from credit.customers   3,200
+Non-current assets purchasedfor cash   1,500
+Otherexpenses,all paid incash   006
+Requirement
+Preparenominal ledgeraccounts,a statement of profitorlossforthe yearanda statementof
+financialpositionasattheend oftheyear.
+Solution
+The firstthing to do is to open ledger accounts.The accounts needed are:cash at bank,
+capital;tradepayables,purchases,non-currentassets;sales,tradereceivables;other
+expenses.
+Thenextstep istoperform thedoubleentrybookkeepingforeachtransaction.Normallyyou
+wouldwritethem straight into theaccounts,butto makethis example easiertofollow,theyare
+listedbelow.
+156   Accounting   ICAB2026

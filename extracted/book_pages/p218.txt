@@ -1,0 +1,35 @@
+IAS2,Inventories
+Section overview
+IAs2prescribestheaccountingtreatmentforinventories.
+Inventoriesareassetsthatare:
+held farsale intheordinarycourseof business;
+intheprocessofproductionforsuchsale;or
+in.theform ofmatenials orsuppliestobeconsumed intheproductionprocess ar inthe
+renderingof services.
+1.1   Objective
+The objective ofIAs2,Inventories is to prescribe the accountingtreatmentfor inventories.In
+particular it provides guidance on the determination of cost and its subsequent recognition as
+an expense,including any write-down to netrealisable value,
+1.2   Inventories
+Definition
+Inventories:Assets:
+held for sale in the ordinary course of business;
+intheprocessofproductionforsuchsale;or
+in theformofmaterials or suppliestobe consumed intheproduction process orin the
+rendering ofservices.
+Inventoriescaninclude:
+goods purchased and heldforresale
+finished goods
+work in progress (part completed goods)
+rawmaterialsawaitinguse
+Cost of sales
+Section overview
+Costofsales comprises:
+CU
+Openinginventory
+Addcostofpurchases(or,foramanufacturing
+company,thecostofproduction)
+Delivery inwards
+Closing inventory
+Costof sales
+203   Accounting   ICAB2026

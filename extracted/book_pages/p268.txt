@@ -1,0 +1,30 @@
+Requirements
+What accounting entries shouldAlexmake on31December20X2and what is the
+carrying amountof trade receivablesforinclusion in the statementoffinancial position as
+atthatdate?
+2Whataccountingentries shouldAlexmakeon31December20X3and what is the
+carrying amount oftrade receivables for inclusion in the statements of financial positionas
+atthatdate?
+Solution
+At31December20x2
+Alexwillmakethefollowingentries:
+DEBIT   Irrecoverabledebtsexpense(CU28,000×1%)   CU280
+CREDIT   Allowanceforreceivables   CU280
+Inthestatementoffinancialposition,tradereceivableswillbeshownnet.oftheallowancefor
+receivablestogivea carryingamountasfollows:
+27,720
+Tradereceivables(28,000-280)
+2At31December20X3
+Followingtheproceduredescribedabove:
+ALLOWANCEFORRECEIVABLES
+CU   CU
+Balancec/d (CU40.000×5%)   2,000   Balance b/d   280
+Irrecoverabledebts expense   1,720
+2.000   2,000
+So,on calculatingthe iecoverabledebts expense,Alex willmakethefollowing entries:
+DEBIT   Irrecoverabledebtsexpense   CU1.720
+CREDIT   Allowanceforreceivables   CU1,720
+Inthestatementoffinancialposition,tradereceivables willbeshownasfollows:
+CU
+Tradereceivables(40,000-2,000)   38.000
+258   Accounting   ICAB2026

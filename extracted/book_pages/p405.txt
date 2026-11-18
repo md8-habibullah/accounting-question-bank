@@ -1,0 +1,32 @@
+Answers to Interactive questions
+AnswertoInteractivequestion1
+Thetotal raisedontheissueofsharesis2.000,000×0.50-1,000,000.
+CU'00Os   CU'000S
+Cash   1.000
+CREDIT   Sharecapital   1,000
+AnswertoInteractivequestion2
+Thetotal dividend paidduring the year is CU30,000 (W)
+WORKING
+Dividendpaid
+RETAINEDEARNINGS
+CU
+Dividendpaid (bal. fig.)   30.000   B/fwd   800,000
+C/fwd   1,140.000   Profit forthe year   370,000
+1170.000   1.170,000
+CHAPTER
+AnswertoInteractivequestion3
+Thereare30millionsharesof20pin issue (CU6million/20ppershare).A1for3rights issue
+involvesanissueof30million/310millionsharesatCU1.80,toraisecashofCU18million.
+Theissuedsharecapitalgoesupby10millionsharesat20peach,CU2million.Theshare
+premiumontheissueisCU1.80-20p=CU1.60pershare,orCU16millionintotal.
+CU'000
+ASSETS
+Non-currentassets   18,600
+Currentassets(2.9m+18m)(a)   20.90Q
+Totalassets   39.500
+EQUITYANDLIABILITIES
+Equity
+Sharecapital:equitysharesof20peach(6m/3)+6m)(b)   8,000
+Sharepremium(6m/(0.2×3)×CU1.60)+5.7m)(c)   21.700
+Retained earnings   Z000
+ICAB2026   Companyfinancial statements   395

@@ -1,0 +1,35 @@
+(c)
+CU   CU
+Non-current assets   4,000
+Current assets
+Trade receivables   3.010
+Cashatbank   10.385
+13.395
+Total assets   17395
+Capltaland llabllities
+Openingcapital   400
+Profit foryear   10.805
+Drawings   (1,250)
+CU
+Closing capital   9.955
+Non-currentliabilities
+Bank loan   5,000
+Current liabilities
+Tradepayables   2,440
+Totalcapitalandliabllities   17.395
+We can nowtransferdrawings and the profit fram the statement of profitorloss to the capital
+account as shownbelow.Thisyear's carried down capital becomes nextyear's broughtdown
+capital.
+There will bea credit tothe capital account asthere is a profitforthe year.lf there was a loss this
+would be a debit entry.
+DRAWINGS
+31.12.X1   Cashatbank   1,250   31.12.X1   Capital   1,250
+1,250   1,250
+CAPITAL
+Cashatbank
+31.12.X1   Drawings   1,250   1.1.X1   account   400
+Profit (statement
+31.12.X1   9,955   31.12.X1   ofprofitorloss)   10,805
+11,205   11,205
+31.12.X1   b/d   9,955
+170   Accounting   ICAB2026

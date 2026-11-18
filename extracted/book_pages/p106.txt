@@ -1,0 +1,35 @@
+4.1   What is the payroll used for?
+Definition
+Payroll: The record of wages and salaries costs,
+Thepayroll records all the individualamountsthatappearonemployees'payslips,namely:
+grosspay.toemployees:
+incometax
+:employee'spension.contributions
+netpay(cashpaidtoemployees)
+additional costsforthe employer:
+employer'spensioncontributions
+Gross pay isnot the amount paid to theemployee.Theemployer needs tomakedeductionis
+fromgrosspaybeforepayingnetpaytotheemployee,
+Thepayrollis:a.source documentas itcontains information that is entered into theaccounting
+system.
+Contextexample:Payroll
+SunnyClimesLrd employsthreepeople:Anjaearns CU36,000a year:MarkearnsCU33,000a
+follows:
+CU
+Anja   3,000
+Mark   2,750
+Dipak   2,500
+However, these are notthe amounits that each employeewill receive,Sunny Climes Ltd firstof
+all hastodeduct incometax fromgross payunderthewithholdingtax ruletobe paidto
+CommissionerofTaxes.Asitrunsapension scheme,ithastodeducteach.employee's
+pensioncontribution,tobepaid tothe pension plan
+Deductions
+Withholdingtax   Pension   Netpay   Gross pay
+CU   CU   CU   CU
+Anja   550   150   2,300   3,000
+Mark   500   135   2,115   2,750
+Dipak   460   125   1915   2.500
+1510   410   6330   8.250
+Deductions+Netpay=Grosspay
+The employees will receive the net pay.
+96   Accounting   ICAB2026

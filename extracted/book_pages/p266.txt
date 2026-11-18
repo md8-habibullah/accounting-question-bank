@@ -1,0 +1,34 @@
+Carrying amountof tradereceivables in the statement of financial position
+Asat31.12.20x1   Asat31.12.20X2Asat31.12.20x3
+CU   CU
+Totalvalueofreceivables   40,000   50,000   30,000
+Lessallowanceforreceivables   (1,000)   (1.250)   (800)
+Carryingamount in the
+statementoffinancialposition   39,000   48.750   29.200
+Accountingforirrecoverabledebtsandthe
+Sectionoverview
+allowanceforreceivables
+The irrecoverable debts expense account will be debited with debts written off and with
+increases intheallowanceforreceivables.Itwillbecreditedwithamounts receivedin
+respectofdebtspreviouslywritten off,and withreductions in theallowancefor
+receivables.
+Thetradereceivables account is onlyaffected when an irrecoverabledebtiswritten off.It
+isunaffected byaccountingentries relatedtotheallowanceforreceivables.
+3.1   Irrecoverabledebtswrittenoff:ledgeraccountingentries
+Torecap:
+When it is decided thata particular debt will not be paid,thedebt is no longer calleda
+receivable,and becomesanirrecoverabledebt.
+DEBIT   Irrecoverabledebts expense   CUX
+CREDIT   Trade receivables   CUX
+Inthereceivables ledger,thepersonal accountofthe customerwhosedebt is
+irrecoverable willalso be adjusted toremove thebalancethat is not expected to be
+recovered.Ina computerisedaccounting system,when adebtis writtenoff,thetrade
+receivablesbalanceand thecustomer'spersonal account in the receivables ledgerwillbe
+updated simultaneously.
+Attheend of thereporting period,thebalance on the irrecoverabledebts expense
+account is transferredto thestatement of profit orloss (likeall otherexpense accounts).
+Wherean irrecoverabledebtis subsequentlyrecovered,the accounting entries will be as
+follows:
+Cashatbank   CUX
+CREDIT   lrrecoverabledebts expense   CUX
+256   Accounting   ICAB2026

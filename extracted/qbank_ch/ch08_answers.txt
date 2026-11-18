@@ -1,0 +1,292 @@
+    Chapter 8: Irrecoverable debts and
+    allowance for receivables
+1   Correct answer(s):
+    B     £1,500 debit
+    £6,000 write off less decrease in allowance of £4,500 is net debit of £1,500.
+
+
+2   Correct answer(s):
+    A     £1,541
+    1,300 + 2,150 – (8,540 – 6,631) = £1,541
+
+
+3   Correct answer(s):
+    B     False
+    The reduction in the allowance for receivables will decrease the irrecoverable debts expense. This is
+    not part of gross proﬁt and therefore has no effect.
+    Correct answer(s):
+    C     True
+    The reduction in the allowance for receivables will decrease the irrecoverable debts expense which
+    will in turn increase net proﬁt.
+
+
+4   Correct answer(s):
+    C     £46,750
+
+                                                                                                             £
+        Balance before adjustments                                                                     50,000
+        Less irrecoverable debt written off                                                            (3,250)
+                                                                                                       46,750
+
+    Adjustment (2) will be to the allowance, not to receivables; adjustment (3) affects irrecoverable
+    debts.
+
+
+5   Correct answer(s):
+    D     £32,500
+    (28,500 + (42,000 – 38,000)) = £32,500
+
+
+6   Correct answer(s):
+    D     credit £1,005
+
+
+                                                                                                             £
+        Required allowance                                                                                  495
+        b/f allowance                                                                                   1,000
+        Reduction (credit)                                                                                  505
+
+
+
+
+    ICAEW 2024                                       8: Irrecoverable debts and allowance for receivables    191
+                                                                                                   £
+     Bad debt recovered (credit)                                                                500
+                                                                                               1,005
+
+
+
+7   Correct answer(s):
+    C     £1,120 credit
+                                          IRRECOVERABLE DEBTS EXPENSE
+
+                                                     £                                            £
+                                                          Decrease in allowance (1,000 –
+        Write off                                  280      100)                                900
+        Statement of proﬁt or loss (bal ﬁg)       1,120   Cash                                  500
+                                                  1,400                                       1,400
+
+
+
+8   Correct answer(s):
+    D     £24,200
+
+                                                                                                   £
+        Closing allowance required                                                            36,200
+        Opening allowance                                                                     50,000
+        Decrease in allowance                                                                (13,800)
+        Irrecoverable debts written off                                                       38,000
+        Irrecoverable debts expense                                                           24,200
+
+
+
+9   Correct answer(s):
+    A     £12,600
+
+                                                                                                   £
+     Irrecoverable debts written off                                                          14,600
+     Reduction in allowance (18,000 – 16,000)                                                 (2,000)
+                                                                                              12,600
+
+
+
+10 Correct answer(s):
+    C     £32,125
+                                                  RECEIVABLES
+
+                                                     £                                            £
+        B/d balances                             31,475   Cash at bank                      122,500
+        Sales                                   125,000   Sales (Discounts)                     550
+                                                          Credit note                         1,300
+                                                ––––––    C/d                                32,125
+
+
+
+
+    192     Accounting                                                                     ICAEW 2024
+                                                    £                                                        £
+                                             156,475                                                156,475
+
+
+
+11 Correct answer(s):
+    A     Debit: Irrecoverable debts expense £3,315; Credit: Allowance for receivables £2,515
+    The correct journal entry to record the adjustments is:
+
+     DEBIT                               Irrecoverable debts expense (SPL)           £3,315
+     CREDIT                                      Allowance for receivables                            £2,515
+     CREDIT                                              Trade receivables                                 £800
+
+    Only the increase in the allowance for receivables of £2,515 should be recorded.
+
+
+12 Correct answer(s):
+    C     £287,750
+                                            TRADE RECEIVABLES
+
+                                                    £                                                        £
+        Opening balance                      284,680     Cash at bank                               179,790
+        Credit sales                         194,040     Discounts given to customers)                3,660
+                                                         Irrecoverable debts expense                  1,800
+                                                         Irrecoverable debts expense                  4,920
+                                                         Trade payables                                    800
+                                            –––––––      Closing balance                            287,750
+                                             478,720                                                478,720
+
+
+
+13 Correct answer(s):
+    B     £22,000
+
+                                                                                                             £
+     Allowance for receivables                                                                        24,000
+     Previous allowance                                                                              (39,000)
+     Reduction                                                                                       (15,000)
+     Debts written off                                                                                37,000
+     Irrecoverable debts expense                                                                      22,000
+
+
+
+14 Correct answer(s):
+    B     £31,500
+
+                                                                                                             £
+     Allowance required                                                                               21,500
+
+     Existing allowance                                                                              (18,000)
+
+
+
+    ICAEW 2024                                      8: Irrecoverable debts and allowance for receivables     193
+                                                                                                           £
+     Increase required                                                                               3,500
+     Irrecoverable debts written off                                                                28,000
+     Irrecoverable debts expense (28,000 + 3,500)                                                   31,500
+
+
+
+15 Correct answer(s):
+    B     Receivables: £766,000; Allowance for receivables: £60,000; Net balance: £706,000
+    Trade receivables
+    = £838,000 – £72,000
+    = £766,000
+    Allowance for receivables is increased by £12,000 to £60,000.
+
+
+16 Correct answer(s):
+    D     Debit Allowance for receivables £100, Debit Suspense £350, Credit Irrecoverable debts expense
+          £450
+    Issue 1: Unmatched transactions are posted to the suspense account. To remove the suspense
+    account and correctly post the cash received the double entry is Debit Suspense account £350,
+    Credit Irrecoverable debts expense £350.
+    Issue 2: To decrease the allowance to £800, the double entry is: Debit Allowance for receivables
+    £100, Credit Irrecoverable debts expense £100.
+    Combining these journals:
+
+     DEBIT                                       Allowance for receivables (2)         £100
+     DEBIT                                               Suspense account (1)          £350
+     CREDIT                     Irrecoverable debts expense (350(1) + 100(2))                            £450
+
+
+
+17 Correct answer(s):
+    D     Net proﬁt increases by £300
+    The allowance for receivables is deducted from the receivables balance within current assets. A
+    reduction in the allowance will therefore increase current assets. It does not affect liabilities.
+    A reduction in the allowance for receivables will also in turn reduce the irrecoverable debts expense.
+    This has no impact on gross proﬁt but does increase net proﬁt.
+
+
+18 Correct answer(s):
+    B     Debit: Irrecoverable debts expense £7,550; Debit: Allowance for receivables £5,450; Credit:
+          Trade receivables £13,000
+
+     DEBIT                                   Irrecoverable debts expense              7,550
+     DEBIT                                      Allowance for receivables             5,450
+     CREDIT                                              Trade receivables                          13,000
+
+                                                                                                           £
+     Allowance required                                                                             42,550
+     Existing allowance                                                                            (48,000)
+
+
+
+
+    194    Accounting                                                                           ICAEW 2024
+                                                                                                            £
+    Reduction in allowance                                                                            (5,450)
+    Irrecoverable debts written off                                                                   13,000
+    Statement of proﬁt or loss charge                                                                  7,550
+
+    Option A is incorrect as it does not remove the irrecoverable debt from receivables and has recorded
+    an increase in the allowance for receivables instead of a decrease. Option C in incorrect as it does
+    not remove the irrecoverable debt from receivables, crediting the amount to the allowance instead.
+    Option D is incorrect as it records the full amount of the new allowance as a credit entry rather than
+    just recording the decrease in the allowance for the current year.
+
+
+19 Correct answer(s):
+    A     £417,145
+    The net trade receivables balance is after writing off the irrecoverable debt and the allowance
+    required at the year end.
+    £441,500 – 2,400 – 21,955
+
+
+20 Correct answer(s):
+    D     £100 credit
+    The amount received that was previously written off (£3,000) and the decrease in the allowance for
+    receivables (£700) will both be credited to the statement of proﬁt or loss. The amount written off
+    (£3,600) will be a debit.
+
+
+21 Correct answer(s):
+    D     Allowance for receivables of £850 and a charge in respect of irrecoverable debts of £10,730
+    An allowance for receivables of £850, which is an increase of £350. This is added to the charge to
+    proﬁt or loss in respect of the amount written off of £10,380.
+
+
+22 Correct answer(s):
+    B     £241,480
+    The net trade receivables shown in the statement of proﬁt or loss is after deducting the allowance for
+    receivables of £8,420 and the write-off of £1,860.
+
+
+23 Correct answer(s):
+    D     Debit Suspense £58, Debit Irrecoverable debts expense £9, Debit Allowance for receivables
+          £25, Credit Cash at bank £92
+    For (3), the entry made was Debit Cash £58, Credit Suspense £58; the suspense account entry must
+    be reversed to the credit of the irrecoverable debts expense account.
+                                                 SUSPENSE
+
+                                                    £                                                      £
+        Irrecoverable debts expense (3)            58    b/d                                               58
+                                                   58                                                      58
+
+
+
+
+    ICAEW 2024                                      8: Irrecoverable debts and allowance for receivables   195
+                                   ALLOWANCE FOR RECEIVABLES
+
+                                                £                                                  £
+ Irrecoverable debts expense (2)
+     (bal ﬁg)                                  25    b/d                                         500
+ c/d                                         475                                               ––––
+                                             500                                                 500
+
+                                 IRRECOVERABLE DEBTS EXPENSE
+
+                                                £                                                  £
+ Cash at bank (1)                              92    Allowance for receivables (2)                25
+                                                     Suspense (3)                                 58
+
+The net debit to the irrecoverable debt expense account is therefore (92 – 25 – 58) = £9.
+                                           CASH AT BANK
+
+                                                £                                                  £
+                                                     Irrecoverable debts expense (1)              92
+
+
+
+
+196    Accounting                                                                           ICAEW 2024

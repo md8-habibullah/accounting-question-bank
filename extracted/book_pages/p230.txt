@@ -1,0 +1,30 @@
+INVENTORY
+CU
+Capital   2,000   Costof sales(opening
+Inventory)   2,000
+Costofsales (closinginventory)   1,800   Balance c/d (closing inventory)   1:800
+3,800   3.800
+Balancebld   1,800
+COSTOFSALES
+CU
+Inventory(openinginventory)   2,000   Inventory(closing   1,800
+inventory)
+Purchases   4,300   Staternentofprofitor   4,500
+loss
+6.300   6.300
+2Statementofprofitorloss
+Revenue   8,000
+Costof sales   (4,500)
+Grossprofit   3,500
+Expenses
+Otherexpenses   (900)
+Profit forthe year   2.600
+Statementof financial position asatthe end oftheperiod
+ASSETS
+Non-currentassets   1,500
+Currentassets
+Inventory   1,800
+Trade'receivables   4.800
+6.600
+Total assets   8,100
+220   Accounting   ICAB2026

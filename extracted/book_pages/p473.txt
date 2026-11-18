@@ -1,0 +1,19 @@
+Summary
+CHAPTER
+Statementof cashflows
+This shows an entity's abilityto generate
+cashandcashequivalents
+13
+Cashand cash equivalents
+Cashcomprisescashonhandand
+demand deposits
+Cashequivalentsareshort-term,highly
+liquid investments thatare readily
+convertibletoknown amounts of cash
+andwhicharesubjecttoaninsignificant
+riskof changesinvalue
+IAS7requires cashflowstobectassified
+asfollows
+Operating activities   Investingactivities   Financing activities
+Directmethod   Indirectmethod
+ICAB2026   Statement.ofcashflows   463

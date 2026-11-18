@@ -1,0 +1,31 @@
+AnswerstoSelf-testquestions
+1Correctanswer(s):
+BFalse
+This isadescriptionof real-time processing
+2Correctanswer(s):
+BFalse
+Thesalesinvoiceisrecordedintheaccountingsystem.
+3Correctanswer(s):
+BAcreditnote
+An invoice (A)is received inrespectoftheoriginal purchase,aftera purchaseorder(C)has
+been placed anda goods receivednote(D)has been created in respectof thedeliveryof
+goods.
+4Correctanswer(s):
+ASuppliers'invoices and creditnotes
+Suppliers invoices and credit notes are source documents for credit purchases:Customer
+invoices and credit notes (B)relate to creditsales.Deliverynotes andgoods received
+notes(CandD)arenotsourcedocuments.
+5 Correctanswer(s):
+CAcreditnote
+Acredit note should beissued by the supplier when itdiscovers it has overcharged its
+customer.
+Correctanswer(s):
+BAreceiptfroma customerwhohadpurchasedgoods on credit
+The incomemustbeareceipt of cashfromthecustomer. The other options areall
+payments out of thebankaccount.
+7 Correctanswer(s):
+CWages and salaries cost
+Thecost of employer's NI contributions is added to gross pay (B) (which includes net pay
+(A)) to form the gross wages and salaries cost Payroll taxes are not included in the
+company'sincometaxcharge(D)
+102   Accounting   ICAB2026

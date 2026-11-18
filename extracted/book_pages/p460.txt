@@ -1,0 +1,35 @@
+cash receipts from salesofequity or debtofother entities
+interestreceived
+dividends received
+2.7   Cashreceiptsfromsales ofproperty.plantandequipment
+AT-accountcanbeusedforcalculatingthecashrceiptsfomsalesofpropertyplantand
+equipment(PPE).The company's accounts.will includetheamountofanyprofit orlosson
+disposal.Anoteto theaccounts on non-current assets will show the cost and theaccumulated
+depreciationforproperty.plantandequipmentdisposedofduringtheyear,Thecash
+receivedfromthesale isthebalancingfigurein theT-account.
+PROPERTY,PLANTANDEQUIPMENT-DISPOSALACCOUNT
+CU
+Cost/valuationofassetdisposed
+of   Accumulateddepreciation
+Profit on disposal   Loss on disposal
+Cashreceived (balancingfigure)
+Worked example:Cash receipts from sale of PPE
+Acompany's statement of financial position as at the beginningandthe end of the year
+showed the following:
+Property.plantandequipment
+Cost
+At1January20x7   760,000
+Disposals   (240.000)
+At31December20x7   520,000
+Depreciation
+At1January20X7   270.000
+Disposals   (180,000)
+Charge for year   50,000
+At31December20x7   140.000
+Carrying amount
+At31December20x7   380,000
+At31December20X6   490.000
+Requirement
+Theproperty.plantandequipmentwasdisposedofon31December20x7ata loss of
+CU7,ooo.Calculate the cashreceived on disposal ofthe property.plantand equipment
+50   Accounting   ICAB2026

@@ -1,0 +1,37 @@
+Formatple
+Statementofprofitorlossfortheyearended31December20X2
+CU'000
+Revenue   9,500
+Costof sales (Wt)   (5,455)
+Gross profit   4,045
+Otherincome   200
+Administrative expenses (W1)   (1,495)
+Distributioncosts(W1)   (891)
+Operatingprofit   1,859
+Finance costs   (60)
+Profit beforetax   1799
+Incometax   (750)
+Profit for the period   1,049
+Fomat plc
+Statementoffinancial positionas at31December20X2
+CU'000   CU"000
+ASSETS
+Non-currentassets
+Property.plantandequipment(W3)   2,820
+Developmentcosts(300-30)   270
+3.090
+Currentassets
+Inventories   2,020
+Trade and other receivables(1,805-200 allowance)   1,605
+Cash.and cashequivalents   80
+3705
+Total assets   6.795
+EQUITYANDLIABILITIES
+Equity
+Equity sharecapital:CU1equity shares   900
+Preferenceshare capital: 10% CU1shares   200
+Retained eamings (W2)   2.049
+Total equity   3,149
+Non-current liabilities
+Long-termborrowings:6%loannotes   1,000
+418   Accounting   ICAB2026

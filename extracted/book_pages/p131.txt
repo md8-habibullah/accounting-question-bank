@@ -1,0 +1,40 @@
+system.Insteadtradereceivables and tradepayables accounts arekept inthenominal ledger
+whichrecord thetotals of the receivables and payables ledgers.
+In amanual systemofaccounting,thereceivables and payables ledgers wouldbeupdated
+separatelyfromthenominal ledger.ltwasthereforepossiblethat,duetoerrors,there would
+be differences between balances in thereceivables and payables ledgers and the totals in the
+nominal ledger.
+Inacomputerisedaccountingsystem,salesandpurchaseinvoices,creditnotesandpayments
+arerecorded inthereceivablesandpayablesledgers which.willthen automaticallyupdate
+trade receivables and trade payables in the nominal ledger.The totalof the individual
+accounts inthe receivables ledgeratany point in time will be exactly equal to thetotal
+included intradereceivables,and the samewill applytotheindividualaccounts inthe
+payables ledgerandtradepayables.
+Professional skillsfocus:Assimilatingandusinginformation
+Thereceivablesandpayables ledgersareakeysource ofinformationforthepurposeof
+understanding who an entity's receivables and payables are andwhatthe balance owed from
+andtothemis.It is importantforyoutounderstand thatwhilstthese accounts hold important
+accounting information,thesearenotpartofthenominalledgersystem.
+5.2   Receivablesledger
+Abusinessmustalsokeepa recordofhowmuchmoneyeachindividual creditcustomer
+owes,and whatthistotaldebtconsists of.The need fora separate account (sometimes
+referredtoas a'personal account')foreachcustomer isapracticalone.
+Acustomermightaskhowmuchtheycurrentlyowe.Staffmustbeabletotellthem.
+Itisacommonpracticetosend outstatementstocreditcustomersattheendofeach
+month,showinghowmuchtheyowe,anditemisingnewinvoicesorcreditnotessentout
+and payments received duringthemonth.
+Thebusinessmanagerswill wantto checkthecreditpositionof individual customers,and
+to ensure that no customer is exceeding their credit limit.
+Payablesledger
+Thepayablesledgerlikethereceivablesledger,consistsofanumberofpersonalaccounts.
+These are separate accountsfor each individual supplier,and theyenable a business to keepa
+continuous.recordofhowmuchit.oweseachsupplieratanytime.AswewillseeinChapter6,
+businessesregularlyreceive statementsfromtheirsupplierswhich'showhowmuchis owedat
+a point in time.
+Accounting for discounts   CHAPTER
+Sectionoverview
+Atradediscountisapercentagediscountdeducted fromthelistprice ofgoods,owingtothe
+natureofthetradingtransaction.
+An early settlementdiscountisa discountofferedto creditcustomers/offered bycredit
+suppliers which car be taken if an invoice is paid within a required timeframe.
+ICAB2026   Ledgeraccountinganddoubleentry   121

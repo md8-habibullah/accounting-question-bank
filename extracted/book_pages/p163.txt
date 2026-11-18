@@ -1,0 +1,37 @@
+Let's considerthe process undertaken to balance offthe account:
+First,thedebits areotalledgiving CU20,500,andthenthecreditsaretotalledgiving
+CU14,000.
+Thelargertotal (CU20,500)is placed inthetotal columnson boththedebit sideand
+creditsideoftheaccount   CHAPTER
+The smallertotal (CU14,000)isthen subtractedfromthelargertotal (CU20,500),andthis
+amount(CU6,500)is insertedas abalanceon the side which hadthe smallertotal.This is
+referredtoas thebalance carried down (often just written as Balance c/d).
+The balance carried down at the end ofone reporting period becomes thebalance
+broughtdown (Balanceb/d)at the start of the following reporting period.
+3Preparingthestatementofprofitorloss
+Sectionoverview
+Topreparethestatementofprofitorloss,aproforma isfirstpreparedwiththerelevant
+income and expenses headings included.
+All the incomeand expensebalancesin the trial balance aretransferred to the pro forma.
+Thestatement ofprofitor loss is added downto calculate the profit ar loss fortheperiod.
+3.1   Howtopreparethestatementofprofitorloss
+Acomputerisedsystem.can automaticallypreparefinancialstatements.when instructedtodo
+so.However,it is important thatyou understand the steps that underliethis process.So,
+consistent with themanualapproachtakento preparingthe trial balance insection 1,we will
+also explain amanual approachto preparingthefinancial statements.
+Thefirststeptopreparingthestatementofprofitorloss isto createa proforma withallthe
+relevantincomeandexpenseaccounts.Forexample:
+Sales
+Costofsales(purchases)
+Grossprofit
+Otherincome
+Expenses   (x)
+Profit/(loss)fortheyear   X/(X)
+The income andexpensebalances in the trial balance can thenbe transferred to the pro
+forma.
+.Sales and purchases are included in calculating gross profit.
+Allotherincomeisaddedandallotherexpenses aredeductedtoarriveatprofitor lossfor
+theperiod.
+Remember.drawings are notan expense,these arepartofthe capital fortheyearand
+included as partofthe statemerit of financial position.
+ICAB2026   Preparingbasicfinancialstatements   153

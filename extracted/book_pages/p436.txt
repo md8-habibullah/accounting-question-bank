@@ -1,0 +1,43 @@
+Formatplc
+Statementofprofitorlossfortheyear ended31December20X2
+CU'000
+Revenue
+9,500
+Cost of sales
+(5,455)
+4.045
+Otherincome
+200
+Administrativeexpenses
+(1.,495)
+Disthibution costs
+(891)
+Operatingprofit/(loss)
+1,859
+Financecosts30+30(note7)
+(60)
+Profi/(loss)beforetax
+1,799
+Incometaxexpense (note5)   (750)
+Profit/(loss)foryear   1,049
+Format ple
+Statementoffinancial positionasat31December20x2
+CU'000
+Non-currentassets
+Property.plant,andequipmen
+Freehold land   2,120
+Fixtures andfittings   700
+Developmentcosts(300-30)(nate3)   270
+Currentassets
+Inventories (note1)   2,020
+Tradeandotherreceivables(1820-100-15-100)   1,605
+Cashand cashequivalents   80
+Total assets   6.795
+Equity
+Equitysharecapital (800+100)(note8)   900
+Preference share capital   200
+Retained eamings   2.049
+Non-current liabilities
+Borrowings   1,000
+Current liabilities
+426   Accounting   ICAB2026

@@ -1,0 +1,40 @@
+In Chapter5wesaw howan initial trialbalance is produced attheyear-end dateand isthen
+adjustedtoreflectinformationthatcomesto lightaftertheyearend.Onewaytoprocess the
+adjustments is by creatingdebitand creditadjustments colurmns againsttheinitialtrial
+balance.This is ausefulapproachwhenrecording correcting journaismadeatthefinal stages
+ofpreparingfinancial statements,afterthe initial trial balancehas been prepared.
+Contextexample:Errorcorrectionandthetrialbalance
+HandeextracteditsinitialtrialbalancewhichincludedasuspneaccounfU6,400Cr,
+follows:
+Ledgeraccount   InitialTrialBalance   Adjustments   FinalTrialBalance
+Debit   Credit   Debit   Credit   Debit   Credit
+CU   CU   CU
+Cashatbank   5,415
+Opening capital   10,000
+Loan   5,000
+Non-current   30,000
+assets
+Tradepayables   18,689
+Expenses   6,781
+Purchases   21,569
+Sales   38.974
+Trade   9.445
+receivables
+Suspense   6,400
+account
+Drawings   5,853
+Net profit   79.063   79.063
+Handlehasnowdiscoveredthefollowingmatters:
+(a)An amountof CU1,oo0 was credited onthebank statement intheyearandautomatically
+entered in thecashatbankaccountbythecomputerisedaccountingsystem,but itcould
+notmatch the amount toa knowntransaction and a credit entrywas madetothe suspense
+account The bookkeeper subsequentlydiscovered that theamount was a part-payment
+fromacreditcustomer.,
+(b)Anon-current asset was purchased.on credit justbeforetheyear endforCU5,400.This
+Was correctly entered in the non-currentasset account but as thebookkeeperwas unsure
+how to categorise the amountpayable,the credit entrywas posted to the suspense
+account.
+To correct these errors Handleuses thefollowing journals:
+DEBIT   Suspense   1,000
+CREDIT   Tradereceivables   1,000
+190   Accounting   ICAB2026

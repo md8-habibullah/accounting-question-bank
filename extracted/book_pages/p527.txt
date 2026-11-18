@@ -1,0 +1,30 @@
+Required
+1.Record the issuance of the BDT f0o,000note in the General Fundand the govermmental
+activitiesgeneral journals,
+2.Record the purchase of vehicles in the amount of BDT 100,000 in the GeneralFund and
+governmental activities general journals.
+3.Explain whythe accountingtreatment is different in theGeneral Fundand governmental
+activitiesgeneral joumals.
+Answer
+1.General Fund   Dr.   Cr.
+Cash   100.000
+OtherFinancing Sources-2 yearsNotepayable   100,000
+GovemmentalActivitles
+Cash   100,000
+Notespayable   100,000
+2) General Fund
+ExpendituresCapitaloutay   100.000
+Cash
+100,000
+GovernmentalActivities
+Equipment
+100,000
+Cash
+100.000
+CHAPTER
+3)General Fund is used to ensurefiscal accountability and therefore modified accrual
+method is used.n contrast,Governmentalactivities ensureoperationalaccountabilityand
+followtheaccrualmethodofaccouniting.
+15
+IntroductiontoPubllcFinancialManagement   517
+ICAB2026

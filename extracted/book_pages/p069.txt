@@ -1,0 +1,36 @@
+4.1   What is a statement of financial position?
+Thebusiness's statementoffinancial position'shows its liabilities,capital and assets ata point
+in time. It is a financial snapshot'of the position of the business at the end of the reporting
+period to which the financial statements relate,
+Astatementoffinancial position is very similartothe accountingequation.Infact,theonly
+differences between a statementof financial position andan accounting equation are:
+the manner orformat in which the liabilities and assets are presented
+theextra detail whichis usually contained in a statementof financial position
+Thedetails shown ina statement of financial position willnot be described in full inthis
+chapter.Instead we will make a start in this chapterand add moredetail in later chapters as we
+goon to lookat other ideasandmethods in accounting.
+Astatementaffinancial position isdividedintotwohalves,and ispresanted in eitherofthe
+followingways:
+capital and liabilities in one half and assets in the other (the lAS 1format that we adopt in
+this Workbook)   OHAPTER
+capital in one half and net assets in the other
+Professional skills focus:Assimilatingand usinginformation
+The statementoffinancial positionis thefirstprimaryfinancial statementwehavemet in
+Accounting.Overthe courseoftheAccountingmodule,youwilldevelopyourskillsinusing
+the informationprovidedinaquestiontopreparetheprimaryfinancial statements,including
+thestatement offinancial position.
+Definition
+Netassets: Assets less liabilities
+InthisWorkbookwewillfollowtheassets=capital +liabilitiesformatgivenbylAs1,
+PresentationofFinancial Statements.
+Nameofbusiness
+Statement of financial positionas at (date)
+CU
+Assets (itembyitem)
+Capital
+Liabilities
+Thetotal amount in one half of the statemerit of financial position equals the total amountin
+theotherhalf.Sinceeachhalf of thestatementof financial positionhas an equal arnount,one
+sidebalances the other.
+Assets, capital and liabilities areusuallyshown in somedetail in a statementof financial
+ICAB2026   Theaccountingequatian   59

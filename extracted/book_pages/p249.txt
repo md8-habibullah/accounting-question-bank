@@ -1,0 +1,30 @@
+Answers to Interactive questions
+AnswertoInteractivequestion1
+GrandUnionFoodStores
+Statementofprofitorloss (extract)fortheyearended31December20X6
+Revenue   000ce
+Opening inventories   6.000
+Add purchases   50.000
+Lessdosinginventones5   (12,500)
+Costofsales   (43,500)
+Grossprofit   36.500
+AnswertoInteractivequestion2
+Staffmember   Hourlycost (cu)   Hours incurred   Labourcost(Cu)
+Partner   100   100
+Manager   40   80
+Student accountarit   20   14   280
+Total   460
+Thedirect labourcosttobe included incostofsales iscalculatedbyapplyingthehourlycost
+tothe numberofhours incurredtothe periodend.Notethatthe hourtycostis thecost toABC
+Accountants ofthe staff members'gross salary,employersnational insurance and anycther
+employee costs.ht isnotthesameastheamountchargedtothedient,whichwillindudea
+profit element
+Answertointeractivequestion3
+CU
+DEBIT   Expenses   64.500
+CREDIT   Purchases   64,500
+Being costofdestroyed inventory
+DEBIT   Otherreceivables(64,500×60%)   38,700
+CREDIT   Otherincome   38,700
+Beinginsuranceclaim
+ICAB2026   Cost ofsales and inventories   239

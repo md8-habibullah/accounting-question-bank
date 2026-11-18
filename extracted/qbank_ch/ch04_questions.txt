@@ -1,0 +1,119 @@
+    Chapter 4: Ledger accounting and double
+    entry
+1   Blake is a VAT registered trader whose sales and purchases carry VAT at the standard rate of 20%.
+    Blake sells a customer goods on credit for £4,800 exclusive of VAT.
+    Requirement
+    What is the double entry to record this?
+    A   Debit Sales £4,800, Debit VAT £960, Credit Receivables £5,760
+    B   Debit Sales £4,000, Debit VAT £800, Credit Receivables £4,800
+    C   Debit Receivables £5,760, Credit Sales £4,800, Credit VAT £960
+    D   Debit Receivables £4,800, Credit Sales £4,000, Credit VAT £800
+                                                                                                    LO 1d, 2c
+
+
+2   What transaction is represented by the entries: Debit Rent, Credit Payables?
+    A   The receipt of rental income by the business
+    B   The issue of an invoice for rent to a tenant
+    C   The receipt of an invoice for rent payable by the business
+    D   The payment of rent by the business
+                                                                                                    LO 1d, 2d
+
+
+3   In double-entry bookkeeping, which of the following statements is true?
+    A   Credit entries decrease liabilities and increase income.
+    B   Debit entries decrease income and increase assets.
+    C   Credit entries decrease expenses and increase assets.
+    D   Debit entries decrease expenses and increase assets.
+                                                                                                           LO 1d
+
+
+4   A debit balance of £3,000 brought down on America Ltd’s account in Brazil Ltd’s accounting records
+    means that Brazil Ltd owes America Ltd £3,000.
+    A   True
+    B   False
+                                                                                                           LO 1d
+
+
+5   Crimson plc paid an invoice from a credit supplier and took advantage of the early settlement
+    discount offered. When the invoice was received and recorded, Crimson plc did not expect to take
+    the discount.
+    Requirement
+    The journal entry to record the payment of the invoice is:
+    A   Debit Payables, Credit Purchases, Credit Cash at bank account
+    B   Debit Payables, Credit Cash at bank account
+    C   Debit Cash at bank account, Debit Purchases, Credit Payables
+    D   Debit Cash at bank account, Credit Purchases, Credit Payables
+                                                                                                           LO 1d
+
+
+
+
+    ICAEW 2024                                                     4: Ledger accounting and double entry      15
+6   Winn Ltd has opening trade payables of £24,183 and closing trade payables of £34,655. Purchases
+    for the period totalled £254,192 of which £31,590 related to cash purchases.
+    Requirement
+    Total payments recorded in the payables ledger for the period were:
+    A    £212,130
+    B    £233,074
+    C    £243,720
+    D    £264,664
+                                                                                                 LO 1d, 2c
+
+
+7   What is the correct double entry to record an invoice raised to a credit customer who is not expected
+    to take advantage of an early settlement discount?
+    A    Debit Revenue, Credit Receivables
+    B    Debit Payables, Credit Revenue
+    C    Debit Receivables, Credit Revenue
+    D    Debit Revenue, Credit Payables
+                                                                                                 LO 1d, 2c
+
+
+8   Which of the following would require a debit entry in the payables account?
+    A    Output VAT
+    B    Cash purchases total
+    C    Payments made to suppliers
+    D    Early settlement discounts given to customers
+                                                                                                 LO 1d, 2c
+
+
+9   A payment has been received from a credit customer in settlement of an invoice. The customer was
+    expected to take advantage of an early settlement discount offered, however, payment was not
+    made within the required timeframe and the discount was not taken.
+    Requirement
+    The correct double entry to record the receipt of funds from the customer in full settlement of the
+    invoice is:
+    A    Debit Cash at bank, Credit Receivables, Credit Revenue
+    B    Debit Cash at bank, Debit Revenue, Credit Payables
+    C    Debit Receivables, Debit Revenue, Credit Cash at bank
+    D    Debit Receivables, Credit Revenue, Credit Cash at bank
+                                                                                                 LO 1d, 2c
+
+
+
+
+    16    Accounting                                                                           ICAEW 2024
+10 A business which is registered for VAT received the following invoice from one of its VAT registered
+   suppliers:
+    Invoice: 7035
+    Date: 20 December 20X0
+
+                                                                                                           £
+     Goods: 100 @ £10                                                                               1,000
+     Less trade discount                                                                                 (50)
+                                                                                                        950
+
+    A further discount of £50 will be allowed if payment is received within 14 days.
+    Assume the business is not expected to make the payment within 14 days and the VAT rate is 20%.
+    Requirement
+    What amount of VAT should have been charged on the invoice?
+    A   £180
+    B   £190
+    C   £200
+    D   £210
+                                                                                                        LO 1c
+
+
+
+
+    ICAEW 2024                                                  4: Ledger accounting and double entry      17

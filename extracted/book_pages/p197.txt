@@ -1,0 +1,37 @@
+Correcting errors
+Section overview
+Errorsare.correctedusingajournalentry.
+Asuspense account maybe used when a bookkeeper does notknow where to post one
+sideofan entryorwhen.thecomputerised accounting system.cannotmatchatransaction
+on abanktransactionreporttothe relevant nominal ledgeraccount.
+Suspense accounts are always temporary and should neverappear in financial statements.
+Financial statements should not be prepared until the errors have been corrected and the
+suspense account has been cleared.
+Some corrections of errors will result inadjustments to a draft profit calculated while there
+were still errors in the accounts.
+Inacomputerisedaccounitingsystem,thetotalofthedebitentries will always beequaltothe   CHAPTER
+totalof thecteditentries as thesystemwill notallowa one-sidedentryoran imbalancedentry
+tobe recorded.Thatdoesnotmean,however,thatthe accounting records are complete and
+free from error If an error is identified,it must be corrected via a journal entry.
+Context example:Correcting errors
+Abookkeeperaccidentallyposts an invoicefor CU40 tothelocalproperty taxesaccount
+asfollows:
+DEBIT   Electricityaccount   CU40
+CREDIT Localpropertytaxesaccount   CU40
+To correcta misposting of CU40fromthe local propertytaxes accountto electricityaccount.
+Oneapproachtothecorrectionoferrorsis.to:
+identifytheoriginal incorrect entry(whatdidthebusinessdo?)
+identify whatthe entryshould havebeen(whatshould the business havedone?)
+createa correcting journal entry(whatdoes.thebusiness.needtodonow?)
+Interactivequestion3:Journalentries
+Write out thejournal entries which would correct these errors!
+Requirements
+3.1Abusinessreceivedan invoiceforCU25from a supplier whichit omittedfromits
+accountingrecordsentirely.
+3.2RepairsworthCU150 wereincorrectlydebitedto the non-currentasset (machinery)
+account insteadoftherepairsaccount
+3.3 The bookkeeper ofa business reduced cash'sales by CU280 becausehe was notsure
+whatthe CU280represented.In fact, it was drawings.
+3.4Telephone expensesof CU540 were incorrectlydebitedtothe electricityaccount.See
+Answerattheendof this chapter.
+ICAB2026   Errorsand corrections toaccountingrecords and finanicial statements   187
